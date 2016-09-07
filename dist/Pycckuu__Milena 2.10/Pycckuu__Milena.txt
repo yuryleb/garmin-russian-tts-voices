@@ -1,0 +1,112 @@
+gmt v0.8.186.801b  CC BY-SA (C) 2011-2014 AP www.gmaptool.eu
+
+Input file: Pycckuu__Milena.vpm.
+
+
+File:		Pycckuu__Milena.vpm, length 20561920
+Header:   	15.04.2014 00:16:34, DSKIMG, XOR 00, V 2.10, Ms 0, 006-D4465-00
+Mapset:   	milena
+fat:		1000h - 1200h - 11000h, block 1024
+maps:		48, sub-files 48
+
+Sub-file         fat     length
+ DLLINFO  TXT   1200h      1212
+ BRKINF22 HDR   1400h      4989
+ CLM_RUR  DAT   1600h     11625
+ DPS_RUR  DAT   1800h    166009
+ DPS_MIL  DAT   1A00h     43185
+ PHM_MIL  DAT   1C00h      6668
+ PP_RUR   DAT   1E00h     10908
+ SDCT_RUR DAT   2000h   1599704
+ SN22_MIL DAT   2E00h  14462044
+ SYNM_F16 DAT   A400h     10408
+ TTN_RUR  DAT   A600h    115684
+ UDCT_RUR DAT   A800h      1699
+ US_MIL   DAT   AA00h   1880356
+ DLLIMG   BIN   BA00h   1321924
+ GRAM     VXM   C600h    605504
+ VAR      VXM   CC00h     32592
+ DFLT     DCT   CE00h       310
+ APDB_TP  DAT   D000h      1564
+ RULESET  TXT   D200h       193
+ WORDS    TXT   D400h      4820
+ PHRASES  TXT   D600h     78800
+ AU       DCT   D800h     14018
+ BR       DCT   DA00h       418
+ CA       DCT   DC00h     11073
+ CN       DCT   DE00h      1611
+ DED      DCT   E000h       499
+ DNK      DCT   E200h       228
+ ES       DCT   E400h      8649
+ FI       DCT   E600h        24
+ FR       DCT   E800h      1648
+ GB       DCT   EA00h     12544
+ GR       DCT   EC00h        24
+ ID       DCT   EE00h       332
+ IN       DCT   F000h       284
+ IT       DCT   F200h      1228
+ MY       DCT   F400h      7341
+ MX       DCT   F600h      8227
+ NL       DCT   F800h       193
+ NO       DCT   FA00h        24
+ PL       DCT   FC00h      1955
+ PT       DCT   FE00h        24
+ RU       DCT  10000h      5450
+ SE       DCT  10200h        24
+ SG       DCT  10400h      7365
+ TH       DCT  10600h       784
+ TW       DCT  10800h      5498
+ US       DCT  10A00h     12410
+ IMGEND   TST  10C00h         3
+
+Map              length s-f  CP    prio  PID   FID  name
+ DLLINFO   ?       1212  1
+ BRKINF22  ?       4989  1
+ CLM_RUR   ?      11625  1
+ DPS_RUR   ?     166009  1
+ DPS_MIL   ?      43185  1
+ PHM_MIL   ?       6668  1
+ PP_RUR    ?      10908  1
+ SDCT_RUR  ?    1599704  1
+ SN22_MIL  ?   14462044  1
+ SYNM_F16  ?      10408  1
+ TTN_RUR   ?     115684  1
+ UDCT_RUR  ?       1699  1
+ US_MIL    ?    1880356  1
+ DLLIMG    ?    1321924  1
+ GRAM      ?     605504  1
+ VAR       ?      32592  1
+ DFLT      ?        310  1
+ APDB_TP   ?       1564  1
+ RULESET   ?        193  1
+ WORDS     ?       4820  1
+ PHRASES   ?      78800  1
+ AU        ?      14018  1
+ BR        ?        418  1
+ CA        ?      11073  1
+ CN        ?       1611  1
+ DED       ?        499  1
+ DNK       ?        228  1
+ ES        ?       8649  1
+ FI        ?         24  1
+ FR        ?       1648  1
+ GB        ?      12544  1
+ GR        ?         24  1
+ ID        ?        332  1
+ IN        ?        284  1
+ IT        ?       1228  1
+ MY        ?       7341  1
+ MX        ?       8227  1
+ NL        ?        193  1
+ NO        ?         24  1
+ PL        ?       1955  1
+ PT        ?         24  1
+ RU        ?       5450  1
+ SE        ?         24  1
+ SG        ?       7365  1
+ TH        ?        784  1
+ TW        ?       5498  1
+ US        ?      12410  1
+ IMGEND    ?          3  1
+
+

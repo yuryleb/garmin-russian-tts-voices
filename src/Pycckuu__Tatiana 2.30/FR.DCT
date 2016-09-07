@@ -1,0 +1,64 @@
+r/ example / example /
+r/ N / Nord /
+r/ NE / Nor Este /
+r/ E / Este /
+r/ S / Sud /
+r/ SE / Sud Este /
+r/ O / Ouest /
+r/ NO / Nor Ouest /
+r/ SO / Sud Ouest /
+r/ HWY AUT-/ Autoroute /
+r/ HwY AuT-/ Autoroute /
+r/ HWY / Autoroute /
+r/ HwY / Autoroute /
+r/ AuT-/ Autoroute /
+r/ AuT / Autoroute /
+r/ AUT-/ Autoroute /
+r/ AUT / Autoroute /
+r/ HWY RTE-/ Autoroute /
+r/ HWY RtE-/ Autoroute /
+r/ RTE-/ Route /
+r/ RtE-/ Route /
+r/ RR-/ Route rurale /
+r/ CR-/ Route de comté /
+r/ DR-/ Route de division /
+r/ E / Este /
+r/ O / Ouest /
+r/ N / Nord /
+r/ S / Sud /
+r/ W / Ouest /
+r/ E<end_address>/ Este<end_address>/
+r/ O<end_address>/ Ouest<end_address>/
+r/ N<end_address>/ Nord<end_address>/
+r/ S<end_address>/ Sud<end_address>/
+r/NE / Nor Este /
+r/SE / Sud Este /
+r/NO / Nor Ouest /
+r/SO / Sud Ouest /
+r/NW / Nor Ouest /
+r/SW / Sud Ouest /
+r/NE<end_address>/ Nor Este<end_address>/
+r/SE<end_address>/ Sud Este<end_address>/
+r/NO<end_address>/ Nor Ouest<end_address>/
+r/SO<end_address>/ Sud Ouest<end_address>/
+r/NW<end_address>/ Nor Ouest<end_address>/
+r/SW<end_address>/ Sud Ouest<end_address>/
+r/ Ave / Avenue /
+r/ Dr / Drive /
+r/ Driv / Drive /
+r/ Drv / Drive /
+r/ Ln / Lane /
+r/ Pl / Place /
+r/ Rd / Road /
+r/ Ter / Terrace /
+r/ Terr / Terrace /
+r/<address> St. /<address> Saint /
+r/<address> St /<address> Saint /
+r/<address> st /<address> Saint /
+r/<address> ST /<address> Saint /
+r/ St. <end_address>/ Street <end_address> /
+r/ St <end_address>/ Street <end_address> /
+r/ st <end_address>/ Street <end_address> /
+r/ ST <end_address>/ Street <end_address> /
+r/Pte. /Porte /
+r/Pte /Porte /

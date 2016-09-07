@@ -1,0 +1,639 @@
+<body>
+<!-- ************************************************************** -->
+<!-- Do not attempt to speak empty names -->
+<!-- ************************************************************** -->
+	<variable>$USR_COMMA_K_NEXT_ROAD
+		<condition>m/@GRM_NEXT_ROAD/@GRM_EMPTY/</condition>
+			<entry> </entry>
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>, к $USR_NEXT_ROAD_C3</entry>
+	</variable>
+	<variable>$USR_COMMA_NA_NEXT_ROAD
+		<condition>m/@GRM_NEXT_ROAD/@GRM_EMPTY/</condition>
+			<entry> </entry>
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>, на $USR_NEXT_ROAD_C4</entry>
+	</variable>
+	<variable>$USR_PO_CUR_ROAD
+		<condition>m/@GRM_CUR_ROAD/@GRM_EMPTY/</condition>
+			<entry>по текущей дороге</entry>
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>по $USR_CUR_ROAD_C3</entry>
+	</variable>
+	<variable>$USR_DESTINATION
+		<condition>m/@GRM_DESTINATION/@GRM_EMPTY/</condition>
+			<entry> </entry>
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>, @GRM_DESTINATION</entry>
+	</variable>
+	<variable>$USR_K_NEXT_ROAD
+		<condition>m/@GRM_NEXT_ROAD/@GRM_EMPTY/</condition>
+			<entry> </entry>
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>к $USR_NEXT_ROAD_C3</entry>
+	</variable>
+	<variable>$USR_NA_NEXT_ROAD
+		<condition>m/@GRM_NEXT_ROAD/@GRM_EMPTY/</condition>
+			<entry> </entry>
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>на $USR_NEXT_ROAD_C4</entry>
+	</variable>
+	<variable>$USR_PO_NEXT_ROAD
+		<condition>m/@GRM_NEXT_ROAD/@GRM_EMPTY/</condition>
+			<entry> </entry>
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>по $USR_NEXT_ROAD_C3</entry>
+	</variable>
+	<variable>$USR_AND_GO_NA_NEXT_ROAD
+		<condition>m/@GRM_NEXT_ROAD/@GRM_EMPTY/</condition>
+			<entry> </entry>
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>и сверните на $USR_NEXT_ROAD_C4</entry>
+	</variable>
+	<variable>$USR_AND_GO_PO_NEXT_ROAD
+		<condition>m/@GRM_NEXT_ROAD/@GRM_EMPTY/</condition>
+			<entry> </entry>
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>и продолжите движение по $USR_NEXT_ROAD_C3</entry>
+	</variable>
+	<variable>$USR_LEADING_TO_NEXT_ROAD
+		<condition>m/@GRM_NEXT_ROAD/@GRM_EMPTY/</condition>
+			<entry> </entry>
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>, ведущий к $USR_NEXT_ROAD_C3</entry>
+	</variable>
+<!-- ************************************************************** -->
+<!-- Temporary variables -->
+<!-- These have temporary definitions to allow us to build an experimental -->
+<!-- release. They need to be changed once we figure out how to handle them. -->
+<!-- Extra line to circumvent 1000-byte boundary issue -->
+<!-- ************************************************************** -->
+	<variable>$USR_NEXT_ROAD_C3
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>@GRM_NEXT_ROAD</entry>
+	</variable>
+	<variable>$USR_NEXT_ROAD_C4
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>@GRM_NEXT_ROAD</entry>
+	</variable>
+	<variable>$USR_CUR_ROAD_C3
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>@GRM_CUR_ROAD</entry>
+	</variable>
+<!-- ************************************************************** -->
+<!-- Distances -->
+<!-- ************************************************************** -->
+	<variable>$USR_DISTANCE
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_100_FEET/</condition>
+			<entry>сто футов</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_200_FEET/</condition>
+			<entry>двести футов</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_300_FEET/</condition>
+			<entry>триста футов</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_400_FEET/</condition>
+			<entry>четыреста футов</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_500_FEET/</condition>
+			<entry>пятьсот футов</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_600_FEET/</condition>
+			<entry>шестьсот футов</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_700_FEET/</condition>
+			<entry>семьсот футов</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_800_FEET/</condition>
+			<entry>восемьсот футов</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_900_FEET/</condition>
+			<entry>девятьсот футов</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_100_YARDS/</condition>
+			<entry>сто ярдов</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_200_YARDS/</condition>
+			<entry>двести ярдов</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_300_YARDS/</condition>
+			<entry>триста ярдов</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_400_YARDS/</condition>
+			<entry>четыреста ярдов</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_100_METERS/</condition>
+			<entry>сто метров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_200_METERS/</condition>
+			<entry>двести метров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_300_METERS/</condition>
+			<entry>триста метров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_400_METERS/</condition>
+			<entry>четыреста метров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_500_METERS/</condition>
+			<entry>пятьсот метров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_600_METERS/</condition>
+			<entry>шестьсот метров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_700_METERS/</condition>
+			<entry>семьсот метров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_800_METERS/</condition>
+			<entry>восемьсот метров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_900_METERS/</condition>
+			<entry>девятьсот метров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_0d25_MILES/</condition>
+			<entry>четверть мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_0d5_MILES/</condition>
+			<entry>полмили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_0d75_MILES/</condition>
+			<entry>три четверти мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_1_MILES/</condition>
+			<entry>одну милю</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_1d25_MILES/</condition>
+			<entry>одну целую двадцать пять десятых мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_1d5_MILES/</condition>
+			<entry>полторы мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_1d75_MILES/</condition>
+			<entry>одну целую семьдесят пять десятых мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_2_MILES/</condition>
+			<entry>две мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_2d25_MILES/</condition>
+			<entry>две целых двадцать пять десятых мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_2d5_MILES/</condition>
+			<entry>две с половиной мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_2d75_MILES/</condition>
+			<entry>две целых семьдесят пять десятых мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_3_MILES/</condition>
+			<entry>три мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_3d25_MILES/</condition>
+			<entry>три целых двадцать пять десятых мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_3d5_MILES/</condition>
+			<entry>три с половиной мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_3d75_MILES/</condition>
+			<entry>три целых семьдесят пять десятых мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_4_MILES/</condition>
+			<entry>четыре мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_4d25_MILES/</condition>
+			<entry>четыре целых двадцать пять десятых мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_4d5_MILES/</condition>
+			<entry>четыре с половиной мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_4d75_MILES/</condition>
+			<entry>четыре целых семьдесят пять десятых мили</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_5_MILES/</condition>
+			<entry>пять миль</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_1_KILOMETERS/</condition>
+			<entry>один километр</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_1d5_KILOMETERS/</condition>
+			<entry>полтора километра</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_2_KILOMETERS/</condition>
+			<entry>два километра</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_2d5_KILOMETERS/</condition>
+			<entry>два с половиной километра</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_3_KILOMETERS/</condition>
+			<entry>три километра</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_3d5_KILOMETERS/</condition>
+			<entry>три с половиной километра</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_4_KILOMETERS/</condition>
+			<entry>четыре километра</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_4d5_KILOMETERS/</condition>
+			<entry>четыре с половиной километра</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_5_KILOMETERS/</condition>
+			<entry>пять километров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_5d5_KILOMETERS/</condition>
+			<entry>пять с половиной километров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_6_KILOMETERS/</condition>
+			<entry>шесть километров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_6d5_KILOMETERS/</condition>
+			<entry>шесть с половиной километров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_7_KILOMETERS/</condition>
+			<entry>семь километров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_7d5_KILOMETERS/</condition>
+			<entry>семь с половиной километров</entry>
+		<condition>m/@GRM_DISTANCE/@GRM_DIST_8_KILOMETERS/</condition>
+			<entry>восемь километров</entry>
+	</variable>
+<!-- ************************************************************** -->
+<!-- Take next or ordinal exit from highway -->
+<!-- ************************************************************** -->
+	<variable>$USR_TAKE_NEXT_ORD_ROAD_EXIT_LEFT
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_1ST/</condition>
+			<entry>сверните на следующем левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_2ND/</condition>
+			<entry>сверните на втором левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_3RD/</condition>
+			<entry>сверните на третьем левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_4TH/</condition>
+			<entry>сверните на четвертом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_5TH/</condition>
+			<entry>сверните на пятом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_6TH/</condition>
+			<entry>сверните на шестом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_7TH/</condition>
+			<entry>сверните на седьмом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_8TH/</condition>
+			<entry>сверните на восьмом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_9TH/</condition>
+			<entry>сверните на девятом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_10TH/</condition>
+			<entry>сверните на десятом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_11TH/</condition>
+			<entry>сверните на одиннадцатом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_12TH/</condition>
+			<entry>сверните на двенадцатом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_13TH/</condition>
+			<entry>сверните на тринадцатом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_14TH/</condition>
+			<entry>сверните на четырнадцатом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_15TH/</condition>
+			<entry>сверните на пятнадцатом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_16TH/</condition>
+			<entry>сверните на шестнадцатом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_17TH/</condition>
+			<entry>сверните на семнадцатом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_18TH/</condition>
+			<entry>сверните на восемнадцатом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_19TH/</condition>
+			<entry>сверните на девятнадцатом левом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_20TH/</condition>
+			<entry>сверните на двадцатом левом съезде</entry>
+	</variable>
+	<variable>$USR_TAKE_NEXT_ORD_ROAD_EXIT_RIGHT
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_1ST/</condition>
+			<entry>сверните на следующем правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_2ND/</condition>
+			<entry>сверните на втором правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_3RD/</condition>
+			<entry>сверните на третьем правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_4TH/</condition>
+			<entry>сверните на четвертом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_5TH/</condition>
+			<entry>сверните на пятом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_6TH/</condition>
+			<entry>сверните на шестом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_7TH/</condition>
+			<entry>сверните на седьмом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_8TH/</condition>
+			<entry>сверните на восьмом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_9TH/</condition>
+			<entry>сверните на девятом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_10TH/</condition>
+			<entry>сверните на десятом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_11TH/</condition>
+			<entry>сверните на одиннадцатом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_12TH/</condition>
+			<entry>сверните на двенадцатом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_13TH/</condition>
+			<entry>сверните на тринадцатом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_14TH/</condition>
+			<entry>сверните на четырнадцатом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_15TH/</condition>
+			<entry>сверните на пятнадцатом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_16TH/</condition>
+			<entry>сверните на шестнадцатом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_17TH/</condition>
+			<entry>сверните на семнадцатом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_18TH/</condition>
+			<entry>сверните на восемнадцатом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_19TH/</condition>
+			<entry>сверните на девятнадцатом правом съезде</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_20TH/</condition>
+			<entry>сверните на двадцатом правом съезде</entry>
+	</variable>
+<!-- ************************************************************** -->
+<!-- Ordinal -->
+<!-- ************************************************************** -->
+	<variable>$USR_ORD_C6SG_MN
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_1ST/</condition>
+			<entry>первом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_2ND/</condition>
+			<entry>втором</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_3RD/</condition>
+			<entry>третьем</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_4TH/</condition>
+			<entry>четвертом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_5TH/</condition>
+			<entry>пятом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_6TH/</condition>
+			<entry>шестом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_7TH/</condition>
+			<entry>седьмом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_8TH/</condition>
+			<entry>восьмом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_9TH/</condition>
+			<entry>девятом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_10TH/</condition>
+			<entry>десятом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_11TH/</condition>
+			<entry>одиннадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_12TH/</condition>
+			<entry>двенадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_13TH/</condition>
+			<entry>тринадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_14TH/</condition>
+			<entry>четырнадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_15TH/</condition>
+			<entry>пятнадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_16TH/</condition>
+			<entry>шестнадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_17TH/</condition>
+			<entry>семнадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_18TH/</condition>
+			<entry>восемнадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_19TH/</condition>
+			<entry>девятнадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_20TH/</condition>
+			<entry>двадцатом</entry>
+	</variable>
+	<variable>$USR_ORD_C14SG_M
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_1ST/</condition>
+			<entry>первый</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_2ND/</condition>
+			<entry>второй</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_3RD/</condition>
+			<entry>третий</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_4TH/</condition>
+			<entry>четвертый</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_5TH/</condition>
+			<entry>пятый</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_6TH/</condition>
+			<entry>шестой</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_7TH/</condition>
+			<entry>седьмой</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_8TH/</condition>
+			<entry>восьмой</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_9TH/</condition>
+			<entry>девятый</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_10TH/</condition>
+			<entry>десятый</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_11TH/</condition>
+			<entry>одиннадцатый</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_12TH/</condition>
+			<entry>двенадцатый</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_13TH/</condition>
+			<entry>тринадцатый</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_14TH/</condition>
+			<entry>четырнадцатый</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_15TH/</condition>
+			<entry>пятнадцатый</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_16TH/</condition>
+			<entry>шестнадцатый</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_17TH/</condition>
+			<entry>семнадцатый</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_18TH/</condition>
+			<entry>восемнадцатый</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_19TH/</condition>
+			<entry>девятнадцатый</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_20TH/</condition>
+			<entry>двадцатый</entry>
+	</variable>
+<!-- ************************************************************** -->
+<!-- LANE Cardinal -->
+<!-- ************************************************************** -->
+	<variable>$USR_LANE_COUNT
+		<condition>m/@GRM_LANE_COUNT/2/</condition>
+			<entry>двух</entry>
+		<condition>m/@GRM_LANE_COUNT/3/</condition>
+			<entry>трех</entry>
+		<condition>m/@GRM_LANE_COUNT/4/</condition>
+			<entry>четырех</entry>
+		<condition>m/@GRM_LANE_COUNT/5/</condition>
+			<entry>пяти</entry>
+		<condition>m/@GRM_LANE_COUNT/6/</condition>
+			<entry>шести</entry>
+		<condition>m/@GRM_LANE_COUNT/7/</condition>
+			<entry>семи</entry>
+		<condition>m/@GRM_LANE_COUNT/8/</condition>
+			<entry>восьми</entry>
+		<condition>m/@GRM_LANE_COUNT/9/</condition>
+			<entry>девяти</entry>
+		<condition>m/@GRM_LANE_COUNT/10/</condition>
+			<entry>десяти</entry>
+		<condition>m/@GRM_LANE_COUNT/11/</condition>
+			<entry>одиннадцати</entry>
+		<condition>m/@GRM_LANE_COUNT/12/</condition>
+			<entry>двенадцати</entry>
+		<condition>m/@GRM_LANE_COUNT/13/</condition>
+			<entry>тринадцати</entry>
+		<condition>m/@GRM_LANE_COUNT/14/</condition>
+			<entry>четырнадцати</entry>
+		<condition>m/@GRM_LANE_COUNT/15/</condition>
+			<entry>пятнадцати</entry>
+		<condition>m/@GRM_LANE_COUNT/16/</condition>
+			<entry>шестнадцати</entry>
+		<condition>m/@GRM_LANE_COUNT/17/</condition>
+			<entry>семнадцати</entry>
+		<condition>m/@GRM_LANE_COUNT/18/</condition>
+			<entry>восемнадцати</entry>
+		<condition>m/@GRM_LANE_COUNT/19/</condition>
+			<entry>девятнадцати</entry>
+		<condition>m/@GRM_LANE_COUNT/20/</condition>
+			<entry>двадцати</entry>
+	</variable>
+<!-- ************************************************************** -->
+<!-- LANE Ordinal -->
+<!-- ************************************************************** -->
+	<variable>$USR_LANE_PREP_ORD
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_1ST/</condition>
+			<entry>в первую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_2ND/</condition>
+			<entry>во вторую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_3RD/</condition>
+			<entry>в третью</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_4TH/</condition>
+			<entry>в четвертую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_5TH/</condition>
+			<entry>в пятую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_6TH/</condition>
+			<entry>в шестую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_7TH/</condition>
+			<entry>в седьмую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_8TH/</condition>
+			<entry>во восьмую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_9TH/</condition>
+			<entry>в девятую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_10TH/</condition>
+			<entry>в десятую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_11TH/</condition>
+			<entry>в одиннадцатую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_12TH/</condition>
+			<entry>в двенадцатую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_13TH/</condition>
+			<entry>в тринадцатую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_14TH/</condition>
+			<entry>в четырнадцатую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_15TH/</condition>
+			<entry>в пятнадцатую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_16TH/</condition>
+			<entry>в шестнадцатую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_17TH/</condition>
+			<entry>в семнадцатую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_18TH/</condition>
+			<entry>во восемнадцатую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_19TH/</condition>
+			<entry>в девятнадцатую</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_20TH/</condition>
+			<entry>в двадцатую</entry>
+	</variable>
+	<variable>$USR_LANE_ORD_C2356SG_F
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_1ST/</condition>
+			<entry>первой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_2ND/</condition>
+			<entry>второй</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_3RD/</condition>
+			<entry>третьей</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_4TH/</condition>
+			<entry>четвертой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_5TH/</condition>
+			<entry>пятой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_6TH/</condition>
+			<entry>шестой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_7TH/</condition>
+			<entry>седьмой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_8TH/</condition>
+			<entry>восьмой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_9TH/</condition>
+			<entry>девятой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_10TH/</condition>
+			<entry>десятой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_11TH/</condition>
+			<entry>одиннадцатой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_12TH/</condition>
+			<entry>двенадцатой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_13TH/</condition>
+			<entry>тринадцатой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_14TH/</condition>
+			<entry>четырнадцатой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_15TH/</condition>
+			<entry>пятнадцатой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_16TH/</condition>
+			<entry>шестнадцатой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_17TH/</condition>
+			<entry>семнадцатой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_18TH/</condition>
+			<entry>восемнадцатой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_19TH/</condition>
+			<entry>девятнадцатой</entry>
+		<condition>m/@GRM_LANE_ORD/@GRM_ORD_20TH/</condition>
+			<entry>двадцатой</entry>
+	</variable>
+<!-- ************************************************************** -->
+<!-- Next or Ordinal -->
+<!-- ************************************************************** -->
+	<variable>$USR_NEXT_OR_ORD_C6SG_MN
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_1ST/</condition>
+			<entry>следующем</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_2ND/</condition>
+			<entry>втором</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_3RD/</condition>
+			<entry>третьем</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_4TH/</condition>
+			<entry>четвертом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_5TH/</condition>
+			<entry>пятом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_6TH/</condition>
+			<entry>шестом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_7TH/</condition>
+			<entry>седьмом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_8TH/</condition>
+			<entry>восьмом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_9TH/</condition>
+			<entry>девятом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_10TH/</condition>
+			<entry>десятом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_11TH/</condition>
+			<entry>одиннадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_12TH/</condition>
+			<entry>двенадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_13TH/</condition>
+			<entry>тринадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_14TH/</condition>
+			<entry>четырнадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_15TH/</condition>
+			<entry>пятнадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_16TH/</condition>
+			<entry>шестнадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_17TH/</condition>
+			<entry>семнадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_18TH/</condition>
+			<entry>восемнадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_19TH/</condition>
+			<entry>девятнадцатом</entry>
+		<condition>m/@GRM_ORDINAL_EXIT/@GRM_ORD_20TH/</condition>
+			<entry>двадцатом</entry>
+	</variable>
+<!-- ************************************************************** -->
+<!-- TURN Next or Ordinal -->
+<!-- ************************************************************** -->
+	<variable>$USR_TURN_NEXT_OR_ORD_C6SG_MN
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_1ST/</condition>
+			<entry>следующем</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_2ND/</condition>
+			<entry>втором</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_3RD/</condition>
+			<entry>третьем</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_4TH/</condition>
+			<entry>четвертом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_5TH/</condition>
+			<entry>пятом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_6TH/</condition>
+			<entry>шестом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_7TH/</condition>
+			<entry>седьмом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_8TH/</condition>
+			<entry>восьмом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_9TH/</condition>
+			<entry>девятом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_10TH/</condition>
+			<entry>десятом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_11TH/</condition>
+			<entry>одиннадцатом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_12TH/</condition>
+			<entry>двенадцатом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_13TH/</condition>
+			<entry>тринадцатом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_14TH/</condition>
+			<entry>четырнадцатом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_15TH/</condition>
+			<entry>пятнадцатом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_16TH/</condition>
+			<entry>шестнадцатом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_17TH/</condition>
+			<entry>семнадцатом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_18TH/</condition>
+			<entry>восемнадцатом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_19TH/</condition>
+			<entry>девятнадцатом</entry>
+		<condition>m/@GRM_TURN_COUNT/@GRM_ORD_20TH/</condition>
+			<entry>двадцатом</entry>
+	</variable>
+<!-- ************************************************************** -->
+<!-- Variables for DestinationMap Phrases -->
+<!-- ************************************************************** -->
+	<variable>$USR_ROUTE_TO_CALC_CHILD_POI
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>@GRM_CALC_CHILD_POI</entry>
+	</variable>
+	<variable>$USR_DEST_IS_IN_CALC_TOP_LEVEL_POI
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>@GRM_CALC_TOP_LEVEL_POI</entry>
+	</variable>
+	<variable>$USR_ARRIVE_AT_PARENT_POI
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>@GRM_PARENT_POI</entry>
+	</variable>
+	<variable>$USR_DEST_INSIDE_PARENT_POI
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>@GRM_PARENT_POI</entry>
+	</variable>
+	<variable>$USR_FIND_DESTINATION
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>@GRM_DESTINATION</entry>
+	</variable>
+	<variable>$USR_ARRIVE_AT_ENTRANCE_POI
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>@GRM_ENTRANCE_POI</entry>
+	</variable>
+	<variable>$USR_THROUGH_ENTRANCE_POI
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>@GRM_ENTRANCE_POI</entry>
+	</variable>
+	<variable>$USR_ARRIVE_AT_TOP_LEVEL_POI
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>@GRM_TOP_LEVEL_POI</entry>
+	</variable>
+	<variable>$USR_PARKING_POI_C3
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>@GRM_PARKING_POI</entry>
+	</variable>
+	<variable>$USR_PARKING_DEST_C3
+		<condition>m/@GRM_DEFAULT/@GRM_DEFAULT/</condition>
+			<entry>@GRM_PARKING_DEST</entry>
+	</variable>
+</body>

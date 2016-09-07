@@ -1,0 +1,353 @@
+r/ example / example /
+r/US-/U S /
+r/us-/u s /
+r/TV-/T V /
+r/tv-/t v /
+r/TF-/T F /
+r/tf-/t f /
+r/AV-/A V /
+r/av-/a v /
+r/CM-/C M /
+r/cm-/c m /
+r/CV-/C V /
+r/cv-/c v /
+r/AP-/A P /
+r/ap-/a p /
+r/SE-/S E /
+r/se-/s e /
+r/AG-/A G /
+r/ag-/a g /
+r/EX-/E X /
+r/ex-/e x /
+r/CU-V/C U V /
+r/cu-v/c u v /
+r/ARA-/A R A /
+r/ara-/a r a /
+r/N-ia/Nacional 1 A /
+r/N-Ia/Nacional 1 A /
+r/N-iia/Nacional 2 A /
+r/N-Iia/Nacional 2 A /
+r/N-IIa/Nacional 2 A /
+r/N-iiia/Nacional 3 A /
+r/N-Iiia/Nacional 3 A /
+r/N-IIia/Nacional 3 A /
+r/N-IIIa/Nacional 3 A /
+r/M-/M /
+r/V-/V /
+r/0a /0 A /
+r/1a /1 A /
+r/2a /2 A /
+r/3a /3 A /
+r/4a /4 A /
+r/5a /5 A /
+r/6a /6 A /
+r/7a /7 A /
+r/8a /8 A /
+r/9a /9 A /
+r/ 1st St / 1o street /
+r/ 2nd St / 2o street /
+r/ 3rd St / 3o street /
+r/ 4th St / 4o street /
+r/ 5th St / 5o street /
+r/ 6th St / 6o street /
+r/ 7th St / 7o street /
+r/ 8th St / 8o street /
+r/ 9th St / 9o street /
+r/ 0th St / 0o street /
+r/ 1st Ave / 1o avenue /
+r/ 2nd Ave / 2o avenue /
+r/ 3rd Ave / 3o avenue /
+r/ 4th Ave / 4o avenue /
+r/ 5th Ave / 5o avenue /
+r/ 6th Ave / 6o avenue /
+r/ 7th Ave / 7o avenue /
+r/ 8th Ave / 8o avenue /
+r/ 9th Ave / 9o avenue /
+r/ 0th Ave / 0o avenue /
+r/ 1st Ln / 1o lane /
+r/ 2nd Ln / 2o lane /
+r/ 3rd Ln / 3o lane /
+r/ 4th Ln / 4o lane /
+r/ 5th Ln / 5o lane /
+r/ 6th Ln / 6o lane /
+r/ 7th Ln / 7o lane /
+r/ 8th Ln / 8o lane /
+r/ 9th Ln / 9o lane /
+r/ 0th Ln / 0o lane /
+r/ 1st Ter/ 1o terrace /
+r/ 2nd Ter/ 2o terrace /
+r/ 3rd Ter/ 3o terrace /
+r/ 4th Ter/ 4o terrace /
+r/ 5th Ter/ 5o terrace /
+r/ 6th Ter/ 6o terrace /
+r/ 7th Ter/ 7o terrace /
+r/ 8th Ter/ 8o terrace /
+r/ 9th Ter/ 9o terrace /
+r/ 0th Ter/ 0o terrace /
+r/ 1st Dr/ 1o drive /
+r/ 2nd Dr/ 2o drive /
+r/ 3rd Dr/ 3o drive /
+r/ 4th Dr/ 4o drive /
+r/ 5th Dr/ 5o drive /
+r/ 6th Dr/ 6o drive /
+r/ 7th Dr/ 7o drive /
+r/ 8th Dr/ 8o drive /
+r/ 9th Dr/ 9o drive /
+r/ 0th Dr/ 0o drive /
+r/ 1st Cir/ 1o Circle /
+r/ 2nd Cir/ 2o Circle /
+r/ 3rd Cir/ 3o Circle /
+r/ 4th Cir/ 4o Circle /
+r/ 5th Cir/ 5o Circle /
+r/ 6th Cir/ 6o Circle /
+r/ 7th Cir/ 7o Circle /
+r/ 8th Cir/ 8o Circle /
+r/ 9th Cir/ 9o Circle /
+r/ 0th Cir/ 0o Circle /
+r/ 1st Ct/ 1o Court/
+r/ 2nd Ct/ 2o Court/
+r/ 3rd Ct/ 3o Court/
+r/ 4th Ct/ 4o Court/
+r/ 5th Ct/ 5o Court/
+r/ 6th Ct/ 6o Court/
+r/ 7th Ct/ 7o Court/
+r/ 8th Ct/ 8o Court/
+r/ 9th Ct/ 9o Court/
+r/ 0th Ct/ 0o Court/
+r/ 1st Div / 1o Divide /
+r/ 2nd Div / 2o Divide /
+r/ 3rd Div / 3o Divide /
+r/ 4th Div / 4o Divide /
+r/ 5th Div / 5o Divide /
+r/ 6th Div / 6o Divide /
+r/ 7th Div / 7o Divide /
+r/ 8th Div / 8o Divide /
+r/ 9th Div / 9o Divide /
+r/ 0th Div / 0o Divide /
+r/ 1st Est / 1o Estate /
+r/ 2nd Est / 2o Estate /
+r/ 3rd Est / 3o Estate /
+r/ 4th Est / 4o Estate /
+r/ 5th Est / 5o Estate /
+r/ 6th Est / 6o Estate /
+r/ 7th Est / 7o Estate /
+r/ 8th Est / 8o Estate /
+r/ 9th Est / 9o Estate /
+r/ 0th Est / 0o Estate /
+r/ 1st Ext/ 1o Extension/
+r/ 2nd Ext/ 2o Extension/
+r/ 3rd Ext/ 3o Extension/
+r/ 4th Ext/ 4o Extension/
+r/ 5th Ext/ 5o Extension/
+r/ 6th Ext/ 6o Extension/
+r/ 7th Ext/ 7o Extension/
+r/ 8th Ext/ 8o Extension/
+r/ 9th Ext/ 9o Extension/
+r/ 0th Ext/ 0o Extension/
+r/ 1st Jct/ 1o Junction/
+r/ 2nd Jct/ 2o Junction/
+r/ 3rd Jct/ 3o Junction/
+r/ 4th Jct/ 4o Junction/
+r/ 5th Jct/ 5o Junction/
+r/ 6th Jct/ 6o Junction/
+r/ 7th Jct/ 7o Junction/
+r/ 8th Jct/ 8o Junction/
+r/ 9th Jct/ 9o Junction/
+r/ 0th Jct/ 0o Junction/
+r/ 1st Pky/ 1o Parkway/
+r/ 2nd Pky/ 2o Parkway/
+r/ 3rd Pky/ 3o Parkway/
+r/ 4th Pky/ 4o Parkway/
+r/ 5th Pky/ 5o Parkway/
+r/ 6th Pky/ 6o Parkway/
+r/ 7th Pky/ 7o Parkway/
+r/ 8th Pky/ 8o Parkway/
+r/ 9th Pky/ 9o Parkway/
+r/ 0th Pky/ 0o Parkway/
+r/ 1st Pl/ 1o Place/
+r/ 2nd Pl/ 2o Place/
+r/ 3rd Pl/ 3o Place/
+r/ 4th Pl/ 4o Place/
+r/ 5th Pl/ 5o Place/
+r/ 6th Pl/ 6o Place/
+r/ 7th Pl/ 7o Place/
+r/ 8th Pl/ 8o Place/
+r/ 9th Pl/ 9o Place/
+r/ 0th Pl/ 0o Place/
+r/ 1st Blvd/ 1o Boulevard/
+r/ 2nd Blvd/ 2o Boulevard/
+r/ 3rd Blvd/ 3o Boulevard/
+r/ 4th Blvd/ 4o Boulevard/
+r/ 5th Blvd/ 5o Boulevard/
+r/ 6th Blvd/ 6o Boulevard/
+r/ 7th Blvd/ 7o Boulevard/
+r/ 8th Blvd/ 8o Boulevard/
+r/ 9th Blvd/ 9o Boulevard/
+r/ 0th Blvd/ 0o Boulevard/
+r/1st St /1 street /
+r/2nd St /2 street /
+r/3rd St /3 street /
+r/4th St /4 street /
+r/5th St /5 street /
+r/6th St /6 street /
+r/7th St /7 street /
+r/8th St /8 street /
+r/9th St /9 street /
+r/0th St /0 street /
+r/1st Ave /1 avenue /
+r/2nd Ave /2 avenue /
+r/3rd Ave /3 avenue /
+r/4th Ave /4 avenue /
+r/5th Ave /5 avenue /
+r/6th Ave /6 avenue /
+r/7th Ave /7 avenue /
+r/8th Ave /8 avenue /
+r/9th Ave /9 avenue /
+r/0th Ave /0 avenue /
+r/1st Ln /1 lane /
+r/2nd Ln /2 lane /
+r/3rd Ln /3 lane /
+r/4th Ln /4 lane /
+r/5th Ln /5 lane /
+r/6th Ln /6 lane /
+r/7th Ln /7 lane /
+r/8th Ln /8 lane /
+r/9th Ln /9 lane /
+r/0th Ln /0 lane /
+r/1st Ter/1 terrace /
+r/2nd Ter/2 terrace /
+r/3rd Ter/3 terrace /
+r/4th Ter/4 terrace /
+r/5th Ter/5 terrace /
+r/6th Ter/6 terrace /
+r/7th Ter/7 terrace /
+r/8th Ter/8 terrace /
+r/9th Ter/9 terrace /
+r/0th Ter/0 terrace /
+r/1st Dr/1 drive /
+r/2nd Dr/2 drive /
+r/3rd Dr/3 drive /
+r/4th Dr/4 drive /
+r/5th Dr/5 drive /
+r/6th Dr/6 drive /
+r/7th Dr/7 drive /
+r/8th Dr/8 drive /
+r/9th Dr/9 drive /
+r/0th Dr/0 drive /
+r/1st Cir/1 Circle /
+r/2nd Cir/2 Circle /
+r/3rd Cir/3 Circle /
+r/4th Cir/4 Circle /
+r/5th Cir/5 Circle /
+r/6th Cir/6 Circle /
+r/7th Cir/7 Circle /
+r/8th Cir/8 Circle /
+r/9th Cir/9 Circle /
+r/0th Cir/0 Circle /
+r/1st Ct/1 Court/
+r/2nd Ct/2 Court/
+r/3rd Ct/3 Court/
+r/4th Ct/4 Court/
+r/5th Ct/5 Court/
+r/6th Ct/6 Court/
+r/7th Ct/7 Court/
+r/8th Ct/8 Court/
+r/9th Ct/9 Court/
+r/0th Ct/0 Court/
+r/1st Div /1 Divide /
+r/2nd Div /2 Divide /
+r/3rd Div /3 Divide /
+r/4th Div /4 Divide /
+r/5th Div /5 Divide /
+r/6th Div /6 Divide /
+r/7th Div /7 Divide /
+r/8th Div /8 Divide /
+r/9th Div /9 Divide /
+r/0th Div /0 Divide /
+r/1st Est /1 Estate /
+r/2nd Est /2 Estate /
+r/3rd Est /3 Estate /
+r/4th Est /4 Estate /
+r/5th Est /5 Estate /
+r/6th Est /6 Estate /
+r/7th Est /7 Estate /
+r/8th Est /8 Estate /
+r/9th Est /9 Estate /
+r/0th Est /0 Estate /
+r/1st Ext/1 Extension/
+r/2nd Ext/2 Extension/
+r/3rd Ext/3 Extension/
+r/4th Ext/4 Extension/
+r/5th Ext/5 Extension/
+r/6th Ext/6 Extension/
+r/7th Ext/7 Extension/
+r/8th Ext/8 Extension/
+r/9th Ext/9 Extension/
+r/0th Ext/0 Extension/
+r/1st Jct/1 Junction/
+r/2nd Jct/2 Junction/
+r/3rd Jct/3 Junction/
+r/4th Jct/4 Junction/
+r/5th Jct/5 Junction/
+r/6th Jct/6 Junction/
+r/7th Jct/7 Junction/
+r/8th Jct/8 Junction/
+r/9th Jct/9 Junction/
+r/0th Jct/0 Junction/
+r/1st Pky/1 Parkway/
+r/2nd Pky/2 Parkway/
+r/3rd Pky/3 Parkway/
+r/4th Pky/4 Parkway/
+r/5th Pky/5 Parkway/
+r/6th Pky/6 Parkway/
+r/7th Pky/7 Parkway/
+r/8th Pky/8 Parkway/
+r/9th Pky/9 Parkway/
+r/0th Pky/0 Parkway/
+r/1st Pl/1 Place/
+r/2nd Pl/2 Place/
+r/3rd Pl/3 Place/
+r/4th Pl/4 Place/
+r/5th Pl/5 Place/
+r/6th Pl/6 Place/
+r/7th Pl/7 Place/
+r/8th Pl/8 Place/
+r/9th Pl/9 Place/
+r/0th Pl/0 Place/
+r/1st Blvd/1 Boulevard/
+r/2nd Blvd/2 Boulevard/
+r/3rd Blvd/3 Boulevard/
+r/4th Blvd/4 Boulevard/
+r/5th Blvd/5 Boulevard/
+r/6th Blvd/6 Boulevard/
+r/7th Blvd/7 Boulevard/
+r/8th Blvd/8 Boulevard/
+r/9th Blvd/9 Boulevard/
+r/0th Blvd/0 Boulevard/
+r/ 1.1 millas/ una punto una millas/
+r/.1 millas/ punto una millas/
+r/ 21 punto una millas/ ventiuna punto una millas /
+r/ 31 punto una millas/ treinta y una punto una millas/
+r/ 41 punto una millas/ cuarenta y una punto una millas/
+r/ 51 punto una millas/ cincuenta y una punto una millas/
+r/ 61 punto una millas/ sesenta y una punto una millas/
+r/ 71 punto una millas/ setenta y una punto una millas/
+r/ 81 punto una millas/ ochenta y una punto una millas/
+r/ 91 punto una millas/ noventa y una punto una millas/
+r/ 21 millas/ ventiuna millas/
+r/ 31 millas/ treinta y una millas/
+r/ 41 millas/ cuarenta y una millas/
+r/ 51 millas/ cincuenta y una millas/
+r/ 61 millas/ sesenta y una millas/
+r/ 71 millas/ setenta y una millas/
+r/ 81 millas/ ochenta y una millas/
+r/ 91 millas/ noventa y una millas/
+r/ (E) / /
+r/ (S) / /
+r/ (N) / /
+r/ (NE) / /
+r/ (NO) / /
+r/ (SE) / /
+r/ (SO) / /
+r/ (O) / /
+r/ & / y /

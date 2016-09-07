@@ -1,0 +1,39 @@
+﻿[Header]
+
+[SubHeader]
+Language = ENU
+Content = EDCT_CONTENT_BROAD_NARROWS
+Representation = EDCT_REPR_SZZ_STRING
+
+[Data]
+arlington           //AR+.lInK.tIn
+auto                //'Oto&U
+calculating         //'k@l.kj$.le&I.tInK
+conoco              //'kA.n$.ko&U
+exitright           //'Ek.sId R+a&It
+lakeview            //le&I.'k.vju
+lexington           //'lEk.sInK.tIn
+"live theater"      //'la&Iv_'Ti.$.t$R+
+norfolk             //'nOR+.fo&U'lk
+quivira             //kwIv.'iR+$
+ridge               //'R+Id&Z
+ridgeview           //R+I.'d&Z_.vju
+route               //'R+a&Ut
+routing             //'R+a&U.tInK
+speak               //spi'.k
+street              //'stR+it
+sunoco              //s^n$ko&U
+"u turn"            //'ju._t'E0R+n
+u-turn              //'ju._t'E0R+n
+verizon             //v.R+a&I'.z$n
+via                 //'vi.$
+
+[SubHeader]
+Language = ENU
+Content = EDCT_CONTENT_ORTHOGRAPHIC
+Representation = EDCT_REPR_WSZ_STRING
+
+[Data]
+etc                 etcetera
+poi                 "p o i"
+wal-mart            "wall mart"

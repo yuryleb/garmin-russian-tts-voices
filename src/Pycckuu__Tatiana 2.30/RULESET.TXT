@@ -1,0 +1,12 @@
+[header]
+language = RUR 
+
+
+[data]
+
+# Remove any extra spaces before a comma
+/\s+,/ --> ","
+
+# Remove any unnecessary commas and spaces
+/,? +\./ --> "."
+

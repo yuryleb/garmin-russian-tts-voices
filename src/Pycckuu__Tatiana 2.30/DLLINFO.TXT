@@ -1,0 +1,33 @@
+START
+<voice_name>tatiana</voice_name>
+<lang_name>Russian</lang_name>
+<screen_name>Pycckuu-Tatiana (TTS)</screen_name>
+<med_screen_name>Pycckuu-Tatiana</med_screen_name>
+<sml_screen_name>Pycc-Tatiana</sml_screen_name>
+<tny_screen_name>Tatiana</tny_screen_name>
+<cp_lrg_screen_name>Русский-Tatiana (TTS)</cp_lrg_screen_name>
+<cp_med_screen_name>Русский-Tatiana</cp_med_screen_name>
+<cp_sml_screen_name>Русс-Tatiana</cp_sml_screen_name>
+<cp_tny_screen_name>Tatiana</cp_tny_screen_name>
+<voice_peak_to_peak>90</voice_peak_to_peak>
+<voice_volume>90</voice_volume>
+<start_addr>0x00000000</start_addr>
+<part_nmbr>006-D4896-00</part_nmbr>
+<ver_nmbr>2.30</ver_nmbr>
+<dll_file>Pycckuu__Tatiana.vpm</dll_file>
+<vol_name>tatiana</vol_name>
+<voice_rate>85</voice_rate>
+<lang_enum>28</lang_enum>
+<dll_chksum>0x06D253C4</dll_chksum>
+<gender>Female</gender>
+<dll_cp>65001</dll_cp>
+<eng_cp>65001</eng_cp>
+<sample_rate>22050</sample_rate>
+<natural_guidance>true</natural_guidance>
+<dest_maps_support>true</dest_maps_support>
+<park_phrase_support>true</park_phrase_support>
+<dest_on_video_support>true</dest_on_video_support>
+<parse_ver>1</parse_ver>
+<empty_term_support>true</empty_term_support>
+<test_phrase_support>true</test_phrase_support>
+<build_info> 09-19-14 11:59</build_info>END

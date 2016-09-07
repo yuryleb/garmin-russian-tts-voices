@@ -1,0 +1,579 @@
+r/ example / example /
+r/ E / East /
+r/ W / West /
+r/ S / South /
+r/ N / North /
+r/ NE / Northeast /
+r/ Ne / Northeast /
+r/ NW / Northwest /
+r/ Nw / Northwest /
+r/ SE / Southeast /
+r/ Se / Southeast /
+r/ SW / Southwest /
+r/ Sw / Southwest /
+r/ (E) / /
+r/ (W) / /
+r/ (S) / /
+r/ (N) / /
+r/ (NE) / /
+r/ (NW) / /
+r/ (SE) / /
+r/ (SW) / /
+r/ (O) / /
+r/ St//Prv / State or Province /
+r/ Cr-/ CR /
+r/ CR-/ CR /
+r/ramp to ramp to/ramp to/
+r/ramp to <address> ramp to/ramp to <address> /
+r/ Allee / Alley /
+r/ Ally / Alley /
+r/ Aly / Alley /
+r/ Anex / Annex /
+r/ Annx / Annex /
+r/ Anx / Annex /
+r/ Arc / Arcade /
+r/ Av / Avenue /
+r/ Ave / Avenue /
+r/ Aven / Avenue /
+r/ Avenu / Avenue /
+r/ Avn / Avenue /
+r/ Avnue / Avenue /
+r/ Bayou / Bayoo /
+r/ Bch / Beach /
+r/ Bnd / Bend /
+r/ Blf / Bluff /
+r/ Bluf / Bluff /
+r/ Bot / Bottom /
+r/ Bottm / Bottom /
+r/ Btm / Bottom /
+r/ Blvd / Boulevard /
+r/ Boul / Boulevard /
+r/ Boulv / Boulevard /
+r/ Br / Branch /
+r/ Brnch / Branch /
+r/ Brdge / Bridge /
+r/ Brg / Bridge /
+r/ Brk / Brook /
+r/ Burgs / Burgs /
+r/ Byp / Bypass /
+r/ Bypa / Bypass /
+r/ Bypas / Bypass /
+r/ Byps / Bypass /
+r/ Cmp / Camp /
+r/ Cp / Camp /
+r/ Canyn / Canyon /
+r/ Cnyn / Canyon /
+r/ Cyn / Canyon /
+r/ Cpe / Cape /
+r/ Causway / Causeway /
+r/ Cswy / Causeway /
+r/ Cen / Center /
+r/ Cent / Center /
+r/ Centr / Center /
+r/ Centre / Center /
+r/ Cnter / Center /
+r/ Cntr / Center /
+r/ Ctr / Center /
+r/ Cir / Circle /
+r/ Circ / Circle /
+r/ Circl / Circle /
+r/ Crcl / Circle /
+r/ Crcle / Circle /
+r/ Clf / Cliff /
+r/ Clfs / Cliffs /
+r/ Clb / Club /
+r/ Cor / Corner /
+r/ Cors / Corners /
+r/ Crse / Course /
+r/ Crt / Court /
+r/ Ct / Court /
+r/ Cts / Courts /
+r/ Cv / Cove /
+r/ Ck / Creek /
+r/ CR / County Route /
+r/ Crk / Creek /
+r/ Crecent / Crescent /
+r/ Cres / Crescent /
+r/ Cresent / Crescent /
+r/ Crscnt / Crescent /
+r/ Crsent / Crescent /
+r/ Crsnt / Crescent /
+r/ Crest / Crest /
+r/ Crssing / Crossing /
+r/ Crssng / Crossing /
+r/ Xing / Crossing /
+r/ Dl / Dale /
+r/ Dm / Dam /
+r/ Div / Divide /
+r/ Dv / Divide /
+r/ Dvd / Divide /
+r/ Dr / Dr. /
+r/ Driv / Drive /
+r/ Drv / Drive /
+r/ Est / Estate /
+r/ Ests / Estates /
+r/ Exp / Expressway /
+r/ Expr / Expressway /
+r/ Express / Expressway /
+r/ Expw / Expressway /
+r/ Expy / Expressway /
+r/ Ext / Extension /
+r/ Extn / Extension /
+r/ Extnsn / Extension /
+r/ Exts / Extensions /
+r/ Fls / Falls /
+r/ Frry / Ferry /
+r/ Fry / Ferry /
+r/ Fld / Field /
+r/ Flds / Fields /
+r/ Flt / Flat /
+r/ Flts / Flats /
+r/ Frd / Ford /
+r/ Frst / Forest /
+r/ Forg / Forge /
+r/ Frg / Forge /
+r/ Frk / Fork /
+r/ Frks / Forks /
+r/ Frt / Fort /
+r/ Ft / Ft. /
+r/ Freewy / Freeway /
+r/ Frway / Freeway /
+r/ Frwy / Freeway /
+r/ Fwy / Freeway /
+r/ Gardn / Garden /
+r/ Gdn / Garden /
+r/ Grden / Garden /
+r/ Grdn / Garden /
+r/ Gdns / Gardens /
+r/ Grdns / Gardens /
+r/ Gatewy / Gateway /
+r/ Gatway / Gateway /
+r/ Gtway / Gateway /
+r/ Gtwy / Gateway /
+r/ Gln / Glen /
+r/ Grn / Green /
+r/ Grov / Grove /
+r/ Grv / Grove /
+r/ Harb / Harbor /
+r/ Harbr / Harbor /
+r/ Hbr / Harbor /
+r/ Hrbor / Harbor /
+r/ Havn / Haven /
+r/ Hvn / Haven /
+r/ Hgts / Heights /
+r/ Ht / Height /
+r/ Hts / Heights /
+r/ Highwy / Highway /
+r/ Hiway / Highway /
+r/ Hiwy / Highway /
+r/ Hway / Highway /
+r/ Hwy / Highway /
+r/ Hl / Hill /
+r/ Hls / Hills /
+r/ Hllw / Hollow /
+r/ Holw / Hollow /
+r/ Holws / Hollow /
+r/ Inlt / Inlet /
+r/ Is / Island /
+r/ Islnd / Island /
+r/ Islnds / Islands /
+r/ Iss / Islands /
+r/ Jct / Junction /
+r/ Jction / Junction /
+r/ Jctn / Junction /
+r/ Junctn / Junction /
+r/ Juncton / Junction /
+r/ Jctns / Junctions /
+r/ Jcts / Junctions /
+r/ Ky / Key /
+r/ Kys / Keys /
+r/ Knl / Knoll /
+r/ Knol / Knoll /
+r/ Knls / Knolls /
+r/ Lk / Lake /
+r/ Lks / Lakes /
+r/ Lndg / Landing /
+r/ Lndng / Landing /
+r/ La <end_address>/ Lane <end_address>/
+r/ Ln / Lane /
+r/ Lgt / Light /
+r/ Lf / Loaf /
+r/ Lck / Lock /
+r/ Lcks / Locks /
+r/ Ldg / Lodge /
+r/ Ldge / Lodge /
+r/ Lodg / Lodge /
+r/ Mnr / Manor /
+r/ Mnrs / Manors /
+r/ Mdw / Meadow /
+r/ Mdws / Meadows /
+r/ Medows / Meadows /
+r/ Ml / Mill /
+r/ Mls / Mills /
+r/ Missn / Mission /
+r/ Msn / Mission /
+r/ Mssn / Mission /
+r/ Mnt / Mount /
+r/ Mt / Mount /
+r/ Mntain / Mountain /
+r/ Mntn / Mountain /
+r/ Mountin / Mountain /
+r/ Mtin / Mountain /
+r/ Mtn / Mountain /
+r/ Mntns / Mountains /
+r/ Mwy / Motorway /
+r/ MWY / Motorway /
+r/ Nck / Neck /
+r/ Orch / Orchard /
+r/ Orchrd / Orchard /
+r/ Ovl / Oval /
+r/ Pk / Park /
+r/ Prk / Park /
+r/ Parkwy / Parkway /
+r/ Pkway / Parkway /
+r/ Pkwy / Parkway /
+r/ Pky / Parkway /
+r/ Pkwys / Parkways /
+r/ Pnes / Pines /
+r/ Pl / Place /
+r/ Pln / Plain /
+r/ Plaines / Plains /
+r/ Plns / Plains /
+r/ Plz / Plaza /
+r/ Plza / Plaza /
+r/ Pt / Point /
+r/ Pts / Points /
+r/ Prt / Port /
+r/ Prts / Ports /
+r/ Pr / Prairie /
+r/ Prarie / Prairie /
+r/ Prr / Prairie /
+r/ Rad / Radial /
+r/ Radiel / Radial /
+r/ Radl / Radial /
+r/ Rnch / Ranch /
+r/ Rnchs / Ranch /
+r/ Rpd / Rapid /
+r/ Rpds / Rapids /
+r/ Rst / Rest /
+r/ Rdg / Ridge /
+r/ Rdge / Ridge /
+r/ Rdgs / Ridges /
+r/ Riv / River /
+r/ Rivr / River /
+r/ Rvr / River /
+r/ Rd / Road /
+r/ Rds / Roads /
+r/ Shl / Shoal /
+r/ Shls / Shoals /
+r/ Shoar / Shore /
+r/ Shr / Shore /
+r/ Shoars / Shores /
+r/ Shrs / Shores /
+r/ Spg / Spring /
+r/ Spng / Spring /
+r/ Sprng / Spring /
+r/ Spgs / Springs /
+r/ Spngs / Springs /
+r/ Sprngs / Springs /
+r/ Spur / Spur /
+r/ Sq / Square /
+r/ Sqr / Square /
+r/ Sqre / Square /
+r/ Squ / Square /
+r/ Sqrs / Squares /
+r/ Sta / Station /
+r/ Statn / Station /
+r/ Stn / Station /
+r/ Stra / Stravenue /
+r/ Strav / Stravenue /
+r/ Strave / Stravenue /
+r/ Straven / Stravenue /
+r/ Stravn / Stravenue /
+r/ Strvn / Stravenue /
+r/ Strvnue / Stravenue /
+r/ Streme / Stream /
+r/ Strm / Stream /
+r/ St Highway / State Highway /
+r/ St / St. /
+r/ St. Louis/ Saint Louis/
+r/ St. Joseph/ Saint Joseph/
+r/ St. Mary/ Saint Mary/
+r/ St. John/ Saint John/
+r/ St. Francis/ Saint Francis/
+r/ St. Vincent/ Saint Vincent/
+r/ St. Luke/ Saint Luke/
+r/ St. Elizabeth/ Saint Elizabeth/
+r/ St. Peter/ Saint Peter/
+r/ St. Paul/ Saint Paul/
+r/ St. Patrick/ Saint Patrick/
+r/ ST LOUIS/ Saint Louis/
+r/ Str / Street /
+r/ Strt / Street /
+r/ Smt / Summit /
+r/ Sumit / Summit /
+r/ Sumitt / Summit /
+r/ Ter / Terrace /
+r/ Terr / Terrace /
+r/ Trce / Trace /
+r/ Trak / Track /
+r/ Trk / Track /
+r/ Trks / Track /
+r/ Tfwy / Trafficway /
+r/ Trfy / Trafficway /
+r/ Tr / Trail /
+r/ Trl / Trail /
+r/ Trls / Trails /
+r/ Tunel / Tunnel /
+r/ Tunl / Tunnel /
+r/ Tunnl / Tunnel /
+r/ Tpk / Turnpike /
+r/ Tpke / Turnpike /
+r/ Trnpk / Turnpike /
+r/ Trpk / Turnpike /
+r/ Turnpk / Turnpike /
+r/ Un / Union /
+r/ Vally / Valley /
+r/ Vlly / Valley /
+r/ Vly / Valley /
+r/ Vlys / Valleys /
+r/ Vdct / Viaduct /
+r/ Viadct / Viaduct /
+r/ Vw / View /
+r/ Vws / Views /
+r/ Vill / Village /
+r/ Villag / Village /
+r/ Villg / Village /
+r/ Villiage / Village /
+r/ Vlg / Village /
+r/ Vlgs / Villages /
+r/ Vl / Ville /
+r/ Vis / Vista /
+r/ Vist / Vista /
+r/ Vst / Vista /
+r/ Vsta / Vista /
+r/ Wy / Way /
+r/ Well / Well /
+r/ Wls / Wells /
+r/ Apt / Apartment /
+r/ Bsmt / Basement /
+r/ Bldg / Building /
+r/ Dept / Department /
+r/ Fl / Floor /
+r/ Frnt / Front /
+r/ Hngr / Hangar /
+r/ Lbby / Lobby /
+r/ Lowr / Lower /
+r/ Ofc / Office /
+r/ Ph / Penthouse /
+r/ Rm / Room /
+r/ Spc / Space /
+r/ Ste / Suite /
+r/ Trlr / Trailer /
+r/ Uppr / Upper /
+r/DR. Southeast/Drive Southeast/
+r/Dr. Southeast/Drive Southeast/
+r/DR Southeast/Drive Southeast/
+r/Dr Southeast/Drive Southeast/
+r/ST. Southeast/Street Southeast/
+r/St. Southeast/Street Southeast/
+r/ST Southeast/Street Southeast/
+r/St Southeast/Street Southeast/
+r/DR. Southwest/Drive Southwest/
+r/Dr. Southwest/Drive Southwest/
+r/DR Southwest/Drive Southwest/
+r/Dr Southwest/Drive Southwest/
+r/ST. Southwest/Street Southwest/
+r/St. Southwest/Street Southwest/
+r/ST Southwest/Street Southwest/
+r/St Southwest/Street Southwest/
+r/DR. Northeast/Drive Northeast/
+r/Dr. Northeast/Drive Northeast/
+r/DR Northeast/Drive Northeast/
+r/Dr Northeast/Drive Northeast/
+r/ST. Northeast/Street Northeast/
+r/St. Northeast/Street Northeast/
+r/ST Northeast/Street Northeast/
+r/St Northeast/Street Northeast/
+r/DR. Northwest/Drive Northwest/
+r/Dr. Northwest/Drive Northwest/
+r/DR Northwest/Drive Northwest/
+r/Dr Northwest/Drive Northwest/
+r/ST. Northwest/Street Northwest/
+r/St. Northwest/Street Northwest/
+r/ST Northwest/Street Northwest/
+r/St Northwest/Street Northwest/
+r/DR. North/Drive North/
+r/Dr. North/Drive North/
+r/DR North/Drive North/
+r/Dr North/Drive North/
+r/ST. North/Street North/
+r/St. North/Street North/
+r/ST North/Street North/
+r/St North/Street North/
+r/DR. South/Drive South/
+r/Dr. South/Drive South/
+r/DR South/Drive South/
+r/Dr South/Drive South/
+r/ST. South/Street South/
+r/St. South/Street South/
+r/ST South/Street South/
+r/St South/Street South/
+r/DR. East/Drive East/
+r/Dr. East/Drive East/
+r/DR East/Drive East/
+r/Dr East/Drive East/
+r/ST. East/Street East/
+r/St. East/Street East/
+r/ST East/Street East/
+r/St East/Street East/
+r/DR. West/Drive West/
+r/Dr. West/Drive West/
+r/DR West/Drive West/
+r/Dr West/Drive West/
+r/ST. West/Street West/
+r/St. West/Street West/
+r/ST West/Street West/
+r/St West/Street West/
+r/ Admin / Administration /
+r/ Agr / Agricultural /
+r/ Agr / Agricultural /
+r/ Alt / Alternative /
+r/ Amer / American /
+r/ Assoc / Associates /
+r/ Atm / <spell>ATM<end_spell> /
+r/ Bandb / Bed and Breakfast /
+r/ Bch / Beach /
+r/ Bldng / Building /
+r/ Blf / Bluff /
+r/ Blu / Blue /
+r/ Brg / Bridge /
+r/ Cc / Country Club /
+r/ Ch / Church /
+r/ Chldrn's / Children's /
+r/ Cir / Circle /
+r/ Ckn / Chicken /
+r/ Clfs / Cliffs /
+r/ Clg / College /
+r/ Cntry / Country /
+r/ Cnty / County /
+r/ Co / Company /
+r/ Col / College /
+r/ Com / Commerce /
+r/ Com'l / Commercial /
+r/ Conf / Conference /
+r/ Cons / Conservatory /
+r/ Conv / Convention /
+r/ Corp / Corporation /
+r/ Crk / Creek /
+r/ Ctr / Center /
+r/ Ctr'l / Central /
+r/ Cvl / Civil /
+r/ Dept / Department /
+r/ Div / Division /
+r/ Dntwn / Downtown /
+r/ Dvlp't / Development /
+r/ Edu'l / Educational /
+r/ Elem / Elementary /
+r/ Ent / Entrance /
+r/ Envr'l / Environmental /
+r/ Fld / Field /
+r/ Flds / Fields /
+r/ Fme / Fame /
+r/ Gandcc / Golf and Country Club /
+r/ Gal'y / Gallery /
+r/ Gds / Goods /
+r/ Gen / General /
+r/ Gln / Glen /
+r/ Gov't / Government /
+r/ Grn / Green /
+r/ Grp / Group /
+r/ Grv / Grove /
+r/ Hbr / Harbor /
+r/ Hls / Hills /
+r/ Hist'l / Historical /
+r/ Hist / History /
+r/ Hosp / Hospital /
+r/ Hrtg / Heritage /
+r/ Hs / High School /
+r/ Hse / House /
+r/ Htl / Hotel /
+r/ Info / Information /
+r/ Inst / Institute /
+r/ Interp / Interpretive /
+r/ Intl / International /
+r/ Int'l / International /
+r/ Intst / Interstate /
+r/ Jct / Junction /
+r/ Jrhs / Junior High School /
+r/ Knls / Knolls /
+r/ Lbry / Library /
+r/ Ldg / Lodge /
+r/ Lks / Lakes /
+r/ Lndg / Landing /
+r/ Lrng / Learning /
+r/ Maint / Maintenance /
+r/ Mdws / Meadows /
+r/ Med / Medical /
+r/ Mgt / Management /
+r/ Ml / Mall /
+r/ Mem'l / Memorial /
+r/ Metro / Metropolitan /
+r/ Msm / Museum /
+r/ Mssn / Mission /
+r/ Mt / Mount /
+r/ Mts / Mountains /
+r/ Muni / Municipal /
+r/ Nat / Natural /
+r/ Nat'l / National /
+r/ Nas / Naval Air Station /
+r/ Org / Organization /
+r/ Pk / Park /
+r/ Pl / Place /
+r/ Plns / Plains /
+r/ Plz / Plaza /
+r/ Prt / Port /
+r/ Qtr / Quarter /
+r/ Que / Queue /
+r/ QEW / Q.E.W./
+r/ qew / Q.E.W./
+r/ Rde / Ride /
+r/ Rdg / Ridge /
+r/ Rec / Recreation /
+r/ Reg / Region /
+r/ Reg'l / Regional /
+r/ Res / Reservation /
+r/ Resv'r / Reservoir /
+r/ Riv / River /
+r/ Rr / Railroad /
+r/ Rs / Ranger Station /
+r/ Sanct'y / Sanctuary /
+r/ Sav / Savings /
+r/ Sch / School /
+r/ Sci / Science /
+r/ Shl / Shoal /
+r/ Shrs / Shores /
+r/ Smt / Summit /
+r/ Soc / Society /
+r/ Spg / Spring /
+r/ Spgs / Springs /
+r/ Squ / Square /
+r/ Std / Stadium /
+r/ Stn / Station /
+r/ Strm / Stream /
+r/ Sts / Suites /
+r/ Sys / System /
+r/ Tbrncl / Tabernacle /
+r/ Tech / Technical /
+r/ Tnl / Tunnel /
+r/ Trl / Trail /
+r/ Trn / Train /
+r/ Trs / Tours /
+r/ Umb / <spell>UMB<end_spell> /
+r/ Univ / University /
+r/ Via / veea /
+r/ Vlg / Village /
+r/ Vly / Valley /
+r/ Wls / Wells /
+r/ Wh / White /
+r/ Ymca / <spell>YMCA<end_spell> /

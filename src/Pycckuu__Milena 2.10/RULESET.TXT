@@ -1,0 +1,10 @@
+[header]
+language = RUR 
+
+
+[data]
+# Remove any unnecessary commas and spaces at the end of the sentence
+/,? +\.$/   -->   "."
+
+# Remove any extra spaces before a comma
+/\s+,/ --> ","

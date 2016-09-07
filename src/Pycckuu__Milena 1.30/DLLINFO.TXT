@@ -1,0 +1,26 @@
+START
+<voice_name>milena</voice_name>
+<lang_name>Russian</lang_name>
+<screen_name>Pycckuu-Milena (TTS)</screen_name>
+<med_screen_name>Pycckuu-Milena</med_screen_name>
+<sml_screen_name>Pycc-Milena</sml_screen_name>
+<tny_screen_name>Milena</tny_screen_name>
+<cp_lrg_screen_name>Русский-Milena (TTS)</cp_lrg_screen_name>
+<cp_med_screen_name>Русский-Milena</cp_med_screen_name>
+<cp_sml_screen_name>Pycc-Milena</cp_sml_screen_name>
+<cp_tny_screen_name>Milena</cp_tny_screen_name>
+<voice_volume>65</voice_volume>
+<voice_peak_to_peak>90</voice_peak_to_peak>
+<start_addr>0x00000000</start_addr>
+<part_nmbr>006-D3363-00</part_nmbr>
+<ver_nmbr>1.30</ver_nmbr>
+<dll_file>Pycckuu__Milena.vpm</dll_file>
+<vol_name>milena</vol_name>
+<voice_rate>100</voice_rate>
+<lang_enum>28</lang_enum>
+<dll_chksum>0x09E62634</dll_chksum>
+<gender>Female</gender>
+<dll_cp>1251</dll_cp>
+<eng_cp>65001</eng_cp>
+<sample_rate>16000</sample_rate>
+<build_info>NAB 04-22-13 11:20</build_info>END

@@ -1,0 +1,301 @@
+r/ example / example /
+r/ E / East /
+r/ W / West /
+r/ S / South /
+r/ N / North /
+r/ (E) / East /
+r/ (W) / West /
+r/ (S) / South /
+r/ (N) / North /
+r/ NE / Northeast /
+r/ Ne / Northeast /
+r/ NW / Northwest /
+r/ Nw / Northwest /
+r/ SE / Southeast /
+r/ Se / Southeast /
+r/ SW / Southwest /
+r/ Sw / Southwest /
+r/ N.E. / Northeast /
+r/ N.W. / Northwest /
+r/ S.E. / Southeast /
+r/ S.W. / Southwest /
+r/ Ampas / ambaaz /
+r/ Ang / aang /
+r/ Angklong  / aangklonng /
+r/ Arang / arraanng /
+r/ Asrama / asraama /
+r/ Ayer / aaieeer /
+r/ Bahru / baahru /
+r/ Bakar / baakaaar /
+r/ Bali / barli /
+r/ Baru / baahru /
+r/ Batok / baatokh /
+r/ Batu / baadu /
+r/ Bedok / bedog /
+r/ Besar / bersaar /
+r/ Bintang / beendaang /
+r/ Bishan / bishaaaan /
+r/ Blangah / blaanngah /
+r/ Bugis / booggees /
+r/ Bukit / bhoogkid /
+r/ Bulan / boolaaan /
+r/ Bunga / boonggha /
+r/ Burong / booronng /
+r/ Chee / cheei /
+r/ Cheng / chenng /
+r/ Chin / cheen /
+r/ Choa / choaa /
+r/ Chu / chuu /
+r/ Chuan / chuaaaan /
+r/ Danau / daanou /
+r/ Dua / dooua /
+r/ Gambas / gambaz /
+r/ Gambir / gambeer /
+r/ Geylang / ghaylaanng /
+r/ Guan / gooaaaan /
+r/ Halus / haaloos /
+r/ Hijau / hejou /
+r/ Hitam / heedaamh /
+r/ Hong / honng /
+r/ Hougang / houganng /
+r/ Huat / whoaad /
+r/ Hwan / hoaaaaaaan /
+r/ Jalan / jhaalaan /
+r/ Jeringau / jareenhgou /
+r/ Jurong / djooronng /
+r/ Kabong / kaabonng /
+r/ Kadut / kaadootd /
+r/ Kaki / kaahkey /
+r/ Kallang / kaalaanng /
+r/ Kampong / kaampong /
+r/ Kang / kaanng /
+r/ Kechil / kechiel /
+r/ Kelantan / kelantaaan /
+r/ Kembang / kemmbaanng /
+r/ Kerbau / kerbou /
+r/ Keris / kerreezz /
+r/ Kilat / kilaad /
+r/ Kim / keem /
+r/ Kio / kio /
+r/ Klang / klaanng /
+r/ Kong / konng /
+r/ Kramat / kraamadh /
+r/ Kranji / kraanjee /
+r/ Kreta / kretaa /
+r/ Kuning / koonning /
+r/ Kurau / koorou /
+r/ Lada / laadaa /
+r/ Lana / laanaa /
+r/ Lanjut / laannjud /
+r/ Lebar / lebaar /
+r/ Lengkong / lengkonng /
+r/ Lim / leem /
+r/ Lima / leemaa /
+r/ Limau / leemaauh /
+r/ Liput / leeput /
+r/ Lorong / loronng /
+r/ Loyang / loieeaanng /
+r/ Malu / maalu /
+r/ Mandai / maandai /
+r/ Manis / maanees /
+r/ Masjid / masjeed /
+r/ Mata / maataa /
+r/ Mega / meghaa /
+r/ Melayu / melaaiu /
+r/ Melukut / meluukood /
+r/ Mendong / memdong /
+r/ Mengkudu / mengkoodu /
+r/ Merah / meraah /
+r/ Merbok / merborg /
+r/ Merdu / murdoo /
+r/ Merpati / merpaatee /
+r/ Mesin / messeen /
+r/ Mesra / messra /
+r/ Mimosa / meemossaa /
+r/ Minyak / meannyaak /
+r/ Mo / mok /
+r/ Mulia / moolyaa /
+r/ Muslim / mooslim /
+r/ Mutiara / moodiaara /
+r/ Naga / naaga /
+r/ Nangka / naanngkaa /
+r/ Nanyang / nanyaanng /
+r/ Naung / naaoong /
+r/ Nipah / neepah /
+r/ Nipis / neepees /
+r/ Padang / paadaanng /
+r/ Pahang / paahaanng /
+r/ Pandan / paandaan /
+r/ Panjang / paannjaanng /
+r/ Paras / paaraaz /
+r/ Pari / paari /
+r/ Pasar / passaaaar /
+r/ Pasir / paaseer /
+r/ Pasiran / paseeraan /
+r/ Paya / baaeiaa /
+r/ Payoh / payo /
+r/ Piring / peereeng /
+r/ Pisang / peesaang /
+r/ Potong / podtonng /
+r/ Punggol / poonggoal /
+r/ Rabu / raabu /
+r/ Rahmat / raahmad /
+r/ Rajah / raadjaah /
+r/ Rajawali / rajah wali /
+r/ Rama / raama /
+r/ Rasok / rasorg /
+r/ Ratus / ratous /
+r/ Raya / raaia /
+r/ Rebana / rebaanna /
+r/ Redop / reddob /
+r/ Remaja / remaajha /
+r/ Rendang / rendaang /
+r/ Rengas / renggas /
+r/ Rengkam / rengkaaam /
+r/ Resak / resarg /
+r/ Ria / reeya /
+r/ Ris / rees /
+r/ Rusuk / roosoog /
+r/ Sahabat / saahabaad /
+r/ Sajak / saajaakh /
+r/ Salleh / saalay /
+r/ Samak / samaarg /
+r/ Samarinda / saamaarinda /
+r/ Sampurna / saampoorna /
+r/ Sarhad / sarhaadh /
+r/ Sari / saari /
+r/ Sarina / saarina /
+r/ Satu / saatu /
+r/ Seletar / seledaar /
+r/ Semangka / semaanngkha /
+r/ Sembawang / saambaaawaanng /
+r/ Sengkang / sengkaanng /
+r/ Sentosa / semtosaaa /
+r/ Serangoon / seraangoon /
+r/ Sesuai / sesooaaai /
+r/ Siang / seeaanng /
+r/ Siglap / seeglaap /
+r/ Simpang / simpaang /
+r/ Sinar / seenaar /
+r/ Songket / sonngkedh /
+r/ Sotong / sodonng /
+r/ Sungei / soongaaai /
+r/ Tai / taai /
+r/ Talib / taaleeb /
+r/ Taman / daamaaan /
+r/ Tampines / dhampinees /
+r/ Tanah / taanah /
+r/ Tanglin / taanng lin /
+r/ Tanjong / taanjonng /
+r/ Tari / taaaree /
+r/ Tawas / taawaz /
+r/ Telok / teloh /
+r/ Tembusu / temboosu /
+r/ Tenaga / ternagaa /
+r/ Tenang / ternaang /
+r/ Tenggiri / ternkgheeree /
+r/ Tenteram / tenteraam /
+r/ Terang / tehraanng /
+r/ Terubok / terroobog /
+r/ Tiga / deegaa /
+r/ Timah / deemaah /
+r/ Tiong / teeonng /
+r/ Toa / toaa /
+r/ Tong / donng /
+r/ Tua / dooaa /
+r/ Tuas / dhuaas /
+r/ Tujoh / dujoh /
+r/ Tukang / dookaanng /
+r/ Ubi / wubee /
+r/ Uji / woojee /
+r/ Ulu / wooloo /
+r/ Unggas / oonngas /
+r/ Usaha / oosahaa /
+r/ Wan / waan /
+r/ Warna / waarnaaa /
+r/ Yio / you /
+r/ Yishun / eeshun /
+r/ Yung / yoonng /
+r/ Yunnan / yinnaaaan /
+r/ Bdr. / baandaar /
+r/ Bg. / boongaa /
+r/ Bgn. / baanngoonaaan /
+r/ Bkt. / bhoogkid /
+r/ Bt. / baatooh /
+r/ Btn. / boolaadaaaan /
+r/ C.P. / Car Park /
+r/ Ckt. / chaanngkaadh /
+r/ Dtn. / daaataaraaaan /
+r/ Elec. / Electrical /
+r/ Eng. / Engineering /
+r/ G. / gooohnong /
+r/ H. / haalaaa /
+r/ H.R. / hootaaaan rheezaab /
+r/ Hj. / haaji /
+r/ Hln. / haalaamaaan /
+r/ Ind. / Industrial /
+r/ J.K.R. / jobbaadaaaan kerjhaa raayaa /
+r/ Jab. / jobbaadaaaan /
+r/ Jln. / jhaalaan /
+r/ K. / kuaalaa /
+r/ KL. / kuaalaa lompoor /
+r/ K.P.N. / kolaam penaapeesaan naajis /
+r/ Kg. / kaampong /
+r/ Kws. / kaaahwaasaaaan /
+r/ L.P.N. / loji penaapeesaan naajis /
+r/ Lb. / lehboou /
+r/ Lbr. / lehboou raayaa /
+r/ Ldg. / ladaanng /
+r/ Lkk. / lengkok /
+r/ Lln. / laaloowaaan /
+r/ Lpgn. / lapaanngaang /
+r/ Lrg. / loronng /
+r/ Ltd. / Limited /
+r/ Ltg. / lintaanng /
+r/ Ltn. / lindaasaaan /
+r/ P. / poolaao /
+r/ P.E.R. / komplek perneeaagaa an /
+r/ P.L. / penchaaawaang lektrik /
+r/ P.P. / puusaaad perdagaanng an /
+r/ P.U.S. / perpoostaakaaaaan /
+r/ Pej. / perjaabaaaad /
+r/ Pgkln. / perngkaalaaaan /
+r/ Pkg. / perkeleeling /
+r/ Pmtg. / permaadaanng /
+r/ Ps. / persaaaraa /
+r/ Psn. / perseeaaraaan /
+r/ Pss. / perseeseeraaan /
+r/ Pt. / paareed /
+r/ R. / regaad /
+r/ R.A. / rezaab agaama /
+r/ R.A.D. / ranchaangaan aghan dadhaanng /
+r/ R.K.T. / ranchaangaan kemaajuuaaan daanaa /
+r/ R.P.N. / rumaah paam naajis /
+r/ R.P.T. / ranchaangaan perkaampoongaan tersoosun /
+r/ R.T.M. / radio television malaishia /
+r/ Rd. / Road /
+r/ S. / selaaasaar /
+r/ S.A.R. / sekuola akgamaa rakeeaad /
+r/ S.J.K.[C] / sekolaah jenees kebaangsaaan cheenaa /
+r/ S.J.K.[T] / sekolaah jenees kebaangsaaan daameel /
+r/ S.K. / sekolaah kebaangsaaan /
+r/ S.M.[A] / sekolaah menengaah akgamaa /
+r/ S.M.J.K. / sekolaah memengaah jenees kebaangsaaan /
+r/ S.M.K. / sekolaah memengaah kebaangsaaan /
+r/ S.R.A. / sekolaah rendaaah akgamaa /
+r/ S.R.J.K. / sekolah rendaaah jenees kebaangsaaan /
+r/ S.R.J.K.[C] / sekolah rendaaah jenees kebaangsaaan cheenaa /
+r/ S.R.K. / sekolah rendaaah kebaangsaaan /
+r/ Sek. / sekuolah /
+r/ Sek.[A] / sekuola akgamaa /
+r/ Sg. / soongaaai /
+r/ Slk. / solokh /
+r/ Sykt. / shaareeghaad /
+r/ T. / taadikaa /
+r/ T.I. / dempaat eebaadaad /
+r/ T.N.B. / denaagaaa nasional berhaadh /
+r/ T.P.K. / daamaaaan bermaaeenaan kaanaak kaanaak /
+r/ Tg. / taanjonng /
+r/ Tk. / teloh /
+r/ Tkt. / deengkaatd /
+r/ Tmn. / daamaaan /

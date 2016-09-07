@@ -1,0 +1,116 @@
+gmt v0.8.186.801b  CC BY-SA (C) 2011-2014 AP www.gmaptool.eu
+
+Input file: Pycckuu__Tatiana.vpm.
+
+
+File:		Pycckuu__Tatiana.vpm, length 31255552
+Header:   	19.09.2014 11:59:20, DSKIMG, XOR 00, V 2.30, Ms 0, 006-D4896-00
+Mapset:   	tatiana
+fat:		1000h - 1200h - 16800h, block 1024
+maps:		50, sub-files 50
+
+Sub-file         fat     length
+ DLLINFO  TXT   1200h      1320
+ BRKINF22 HDR   1400h      4989
+ CLM_RUR  DAT   1600h     11625
+ DPS_RUR  DAT   1800h    166009
+ DPS_MIL  DAT   1A00h     43185
+ PHM_MIL  DAT   1C00h      6668
+ PP_RUR   DAT   1E00h     10908
+ SDCT_RUR DAT   2000h   1599704
+ SN22_MIL DAT   2E00h  14462044
+ SYNM_F16 DAT   A400h     10408
+ TTN_RUR  DAT   A600h    115684
+ UDCT_RUR DAT   A800h      1699
+ US_MIL   DAT   AA00h   1880356
+ DLLIMG   BIN   BA00h   1321924
+ GRAM     VXM   C600h    606327
+ VAR      VXM   CC00h     32592
+ DFLT     DCT   CE00h       310
+ APDB_TP  DAT   D000h      1564
+ APDB     DAT   D200h    153328
+ AMILGA22 DAT   D400h  10515608
+ RULESET  TXT  12A00h       165
+ WORDS    TXT  12C00h      4848
+ PHRASES  TXT  12E00h     78870
+ AU       DCT  13000h     14018
+ BR       DCT  13200h       418
+ CA       DCT  13400h     11073
+ CN       DCT  13600h      1611
+ DED      DCT  13800h       499
+ DNK      DCT  13A00h       228
+ ES       DCT  13C00h      8649
+ FI       DCT  13E00h        24
+ FR       DCT  14000h      1648
+ GB       DCT  14200h     12510
+ GR       DCT  14400h        24
+ ID       DCT  14600h       332
+ IN       DCT  14800h       284
+ IT       DCT  14A00h      1228
+ MY       DCT  14C00h      7341
+ MX       DCT  14E00h      8227
+ NL       DCT  15000h       193
+ NO       DCT  15200h        24
+ PL       DCT  15400h       232
+ PT       DCT  15600h        24
+ RU       DCT  15800h      5464
+ SE       DCT  15A00h        24
+ SG       DCT  15C00h      7365
+ TH       DCT  15E00h       784
+ TW       DCT  16000h      5498
+ US       DCT  16200h     12410
+ IMGEND   TST  16400h         3
+
+Map              length s-f  CP    prio  PID   FID  name
+ DLLINFO   ?       1320  1
+ BRKINF22  ?       4989  1
+ CLM_RUR   ?      11625  1
+ DPS_RUR   ?     166009  1
+ DPS_MIL   ?      43185  1
+ PHM_MIL   ?       6668  1
+ PP_RUR    ?      10908  1
+ SDCT_RUR  ?    1599704  1
+ SN22_MIL  ?   14462044  1
+ SYNM_F16  ?      10408  1
+ TTN_RUR   ?     115684  1
+ UDCT_RUR  ?       1699  1
+ US_MIL    ?    1880356  1
+ DLLIMG    ?    1321924  1
+ GRAM      ?     606327  1
+ VAR       ?      32592  1
+ DFLT      ?        310  1
+ APDB_TP   ?       1564  1
+ APDB      ?     153328  1
+ AMILGA22  ?   10515608  1
+ RULESET   ?        165  1
+ WORDS     ?       4848  1
+ PHRASES   ?      78870  1
+ AU        ?      14018  1
+ BR        ?        418  1
+ CA        ?      11073  1
+ CN        ?       1611  1
+ DED       ?        499  1
+ DNK       ?        228  1
+ ES        ?       8649  1
+ FI        ?         24  1
+ FR        ?       1648  1
+ GB        ?      12510  1
+ GR        ?         24  1
+ ID        ?        332  1
+ IN        ?        284  1
+ IT        ?       1228  1
+ MY        ?       7341  1
+ MX        ?       8227  1
+ NL        ?        193  1
+ NO        ?         24  1
+ PL        ?        232  1
+ PT        ?         24  1
+ RU        ?       5464  1
+ SE        ?         24  1
+ SG        ?       7365  1
+ TH        ?        784  1
+ TW        ?       5498  1
+ US        ?      12410  1
+ IMGEND    ?          3  1
+
+

@@ -1,0 +1,35 @@
+r/ example / example /
+r/SS/Strada Statale /
+r/Ss/Strada Statale /
+r/SR/Strada Regionale /
+r/Sr-/Strada Regionale /
+r/SP/Strada Provinciale /
+r/Sp-/Strada Provinciale /
+r/ Strade Sterrate / strada sterrata /
+r/ strade sterrate / strada sterrata /
+r/ Strade / strada /
+r/ strade / strada /
+r/ off ramp su Roundabout / fouri rampa a rotonda /
+r/ on ramp su Roundabout / sulla rampa a rotonda /
+r/ on ramp / sulla rampa /
+r/ off ramp / fouri rampa /
+r/ ramp / rampa /
+r/ Ramp / rampa /
+r/ su rampa / sulla rampa /
+r/ su strada / sulla strada /
+r/ Roundabout / rotonda /
+r/ roundabout / rotonda /
+r/ Rotonda / rotonda /
+r/ rotonde / rotonda /
+r/ Rotonde / rotonda /
+r/ su rotonda / /
+r/ verso rotonda / /
+r/ verso la rotonda / /
+r/ sulla <address> strada sulla / sulla <address> /
+r/ sulla <address> strada su / su <address> /
+r/ rampa verso la <address> rampa/ rampa <address> /
+r/ rampa sulla <address> rampa/ rampa <address> /
+r/ uscita sulla <address> rotonda <end_address>/ uscita /
+r/ uscita sulla <address> strada <end_address>/ uscita /
+r/ a destra sulla <address> strada <end_address>/ sulla strada a destra /
+r/ a sinistra sulla <address> strada <end_address>/ sulla strada a sinistra /

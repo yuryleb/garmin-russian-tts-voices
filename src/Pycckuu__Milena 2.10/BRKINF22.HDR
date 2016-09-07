@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<NUANCE>
+<VERSION>NUAN_1.0</VERSION>
+<HEADER>
+  <BROKERSTRING>pipeline/Russian/milena/16/bet2/text/pcm</BROKERSTRING>
+  <PRIORITY>3102</PRIORITY>
+  <PARAMETERS>
+    <language>Russian</language>
+    <langcode>RUR</langcode>
+    <langid>16</langid>
+    <langversion>5.2.3.12188</langversion>
+    <nativetypeofchar>utf-16</nativetypeofchar>
+    <voice>Milena</voice>
+    <voiceversion>5.2.3.10195</voiceversion>
+    <gender>Female</gender>
+    <age>Adult</age>
+    <fecfg>cfg1</fecfg>
+    <fedataprefix></fedataprefix>
+    <fevoice>Milena</fevoice>
+    <frequencyhz>16000</frequencyhz>
+    <voicemodel>bet2</voicemodel>
+    <reduction></reduction>
+    <coder></coder>
+    <bitrate></bitrate>
+    <overheadframes></overheadframes>
+    <audiooutputmimetype>audio/L16;rate=16000</audiooutputmimetype>
+    <audiooutputsamplebits>16</audiooutputsamplebits>
+    <bet2voicequality>med</bet2voicequality>
+  </PARAMETERS>
+  <OBJECTS>
+    <AUDIOFETCHER>audiofetch</AUDIOFETCHER>
+    <DCTEG>dcteg</DCTEG>
+    <DOMAINMNGR>domain_mngr</DOMAINMNGR>
+    <FE_DCTLKP>fe/fe_dctlkp</FE_DCTLKP>
+    <FE_DEPES>fe/fe_depes</FE_DEPES>
+    <INET>inetspi</INET>
+    <PHONMAP>phonmap</PHONMAP>
+  </OBJECTS>
+  <COMPONENTS>
+    <COMPONENT>xcoder</COMPONENT>
+    <COMPONENT>ttt/re</COMPONENT>
+    <COMPONENT>pp/text</COMPONENT>
+    <COMPONENT>fe/fe_udwl</COMPONENT>
+    <COMPONENT>fe/fe_promptoriorth</COMPONENT>
+    <COMPONENT>fe/fe_unixlit</COMPONENT>
+    <COMPONENT>fe/fe_initlingdb</COMPONENT>
+    <COMPONENT>fe/fe_promptorth</COMPONENT>
+    <COMPONENT>fe/tokentn</COMPONENT>
+    <COMPONENT>fe/fe_abbrtn</COMPONENT>
+    <COMPONENT>fe/fe_puncsptn</COMPONENT>
+    <COMPONENT>fe/fe_oneword</COMPONENT>
+    <COMPONENT>fe/fe_pos</COMPONENT>
+    <COMPONENT>fe/fe_hmogrph</COMPONENT>
+    <COMPONENT>fe/fe_phrasing</COMPONENT>
+    <COMPONENT>fe/fe_normout</COMPONENT>
+    <COMPONENT>fe/fe_prompt</COMPONENT>
+    <COMPONENT>fe/fe_global</COMPONENT>
+    <COMPONENT>fe/fe_deinitlingdb</COMPONENT>
+    <COMPONENT>select/bet2</COMPONENT>
+    <COMPONENT>synth/bet2</COMPONENT>
+    <COMPONENT>audioinserter</COMPONENT>
+    <COMPONENT>phonmap/mrk</COMPONENT>
+    <COMPONENT>xcoder/mrksync</COMPONENT>
+  </COMPONENTS>
+  <RESOURCES>
+    <!-- The next entry specifies a broker string for the user dict -->
+    <RESOURCE content-type="application/edct-bin-dictionary;loader=broker">
+      userdct/rur
+    </RESOURCE>
+  </RESOURCES>
+</HEADER>
+</NUANCE>
+<?xml version="1.0"?>
+<NUANCE>
+<VERSION>NUAN_1.0</VERSION>
+<HEADER>
+  <BROKERSTRING>pipeline/Russian/milena/22/dri40_155mrf22/text/pcm</BROKERSTRING>
+  <PRIORITY>4212</PRIORITY>
+  <PARAMETERS>
+    <language>Russian</language>
+    <langcode>RUR</langcode>
+    <langid>16</langid>
+    <langversion>5.2.3.12188</langversion>
+    <nativetypeofchar>utf-16</nativetypeofchar>
+    <voice>Milena</voice>
+    <voiceversion>5.2.3.12219</voiceversion>
+    <gender>Female</gender>
+    <age>Adult</age>
+    <fecfg>cfg1</fecfg>
+    <fedataprefix></fedataprefix>
+    <fevoice>Milena</fevoice>
+    <frequencyhz>22050</frequencyhz>
+    <voicemodel>dri40_155mrf22</voicemodel>
+    <reduction>dri40</reduction>
+    <coder>155mrf22</coder>
+    <bitrate>270</bitrate>
+    <overheadframes>06</overheadframes>
+    <audiooutputmimetype>audio/L16;rate=22050</audiooutputmimetype>
+    <audiooutputsamplebits>16</audiooutputsamplebits>
+  </PARAMETERS>
+  <OBJECTS>
+    <AUDIOFETCHER>audiofetch</AUDIOFETCHER>
+    <DCTEG>dcteg</DCTEG>
+    <DOMAINMNGR>domain_mngr</DOMAINMNGR>
+    <FE_DCTLKP>fe/fe_dctlkp</FE_DCTLKP>
+    <FE_DEPES>fe/fe_depes</FE_DEPES>
+    <INET>inetspi</INET>
+    <PHONMAP>phonmap</PHONMAP>
+  </OBJECTS>
+  <COMPONENTS>
+    <COMPONENT>xcoder</COMPONENT>
+    <COMPONENT>ttt/re</COMPONENT>
+    <COMPONENT>pp/text</COMPONENT>
+    <COMPONENT>fe/fe_udwl</COMPONENT>
+    <COMPONENT>fe/fe_promptoriorth</COMPONENT>
+    <COMPONENT>fe/fe_unixlit</COMPONENT>
+    <COMPONENT>fe/fe_initlingdb</COMPONENT>
+    <COMPONENT>fe/fe_promptorth</COMPONENT>
+    <COMPONENT>fe/tokentn</COMPONENT>
+    <COMPONENT>fe/fe_abbrtn</COMPONENT>
+    <COMPONENT>fe/fe_puncsptn</COMPONENT>
+    <COMPONENT>fe/fe_oneword</COMPONENT>
+    <COMPONENT>fe/fe_pos</COMPONENT>
+    <COMPONENT>fe/fe_hmogrph</COMPONENT>
+    <COMPONENT>fe/fe_phrasing</COMPONENT>
+    <COMPONENT>fe/fe_normout</COMPONENT>
+    <COMPONENT>fe/fe_prompt</COMPONENT>
+    <COMPONENT>fe/fe_global</COMPONENT>
+    <COMPONENT>fe/fe_deinitlingdb</COMPONENT>
+    <COMPONENT>uselect/bet1</COMPONENT>
+    <COMPONENT>synth/bet1</COMPONENT>
+    <COMPONENT>audioinserter</COMPONENT>
+    <COMPONENT>phonmap/mrk</COMPONENT>
+    <COMPONENT>xcoder/mrksync</COMPONENT>
+  </COMPONENTS>
+  <RESOURCES>
+    <!-- The next entry specifies a broker string for the user dict -->
+    <RESOURCE content-type="application/edct-bin-dictionary;loader=broker">
+      userdct/rur
+    </RESOURCE>
+  </RESOURCES>
+</HEADER>
+</NUANCE>
