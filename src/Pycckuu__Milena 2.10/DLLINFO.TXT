@@ -13,7 +13,7 @@ START
 <voice_peak_to_peak>90</voice_peak_to_peak>
 <start_addr>0x00000000</start_addr>
 <part_nmbr>006-D4465-00</part_nmbr>
-<ver_nmbr>2.10</ver_nmbr>
+<ver_nmbr>2.19</ver_nmbr>
 <dll_file>Pycckuu__Milena.vpm</dll_file>
 <vol_name>milena</vol_name>
 <voice_rate>100</voice_rate>
