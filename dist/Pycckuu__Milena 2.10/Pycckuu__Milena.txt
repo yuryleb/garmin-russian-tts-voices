@@ -4,7 +4,7 @@ Input file: Pycckuu__Milena.vpm.
 
 
 File:		Pycckuu__Milena.vpm, length 21580800
-Header:   	07.09.2016 13:37:27, DSKIMG, XOR 00, V 2.19, Ms 0, 006-D4465-00
+Header:   	08.09.2016 09:24:43, DSKIMG, XOR 00, V 2.19, Ms 0, 006-D4465-00
 Mapset:   	milena
 fat:		1000h - 1200h - 11800h, block 1024
 maps:		48, sub-files 48
@@ -21,14 +21,14 @@ Sub-file         fat     length
  SN22_MIL DAT   2E00h  14462044
  SYNM_F16 DAT   A400h     10408
  TTN_RUR  DAT   A600h    115684
- UDCT_RUR DAT   A800h    883383
+ UDCT_RUR DAT   A800h    883568
  US_MIL   DAT   B000h   1880356
  DLLIMG   BIN   C000h   1321924
  GRAM     VXM   CC00h    605504
  VAR      VXM   D200h     32592
  DFLT     DCT   D400h       166
  APDB_TP  DAT   D600h      1564
- RULESET  TXT   D800h    134585
+ RULESET  TXT   D800h    134957
  WORDS    TXT   DA00h      4820
  PHRASES  TXT   DC00h     78800
  AU       DCT   DE00h     14018
@@ -71,14 +71,14 @@ Map              length s-f  CP    prio  PID   FID  name
  SN22_MIL  ?   14462044  1
  SYNM_F16  ?      10408  1
  TTN_RUR   ?     115684  1
- UDCT_RUR  ?     883383  1
+ UDCT_RUR  ?     883568  1
  US_MIL    ?    1880356  1
  DLLIMG    ?    1321924  1
  GRAM      ?     605504  1
  VAR       ?      32592  1
  DFLT      ?        166  1
  APDB_TP   ?       1564  1
- RULESET   ?     134585  1
+ RULESET   ?     134957  1
  WORDS     ?       4820  1
  PHRASES   ?      78800  1
  AU        ?      14018  1
