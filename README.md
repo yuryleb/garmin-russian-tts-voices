@@ -69,7 +69,7 @@
 * Голосовая модель: [Compact (bet2 16kHz)](src/Pycckuu__Milena 1.30/BRKINF16.HDR)
 * Встроенный словарь: [есть](src/Pycckuu__Milena 1.30/UDCT_RUR.DAT),
   бинарный формат DAT
-* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 and VoCon 3200 Embedded Development System 3.3 SDK](http://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
+* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](http://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
 * Предобработка фраз: отсутствует
 
 ***
@@ -79,7 +79,7 @@
 * Исходный словарь: [dictionary_Milena130.dct](src/dictionary_Milena130.dct),
   текстовый формат DCT в кодировке UTF-8 с BOM
 * Компиляция словаря: [build_dictionary_Milena130.bat](src/build_dictionary_Milena130.bat),
-  запускающий скопилированный [Python](https://www.python.org/download/releases/2.5.4/)-скрипт dictcpl.pyc.
+  запускающий скопилированный [Python](https://www.python.org/download/releases/2.5.4/)-скрипт `dictcpl.pyc`.
 * Сборка голоса: [make_voice_Milena130.bat](src/make_voice_Milena130.bat)
 
 
@@ -91,7 +91,7 @@
 * Голосовая модель: [Standard (dri40_155mrf22 22kHz) + Compact (bet2 16kHz)](src/Pycckuu__Milena 2.10/BRKINF22.HDR)
 * Встроенный словарь: [есть](src/Pycckuu__Milena 2.10/UDCT_RUR.DAT),
   бинарный формат DAT
-* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 and VoCon 3200 Embedded Development System 3.3 SDK](http://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
+* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](http://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
 * Предобработка фраз: 
   * Предварительная замена слов: [RU.DCT](src/Pycckuu__Milena 2.10/RU.DCT),
     текст в кодировке UTF-8 **без BOM**
@@ -117,7 +117,7 @@
     [dictionary_foreign.dct](src/dictionary_foreign.dct),
     текстовый формат DCT в кодировке UTF-8 с BOM
 * Компиляция словаря: [build_dictionary.bat](src/build_dictionary.bat),
-  запускающий скопилированный [Python](https://www.python.org/download/releases/2.5.4/)-скрипт dictcpl.pyc
+  запускающий скопилированный [Python](https://www.python.org/download/releases/2.5.4/)-скрипт `dictcpl.pyc`
 * Сборка голоса: [make_voice_Milena.bat](src/make_voice_Milena.bat)
 
 
@@ -131,7 +131,7 @@
 * Голосовая модель: [Standard (dri40_155mrf22 22kHz) + Compact (bet2 16kHz)](src/Pycckuu__Tatiana 2.30/BRKINF22.HDR)
 * Встроенный словарь: [есть](src/Pycckuu__Tatiana 2.30/UDCT_RUR.DAT),
   бинарный формат DAT
-* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 and VoCon 3200 Embedded Development System 3.3 SDK](http://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
+* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](http://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
 * Предобработка фраз: 
   * Предварительная замена слов: [RU.DCT](src/Pycckuu__Tatiana 2.30/RU.DCT),
     текст в кодировке UTF-8 **без BOM**
@@ -157,7 +157,7 @@
     [dictionary_foreign.dct](src/dictionary_foreign.dct),
     текстовый формат DCT в кодировке UTF-8 с BOM
 * Компиляция словаря: [build_dictionary.bat](src/build_dictionary.bat),
-  запускающий скопилированный [Python](https://www.python.org/download/releases/2.5.4/)-скрипт dictcpl.pyc
+  запускающий скопилированный [Python](https://www.python.org/download/releases/2.5.4/)-скрипт `dictcpl.pyc`
 * Сборка голоса: [make_voice_Milena.bat](src/make_voice_Milena.bat)
 
 
