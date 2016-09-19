@@ -1,0 +1,14 @@
+*.BIN binary
+*.DAT binary
+*.DCT text eol=crlf
+*.HDR text eol=crlf
+*.SIG text eol=crlf
+*.TST binary
+*.TXT text eol=crlf
+*.VXM text eol=crlf
+*.bat text eol=crlf
+*.dct text eol=crlf
+*.ini text eol=crlf
+*.voc text eol=crlf
+*.vpm binary
+test/TestRULESET.txt text eol=crlf encoding=utf-16
