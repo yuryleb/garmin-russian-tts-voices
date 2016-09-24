@@ -161,7 +161,7 @@ charset = utf-8
 /\\tn=address\\ ([^,\/\\]*\S) (([Ss]kersgatvis)|(skg\.)) / --> "\\tn=address\\ $1 переулок "
 /\\tn=address\\ ([^,\/\\]*\S) [Tt]iltas / --> "\\tn=address\\ $1 мост "
 /\\tn=address\\ ([^,\/\\]*\S) [Žž]vyrkelis / --> "\\tn=address\\ грунтовая дорога $1 "
-# Translate Spain (and Catalonian) status street names
+# Translate Spainish (and Catalonian) status street names
 /\\tn=address\\ [Aa]cceso / --> "\\tn=address\\ подъезд "
 /\\tn=address\\ [Aa]venida / --> "\\tn=address\\ проспект "
 /\\tn=address\\ [Aa]utopista / --> "\\tn=address\\ магистраль "
@@ -169,10 +169,10 @@ charset = utf-8
 /\\tn=address\\ [Bb]ypass / --> "\\tn=address\\ обход "
 /\\tn=address\\ [Cc]alle / --> "\\tn=address\\ улица "
 /\\tn=address\\ [Cc]amino / --> "\\tn=address\\ дорога "
-/\\tn=address\\ [Cc]arretera / --> "\\tn=address\\ дорога "
+/\\tn=address\\ [Cc]arretera / --> "\\tn=address\\ шоссе "
 /\\tn=address\\ [Ee]je / --> "\\tn=address\\ диаметр "
 /\\tn=address\\ [Gg]lorieta / --> "\\tn=address\\ кольцо "
-# /\\tn=address\\ [Ggr]an [Vv][íi]a / --> "\\tn=address\\ большой проспект "
+/\\tn=address\\ [Gg]ran [Vv][íi]a / --> "\\tn=address\\ проспект Gran Vía "
 /\\tn=address\\ [Nn]udo / --> "\\tn=address\\ развязка "
 /\\tn=address\\ [Pp]aseo / --> "\\tn=address\\ проезд "
 /\\tn=address\\ [Pp]laza / --> "\\tn=address\\ площадь "
