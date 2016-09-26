@@ -161,7 +161,7 @@ charset = utf-8
 /\\tn=address\\ ([^,\/\\]*\S) (([Ss]kersgatvis)|(skg\.)) / --> "\\tn=address\\ $1 переулок "
 /\\tn=address\\ ([^,\/\\]*\S) [Tt]iltas / --> "\\tn=address\\ $1 мост "
 /\\tn=address\\ ([^,\/\\]*\S) [Žž]vyrkelis / --> "\\tn=address\\ грунтовая дорога $1 "
-# Translate Spainish/Catalonian status street names
+# Translate Spanish/Catalan status street names
 /\\tn=address\\ [Aa]cceso / --> "\\tn=address\\ подъезд "
 /\\tn=address\\ [Aa]venida / --> "\\tn=address\\ проспект "
 /\\tn=address\\ [Aa]utopista / --> "\\tn=address\\ магистраль "
