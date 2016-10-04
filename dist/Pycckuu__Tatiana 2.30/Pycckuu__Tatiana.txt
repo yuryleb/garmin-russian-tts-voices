@@ -3,8 +3,8 @@ gmt v0.8.186.801b  CC BY-SA (C) 2011-2014 AP www.gmaptool.eu
 Input file: Pycckuu__Tatiana.vpm.
 
 
-File:		Pycckuu__Tatiana.vpm, length 32274432
-Header:   	07.09.2016 13:50:26, DSKIMG, XOR 00, V 2.39, Ms 0, 006-D4896-00
+File:		Pycckuu__Tatiana.vpm, length 32280576
+Header:   	04.10.2016 06:46:22, DSKIMG, XOR 00, V 2.39, Ms 0, 006-D4896-00
 Mapset:   	tatiana
 fat:		1000h - 1200h - 17000h, block 1024
 maps:		50, sub-files 50
@@ -21,7 +21,7 @@ Sub-file         fat     length
  SN22_MIL DAT   2E00h  14462044
  SYNM_F16 DAT   A400h     10408
  TTN_RUR  DAT   A600h    115684
- UDCT_RUR DAT   A800h    883383
+ UDCT_RUR DAT   A800h    886052
  US_MIL   DAT   B000h   1880356
  DLLIMG   BIN   C000h   1321924
  GRAM     VXM   CC00h    606327
@@ -30,7 +30,7 @@ Sub-file         fat     length
  APDB_TP  DAT   D600h      1564
  APDB     DAT   D800h    153328
  AMILGA22 DAT   DA00h  10515608
- RULESET  TXT  13000h    134585
+ RULESET  TXT  13000h    137510
  WORDS    TXT  13200h      4848
  PHRASES  TXT  13400h     78870
  AU       DCT  13600h     14018
@@ -73,7 +73,7 @@ Map              length s-f  CP    prio  PID   FID  name
  SN22_MIL  ?   14462044  1
  SYNM_F16  ?      10408  1
  TTN_RUR   ?     115684  1
- UDCT_RUR  ?     883383  1
+ UDCT_RUR  ?     886052  1
  US_MIL    ?    1880356  1
  DLLIMG    ?    1321924  1
  GRAM      ?     606327  1
@@ -82,7 +82,7 @@ Map              length s-f  CP    prio  PID   FID  name
  APDB_TP   ?       1564  1
  APDB      ?     153328  1
  AMILGA22  ?   10515608  1
- RULESET   ?     134585  1
+ RULESET   ?     137510  1
  WORDS     ?       4848  1
  PHRASES   ?      78870  1
  AU        ?      14018  1
