@@ -11,4 +11,4 @@
 *.ini text eol=crlf
 *.voc text eol=crlf
 *.vpm binary
-test/TestRULESET.txt text eol=crlf encoding=utf-16
+test/TestRULESET.txt binary
