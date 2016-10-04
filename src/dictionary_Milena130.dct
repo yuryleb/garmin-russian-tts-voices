@@ -1467,6 +1467,7 @@ Tatneft             //t^t_'n%jeft%j
 Берестовая          //'b%je.r%j$s.to-.vo-.jo-
 Берестовская        //'b%je.r%jIs.to-f.sko-.jo-
 Берестовский        //'b%je.r%jIs.to-f.sk%jij
+Беретти             //bE.'r%jet_t%jij
 Берзарина           //b%jIr.'za.r%ji.no-
 Беринга             //'b%je.r%jin.go-
 Берингов            //'b%je.r%jin.go-f
@@ -1716,6 +1717,7 @@ Tatneft             //t^t_'n%jeft%j
 Бсср                //'bE_.'2E.'2sE.'sEr
 БССР                //'bE_.'2E.'2sE.'sEr
 Бубнова             //'bub.no-.vo-
+Бугаевская          //bu.g^.'jof.sko-.jo-
 Бугорная            //bu.'gor.no-.jo-
 Бугринская          //bug.'r%jin.sko-.jo-
 Бугринский          //bug.'r%jin.sk%jij
@@ -2093,6 +2095,7 @@ Tatneft             //t^t_'n%jeft%j
 Войтика             //'voj.t%ji.ko-
 Войтовича           //v^j.'to.v%ji.t&S%jo-
 Войтовцы            //'voj.to-f.d&zi0j
+Волгодонск          //vo-l.g^.'donsk
 Волго-Донская       //'2vol.go-.d^n.'ska.jo-
 Волго-Донской       //'2vol.go-.d^n.'skoj
 Волгостроевская     //vo-l.g^.'stro.j$f.sko-.jo-
@@ -3378,6 +3381,7 @@ Tatneft             //t^t_'n%jeft%j
 Зимина              //z%ji.m%ji.'na
 Зиминская           //z%ji.'m%jin.sko-.jo-
 Зимноводовская      //z%jim.n^.'vo.do-f.sko-.jo-
+Зимовники           //z%ji.'mov.n%ji.k%jij
 Зимовниковский      //z%ji.'mov.n%ji.ko-f.sk%jij
 Зимовская           //z%ji.'mof.sko-.jo-
 Зинина              //'z%ji.n%ji.no-
@@ -4881,6 +4885,7 @@ Tatneft             //t^t_'n%jeft%j
 Люблино             //l%jub.l%ji.'no
 Люблинская          //l%ju.'bl%jin.sko-.jo-
 Люблинский          //l%ju.'bl%jin.sk%jij
+Люблинское          //l%ju.'bl%jin.sko-.j$
 Любовича            //l%ju.'bo.v%ji.t&S%jo-
 Люботинский         //l%ju.'bo.t%jin.sk%jij
 Любченко            //'l%jup.t&S%j$n.ko-
@@ -5058,6 +5063,7 @@ Tatneft             //t^t_'n%jeft%j
 Маршаловка          //'mar.So-.lo-f.ko-
 Маршанская          //m^r.'San.sko-.jo-
 Маршанский          //m^r.'San.sk%jij
+Марьевка            //'mar%j.j$f.ko-
 Марьевская          //'mar%j.j$f.sko-.jo-
 Марьина             //'mar%j.jIj.no-
 Марьиной            //'mar%j.jij.no-j
@@ -6249,6 +6255,7 @@ Tatneft             //t^t_'n%jeft%j
 Палкинский          //'pal.k%jin.sk%jij
 Палладина           //p^l.'la.'d%jI.no-
 Палласовская        //p^l.'la.so-f.sko-.jo-
+Пальме              //'pal%j.'mE
 Пальчевского        //p^l%j.'t&S%jef.sko-.vo-
 Памятника           //'pa.m%j$t%j.n%jI.ko-
 Панаева             //p^.'na.j$.vo-
@@ -6302,20 +6309,31 @@ Tatneft             //t^t_'n%jeft%j
 Партсъезда          //p^rts.'jez.do-
 Парфенова           //p^r.'f%jo.no-.vo-
 Паршина             //'par.Si0.no-
+Парышевская         //'pa.ri0Sf.sko-.jo-
 Пасеки              //'pa.s%j$.k%jij
 Пасечника           //'pa.s%j$t&S%j.n%ji.ko-
+Паскаля             //p^s.'kal%j.o-
+Пассионарии         //po-.s%ji.^.'na.r%jI.j.Ij
 Пасторова           //p^s.'to.ro-.vo-
 Патриарший          //po-t.r%ji.'ar.Si0j
+Патрокл             //p^t.'rokl
 Пахринский          //'pax.rin.sk%jij
 Пацаева             //p^.'t&sa.j$.vo-
 Пашаева             //p^.'Sa.j$.vo-
+Пашенной            //p^.'SE.no-j
+Паши                //'pa.Si0j
 Пашийская           //p^.'Si0j.sko-.jo-
 Пашков              //p^S.'kof
 Пашкова             //p^S.'ko.vo-
 Пашковская          //'paS.ko-f.sko-.jo-
 Пашковский          //'paS.ko-f.sk%jij
+Пашневая            //'paS.n%j$.vo-.jo-
+Пашутинская         //p^.'Su.t%jIn.sko-.jo-
+Пашутинский         //p^.'Su.t%jIn.sk%jij
 Певческий           //'p%jef.t&S%j$.sk%jij
 Певчий              //'p%jef.t&S%jjij
+Пеевой              //'p%je.j$.vo-j
+Пелина              //'p%je.l%jI.no-
 Пельгорское         //p%jIl%j.'gor.sko-.j$
 Пензенская          //'p%jen%j.z%j$n.sko-.jo-
 Пензенский          //'p%jen%j.z%j$n.sk%jij
@@ -6328,6 +6346,7 @@ Tatneft             //t^t_'n%jeft%j
 Перевозчикова       //p%j$.r%jI.'vo.S%ji.ko-.vo-
 Передельцевская     //p%j$.r%jI.'d%je.l%jt&sEf.sko-.jo-
 Передельческая      //p%j$.r%jI.'d%jel%j.t&S%j$.sko-.jo-
+Передерия           //p%j$.r%jI.'dE.r%ji.jo-
 Передовиков         //p%j$.r%j$.do-.v%ji.'kof
 Переездная          //p%j$.r%jI.'jezd.no-.jo-
 Пережир             //p%j$.r%jI.'Zi0r
@@ -6335,9 +6354,14 @@ Tatneft             //t^t_'n%jeft%j
 Переносная          //p%j$.r%jI.'nos.no-.jo-
 Перерва             //p%jI.'r%jer.vo-
 Перервинский        //p%je.'r%jer.v%jin.sk%jij
+Переславль          //p%j$.r%jI.'slavl%j
+Переславль-Залесский //p%j$.r%jI.'slavl%j_z^.'l%je.sk%jij
+Пересыпская         //p%jI.'r%je.si0.psko-.jo-
+Пересыпский         //p%jI.'r%je.si0.psk%jij
 Переулок            //p%j$.r%jI.'u.lo-k
 Переходный          //p%j$.r%jI.'xod.ni0j
 Перттунена          //'p%jer.tu.n%j$.no-
+Перфецкого          //p%jIr.'f%jet&s.ko-.vo-
 Першинская          //'p%jer.Si0n.sko-.jo-
 Песина              //'p%je.s%ji.no-
 Песковская          //p%jIs.'kof.sko-.jo-
@@ -7187,6 +7211,7 @@ Tatneft             //t^t_'n%jeft%j
 Старо-Муринская     //'2sta.r^.'mu.r%jin.sko-.jo-
 Старонародная       //sto-.ro-.n^.'rod.no-.jo-
 Старонечаевская     //'2sta.ro-.n%jI.'t&S%ja.j$f.sko-.jo-
+Старониколаевское   //'2sta.ro-.n%ji.k^.'la.j$f.sko-.j$
 Староникольская     //'2sta.ro-.n%ji.'kol%j.sko-.jo-
 Староникольский     //'2sta.ro-.n%ji.'kol%j.sk%jij
 Старо-Никольский    //'2sta.ro-.n%ji.'kol%j.sk%jij
@@ -8031,6 +8056,7 @@ Tatneft             //t^t_'n%jeft%j
 Щелкунская          //S%jIl.'kun.sko-.jo-
 Щемиловский         //S%jI.'m%ji.lo-f.sk%jij
 Щербаково-Набережная //S%j$r.b^.'2ko.v^.'na.b%j$.r%j$Z.no-.jo-
+Щербаня             //'S%jer.bo-.n%jo-
 Щербинка            //'S%jer.b%jin.ko-
 Щербино             //'S%jer.b%ji.no-
 Щербинская          //'S%jer.b%jin.sko-.jo-
@@ -8050,6 +8076,7 @@ Tatneft             //t^t_'n%jeft%j
 Щусева              //'S%ju.s%j$.vo-
 Эйхенская           //'Ej.x%j$n.sko-.jo-
 Экваторная          //Ek.'va.to-r.no-.jo-
+Экзюпери            //Ek.z%ju.p%jI.'r%ji
 Экопарк             //E.k^.'park
 Эксимер             //Ek.s%ji.'m%jer
 Элеваторская        //E.l%jI.'va.to-r.sko-.jo-
