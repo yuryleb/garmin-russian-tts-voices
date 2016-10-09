@@ -4,7 +4,7 @@ Input file: Pycckuu__Tatiana.vpm.
 
 
 File:		Pycckuu__Tatiana.vpm, length 32280576
-Header:   	04.10.2016 06:46:22, DSKIMG, XOR 00, V 2.39, Ms 0, 006-D4896-00
+Header:   	09.10.2016 16:20:03, DSKIMG, XOR 00, V 2.39, Ms 0, 006-D4896-00
 Mapset:   	tatiana
 fat:		1000h - 1200h - 17000h, block 1024
 maps:		50, sub-files 50
@@ -53,7 +53,7 @@ Sub-file         fat     length
  NO       DCT  15800h        24
  PL       DCT  15A00h       232
  PT       DCT  15C00h        24
- RU       DCT  15E00h      6565
+ RU       DCT  15E00h      6551
  SE       DCT  16000h        24
  SG       DCT  16200h      7365
  TH       DCT  16400h       784
@@ -105,7 +105,7 @@ Map              length s-f  CP    prio  PID   FID  name
  NO        ?         24  1
  PL        ?        232  1
  PT        ?         24  1
- RU        ?       6565  1
+ RU        ?       6551  1
  SE        ?         24  1
  SG        ?       7365  1
  TH        ?        784  1
