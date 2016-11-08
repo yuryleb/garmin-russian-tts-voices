@@ -194,6 +194,8 @@ charset = utf-8
 # Translate some Finnish status street names
 /\\tn=address\\ ([^,\/\\]*\S) [Tt]unneli / --> "\\tn=address\\ $1 тоннель "
 /\\tn=address\\ P\+R / --> "\\tn=address\\ перехватывающая парковка "
+# Translate some Swedish status street names (draft)
+/\\tn=address\\ Riksvägen / --> "\\tn=address\\ трасса "
 
 # Remove dots after numbers in street names in Estonia and other countries
 /\\tn=address\\ (\d+)\. ([^,\/\\]*)[Лл]иния / --> "\\tn=address\\ ${1}-я линия $2"
