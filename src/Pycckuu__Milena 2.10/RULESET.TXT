@@ -23,8 +23,10 @@ charset = utf-8
 
 # Correct known Map Phonetics mistakes
 /'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
+/\.nan\.'/ --> ".n^n.'"
 /\/\+'nes\.te\?_'oil_'eks\.'2pres\/\+/ --> "Neste Oil Express"
 /'pris\.ma/ --> "'pr%jiz.mo-"
+/\.ren\./ --> ".rEn."
 
 # Cut status name part from German street names to pronounce separately
 /(\S)\-?[Aa]llee / --> "$1 /+^.'l%jej/+ "
