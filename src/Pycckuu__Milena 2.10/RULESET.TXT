@@ -23,10 +23,11 @@ charset = utf-8
 
 # Correct known Map Phonetics mistakes
 /'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
-/\.nan\.'/ --> ".n^n.'"
 /\/\+'nes\.te\?_'oil_'eks\.'2pres\/\+/ --> "Neste Oil Express"
 /'pris\.ma/ --> "'pr%jiz.mo-"
-/\.ren\./ --> ".rEn."
+/\.([jklmn])a\.'/ --> ".${1}^.'"
+/\.([jklmn])a([klmn])\.'/ --> ".${1}^${2}.'"
+/\.re([klmn])\./ --> ".rE${1}."
 
 # Cut status name part from German street names to pronounce separately
 /(\S)\-?[Aa]llee / --> "$1 /+^.'l%jej/+ "
@@ -450,8 +451,8 @@ charset = utf-8
 /[Дд]ержитесь справа/ --> "держитесь правее"
 /[Дд]вигайтесь слева/ --> "/+'dv%ji.go-j.t%j$s%j_'sl%je.vo-/+"
 /[Дд]вигайтесь справа/ --> "/+'dv%ji.go-j.t%j$s%j_'spra.vo-/+"
-/Резко / --> "По крутой траектории "
-/ резко / --> " по крутой траектории "
+/Резко / --> "Аккуратно "
+/ резко / --> " аккуратно "
 
 # Correct stress in Voice Direction phonemes (PRMT_SPEAK_VOICE_COMMAND "Произнесите", "название места" and others from ru_RU.glx)
 /pro\-\.iz%j\.'n%je\.s%ji\.t%j\$_/ --> "pro-.iz%j.n%jI.'s%ji.t%j$_"
