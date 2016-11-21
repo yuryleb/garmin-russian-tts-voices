@@ -25,6 +25,9 @@ charset = utf-8
 /'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
 /\/\+'nes\.te\?_'oil_'eks\.'2pres\/\+/ --> "Neste Oil Express"
 /'pris\.ma/ --> "'pr%jiz.mo-"
+/\.([jklmn])a\.'/ --> ".${1}^.'"
+/\.([jklmn])a([klmn])\.'/ --> ".${1}^${2}.'"
+/\.re([klmn])\./ --> ".rE${1}."
 
 # Cut status name part from German street names to pronounce separately
 /(\S)\-?[Aa]llee / --> "$1 /+^.'l%jej/+ "
@@ -448,10 +451,16 @@ charset = utf-8
 /[Дд]ержитесь справа/ --> "держитесь правее"
 /[Дд]вигайтесь слева/ --> "/+'dv%ji.go-j.t%j$s%j_'sl%je.vo-/+"
 /[Дд]вигайтесь справа/ --> "/+'dv%ji.go-j.t%j$s%j_'spra.vo-/+"
+/Резко / --> "Аккуратно "
+/ резко / --> " аккуратно "
 
 # Correct stress in Voice Direction phonemes (PRMT_SPEAK_VOICE_COMMAND "Произнесите", "название места" and others from ru_RU.glx)
 /pro\-\.iz%j\.'n%je\.s%ji\.t%j\$_/ --> "pro-.iz%j.n%jI.'s%ji.t%j$_"
 /n\^\.'zva\.n%ji\.j\$_m%jI\.'sta/ --> "n^.'zva.n%ji.j$_'m%jes.to-"
+
+# Correct pronunciation of some fragments "traffic jam along your route" (STR_TXT_TRF_LIGHT_TRAFFIC_M and others from ru_RU.glx)
+#/ на вашем маршруте / --> " /+n^_'va_'2SEm_m^rS.'ru.t%j$/+ "
+/ на светофоре\./ --> " /+n^_sv%j$.t^.'for%j.$*./+"
 
 # Correct time pronunciation in traffic info messages (STR_TXT_TRF_CONGESTION_OPT_ROUTE_MULT_PLURAL_M and others from ru_RU_TRF.glx)
 /(\d) мин\./ --> "$1 минут"
@@ -1705,6 +1714,7 @@ charset = utf-8
 / 2(\d{3}) / --> " две тысячи $1 "
 / ([34])(\d{3}) / --> " $1 тысячи $2 "
 / ([5-9])(\d{3}) / --> " $1 тысяч $2 "
+/ 0+([1-9])/ --> " $1"
 / (\d+[02-9])([1-9]) / --> " ${1}0 $2 "
 / (\d+)([2-9]0) / --> " ${1}00 $2 "
 / (\d+)(1\d) / --> " ${1}00 $2 "
