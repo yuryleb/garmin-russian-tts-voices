@@ -604,9 +604,10 @@ Representation = EDCT_REPR_SZZ_STRING
 300-Летия           //tr%j$x.s^t.'l%je.t%ji.jo-
 350-Летия           //tr%jIx.'sot_p%jI.'t%ji.d%j$.s%jo-.t%ji.'l%je.t%ji.jo-
 40-Летия            //so-.ro-.k^.'l%je.t%ji.jo-
-50-Летия            //p%jI.'t%ji.d%j$.s%jo-.t%ji.'l%je.t%ji.jo-
+50-Летия            //p%jI.'2t%ji.d%j$.s%jo-.t%ji.'l%je.t%ji.jo-
 60-Летия            //SE.st%ji.d%j$.s%jo-.t%ji.'l%je.t%ji.jo-
 70-Летия            //s%j$.m%ji.d%j$.s%jo-.t%ji.'l%je.t%ji.jo-
+850-Летия           //vo-s%j.m%jis.'ta_p%jI.'2t%ji.d%j$.s%jo-.t%ji.'l%je.t%ji.jo-
 Летия               //'l%je.t%ji.jo-
 
 [SubHeader]
@@ -8084,6 +8085,7 @@ Tatneft             //t^t_'n%jeft%j
 Шекснинский         //SEks.'n%jin.sk%jij
 Шелапутинский       //SE.l^.'pu.:t%jin.sk%jij
 Шелашский           //'SE.lo-S.sk%jij
+Шелекса             //'SE.l%j$k.so-
 Шелепихи            //SE.l%jI.'p%ji.x%jij
 Шелепихинская       //SE.l%jI.'p%ji.x%jin.sko-.jo-
 Шелепихинский       //SE.l%jI.'p%ji.x%jin.sk%jij
