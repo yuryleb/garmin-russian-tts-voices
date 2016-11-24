@@ -16,7 +16,7 @@ START
 <ver_nmbr>2.39</ver_nmbr>
 <dll_file>Pycckuu__Tatiana.vpm</dll_file>
 <vol_name>tatiana</vol_name>
-<voice_rate>78</voice_rate>
+<voice_rate>75</voice_rate>
 <lang_enum>28</lang_enum>
 <dll_chksum>0x06D253C4</dll_chksum>
 <gender>Female</gender>
