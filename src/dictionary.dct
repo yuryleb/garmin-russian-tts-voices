@@ -1,7 +1,7 @@
 ﻿[Header]
 
 [SubHeader]
-Language = rur
+Language = RUR
 Content = EDCT_CONTENT_BROAD_NARROWS
 Representation = EDCT_REPR_SZZ_STRING
 
@@ -11,6 +11,7 @@ BP                  //b%ji.'p%ji
 Bp                  //b%ji.'p%ji
 Carry               //'kE.r%jij
 Eka                 //'je.ka
+KFC                 //'kEj.'2Ef.'s%ji
 Kfc                 //'kEj.'2Ef.'s%ji
 LPG                 //'2El_p%jij_'dZi0
 MCHS                //Em.t&S%j$.'Es
@@ -5071,6 +5072,7 @@ Tatneft             //t^t_'n%jeft%j
 жореса              //Z^.'rE.so-
 жорновка            //'Zor.no-f.ko-
 жудро               //Zud.'ro.
+жукова              //'Zu.ko-.vo-
 жуковича            //Zu.'ko.v%ji.t&S%jo-
 жуковка             //'Zu.ko-f.ko-
 жуковская           //'Zu.ko-f.sko-.jo-
@@ -17454,6 +17456,7 @@ Raua                //'ra.u.a
 Rīga                //'r%ji.go-
 Rīgas               //'r%ji.go-s
 Rimi                //'r%ji.m%ji
+"Rocca Al Mare"     //'rok.ko-_'al%j_'ma.r$
 robeža              //r^.'beZ.o-
 Rohuneeme           //'ro.xu.n%j$.m%j$
 Säästumarket        //'s%ja.E.stu_'mar.k%j$t

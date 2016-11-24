@@ -616,6 +616,13 @@ Content = EDCT_CONTENT_BROAD_NARROWS
 Representation = EDCT_REPR_SZZ_STRING
 
 [Data]
+"Девичьего Поля"    //'d%je.v%jit&S%j.j$.vo-_'po.l%jo-
+"Кул Гали"          //kul.g^.'l%ji
+Кул-Гали            //kul.g^.'l%ji
+"Куликова Поля"     //ku.l%ji.'ko.vo-_'po.l%jo-
+"Марко Вовчок"      //m^r.'ko_v^f.'t&S%jok
+"Перова Поля"       //p%jI.'ro.vo-_'po.l%jo-
+"Поля Лафарга"      //'po.l%jo-_l^.'far.go-
 Садовая-Каретная    //s^.'do.vo-.jo-_k^.'r%jet.no-.jo-
 Садовая-Кудринская  //s^.'do.vo-.jI_'kud.r%jin.sko-.jo-
 Садовая-Самотечная  //s^.'do.vo-.jo-_so-.m^.'t%jot&S%j.no-.jo-
@@ -625,7 +632,10 @@ Representation = EDCT_REPR_SZZ_STRING
 Садовая-Черногрязская //s^.'do.vo-.jI_t&S%j$r.n^.'gr%ja.sko-.jo-
 Тверская-Ямская     //tv%jIr.'ska.jo-_jIm.'ska.jo-
 Тверской-Ямской     //tv%jIr.'skoj_jIm.'skoj
-
+"Турухтанные Острова" //tu.rux.'tan.ni0.j$_^s.tr^.'va
+"Турухтанные острова" //tu.rux.'tan.ni0.j$_^s.tr^.'va
+"Феодора Стратилата" //f%j$.'o.do-.ro-_stro-.t%ji.'la.to-
+"Ямского Поля"      //jIm.'sko.vo-_'po.l%jo-
 
 [SubHeader]
 Language = RUR
@@ -769,6 +779,7 @@ Raua                //'ra.u.a
 Rīga                //'r%ji.go-
 Rīgas               //'r%ji.go-s
 Rimi                //'r%ji.m%ji
+"Rocca Al Mare"     //'rok.ko-_'al%j_'ma.r$
 robeža              //r^.'beZ.o-
 Rohuneeme           //'ro.xu.n%j$.m%j$
 Säästumarket        //'s%ja.E.stu_'mar.k%j$t
@@ -865,6 +876,7 @@ BP                  //b%ji.'p%ji
 Bp                  //b%ji.'p%ji
 Carry               //'kE.r%jij
 Eka                 //'je.ka
+KFC                 //'kEj.'2Ef.'s%ji
 Kfc                 //'kEj.'2Ef.'s%ji
 LPG                 //'2El_p%jij_'dZi0
 MCHS                //Em.t&S%j$.'Es
@@ -3176,6 +3188,7 @@ Tatneft             //t^t_'n%jeft%j
 Жореса              //Z^.'rE.so-
 Жорновка            //'Zor.no-f.ko-
 Жудро               //Zud.'ro.
+Жукова              //'Zu.ko-.vo-
 Жуковича            //Zu.'ko.v%ji.t&S%jo-
 Жуковка             //'Zu.ko-f.ko-
 Жуковская           //'Zu.ko-f.sko-.jo-
@@ -7139,6 +7152,7 @@ Tatneft             //t^t_'n%jeft%j
 Селиверстова        //s%j$.l%ji.'v%jor.sto-.vo-
 Селицкого           //s%jI.'l%jit&s.ko-.vo-
 Село                //s%jI.'lo*.
+село                //s%jI.'lo*.
 Сельмашевская       //sIl%j.'ma.SEf.sko-.jo-
 Селятино            //s%j$.'l%ja.t%ji.no-
 Семена              //s%j$.'m%jo.no-
