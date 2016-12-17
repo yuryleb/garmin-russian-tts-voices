@@ -1,7 +1,7 @@
 ﻿[Header]
 
 [SubHeader]
-Language = rur
+Language = RUR
 Content = EDCT_CONTENT_BROAD_NARROWS
 Representation = EDCT_REPR_SZZ_STRING
 
@@ -116,6 +116,7 @@ Paldiski            //'pal.d%jis.k%ji
 Panevėžys           //po-.n%jI.'v%je.Zi0s
 Pärnamäe            //'p%jar.no-.m%jo-.E
 Pärnu               //'p%jar.nu
+Peaalajaama         //'p%je.o-.^.lo-.jI.'a.mo-
 Peetri              //'p%je.Et.r%jij
 Pelguranna          //'p%jel%j.gu.r^n.no-
 Peterburi           //'p%je.t%j$r.bu.r%jIj
@@ -152,7 +153,7 @@ Rimi                //'r%ji.m%ji
 robeža              //r^.'beZ.o-
 Rohuneeme           //'ro.xu.n%j$.m%j$
 Säästumarket        //'s%ja.E.stu_'mar.k%j$t
-Salacgrīva          //'sa.lo-t&s_'gr%ji.vo-
+Salacgrīva          //'sa.l^t&s.'gr%ji.vo-
 satama              //'sa.t^.mo-
 Saulkrasti          //'sa.ul.'2kras.ti0
 Savon               //'sa.vo-n
@@ -162,6 +163,7 @@ Selver              //'s%jel%j.v%j$r
 Sillamäe            //'s%jil.lo-.m%jo-.E
 Sõle                //'si0.le
 Sõpruse             //'si0p.ru.z$
+Sputniku            //'sput.n%ji.ku
 Stampfenbach        //Sto-mp.f%jIn.'bax
 Statoil             //st^t.'ojl
 straße              //'Stra.sE
@@ -189,6 +191,7 @@ ufer                //'u.fo-
 Uus                 //'u.us
 Vaalimaan           //'va.^.l%ji.mo-n
 Vabaduse            //'va.b^.du.zE
+Valla               //'val.lo-
 Vana-Narva          //'va.no-_'nar.vo-
 Vase                //'va.zE
 Vasknarva           //v^sk.'nar.vo-
@@ -230,7 +233,7 @@ Zürich-City         //'t&su.r%jix_'s%ji.t%jij
 Раквере             //'rak.v%j$.r%j$
 Раннамыза           //'ran.no-.mi0j.Ij.zo-
 Раннапунгерья       //'ran.no-.pun.g%j$r%j.jo-
-Салацгрива          //'sa.lo-t&s_'gr%ji.vo-
+Салацгрива          //'sa.l^t&s.'gr%ji.vo-
 Саулкрасты          //'sa.ul.'2kras.ti0
 Таммику             //'tam.m%ji.ku
 Тарту               //'tar.tu
