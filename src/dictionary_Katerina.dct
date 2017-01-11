@@ -658,6 +658,7 @@ Baltkrievijas       //'balt.kr%ji.j$.v%ji.o-s
 Bauska              //'ba.us.ko-
 Catalanes           //ko-.t^.'la.nEs
 City                //'s%ji.t%jij
+Citymarket          //s%ji.t%ji.'ma.rk%j$t
 Daugavpils          //'da.u.go-f.p%jils
 de                  //'dE
 Eje                 //'E.'2x%je
@@ -689,6 +690,9 @@ Joensuuntie         //'jo.^.'En.su.un_t%ji.i.j$.j$
 Jõesuu              //'ji0.E.su
 Jõhvi               //'ji0x.vI.j
 Joutsenontie        //'jo.ut.sE.no-n_t%ji.i.j$.j$
+K-Citymarket        //'2ka_s%ji.t%ji.'ma.rk%j$t
+K-Market            //'2ka_'ma.rk%j$t
+K-Supermarket       //'2ka_su.p%jIr.'ma.rk%j$t
 Kalda               //'kal%j.do-
 Kallaste            //'kal.lo-s.t%j$
 Kangelaste          //'kan.g%j$.l^s.t%j$
@@ -733,6 +737,7 @@ Maantee             //m^.'an.tE.E
 Maardu              //'ma.^r.du
 Malmi               //'mal.m%jIj
 Maneeži             //m^.'nE.$.ZIj
+Market              //'ma.rk%j$t
 Markučiai           //mo-r.ku.'d&Z%jaj
 Maxima              //'mak.s%ji.mo-
 Medininkai          //'m%ja.d%jI.n%jIn.ko-j
@@ -786,10 +791,11 @@ Rimi                //'r%ji.m%ji
 "Rocca Al Mare"     //'rok.ko-_'al%j_'ma.r$
 robeža              //r^.'beZ.o-
 Rohuneeme           //'ro.xu.n%j$.m%j$
+S-Market            //'2Es_'ma.rk%j$t
 Säästumarket        //'s%ja.E.stu_'mar.k%j$t
 Salacgrīva          //'sa.l^t&s.'gr%ji.vo-
 Saulkrasti          //'sa.ul.'2kras.ti0
-Savonlinnantie      //s^.vo-n.'l%jin.no-n_t%ji.i.j$.j$
+Savonlinnantie      //s^.v^n.'l%jin.no-n_t%ji.i.j$.j$
 Savontie            //'sa.vo-n_t%ji.i.j$.j$
 Schaffhausenstrasse //S^f.'xa.u.s%j$n_'Stra.sE
 Selver              //'s%jel%j.v%j$r
@@ -801,6 +807,7 @@ Stampfenbachstrasse //Sto-mp.f%jIn.'bax_'Stra.sE
 Statoil             //st^t.'ojl
 Straße              //'Stra.sE
 Strasse             //'Stra.sE
+Supermarket         //su.p%jIr.'ma.rk%j$t
 Suur-Ameerika       //'su.ur_^.'m%je.r%ji.ko-
 Tainionkoskentie    //'taj.n%ji.o-n_'kos.kEn_t%ji.i.j$.j$
 Tallinna            //'tal.l%jin.no-
