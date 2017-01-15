@@ -12,9 +12,10 @@ charset = utf-8
 /'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
 /\/\+'nes\.te\?_'oil_'eks\.'2pres\/\+/ --> "Neste Oil Express"
 /'pris\.ma/ --> "'pr%jiz.mo-"
-/\.([jklmnv])[ao]\.'/ --> ".${1}^.'"
-/\.([jklmnv])[ao]([klmnv])\.'/ --> ".${1}^${2}.'"
-/\.re([klmnv])\./ --> ".rE${1}."
+/\.([bdfgGjklmnpsStvxzZ])[ao]\.'/ --> ".${1}^.'"
+/\.([bdfgGjklmnpsStvxzZ])[ao]([bdfgGjklmnpsStvxzZ])\.'/ --> ".${1}^${2}.'"
+/\.([bdfgGjklmnpsStvxzZ])e([bdfgGjklmnpsStvxzZ])\.'/ --> ".${1}$${2}.'"
+/\.re([klmnpstv])\./ --> ".rE${1}."
 
 # Cut status name part from German street names to pronounce separately
 /(\S)\-?[Aa]llee / --> "$1 /+^.'l%jej/+ "
