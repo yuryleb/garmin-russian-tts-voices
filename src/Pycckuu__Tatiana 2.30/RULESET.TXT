@@ -14,8 +14,8 @@ charset = utf-8
 /'pris\.ma/ --> "'pr%jiz.mo-"
 /\.([bdfgGjklmnprsStvxzZ])[ao]\.'/ --> ".${1}^.'"
 /\.([bdfgGjklmnprsStvxzZ])[ao]([bdfgGjklmnprsStvxzZ])\.'/ --> ".${1}^${2}.'"
-/\.([bdfgGjklmnprsStvxzZ])e([bdfgGjklmnprsStvxzZ])\.'/ --> ".${1}$${2}.'"
 /\.re([bdfgGjklmnprsStvxzZ])\./ --> ".rE${1}."
+/\.([bdfgGjklmnpsStvxzZ])e([bdfgGjklmnprsStvxzZ])\.'/ --> ".${1}$${2}.'"
 
 # Cut status name part from German street names to pronounce separately
 /(\S)\-?[Aa]llee / --> "$1 /+^.'l%jej/+ "
