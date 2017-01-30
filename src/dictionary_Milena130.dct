@@ -1972,6 +1972,7 @@ Tatneft             //t^t_'n%jeft%j
 Верземнека          //v%jIr.'z%jem.n%j$.ko-
 Веринская           //'v%je.r%jin.sko-.jo-
 Веркола             //'v%jer.ko-.lo-
+Верколу             //'v%jer.ko-.lu
 Веркольский         //'v%jer.ko-l%j.sk%jij
 Вермишева           //'v%jer.m%ji.SE.vo-
 Вернигоры           //v%jIr.n%ji.g^.'ri0
@@ -2480,6 +2481,7 @@ Tatneft             //t^t_'n%jeft%j
 Голосеевская        //go-.l^.'s%je.j$f.sko-.jo-
 Голосеевский        //go-.l^.'s%je.j$f.sk%jij
 Голубевой           //'go.lu.b%j$.vo-j
+Голубино            //g^.'lu.b%ji.no-
 Голубинская         //g^.'lu.b%jin.sko-.jo-
 Голубинский         //g^.'lu.b%jin.sk%jij
 Голубка             //go-.lup.'ka
@@ -3281,6 +3283,7 @@ Tatneft             //t^t_'n%jeft%j
 Задне-Бойничная     //'2zad%j.n%j$.'boj.n%jit&S%j.no-.jo-
 Задне-Павлюхина     //'2zad%j.n%j$.p^v.'l%ju.x%ji.no-
 Задне-Хади          //'2zad%j.n%j$.x^.'d%ji
+Заедовье            //z^.'je.do-v%j.'je
 Заезжая             //z^.'je.ZE*.jo-
 Заелица             //z^.'je.l%ji.t&so-
 Займищенская        //'zaj.m%ji.S%j$n.sko-.jo-
@@ -3850,6 +3853,7 @@ Tatneft             //t^t_'n%jeft%j
 Карылгач            //ko-.ri0l.'gat&S%j
 Карякинская         //k^.'r%ja.k%jin.sko-.jo-
 Касаева             //k^.'sa.j$.vo-
+Касконемь           //'kas.ko-.n%j$m%j
 Кастанаевская       //ko-s.t^.'na.j$f.sko-.jo-
 Кастеливка          //k^.'s%jt%je.l%jif.ko-
 Кастерина           //k^s%j.'t%je.r%ji.no-
@@ -4619,6 +4623,7 @@ Tatneft             //t^t_'n%jeft%j
 Лабинская           //l^.'b%jin.sko-.jo-
 Лабинский           //l^.'b%jin.sk%jij
 Лабутина            //l^.'bu.t%ji.no-
+Лавела              //'la.v%j$.lo-
 Лавицкого           //l^.'v%jit&s.ko-.vo-
 Лавочкина           //'la.vo-t&S%j.k%ji.no-
 Лавренева           //lo-v.r%jI.'n%jo.vo-
@@ -6307,6 +6312,7 @@ Tatneft             //t^t_'n%jeft%j
 Падунская           //p^.'dun.sko-.jo-
 Палашевский         //po-.l^.'Sof.sk%jij
 Палдиское           //'pal.d%ji.sko-.j$
+Паленьга            //'pa.l%j$n%j.go-
 Палесская           //p^.'l%je.sko-.jo-
 Палиха              //p^.'l%ji.xo-
 Палицкое            //'pa.l%jIts.ko-.j$
@@ -6462,6 +6468,7 @@ Tatneft             //t^t_'n%jeft%j
 Петрушино           //p%jIt.'ru.Si0.no-
 Петряева            //p%jIt.'r%ja.j$.vo-
 Петченко            //'p%jet.t&S%j$n.ko-
+Пехоровский         //p%jI.'xo.ro-f.sk%jij
 Пехорская           //p%jI.'xor.sko-.jo-
 Печатника           //p%jI.'t&S%jat%j.n%ji.ko-
 Печатников          //p%jI.'t&S%jat%j.n%ji.ko-f
@@ -6481,6 +6488,8 @@ Tatneft             //t^t_'n%jeft%j
 Пинаиха             //p%ji.'na.ji.xo-
 Пинегина            //p%ji.'n%je.g%ji.no-
 Пинежская           //'p%ji.n%j$S.sko-.jo-
+Пинежский           //'p%ji.n%j$S.sk%jij
+Пинежского          //'p%ji.n%j$S.sko-.vo-
 Пинская             //'p%jin.sko-.jo-
 Пинский             //'p%jin.sk%jij
 Пинтера             //'p%jin.tE.ro-
@@ -7478,6 +7487,7 @@ Tatneft             //t^t_'n%jeft%j
 Сивяков             //s%ji.v%j$.'kof
 Сигова              //'s%ji.g^.vo-
 Сиговец             //'s%ji.go-.v%j$t&s
+Сийская             //'s%ji.j.sko-.jo-
 Сикейроса           //s%ji.'k%jej.ro-.so-
 Силикатчиков        //s%ji.l%ji.'kat.d&Z%ji.ko-f
 Сильницкого         //s%jil%j.'n%jit&s.ko-.vo-
@@ -7801,6 +7811,7 @@ Tatneft             //t^t_'n%jeft%j
 Сызранское          //'si0z.ro-n.sko-.j$
 Сыктывкарская       //si0k.ti0f.'kar.sko-.jo-
 Сылвинская          //'si0l.v%jin.sko-.jo-
+Сылога              //'si0.l^.go-
 Сырковское          //si0r.'kof.sko-.j$
 Сыровская           //si0.'rof.sko-.jo-
 Сыровский           //si0.'rof.sk%jij
@@ -8484,6 +8495,7 @@ Tatneft             //t^t_'n%jeft%j
 ШОТМАНА             //'Sot.mo-.no-
 Шотмана             //'Sot.mo-.no-
 шотмана             //'Sot.mo-.no-
+Шотова              //'So.to-.vo-
 Шпалерная           //Sp^.'l%jer.no-.jo-
 Шпилевская          //Sp%ji.'l%jef.sko-.jo-
 Шрадера             //'Sra.dE.ro-
