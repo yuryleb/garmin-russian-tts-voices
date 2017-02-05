@@ -14905,6 +14905,7 @@ Tatneft             //t^t_'n%jeft%j
 седина              //'s%je.d%ji.no-
 седнева             //s%jId.'n%jo.vo-
 седьмую             //s%jId%j.'mu.ju
+сейделя             //'sEj.d$.l%jo-
 секиотовская        //s%j$.k%ji.'o.to-f.sko-.jo-
 секиотовский        //s%j$.k%ji.'o.to-f.sk%jij
 секиотовского       //s%j$.k%ji.'o.to-f.sko-.vo-
@@ -14938,6 +14939,7 @@ Tatneft             //t^t_'n%jeft%j
 сельцовская         //s%jIl%j.'t&so.fsko-.jo-
 сельцовской         //s%jIl%j.'t&so.fsko-j
 сельцовскую         //s%jIl%j.'t&so.fsku.ju
+селявкина           //s%jI.'l%jaf.k%ji.no-
 селятино            //s%j$.'l%ja.t%ji.no-
 семена              //s%j$.'m%jo.no-
 семенково           //s%jI.'m%jon.ko-.vo-
@@ -14945,6 +14947,7 @@ Tatneft             //t^t_'n%jeft%j
 семенковской        //s%jI.'m%jon.ko-f.sko-j
 семенковскую        //s%jI.'m%jon.ko-f.sku.ju
 семенова-тян-шанского //s%jI.'m%jo.no-.vo-_t%jIn%j.'San.sko-.vo-
+семеновка           //s%jI.'m%jo.no-f.ko-
 семеновская         //s%j$.'m%jo.no-f.sko-.jo-
 семёновская         //s%j$.'m%jo.no-f.sko-.jo-
 семеновский         //s%j$.'m%jo.no-f.sk%jij
@@ -16366,6 +16369,9 @@ Tatneft             //t^t_'n%jeft%j
 сходненском         //'sxod.n%j$n.sko-m
 сходненскому        //'sxod.n%j$n.sko-.mu
 сходненскую         //'sxod.n%j$n.sku.ju
+сходовая            //'sxo.do-.vo-.jo-
+сходовой            //'sxo.do-.vo-j
+сходовую            //'sxo.do-.vu.ju
 счастного           //sS%j^s.'no.vo-
 счетчикова          //'S%jot.t&S%ji.ko-.vo-
 съездовская         //'sjjez.do-f.sko-.jo-
@@ -16409,6 +16415,7 @@ Tatneft             //t^t_'n%jeft%j
 сыровскому          //si0.'rof.sko-.mu
 сыровскую           //si0.'rof.sku.ju
 сыромолотова        //si0.ro-.m^.'lo.to-.vo-
+сыромятникова       //si0.r^.'m%jat%j.n%ji.ko-.vo-
 сыромятническая     //si0.r^.'m%jat.n%ji.t&S%j$.sko-.jo-
 сыромятнический     //si0.r^.'m%jat.n%ji.t&S%j$.sk%jij
 сыромятнического    //si0.r^.'m%jat.n%ji.t&S%j$.sko-.vo-
@@ -16423,6 +16430,7 @@ Tatneft             //t^t_'n%jeft%j
 сырском             //'si0r.sko-m
 сырскому            //'si0r.sko-.mu
 сырскую             //'si0r.sku.ju
+сырчина             //'si0r.t&S%ji.no-
 сысертский          //si0.'s%jert&s.k%jij
 сысертского         //si0.'s%jert&s.ko-.vo-
 сысертском          //si0.'s%jert&s.ko-m
@@ -16436,6 +16444,18 @@ Tatneft             //t^t_'n%jeft%j
 сытнинская          //'si0t.n%jIn.sko-.j^
 сытнинской          //'si0t.n%jIn.sko-j
 сытнинскую          //'si0t.n%jIn.sku.ju
+сытова              //'si0.to-.vo-
+сыховская           //'si0.xo-f.sko-.jo-
+сыховской           //'si0.xo-f.sko-j
+сыховскую           //'si0.xo-f.sku.ju
+сычевская           //si0.'t&S%jof.sko-.jo-
+сычевский           //si0.'t&S%jof.sk%jij
+сычевского          //si0.'t&S%jof.sko-.vo-
+сычевской           //si0.'t&S%jof.sko-j
+сычевском           //si0.'t&S%jof.sko-m
+сычевскому          //si0.'t&S%jof.sko-.mu
+сычевскую           //si0.'t&S%jof.sku.ju
+сююмбике            //s%ju.jum.b%jI.'k%je
 сябровская          //s%jIb.'rof.sko-.jo-
 сябровской          //s%jIb.'rof.sko-j
 сябровскую          //s%jIb.'rof.sku.ju
@@ -16447,6 +16467,10 @@ Tatneft             //t^t_'n%jeft%j
 сямженского         //'s%jam.ZEn.sko-.vo-
 сямженском          //'s%jam.ZEn.sko-m
 сямженскому         //'s%jam.ZEn.sko-.mu
+сянская             //'s%jan.sko-.jo-
+сянской             //'s%jan.sko-j
+сянскую             //'s%jan.sku.ju
+сяопина             //'2s%ja.^.'p%ji.no-
 таганка             //t^.'gan.ko-
 тазаева             //t^.'za.j$.vo-
 тайгинская          //t^j.'g%jin.sko-.jo-
