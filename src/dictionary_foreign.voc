@@ -12,6 +12,7 @@ Bauska              //'ba.us.ko-
 brucke              //'br%ju.kE
 Catalanes           //ko-.t^.'la.nEs
 City                //'s%ji.t%jij
+Citymarket          //s%ji.t%ji.'ma.rk%j$t
 damm                //'dam
 Daugavpils          //'da.u.go-f.p%jils
 de                  //'dE
@@ -45,6 +46,9 @@ Joensuun            //'jo.^.'En.su.un
 Joesuu              //'ji0.E.su
 Johvi               //'ji0x.vI.j
 Joutsenon           //'jo.ut.sE.no-n
+K-Citymarket        //'2ka_s%ji.t%ji.'ma.rk%j$t
+K-Market            //'2ka_'ma.rk%j$t
+K-Supermarket       //'2ka_su.p%jIr.'ma.rk%j$t
 Kalda               //'kal%j.do-
 Kallaste            //'kal.lo-s.t%j$
 Kangelaste          //'kan.g%j$.l^s.t%j$
@@ -89,6 +93,7 @@ maantee             //m^.'an.tE.E
 Maardu              //'ma.^r.du
 Malmi               //'mal.m%jIj
 Maneezi             //m^.'nE.$.ZIj
+Market              //'ma.rk%j$t
 Markuciai           //mo-r.ku.'d&Z%jaj
 Maxima              //'mak.s%ji.mo-
 Medininkai          //'m%ja.d%jI.n%jIn.ko-j
@@ -143,12 +148,13 @@ Rigas               //'r%ji.go-s
 Rimi                //'r%ji.m%ji
 robeza              //r^.'beZ.o-
 Rohuneeme           //'ro.xu.n%j$.m%j$
-Saastumarket        //'s%ja.E.stu_'mar.k%j$t
+S-Market            //'2Es_'ma.rk%j$t
+Saastumarket        //'s%ja.E.stu_'ma.rk%j$t
 Salacgriva          //'sa.l^t&s.'gr%ji.vo-
 satama              //'sa.t^.mo-
 Saulkrasti          //'sa.ul.'2kras.ti0
 Savon               //'sa.vo-n
-Savonlinnan         //s^.vo-n.'l%jin.no-n
+Savonlinnan         //s^.v^n.'l%jin.no-n
 Schaffhausen        //S^f.'xa.u.s%j$n
 Selver              //'s%jel%j.v%j$r
 Sillamae            //'s%jil.lo-.m%jo-.E
@@ -158,6 +164,7 @@ Sputniku            //'sput.n%ji.ku
 Stampfenbach        //Sto-mp.f%jIn.'bax
 Statoil             //st^t.'ojl
 strasse             //'Stra.sE
+Supermarket         //su.p%jIr.'ma.rk%j$t
 Suur-Ameerika       //'su.ur_^.'m%je.r%ji.ko-
 Tainionkosken       //'taj.n%ji.o-n_'kos.kEn
 Tallinna            //'tal.l%jin.no-

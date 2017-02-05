@@ -681,6 +681,7 @@ Tatneft             //t^t_'n%jeft%j
 атласная            //^t.'las.no-.jo-
 атласной            //^t.'las.no-j
 атласную            //^t.'las.nu.ju
+атласова            //^t.'la.so-.vo-
 аулак               //a.u.'lak
 аургазинская        //^.ur.g^.'z%jin.sko-.jo-
 аургазинский        //^.ur.g^.'z%jin.sk%jij
@@ -2198,6 +2199,7 @@ Tatneft             //t^t_'n%jeft%j
 варненском          //'var.n%jIn.sko-m
 варненскому         //'var.n%jIn.sko-.mu
 варненскую          //'var.n%jIn.sku.ju
+васендина           //v^.'s%jen%j.d%ji.no-
 василины            //v^.s%ji.'l%ji.ni0
 васильева           //v^.'s%jil%j.j$.vo-
 васильченко         //v^.'s%jil%j.t&S%j$n.ko-
@@ -2300,6 +2302,7 @@ Tatneft             //t^t_'n%jeft%j
 веневском           //v%jI.'n%jof.sko-m
 веневскому          //v%jI.'n%jof.sko-.mu
 веневскую           //v%jI.'n%jof.sku.ju
+вепрева             //'v%jep.r%j$.vo-
 вербилковский       //v%jIr.'b%jil.ko-f.sk%jij
 вербилковского      //v%jIr.'b%jil.ko-f.sko-.vo-
 вербилковском       //v%jIr.'b%jil.ko-f.sko-m
@@ -2329,6 +2332,12 @@ Tatneft             //t^t_'n%jeft%j
 веринская           //'v%je.r%jin.sko-.jo-
 веринской           //'v%je.r%jin.sko-j
 веринскую           //'v%je.r%jin.sku.ju
+веркола             //'v%jer.ko-.lo-
+верколу             //'v%jer.ko-.lu
+веркольский         //'v%jer.ko-l%j.sk%jij
+веркольского        //'v%jer.ko-l%j.sko-.vo-
+веркольском         //'v%jer.ko-l%j.sko-m
+веркольскому        //'v%jer.ko-l%j.sko-.mu
 вермишева           //'v%jer.m%ji.SE.vo-
 вернигоры           //v%jIr.n%ji.g^.'ri0
 верности            //'v%jer.no-.s%jt%jij
@@ -2733,6 +2742,7 @@ Tatneft             //t^t_'n%jeft%j
 волков              //'vol.ko-f
 волкова             //'vol.ko-.vo-
 волковича           //v^l.'ko.v%ji.t&S%jo-
+волковки            //'vol.ko-f.k%jij
 волковом            //'vol.ko-.vo-m
 волкову             //'vol.ko-.vu
 волмянская          //'vol.m%jo-n.sko-.jo-
@@ -3316,6 +3326,9 @@ Tatneft             //t^t_'n%jeft%j
 глазынинской        //gl^.'zi0.n%jin.sko-j
 глазынинскую        //gl^.'zi0.n%jin.sku.ju
 глебычево           //'gl%je.bi0.t&S%j$.vo-
+гледенская          //'gl%je.d%j$n.sko-.jo-
+гледенской          //'gl%je.d%j$n.sko-j
+гледенскую          //'gl%je.d%j$n.sku.ju
 глинищевский        //gl%ji.'n%ji.S%j$f.sk%jij
 глинищевского       //gl%ji.'n%ji.S%j$f.sko-.vo-
 глинищевском        //gl%ji.'n%ji.S%j$f.sko-m
@@ -3460,6 +3473,7 @@ Tatneft             //t^t_'n%jeft%j
 голосеевскому       //go-.l^.'s%je.j$f.sko-.mu
 голосеевскую        //go-.l^.'s%je.j$f.sku.ju
 голубевой           //'go.lu.b%j$.vo-j
+голубино            //g^.'lu.b%ji.no-
 голубинская         //g^.'lu.b%jin.sko-.jo-
 голубинский         //g^.'lu.b%jin.sk%jij
 голубинского        //g^.'lu.b%jin.sko-.vo-
@@ -3601,6 +3615,10 @@ Tatneft             //t^t_'n%jeft%j
 готфейской          //'got.f%j$.Ij.sko-j
 готфейскую          //'got.f%j$.Ij.sku.ju
 гофицкого           //g^.'f%jit&s.ko-.vo-
+грааповский         //gr^.'a.po-f.sk%jij
+грааповского        //gr^.'a.po-f.sko-.vo-
+грааповском         //gr^.'a.po-f.sko-m
+грааповскому        //gr^.'a.po-f.sko-.mu
 грабина             //'gra.b%ji.no-
 грабова             //gr^.'bo.vo-
 грабцевского        //'gra.pt&sEf.sko-.vo-
@@ -5226,6 +5244,7 @@ Tatneft             //t^t_'n%jeft%j
 задне-бойничную     //'2zad%j.n%j$.'boj.n%jit&S%j.nu.ju
 задне-павлюхина     //'2zad%j.n%j$.p^v.'l%ju.x%ji.no-
 задне-хади          //'2zad%j.n%j$.x^.'d%ji
+заедовье            //z^.'je.do-v%j.'je
 заезжая             //z^.'je.ZE*.jo-
 заезжей             //z^.'je.ZEj
 заезжий             //z^.'je.Zi0j
@@ -5939,6 +5958,8 @@ Tatneft             //t^t_'n%jeft%j
 иня                 //'2i.'n%ja
 иоанисиани          //i.o-.^.n%ji.s%ji.^.'a.n%jij
 иоанна              //i.^.'a.no-
+иоанно-богословская //i.^.'a.no-_bo-.g^.'slof.sko-.jo-
+иоанно-богословский //i.^.'a.no-_bo-.g^.'slof.sk%jij
 иоанновский         //i.^.'a.no-f.sk%jij
 иоанновского        //i.^.'a.no-f.sko-.vo-
 иоанновском         //i.^.'a.no-f.sko-m
@@ -6537,6 +6558,7 @@ Tatneft             //t^t_'n%jeft%j
 карякинской         //k^.'r%ja.k%jin.sko-j
 карякинскую         //k^.'r%ja.k%jin.sku.ju
 касаева             //k^.'sa.j$.vo-
+касконемь           //'kas.ko-.n%j$m%j
 кастанаевская       //ko-s.t^.'na.j$f.sko-.jo-
 кастанаевской       //ko-s.t^.'na.j$f.sko-j
 кастанаевскую       //ko-s.t^.'na.j$f.sku.ju
@@ -7630,6 +7652,13 @@ Tatneft             //t^t_'n%jeft%j
 крапивы             //kro-.p%ji.'vi0
 красавино           //kr^.'sa.v%ji.no-
 красавиной          //kr^.'sa.v%ji.no-j
+красавинская        //kr^.'sa.v%jin.sko-.jo-
+красавинский        //kr^.'sa.v%jin.sk%jij
+красавинского       //kr^.'sa.v%jin.sko-.vo-
+красавинской        //kr^.'sa.v%jin.sko-j
+красавинском        //kr^.'sa.v%jin.sko-m
+красавинскому       //kr^.'sa.v%jin.sko-.mu
+красавинскую        //kr^.'sa.v%jin.sku.ju
 красавского         //kr^.'saf.sko-.vo-
 красавское          //kr^.'saf.sko-.j$
 красавском          //kr^.'saf.sko-m
@@ -8306,6 +8335,7 @@ Tatneft             //t^t_'n%jeft%j
 лабинскому          //l^.'b%jin.sko-.mu
 лабинскую           //l^.'b%jin.sku.ju
 лабутина            //l^.'bu.t%ji.no-
+лавела              //'la.v%j$.lo-
 лавицкого           //l^.'v%jit&s.ko-.vo-
 лавочкина           //'la.vo-t&S%j.k%ji.no-
 лавренева           //lo-v.r%jI.'n%jo.vo-
@@ -8467,6 +8497,7 @@ Tatneft             //t^t_'n%jeft%j
 левшинского         //'l%jof.Si0n.sko-.vo-
 левшинском          //'l%jof.Si0n.sko-m
 левшинскому         //'l%jof.Si0n.sko-.mu
+леготина            //l%jI.'go.t%ji.no-
 легпромовская       //l%jIk.'pro.mo-f.sko-.jo-
 легпромовский       //l%jIk.'pro.mo-f.sk%jij
 легпромовского      //l%jIk.'pro.mo-f.sko-.vo-
@@ -10490,6 +10521,7 @@ Tatneft             //t^t_'n%jeft%j
 невзоровой          //n%jIv.'zo.ro-.vo-j
 невзоровых          //n%jIv.'zo.ro-.vi0x
 невки               //'n%jef.k%jIj
+неводчикова         //n%jI.'vot.t&S%ji.ko-.vo-
 неврез              //n%jIv.'r%jes
 невская             //'n%jef.sko-.jo-
 невской             //'n%jef.sko-j
@@ -11779,6 +11811,7 @@ Tatneft             //t^t_'n%jeft%j
 нойбранденбургская  //no-j.bro-n.dEn.'bur.sko-.jo-
 нойбранденбургской  //no-j.bro-n.dEn.'bur.sko-j
 нойбранденбургскую  //no-j.bro-n.dEn.'bur.sku.ju
+норд-ойл            //'nort_'ojl
 норильская          //n^.'r%jil%j.sko-.jo-
 норильский          //n^.'r%jil%j.sk%jij
 норильского         //n^.'r%jil%j.sko-.vo-
@@ -12397,6 +12430,7 @@ Tatneft             //t^t_'n%jeft%j
 палдиское           //'pal.d%ji.sko-.j$
 палдиском           //'pal.d%ji.sko-m
 палдискому          //'pal.d%ji.sko-.mu
+паленьга            //'pa.l%j$n%j.go-
 палесская           //p^.'l%je.sko-.jo-
 палиха              //p^.'l%ji.xo-
 палицкое            //'pa.l%jIts.ko-.j$
@@ -12731,6 +12765,7 @@ Tatneft             //t^t_'n%jeft%j
 петрушино           //p%jIt.'ru.Si0.no-
 петряева            //p%jIt.'r%ja.j$.vo-
 петченко            //'p%jet.t&S%j$n.ko-
+пехоровский         //p%jI.'xo.ro-f.sk%jij
 пехорская           //p%jI.'xor.sko-.jo-
 пехорской           //p%jI.'xor.sko-j
 пехорскую           //p%jI.'xor.sku.ju
@@ -12764,7 +12799,11 @@ Tatneft             //t^t_'n%jeft%j
 пинаиха             //p%ji.'na.ji.xo-
 пинегина            //p%ji.'n%je.g%ji.no-
 пинежская           //'p%ji.n%j$S.sko-.jo-
+пинежский           //'p%ji.n%j$S.sk%jij
+пинежского          //'p%ji.n%j$S.sko-.vo-
 пинежской           //'p%ji.n%j$S.sko-j
+пинежском           //'p%ji.n%j$S.sko-m
+пинежскому          //'p%ji.n%j$S.sko-.mu
 пинежскую           //'p%ji.n%j$S.sku.ju
 пинская             //'p%jin.sko-.jo-
 пинский             //'p%jin.sk%jij
@@ -13694,6 +13733,7 @@ Tatneft             //t^t_'n%jeft%j
 пушкаревскому       //puS.k^.'r%jof.sko-.mu
 пушкаревскую        //puS.k^.'r%jof.sku.ju
 пушкареву           //puS.k^.'r%jo.vu
+пушкариха           //puS.'ka.r%ji.xo-
 пушкин              //'puS.k%jin
 пушкина             //'puS.k%ji.no-
 пушкинская          //'puS.k%jin.sko-.jo-
@@ -15087,6 +15127,9 @@ Tatneft             //t^t_'n%jeft%j
 сидоренковскую      //s%ji.d^.'r%jen.ko-f.sku.ju
 сиенеч              //s%ji.'2je.'n%jet&S%j
 сизаса              //'s%ji.z^.so-
+сийская             //'s%ji.j.sko-.jo-
+сийской             //'s%ji.j.sko-j
+сийскую             //'s%ji.j.sku.ju
 сикачи-алян         //s%ji.k^.'t&S%jij_^.'l%jan
 сикейроса           //s%ji.'k%jej.ro-.so-
 силикатчиков        //s%ji.l%ji.'kat.d&Z%ji.ko-f
@@ -16342,6 +16385,7 @@ Tatneft             //t^t_'n%jeft%j
 сылвинская          //'si0l.v%jin.sko-.jo-
 сылвинской          //'si0l.v%jin.sko-j
 сылвинскую          //'si0l.v%jin.sku.ju
+сылога              //'si0.l^.go-
 сырецкая            //si0.'r%jet&s.ko-.jo-
 сырецкой            //si0.'r%jet&s.ko-j
 сырецкую            //si0.'r%jet&s.ku.ju
@@ -16722,6 +16766,7 @@ Tatneft             //t^t_'n%jeft%j
 троилинского        //tr^.'i.l%jin.sko-.vo-
 троилинском         //tr^.'i.l%jin.sko-m
 троилинскому        //tr^.'i.l%jin.sko-.mu
+троице-гледенский   //'tro.ji.t&sE_'gl%je.d%j$n.sk%jij
 троицкая            //'tro.jit&s.ko-.jo-
 троицкой            //'tro.jit&s.ko-j
 троицко-печорск     //'tro.jit&s.ko-_p%jI.'t&S%jorsk
@@ -16890,6 +16935,7 @@ Tatneft             //t^t_'n%jeft%j
 углеуральскую       //ug.l%j$.u.'ral%j.sku.ju
 угловая             //ug.l^.'va*.jo-
 угловой             //ug.l^.'voj
+угловского          //ug.'lof.sko-.vo-
 угловую             //ug.l^.'vu.ju
 угольная            //'u.go-l%jj.no-.jo-
 угольного           //'u.go-l%jj.no-.vo-
@@ -17416,6 +17462,7 @@ Tatneft             //t^t_'n%jeft%j
 царюка              //t&so-.r%ju.'ka
 цвиллинга           //'t&sv%jil.l%jin.go-
 целибьева           //t&sE.'l%jib%j.j$.vo-
+ценовец             //t&sE.n^.'v%jets
 центролит           //t&sEnt.ro-.'l%jit
 центросоюзного      //t&sEnt.ro-.s^.'juz.no-.vo-
 центросоюзном       //t&sEnt.ro-.s^.'juz.no-m
@@ -17890,6 +17937,7 @@ Tatneft             //t^t_'n%jeft%j
 шоссейную           //S^.'sEj.nu.ju
 шоссейный           //S^.'sEj.ni0j
 шотмана             //'Sot.mo-.no-
+шотова              //'So.to-.vo-
 шпалерная           //Sp^.'l%jer.no-.jo-
 шпалерной           //Sp^.'l%jer.no-j
 шпалерную           //Sp^.'l%jer.nu.ju
