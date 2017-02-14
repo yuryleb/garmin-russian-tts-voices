@@ -2395,10 +2395,10 @@ Tatneft             //t^t_'n%jeft%j
 верхнекондукторская //'2v%jerx.n%j$.k^n.'duk.to-r.sko-.jo-
 верхнекондукторской //'2v%jerx.n%j$.k^n.'duk.to-r.sko-j
 верхнекондукторскую //'2v%jerx.n%j$.k^n.'duk.to-r.sku.ju
-верхне-лебяжий      //'2v%jerx.n%j$.l%jI.'b%ja.Zij
-верхне-лебяжьего    //'2v%jerx.n%j$.l%jI.'b%ja.Zjj$.vo-
-верхне-лебяжьем     //'2v%jerx.n%j$.l%jI.'b%ja.Zjj$m
-верхне-лебяжьему    //'2v%jerx.n%j$.l%jI.'b%ja.Zjj$.mu
+верхне-лебяжий      //'2v%jerx.n%j$.l%jI.'b%jaZ.i0j
+верхне-лебяжьего    //'2v%jerx.n%j$.l%jI.'b%jaZ.jE.vo-
+верхне-лебяжьем     //'2v%jerx.n%j$.l%jI.'b%jaZ.jEm
+верхне-лебяжьему    //'2v%jerx.n%j$.l%jI.'b%jaZ.jE.mu
 верхнелихоборская   //'2v%jerx.n%j$.l%ji.x^.'bor.sko-.jo-
 верхнелихоборской   //'2v%jerx.n%j$.l%ji.x^.'bor.sko-j
 верхнелихоборскую   //'2v%jerx.n%j$.l%ji.x^.'bor.sku.ju
@@ -8464,11 +8464,12 @@ Tatneft             //t^t_'n%jeft%j
 лебедевского        //'l%je.b%j$.d$f.sko-.vo-
 лебедевской         //'l%je.b%j$.d$f.sko-j
 лебедевскую         //'l%je.b%j$.d$f.sku.ju
-лебяжий             //l%jI.'b%ja.Zij
-лебяжьего           //l%jI.'b%ja.Zj$.vo-
-лебяжьей            //l%jI.'b%ja.Z$j
-лебяжьем            //l%jI.'b%ja.Zj$m
-лебяжьему           //l%jI.'b%ja.Zj$.mu
+лебяжий             //l%jI.'b%jaZ.i0j
+лебяжье             //l%jI.'b%jaZ.jE
+лебяжьего           //l%jI.'b%jaZ.jE.vo-
+лебяжьей            //l%jI.'b%jaZ.Ej
+лебяжьем            //l%jI.'b%jaZ.jEm
+лебяжьему           //l%jI.'b%jaZ.jE.mu
 левадная            //l%jI.'vad.no-.jo-
 левадного           //l%jI.'vad.no-.vo-
 левадное            //l%jI.'vad.no-.j$
@@ -13254,6 +13255,7 @@ Tatneft             //t^t_'n%jeft%j
 пороховская         //po-.ro-.x^f.'ska.jI.jo-
 пороховской         //po-.ro-.x^f.'skoj
 пороховскую         //po-.ro-.x^f.'sku.ju
+порошкино           //p^.'roS.k%ji.no-
 порт-артурская      //'2port.^r.'tur.sko-.jo-
 порт-артурский      //'2port.^r.'tur.sk%jij
 порт-артурского     //'2port.^r.'tur.sko-.vo-
@@ -13404,6 +13406,8 @@ Tatneft             //t^t_'n%jeft%j
 привабная           //pr%ji.'vab.no-.jo-
 привабной           //pr%ji.'vab.no-j
 привабную           //pr%ji.'vab.nu.ju
+приветненское       //pr%ji.'v%jetn%j.$n.sko-.j$
+приветнинское       //pr%ji.'v%jetn%j.In.sko-.j$
 приволжская         //pr%ji.'volS.sko-.jo-
 приволжской         //pr%ji.'volS.sko-j
 приволжскую         //pr%ji.'volS.sku.ju
@@ -13937,6 +13941,7 @@ Tatneft             //t^t_'n%jeft%j
 ранетной            //r^.'n%jet.no-j
 ранетную            //r^.'n%jet.nu.ju
 раппатила           //'rap.po-.t%ji.lo-
+рапполово           //'rap_po-.lo-.vo-
 раскидайловская     //r^s.k%jI.'daj.lo-f.sko-.jo-
 раскидайловской     //r^s.k%jI.'daj.lo-f.sko-j
 раскидайловскую     //r^s.k%jI.'daj.lo-f.sku.ju
@@ -16483,6 +16488,7 @@ Tatneft             //t^t_'n%jeft%j
 сянской             //'s%jan.sko-j
 сянскую             //'s%jan.sku.ju
 сяопина             //'2s%ja.^.'p%ji.no-
+сярги               //'s%jar.g%jij
 табейкина           //t^.'b%jej.k%ji.no-
 тав-даир            //to-.vd^.'ir
 тавдинская          //'ta.vd%jin.sko-.jo-
@@ -18190,6 +18196,7 @@ Tatneft             //t^t_'n%jeft%j
 энергетической      //E.'2nEr.g%jI.'t%ji.t&S%j$.sko-j
 энергетическую      //E.'2nEr.g%jI.'t%ji.t&S%j$.sku.ju
 энергостроителей    //E.'2nEr.go-.str^.'i.t%j$.l%j$j
+энколово            //'En.ko-.lo-.vo-
 эпроновская         //Ep.'ro.no-f.sko-.jo-
 эпроновской         //Ep.'ro.no-f.sko-j
 эпроновскую         //Ep.'ro.no-f.sku.ju
