@@ -919,6 +919,7 @@ Tatneft             //t^t_'n%jeft%j
 Абрамовка           //^.'bra.mo-f.ko-
 Абрамовой           //^.'bra.mo-.vo-j
 Абрамовская         //^.'bra.mo-f.sko-.jo-
+Абрау-Дюрсо         //^b.'ra.u_d%jur.'so.
 Абраусский          //^.'bra.u.sk%jij
 Абрекская           //^.'br%jek.sko-.jo-
 Абрикосовский       //^b.r%ji.'ko.so-f.sk%jij
@@ -1730,6 +1731,7 @@ Tatneft             //t^t_'n%jeft%j
 Бродовская          //'bro.do-f.sko-.jo-
 Бродовский          //'bro.do-f.sk%jij
 Бродок              //br^.'dok
+Броды               //br^.'di0
 Бронная             //'bron.no-.jo-
 Бронницкая          //'bron.n%jit&s.ko-.jo-
 Бронницкий          //'bron.n%jit&s.k%jij
@@ -2627,6 +2629,7 @@ Tatneft             //t^t_'n%jeft%j
 Губонина            //gu.'bo.n%ji.no-
 Гугеля              //'gu.g%j$.l%jo-
 Гуданова            //gu.'da.no-.vo-
+Гудиловская         //gu.'d%ji.lo-f.sko-.jo-
 Гудованцева         //gu.d^.'van.t&sE.vo-
 Гудовича            //gu.'do.v%ji.t&S%jo-
 Гудыменко           //gu.'di0.m%j$n.ko-
@@ -2884,6 +2887,7 @@ Tatneft             //t^t_'n%jeft%j
 Доковая             //'do.ko-.vo-.jo-
 Доковская           //'do.ko-f.sko-.jo-
 Доковский           //'do.ko-f.sk%jij
+Доколь              //d^.'kol%j
 Докукина            //d^.'ku.k%ji.no-
 Докучаева           //do-.ku.'t&S%ja.j$.vo-
 Докучаевская        //do-.ku.'t&S%ja.j$f.sko-.jo-
@@ -3050,6 +3054,7 @@ Tatneft             //t^t_'n%jeft%j
 Дюкло               //d%juk.'lo.
 Дюковская           //'d%ju.ko-f.sko-.jo-
 Дюльбер             //d%jul%j.'ber
+Дюрсо               //d%jur.'so.
 Дягилевская         //'d%ja.g%ji.l%j$f.sko-.jo-
 Дягилевский         //'d%ja.g%ji.l%j$f.sk%jij
 Дятловка            //'d%jat.lo-f.ko-
@@ -3062,6 +3067,7 @@ Tatneft             //t^t_'n%jeft%j
 Евразия             //jIv.'ra.z%ji.jo-
 Евроотель           //'2jev.ro-_^.'tEl%j
 Евсеева             //jIf.'s%je.j$.vo-
+Евсеевичи           //jIf.'s%je.j$.v%ji.t&S%jij
 Евскина             //'jef.sk%ji.no-
 Евского             //'jef.sko-.vo-
 Евтеева             //jIf.'t%je.j$.vo-
@@ -3219,6 +3225,7 @@ Tatneft             //t^t_'n%jeft%j
 Жовковская          //'Zof.ko-f.sko-.jo-
 Жовтневая           //Z^ft.'nE.vo-.jo-
 Жодинская           //'Zo.d%jin.sko-.jo-
+Жолвинец            //Zo-l.v%ji.'n%jet&s
 Жолио               //'Zo.l%jI.'2o.^
 Жолио-Кюри          //'Zo.l%jI.'2o_k%ju.'r%ji
 Жолтовского         //Z^l.'tof.sko-.vo-
@@ -3839,7 +3846,6 @@ Tatneft             //t^t_'n%jeft%j
 Карманского         //k^r.'man.sko-.vo-
 Кармелюка           //ko-r.m%j$.l%ju.'ka
 Кармена             //k^r.'mE.no-
-Карница             //'kar.n%ji.t&so-
 Карого              //'ka.ro-.vo-
 Каролинская         //k^.r'o.l%jin.sko-.jo-
 Каролинский         //k^.r'o.l%jin.sk%jij
@@ -4038,6 +4044,7 @@ Tatneft             //t^t_'n%jeft%j
 Клязьминский        //'kl%jaz%j.m%jIn.sk%jij
 Книповича           //kn%ji.'po.v%ji.t&S%jo-
 Кнорина             //'kno.r%ji.no-
+Кныши               //kni0S.'i0j
 Княгини             //kn%jI.'g%ji.n%jij
 Княжекозловский     //'2kn%ja.ZE.k^z.'lof.sk%jij
 Кобера              //'ko.b%j$.ro-
@@ -4726,6 +4733,7 @@ Tatneft             //t^t_'n%jeft%j
 Лейтенантская       //l%j$j.t%jI.'nan.sko-.jo-
 Лекаря              //'l%je.ko-.r%jo-
 Лексина             //'l%jek.s%ji.no-
+Лекшмозеро          //'l%jokS.'2mo.z%j$.ro-
 Лелевеля            //l%j$.'l%je.v%j$.l%jo-
 Лелековская         //l%jI.'l%je.ko-f.sko-.jo-
 Лелековский         //l%jI.'l%je.ko-f.sk%jij
@@ -4933,6 +4941,7 @@ Tatneft             //t^t_'n%jeft%j
 Луческая            //'lu.t&S%j$s.ko-.jo-
 Луческий            //'lu.t&S%j$s.k%jij
 Лучинского          //lu.'t&S%jin.sko-.vo-
+Лучки               //'lu.t&S%j.k%jij
 Лучников            //'lut&S%j.n%ji.ko-f
 Лучникова           //'lut&S%j.n%ji.ko-.vo-
 Лушпинского         //luS.'p%jin.sko-.vo-
@@ -5411,6 +5420,7 @@ Tatneft             //t^t_'n%jeft%j
 Моршанская          //m^r.'San.sko-.jo-
 Моршанский          //m^r.'San.sk%jij
 Моршинская          //'mor.Si0n.sko-.jo-
+Моршихинская        //m^r.'Si0.x%jin.sko-.jo-
 Морщихино           //m^r.'S%ji.x%ji.no-
 Мосдачтрестовская   //mo-s.d^t&S%j.'tr%jes.to-f.sko-.jo-
 Мосеевская          //m^.'s%je.j$f.sko-.jo-
@@ -6404,6 +6414,7 @@ Tatneft             //t^t_'n%jeft%j
 Паскаля             //p^s.'kal%j.o-
 Пассионарии         //po-.s%ji.^.'na.r%jI.j.Ij
 Пасторова           //p^s.'to.ro-.vo-
+Паткановская        //p^t.'ka.no-f.sko-.jo-
 Патриарший          //po-t.r%ji.'ar.Si0j
 Патрокл             //p^t.'rokl
 Пахринский          //'pax.rin.sk%jij
@@ -8922,6 +8933,7 @@ Tatneft             //t^t_'n%jeft%j
 Южнопортовая        //juZ.no-.p^r.'to.vo-.jo-
 Южнопортовый        //juZ.no-.p^r.'to.vi0j
 Южный               //'juZ.ni0j
+Юзефово             //ju.z%jI.'fo.vo-
 Юзовский            //'ju.zo-f.sk%jij
 Юкки                //I.juk.'k%ji
 Юкковское           //'juk.ko-f.sko-.j$
