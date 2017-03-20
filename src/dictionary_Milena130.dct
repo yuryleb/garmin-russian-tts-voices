@@ -906,6 +906,13 @@ Tatneft             //t^t_'n%jeft%j
 П.С.                //p%jIt.r^.'grat&s.ko-j_sto-.r^.'ni0
 Ст.Слобода          //'sta.ro-.jo-_slo-.b^.'da
 Тнк-Bp              //tE.jEn.'ka_b%ji.'p%ji
+
+[SubHeader]
+Language = RUR
+Content = EDCT_CONTENT_BROAD_NARROWS
+Representation = EDCT_REPR_SZZ_STRING
+
+[Data]
 Абашева             //^.'ba.SE.vo-
 Абганеровская       //^b.g^.'n%je.ro-f.sko-.jo-
 Абдулинская         //^.'bdu.l%jIn.sko-.jo-
@@ -1685,6 +1692,8 @@ Tatneft             //t^t_'n%jeft%j
 Бортницкая          //'bort.n%jIt&s.ko-.jo-
 Бортницкий          //'bort.n%jIt&s.k%jij
 Бортничи            //'bort.n%ji.t&S%jij
+Борунская           //b^.'run.sko-.jo-
+Борунский           //b^.'run.sk%jij
 Бор-Чокрак          //'2bor.t&S%jIk.'rak
 Боршева             //'bor.SE.vo-
 Босова              //'bo.so-.vo-
@@ -8833,8 +8842,12 @@ Tatneft             //t^t_'n%jeft%j
 Федина              //'fe.d%ji.no-
 Федино              //'fe.d%ji.no-
 Фединское           //'f%je.d%jIn.sko-.j$
+Фёдорова            //'f%jo.do-.ro-.vo-
 Федоровка           //'f%jo.do-.ro-f.ko-
+Фёдоровская         //'f%jo.do-.ro-f.sko-.jo-
+Фёдоровский         //'f%jo.do-.ro-f.sk%jij
 Федоровского        //f%j$.d^.'rof.sko-.vo-
+Фёдоровское         //'f%jo.do-.ro-f.sko-.j$
 Федоскинская        //f%j$.'dos.k%jin.sko-.jo-
 Федосьино           //f%jI.'dos%j.i.no-
 Федотовская         //f%jI.'do.to-f.sko-.jo-
@@ -8859,41 +8872,61 @@ Tatneft             //t^t_'n%jeft%j
 Фесенковский        //f%jI.'s%jen.ko-f.sk%jij
 Фиалковая           //f%ji.'al.ki0.vo-.jo-
 Фиалковый           //f%ji.'al.ki0.vi0j
+Фигнер              //'f%jig.n%j$r
 Фидерная            //'f%ji.d%j$r.no-.jo-
 Филаретовская       //f%ji.l^.'r%je.to-f.sko-.jo-
 Филатовская         //f%ji.'la.to-f.sko-.jo-
+Фили                //f%ji.'l%ji
+Фили-Давыдково      //f%ji.'l%ji_d^.'vi0t.ko-.vo-
 Филимоновская       //f%ji.l%ji.'mo.no-f.sko-.jo-
 Филипченко          //f%ji.'l%jip.t&S%j$n.ko-
 Фильтровское        //'f%jil%j.tro-f.sko-.j$
 Фильченкова         //'f%jil%j.t&S%jIn.ko-.vo-
 Фирсановское        //f%jir.'sa.no-f.sko-.j$
 Фишева              //'f%ji.SE.vo-
+Фк                  //Ef.'ka
+Фланговая           //'flang.o-.vo-.jo-
 Флегонтова          //'fl%je.go-n.to-.vo-
+Флеминга            //'fl%je.m%jin.go-
+Флеровского         //fl%jI.'rof.sko-.vo-
 Флотилии            //fl^.'t%ji.l%ji.jI.jI
 Фогеля              //f'o.g%j$.:l%jo-
 Фои                 //'fo.jij
 Фольварак           //fo-l%j.'va.ro-k
 Фольварковый        //fo-l%j.'var.ko-.vi0j
 Фолюш               //'fo.l%juS
+Фоминское           //f^.'m%jin.sko-.j$
 Фонтанки            //f^n.'tan.k%jij
+Фонтанская          //f^n.'tan.sko-.jo-
 Фонченко            //'fon.t&S%j$n.ko-
 Форносово           //f^r.'no.so-.vo-
 Фортечная           //f^r.'t%jet&S%j.no-.jo-
 Фортовая            //'for.to-.vo-.jo-
 Фотиевой            //'fo.t%ji.j$.vo-j
+Фотисала            //f^.'t%ji.s^.'la
+Фоти-Сала           //f^.'t%ji.s^.'la
 Фофанцево           //'fo.fo-n.t&sE.vo-
 Франко              //fr^n.'ko*.
+Франковская         //fr^n.'kof.sko-.jo-
+Франковский         //fr^n.'kof.sk%jij
 Франценюка          //fro-n.t&sE.n%ju.'ka
+Фредерика           //fr%j$.dE.'r%ji.ko-
 Фридриха            //'fr%jid.r%ji.xo-
 Фроленкова          //fro-.l%jIn.'ko.vo-
 Фроликова           //'fro.l%ji.ko-.vo-
+Фрометовская        //fr^.'m%je.to-f.sko-.jo-
+Фрометовский        //fr^.'m%je.to-f.sk%jij
 Фрунзе              //'frun.zE
 Фрунзе-Оловянка     //'frun.zE_^.l^.'v%jan.ko-
 Фрязевская          //'fr%ja.z%j$f.sko-.jo-
 Фрязевское          //'fr%ja.z%j$f.sko-.j$
 Фряновское          //'fr%ja.no-f.sko-.j$
+Фубровская          //'fub.ro-f.sko-.jo-
+Фунтовский          //'fu.nto-f.sk%jij
+Фунтовское          //'fu.nto-f.sko-.j$
 Фурманный           //'fur.mo-n.ni0j
 Фурманова           //'fur.mo-.no-.vo-
+Фурманская          //'fur.mo-n.sko-.jo-
 Фучика              //'fu.t&S%ji.ko-
 Хабарова            //x^.'ba.ro-.vo-
 Хавская             //'xaf.sko-.jo-
