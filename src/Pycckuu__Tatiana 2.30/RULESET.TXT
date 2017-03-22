@@ -453,6 +453,10 @@ charset = utf-8
 /pro\-\.iz%j\.'n%je\.s%ji\.t%j\$_/ --> "pro-.iz%j.n%jI.'s%ji.t%j$_"
 /n\^\.'zva\.n%ji\.j\$_m%jI\.'sta/ --> "n^.'zva.n%ji.j$_'m%jes.to-"
 
+# Correct pronunciation of some fragments "traffic jam along your route" (STR_TXT_TRF_LIGHT_TRAFFIC_M and others from ru_RU.glx)
+/ на вашем маршруте / --> " /+n^_'vaS_'2Em_m^rS.'rut%j.$/+ "
+/ на светофоре\./ --> " /+n^_sv%j$.t^.'for%j.$*./+"
+
 # Correct time pronunciation in traffic info messages (STR_TXT_TRF_CONGESTION_OPT_ROUTE_MULT_PLURAL_M and others from ru_RU_TRF.glx)
 /(\d) мин\./ --> "$1 минут"
 / 1 минут/ --> " одну минуту"
