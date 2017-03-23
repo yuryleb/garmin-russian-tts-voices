@@ -454,7 +454,7 @@ charset = utf-8
 /n\^\.'zva\.n%ji\.j\$_m%jI\.'sta/ --> "n^.'zva.n%ji.j$_'m%jes.to-"
 
 # Correct pronunciation of some fragments "traffic jam along your route" (STR_TXT_TRF_LIGHT_TRAFFIC_M and others from ru_RU.glx)
-/ на вашем маршруте / --> " /+n^_'va_'2SEm_m^rS.'ru.t%j$/+ "
+/ на вашем маршруте / --> " /+n^_'vaS_'2Em_m^rS.'rut%j.$/+ "
 / на светофоре\./ --> " /+n^_sv%j$.t^.'for%j.$*./+"
 
 # Correct time pronunciation in traffic info messages (STR_TXT_TRF_CONGESTION_OPT_ROUTE_MULT_PLURAL_M and others from ru_RU_TRF.glx)
