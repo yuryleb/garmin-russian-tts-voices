@@ -907,6 +907,13 @@ Tatneft             //t^t_'n%jeft%j
 П.С.                //p%jIt.r^.'grat&s.ko-j_sto-.r^.'ni0
 Ст.Слобода          //'sta.ro-.jo-_slo-.b^.'da
 Тнк-Bp              //tE.jEn.'ka_b%ji.'p%ji
+
+[SubHeader]
+Language = RUR
+Content = EDCT_CONTENT_BROAD_NARROWS
+Representation = EDCT_REPR_SZZ_STRING
+
+[Data]
 Абашева             //^.'ba.SE.vo-
 Абганеровская       //^b.g^.'n%je.ro-f.sko-.jo-
 Абдулинская         //^.'bdu.l%jIn.sko-.jo-
@@ -8071,6 +8078,7 @@ Tatneft             //t^t_'n%jeft%j
 Столинская          //'sto.l%jin.sko-.jo-
 Столовая-Буфет      //st^.'lo.vo-.jo-_bu.'f%jet
 Столяры             //sto-.l%jI.'ri0
+Стоматология        //sto-.mo-.t^.'lo.g%ji.jI.o-
 Сторожки            //st^.'roS.k%jij
 Стоялово            //st^.'ja.lo-.vo-
 Страконицкий        //str^.'ko.n%jit&s.k%jij

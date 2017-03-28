@@ -906,6 +906,13 @@ Tatneft             //t^t_'n%jeft%j
 П.С.                //p%jIt.r^.'grat&s.ko-j_sto-.r^.'ni0
 Ст.Слобода          //'sta.ro-.jo-_slo-.b^.'da
 Тнк-Bp              //tE.jEn.'ka_b%ji.'p%ji
+
+[SubHeader]
+Language = RUR
+Content = EDCT_CONTENT_BROAD_NARROWS
+Representation = EDCT_REPR_SZZ_STRING
+
+[Data]
 Абашева             //^.'ba.SE.vo-
 Абганеровская       //^b.g^.'n%je.ro-f.sko-.jo-
 Абдулинская         //^.'bdu.l%jIn.sko-.jo-

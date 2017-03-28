@@ -26,6 +26,13 @@ Tatneft             //t^t_'n%jeft%j
 П.С.                //p%jIt.r^.'grat&s.ko-j_sto-.r^.'ni0
 Ст.Слобода          //'sta.ro-.jo-_slo-.b^.'da
 Тнк-Bp              //tE.jEn.'ka_b%ji.'p%ji
+
+[SubHeader]
+Language = RUR
+Content = EDCT_CONTENT_BROAD_NARROWS
+Representation = EDCT_REPR_SZZ_STRING
+
+[Data]
 абашева             //^.'ba.SE.vo-
 абганеровская       //^b.g^.'n%je.ro-f.sko-.jo-
 абганеровской       //^b.g^.'n%je.ro-f.sko-j
@@ -16307,6 +16314,7 @@ Tatneft             //t^t_'n%jeft%j
 столинскую          //'sto.l%jin.sku.ju
 столовая-буфет      //st^.'lo.vo-.jo-_bu.'f%jet
 столяры             //sto-.l%jI.'ri0
+стоматология        //sto-.mo-.t^.'lo.g%ji.jI.o-
 сторожки            //st^.'roS.k%jij
 стоялово            //st^.'ja.lo-.vo-
 страконицкий        //str^.'ko.n%jit&s.k%jij
@@ -19074,6 +19082,13 @@ Tatneft             //t^t_'n%jeft%j
 яшумова             //jI.'Su.mo-.vo-
 яшумовом            //jI.'Su.mo-.vo-m
 яшумову             //jI.'Su.mo-.vu
+
+[SubHeader]
+Language = RUR
+Content = EDCT_CONTENT_BROAD_NARROWS
+Representation = EDCT_REPR_SZZ_STRING
+
+[Data]
 A1l                 //'a_^.'d%jin_'El
 A2l                 //'a_'dva_'El
 Abc                 //Ej.I_b%ji_'s%ji
