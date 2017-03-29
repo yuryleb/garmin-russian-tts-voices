@@ -4,7 +4,7 @@ Input file: Pycckuu__Tatiana.vpm.
 
 
 File:		Pycckuu__Tatiana.vpm, length 32395264
-Header:   	09.03.2017 06:41:37, DSKIMG, XOR 00, V 2.39, Ms 0, 006-D4896-00
+Header:   	29.03.2017 17:48:34, DSKIMG, XOR 00, V 2.39, Ms 0, 006-D4896-00
 Mapset:   	tatiana
 fat:		1000h - 1200h - 17000h, block 1024
 maps:		50, sub-files 50
@@ -21,7 +21,7 @@ Sub-file         fat     length
  SN22_MIL DAT   2E00h  14462044
  SYNM_F16 DAT   A400h     10408
  TTN_RUR  DAT   A600h    115684
- UDCT_RUR DAT   A800h    997866
+ UDCT_RUR DAT   A800h    998183
  US_MIL   DAT   B200h   1880356
  DLLIMG   BIN   C200h   1321924
  GRAM     VXM   CE00h    606327
@@ -30,7 +30,7 @@ Sub-file         fat     length
  APDB_TP  DAT   D800h      1564
  APDB     DAT   DA00h    153328
  AMILGA22 DAT   DC00h  10515608
- RULESET  TXT  13200h    140619
+ RULESET  TXT  13200h    140791
  WORDS    TXT  13400h      4848
  PHRASES  TXT  13600h     78870
  AU       DCT  13800h     14018
@@ -53,7 +53,7 @@ Sub-file         fat     length
  NO       DCT  15A00h        24
  PL       DCT  15C00h       232
  PT       DCT  15E00h        24
- RU       DCT  16000h      6551
+ RU       DCT  16000h      6577
  SE       DCT  16200h        24
  SG       DCT  16400h      7365
  TH       DCT  16600h       784
@@ -73,7 +73,7 @@ Map              length s-f  CP    prio  PID   FID  name
  SN22_MIL  ?   14462044  1
  SYNM_F16  ?      10408  1
  TTN_RUR   ?     115684  1
- UDCT_RUR  ?     997866  1
+ UDCT_RUR  ?     998183  1
  US_MIL    ?    1880356  1
  DLLIMG    ?    1321924  1
  GRAM      ?     606327  1
@@ -82,7 +82,7 @@ Map              length s-f  CP    prio  PID   FID  name
  APDB_TP   ?       1564  1
  APDB      ?     153328  1
  AMILGA22  ?   10515608  1
- RULESET   ?     140619  1
+ RULESET   ?     140791  1
  WORDS     ?       4848  1
  PHRASES   ?      78870  1
  AU        ?      14018  1
@@ -105,7 +105,7 @@ Map              length s-f  CP    prio  PID   FID  name
  NO        ?         24  1
  PL        ?        232  1
  PT        ?         24  1
- RU        ?       6551  1
+ RU        ?       6577  1
  SE        ?         24  1
  SG        ?       7365  1
  TH        ?        784  1

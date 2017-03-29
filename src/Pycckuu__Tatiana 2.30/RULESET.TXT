@@ -8,6 +8,9 @@ charset = utf-8
 /(\S),/ --> "$1 ,"
 /,(\S)/ --> ", $1"
 
+# Catch special separators from Belarus map
+/\\tn=address\\ .*[@\|](.*) \\tn=normal\\/ --> "\\tn=address\\ $1 \\tn=normal\\"
+
 # Correct known Map Phonetics mistakes
 /'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
 /\/\+'nes\.te\?_'oil_'eks\.'2pres\/\+/ --> "Neste Oil Express"
