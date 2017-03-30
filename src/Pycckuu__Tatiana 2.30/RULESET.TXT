@@ -8,9 +8,6 @@ charset = utf-8
 /(\S),/ --> "$1 ,"
 /,(\S)/ --> ", $1"
 
-# Catch special separators from Belarus map
-/\\tn=address\\ .*[@\|](.*) \\tn=normal\\/ --> "\\tn=address\\ $1 \\tn=normal\\"
-
 # Correct known Map Phonetics mistakes
 /'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
 /\/\+'nes\.te\?_'oil_'eks\.'2pres\/\+/ --> "Neste Oil Express"
@@ -76,6 +73,10 @@ charset = utf-8
 / 700[ \-][Лл]етия / --> " семисотлетия "
 / 850[ \-][Лл]етия / --> " восьмиста пятидесятилетия "
 / 900[ \-][Лл]етия / --> " девятисотлетия "
+
+# Catch some Belarus names with special stress
+/ ДУБРОВКА \(ОСИПОВИЧСКИЙ Р\-Н\) / --> " /+'dub.ro-f.ko-/+ "
+/ ОСТРОВКИ \(ОСИПОВИЧСКИЙ Р\-Н\) / --> " /+^s.'trof.k%jij/+ "
 
 # Move alternate drive status name first
 /\\tn=address\\ ([^,\/\\]*\S) *\([Дд]убл[её]р\) / --> "\\tn=address\\ дублёр _GEN_ $1 "
