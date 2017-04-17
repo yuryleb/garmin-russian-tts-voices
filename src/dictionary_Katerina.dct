@@ -7,22 +7,36 @@ Representation = EDCT_REPR_SZZ_STRING
 
 [Data]
 &                   //i
+алл.                //^.'l%je.jo-
+б-лр                //bul%j.'var
 Д.                  //'dom
 д.                  //'dom
+дор.                //d^.'ro.go-
 Им.                 //'i.m%jI.n%ji
+им.                 //'i.m%jI.n%ji
 Км                  //k%ji.l^.'m%jetr
+лин.                //'l%ji.n%jI.^
 лит.                //'l%ji.t%j$.ro-
 Наб.                //'na.b%j$.r%j$Z.no-.jo-
+наб.                //'na.b%j$.r%j$Z.no-.jo-
 Пер.                //p%j$.r%jI.'u.lo-k
+пер.                //p%j$.r%jI.'u.lo-k
 Пр-Д                //pr^.'jest
+пр-д                //pr^.'jest
 Пр.                 //pr^s.'p%jekt
+пр.                 //pr^s.'p%jekt
 Пр-Т                //pr^s.'p%jekt
 Пр-Кт               //pr^s.'p%jekt
 Просп.              //pr^s.'p%jekt
 Просп-Т             //pr^s.'p%jekt
+раз.                //r^z.'jezd
 Р-Н                 //r^.'jon
+тр-т                //'trakt
+туп.                //tup%j.'ik
 Ул.                 //'u.l%ji.t&so-
+ул.                 //'u.l%ji.t&so-
 Ш.                  //S^.'sE
+ш.                  //S^.'sE
 №                   //'no.m%j$r
 
 [SubHeader]
@@ -949,6 +963,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Авраменко           //^v.'ra.m%j$n.ko-
 Аврова              //'av.ro-.vo-
 Авроровская         //^v.'ro.ro-f.sko-.jo-
+Авсимовичи          //^f.'s%ji.mo-.v%ji.t&S%jij
 Автобазовая         //^f.to-.'ba.zo-.vo-.jo-
 Автобазовская       //^f.t^.'ba.zo-f.sko-.jo-
 Автово              //'af.to-.vo-
@@ -1061,10 +1076,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Алиме               //^.l%ji.'mE
 Алимова             //^.'l%ji.mo-.vo-
 Алксниса            //'alks.n%ji.so-
-Аллее               //^l.'l%je.j$j
-Аллеи               //^l.'l%je.jIj
-Аллею               //^l.'l%je.ju
-Аллея               //^l.'l%je.jo-
+Аллея               //^.'l%je.jo-
+аллея               //^.'l%je.jo-
 Аллы                //'al.li0
 Алма-Атинская       //'2al.mo-_^.'t%jin.sko-.jo-
 Алмалы              //^l.m^.'li0
@@ -1818,8 +1831,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Булганак            //bul.g^.'nak
 Булевского          //bu.'l%jef.sko-.vo-
 Бульвар             //bul%j.'var
-Бульвара            //bul%j.'va.ro-
-Бульваре            //bul%j.'va.r%j$
+бульвар             //bul%j.'var
 Бульварная          //bul%j.'var.no-.jo-
 Бульварное          //bul%j.'var.no-.j$
 Бульварно-Кудрявская //bul%j.'var.no-_ku.'dr%jaf.sko-.jo-
@@ -2124,6 +2136,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Вишневец            //v%jiS.n%jI.'v%jet&s
 Вишневского         //v%jiS.'n%jef.sko-.vo-
 Вишневый            //v%jiS.'n%jo.vi0j
+Вкусные             //'fkus.ni0j.$
 Владимировка        //vl^.'d%ji.m%ji.ro-f.ko-
 Владимировки        //vl^.'d%ji.m%ji.ro-f.k%jI.j
 Владимировская      //vl^.'d%ji.m%ji.ro-f.sko-.jo-
@@ -2961,8 +2974,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Доренского          //d^.'r%jen.sko-.vo-
 Дормаш              //d^r.'maS
 Дорога              //d^.'ro.go-
-Дороге              //d^.'ro.g%j$
-Дороги              //d^.'ro.g%jij
+дорога              //d^.'ro.go-
 Дорогичинская       //do-.r^.'g%ji.t&S%jin.sko-.jo-
 Дорогобуж           //do-.ro-.g^.'buS
 Дорогобужская       //do-.ro-.g^.'buS.sko-.jo-
@@ -4872,9 +4884,9 @@ Representation = EDCT_REPR_SZZ_STRING
 Линдовская          //'l%jin.do-f.sko-.jo-
 Линевского          //l%ji.'n%jef.sko-.vo-
 Линии               //'l%ji.n%jI.jI
-Линий               //'l%ji.n%jIj
-Линию               //'l%ji.n%ji.ju
+линии               //'l%ji.n%jI.jI
 Линия               //'l%ji.n%jI.^
+линия               //'l%ji.n%jI.^
 Линковского         //l%jin.'kof.sko-.vo-
 Линника             //'l%ji.n%ji.ko-
 Лиозненская         //l%jI.jI.'oz.n%j$n.sko-.jo-
@@ -6561,6 +6573,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Пересыпская         //p%jI.'r%je.si0.psko-.jo-
 Пересыпский         //p%jI.'r%je.si0.psk%jij
 Переулок            //p%j$.r%jI.'u.lo-k
+переулок            //p%j$.r%jI.'u.lo-k
 Переходный          //p%j$.r%jI.'xod.ni0j
 Персенковка         //p%jIr.'s%jen.ko-f.ko-
 Перттунена          //'p%jer.tu.n%j$.no-
@@ -7013,6 +7026,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Путевой             //pu.t%jI.'voj
 Путейная            //pu.'t%jej.no-.jo-
 Путепровод          //'2pu.t%j$.pr^.'vot
+путепровод          //'2pu.t%j$.pr^.'vot
 Пути                //pu.'t%ji
 Путивль             //pu.'t%jivl%j
 Путивльская         //pu.'t%jivl%j.sko-.jo-
@@ -7896,6 +7910,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Сполохи             //'spo.lo-.x%jij
 Спортовая           //'spor.to-.v^.jo-
 Спуск               //'spusk
+спуск               //'spusk
 Средневыборгское    //sr%j$d%j.n%jI.'vi0.bo-rk.sko-.j$
 Среднегаванский     //'2sr%jed.n%j$.'ga.vo-n.sk%jij
 Среднедарсановская  //sr%j$d.n%j$.d^r'.sa.no-f.sko-.jo-
@@ -8072,6 +8087,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Столинская          //'sto.l%jin.sko-.jo-
 Столовая-Буфет      //st^.'lo.vo-.jo-_bu.'f%jet
 Столяры             //sto-.l%jI.'ri0
+Стоматология        //sto-.mo-.t^.'lo.g%ji.jI.o-
 Сторожки            //st^.'roS.k%jij
 Стоялово            //st^.'ja.lo-.vo-
 Страконицкий        //str^.'ko.n%jit&s.k%jij
@@ -8565,6 +8581,9 @@ Representation = EDCT_REPR_SZZ_STRING
 Тумановская         //tu.'ma.no-f.sko-.jo-
 Тумора              //'tu.mo-.ro-
 Туннель             //t^n.'nEl%j
+туннель             //t^n.'nEl%j
+Тупик               //tup%j.'ik
+тупик               //tup%j.'ik
 Тупиковая           //tu.p%ji.'ko.vo-.jo-
 Тупиковый           //tu.p%ji.'ko.vi0j
 Тупицина            //tu.'p%ji.t&si0.no-
@@ -8658,6 +8677,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Уктусская           //uk.'tus.sko-.jo-
 Уласовца            //u.lo-.s^f.'t&sa
 Улица               //'u.l%ji.t&so-
+улица               //'u.l%ji.t&so-
 Улофа               //'u.lo-.fo-
 Ульсена             //'ul%j.sE.no-
 ульяновка           //ul%j.'ja.no-f.ko-
@@ -9096,6 +9116,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Шолкина             //'Sol.k%ji.no-
 Шолохова            //'So.lo-.xo-.vo-
 Шоссе               //S^.'sE.
+шоссе               //S^.'sE.
 Шоссейная           //S^.'sEj.no-.jo-
 Шоссейно-Икрянинская //S^.'sEj.no-_ik.'r%ja.n%jin.sko-.jo-
 Шоссейный           //S^.'sEj.ni0j
@@ -9198,15 +9219,15 @@ Representation = EDCT_REPR_SZZ_STRING
 Южнобережное        //juZ.no-.b%jI.'r%jeZ.no-.j$
 Южнобережный        //juZ.no-.b%jI.'r%jeZ.ni0j
 Южнобутовская       //juZ.no-.'bu.to-f.sko-.jo-
-Южно-Голицинский    //I.juZ.no-.g^.'l%ji.t&si0n.sk%jij
+Южно-Голицинский    //juZ.no-.g^.'l%ji.t&si0n.sk%jij
 Южное               //'juZ.no-.j$
 Южнопортовая        //juZ.no-.p^r.'to.vo-.jo-
 Южнопортовый        //juZ.no-.p^r.'to.vi0j
 Южный               //'juZ.ni0j
 Юзефово             //ju.z%jI.'fo.vo-
 Юзовский            //'ju.zo-f.sk%jij
-Юзофин              //I.ju.z^.'f%jin
-Юкки                //I.juk.'k%ji
+Юзофин              //ju.z^.'f%jin
+Юкки                //juk.'k%ji
 Юкковское           //'juk.ko-f.sko-.j$
 Юлина               //'ju.l%ji.no-
 Юлиуса              //'ju.l%ji.u.so-
@@ -9223,7 +9244,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Юрасская            //'ju.ro-s.sko-.jo-
 Юризанская          //ju.r%ji.'zan.sko-.jo-
 Юрия                //'ju.r%ji.jo-
-Юркевича            //I.jur.'k%je.v%jit&S%j.o-
+Юркевича            //jur.'k%je.v%jit&S%j.o-
 Юрловский           //'ju.rlo-f.sk%jij
 Юровская            //'ju.ro-f.sko-.jo-
 Юрша                //'ju.rSo-

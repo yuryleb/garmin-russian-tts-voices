@@ -343,10 +343,10 @@ Representation = EDCT_REPR_SZZ_STRING
 алиме               //^.l%ji.'mE
 алимова             //^.'l%ji.mo-.vo-
 алксниса            //'alks.n%ji.so-
-аллее               //^l.'l%je.j$j
-аллеи               //^l.'l%je.jIj
-аллею               //^l.'l%je.ju
-аллея               //^l.'l%je.jo-
+аллее               //^.'l%je.j$j
+аллеи               //^.'l%je.jIj
+аллею               //^.'l%je.ju
+аллея               //^.'l%je.jo-
 аллы                //'al.li0
 алма-атинская       //'2al.mo-_^.'t%jin.sko-.jo-
 алма-атинской       //'2al.mo-_^.'t%jin.sko-j
@@ -17429,6 +17429,9 @@ Representation = EDCT_REPR_SZZ_STRING
 туннеле             //t^n.'nE.l%j$
 туннелем            //t^n.'nE.l%j$m
 туннель             //t^n.'nEl%j
+тупик               //tup%j.'ik
+тупика              //tu.p%ji.'ka
+тупике              //tu.p%ji.'k%je
 тупиковая           //tu.p%ji.'ko.vo-.jo-
 тупикового          //tu.p%ji.'ko.vo-.vo-
 тупиковой           //tu.p%ji.'ko.vo-j
