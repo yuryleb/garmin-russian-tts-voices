@@ -1067,6 +1067,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Александровская     //^.l%jIk.'san.dro-f.sko-.jo-
 Александровский     //^.l%jIk.'san.dro-f.sk%jij
 Александровское     //^.l%jIk.'san.dro-f.sko-.j$
+Александро-Свирский //^.l%jIk.'2san.dro-_'sv%ji.rsk%jij
 Алексеева           //^.l%jIk.'s%je.j$.vo-
 Алексинская         //^.'l%jek.s%jin.sko-.jo-
 Аленева             //^.'l%je.n%j$.vo-
@@ -1973,6 +1974,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Вашутино            //v^.'Su.t%ji.no-
 Вашутинское         //v^.'Su.t%jin.sko-.j$
 Ващенко             //'va.S%j$n.ko-
+Введено-Оятский     //vv%jI.'d%je.no-_^.'jat&s.k%jij
 Введенская          //vv%jI.'d%jen.sko-.jo-
 Веделя              //'ve.d$.l%jo-
 Веденеева           //v%j$.d%jI.'n%je.j$.vo-
@@ -6444,6 +6446,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Ошарская            //^.'Sar.sko-.jo-
 Ошевенск            //^.SE.'v%jensk
 Ошмяны              //^.'Sm%ja.ni0
+Оятский             //^.'jat&s.k%jij
+Оять-Плотично       //^.'jat%j_'plo.t%jit&S%j.no-
 Паведники           //p^.'v%jed%j.n%ji.k%jij
 Павленковская       //p^v.'l%jen.ko-f.sko-.jo-
 Павленковский       //p^v.'l%jen.ko-f.sk%jij
@@ -7938,6 +7942,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Станкевского        //st^n.'k%jef.sko-.vo-
 Станкозаводская     //sto-n.ko-.zo-.v^t.'ska.jo-
 Становой            //sto-.n^.'voj
+Станция             //'stan.t&si0*.jo-
 Станюковича         //sto-.n%ju.'ko.v%jit&S%j.o-
 Старикова           //'sta.r%ji.ko-.vo-
 Стариновская        //'sta.r%ji.no-f.sko-.jo-
