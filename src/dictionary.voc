@@ -311,6 +311,10 @@ Tatneft             //t^t_'n%jeft%j
 александровском     //^.l%jIk.'san.dro-f.sko-m
 александровскому    //^.l%jIk.'san.dro-f.sko-.mu
 александровскую     //^.l%jIk.'san.dro-f.sku.ju
+александро-свирский //^.l%jIk.'2san.dro-_'sv%ji.rsk%jij
+александро-свирского //^.l%jIk.'2san.dro-_'sv%ji.rsko-.vo-
+александро-свирском //^.l%jIk.'2san.dro-_'sv%ji.rsko-m
+александро-свирскому //^.l%jIk.'2san.dro-_'sv%ji.rsko-.mu
 алексеева           //^.l%jIk.'s%je.j$.vo-
 алексинская         //^.'l%jek.s%jin.sko-.jo-
 алексинской         //^.'l%jek.s%jin.sko-j
@@ -328,10 +332,10 @@ Tatneft             //t^t_'n%jeft%j
 алиме               //^.l%ji.'mE
 алимова             //^.'l%ji.mo-.vo-
 алксниса            //'alks.n%ji.so-
-аллее               //^l.'l%je.j$j
-аллеи               //^l.'l%je.jIj
-аллею               //^l.'l%je.ju
-аллея               //^l.'l%je.jo-
+аллее               //^.'l%je.j$j
+аллеи               //^.'l%je.jIj
+аллею               //^.'l%je.ju
+аллея               //^.'l%je.jo-
 аллы                //'al.li0
 алма-атинская       //'2al.mo-_^.'t%jin.sko-.jo-
 алма-атинской       //'2al.mo-_^.'t%jin.sko-j
@@ -558,6 +562,10 @@ Tatneft             //t^t_'n%jeft%j
 арбатецкая          //^r.'ba.t%j$t&s.ko-.jo-
 арбатецкой          //^r.'ba.t%j$t&s.ko-j
 арбатецкую          //^r.'ba.t%j$t&s.ku.ju
+арбеково            //^r.'b%je.ko-.vo-
+арбековская         //^r.'b%je.ko-f.sko-.jo-
+арбековской         //^r.'b%je.ko-f.sko-j
+арбековскую         //^r.'b%je.ko-f.sku.ju
 арбузова            //^r.'bu.zo-.vo-
 аргуновская         //^r.gu.'nof.sko-.jo-
 аргуновской         //^r.gu.'nof.sko-j
@@ -2267,12 +2275,17 @@ Tatneft             //t^t_'n%jeft%j
 вачская             //'vat&S%j.sko-.jo-
 вачской             //'vat&S%j.sko-j
 вачскую             //'vat&S%j.sku.ju
+вашем               //'vaS_'2Em
 вашутино            //v^.'Su.t%ji.no-
 вашутинского        //v^.'Su.t%jin.sko-.vo-
 вашутинское         //v^.'Su.t%jin.sko-.j$
 вашутинском         //v^.'Su.t%jin.sko-m
 вашутинскому        //v^.'Su.t%jin.sko-.mu
 ващенко             //'va.S%j$n.ko-
+введено-оятский     //vv%jI.'d%je.no-_^.'jat&s.k%jij
+введено-оятского    //vv%jI.'d%je.no-_^.'jat&s.ko-.vo-
+введено-оятском     //vv%jI.'d%je.no-_^.'jat&s.ko-m
+введено-оятскому    //vv%jI.'d%je.no-_^.'jat&s.ko-.mu
 введенская          //vv%jI.'d%jen.sko-.jo-
 введенской          //vv%jI.'d%jen.sko-j
 введенскую          //vv%jI.'d%jen.sku.ju
@@ -2673,6 +2686,7 @@ Tatneft             //t^t_'n%jeft%j
 вишневского         //v%jiS.'n%jef.sko-.vo-
 вишневую            //v%jiS.'n%jo.vu.ju
 вишневый            //v%jiS.'n%jo.vi0j
+вкусные             //'fkus.ni0j.$
 владимировка        //vl^.'d%ji.m%ji.ro-f.ko-
 владимировки        //vl^.'d%ji.m%ji.ro-f.k%jI.j
 владимировская      //vl^.'d%ji.m%ji.ro-f.sko-.jo-
@@ -2939,6 +2953,7 @@ Tatneft             //t^t_'n%jeft%j
 въездной            //vjIzd.'noj
 въездную            //vjIzd.'nu.ju
 выборга             //'vi0.bo-r.go-
+выборг-светогорск   //'vi0.bo-rk_sv%j$.t^.'gorsk
 выборгу             //'vi0.bo-r.gu
 выборжец            //'vi0.bo-r.ZEt&s
 выборная            //'vi0.bi0r.no-.jo-
@@ -4678,7 +4693,6 @@ Tatneft             //t^t_'n%jeft%j
 дубровицком         //dub.'ro.v%ji.t&sko-m
 дубровицкому        //dub.'ro.v%ji.t&sko-.mu
 дубровицкую         //dub.'ro.v%ji.t&sku.ju
-ду'бровка           //'dub.ro-f.ko-
 дубровская          //dub.'rof.sko-.jo-
 дубровский          //dub.'rof.sk%jij
 дубровского         //dub.'rof.sko-.vo-
@@ -5303,6 +5317,7 @@ Tatneft             //t^t_'n%jeft%j
 задворьенская       //z^.'dvor%j.j$n.sko-.jo-
 задворьенской       //z^.'dvor%j.j$n.sko-j
 задворьенскую       //z^.'dvor%j.j$n.sku.ju
+задержитесь         //z^.'d%jer.Zi0.t%j$s%j
 задне-бойничная     //'2zad%j.n%j$.'boj.n%jit&S%j.no-.jo-
 задне-бойничной     //'2zad%j.n%j$.'boj.n%jit&S%j.no-j
 задне-бойничную     //'2zad%j.n%j$.'boj.n%jit&S%j.nu.ju
@@ -9557,6 +9572,7 @@ Tatneft             //t^t_'n%jeft%j
 маршанском          //m^r.'San.sko-m
 маршанскому         //m^r.'San.sko-.mu
 маршанскую          //m^r.'San.sku.ju
+маршруте            //m^rS.'rut%j.$
 марьевка            //'mar%j.j$f.ko-
 марьевская          //'mar%j.j$f.sko-.jo-
 марьевской          //'mar%j.j$f.sko-j
@@ -12477,7 +12493,6 @@ Tatneft             //t^t_'n%jeft%j
 островенской        //^s.tr^.'v%jen.sko-j
 островенскую        //^s.tr^.'v%jen.sku.ju
 островитянова       //^s.tr^.'v%ji.t%jo-.no-.vo-
-остро'вки           //^s.'trof.k%jij
 островская          //^s.'trof.sko-.jo-
 островской          //^s.'trof.sko-j
 островскую          //^s.'trof.sku.ju
@@ -12545,6 +12560,11 @@ Tatneft             //t^t_'n%jeft%j
 ошарскую            //^.'Sar.sku.ju
 ошевенск            //^.SE.'v%jensk
 ошмяны              //^.'Sm%ja.ni0
+оятский             //^.'jat&s.k%jij
+оятского            //^.'jat&s.ko-.vo-
+оятском             //^.'jat&s.ko-m
+оятскому            //^.'jat&s.ko-.mu
+оять-плотично       //^.'jat%j_'plo.t%jit&S%j.no-
 паведники           //p^.'v%jed%j.n%ji.k%jij
 павленковская       //p^v.'l%jen.ko-f.sko-.jo-
 павленковский       //p^v.'l%jen.ko-f.sk%jij
@@ -13221,12 +13241,16 @@ Tatneft             //t^t_'n%jeft%j
 подшефная           //p^t.'SEf.no-.jo-
 подшефной           //p^t.'SEf.no-j
 подшефную           //p^t.'SEf.nu.ju
+подъезд             //p^d.'jest
+подъезда            //p^d.'je.zdo-
+подъезде            //p^d.'je.zd%j$
 подъездная          //po-d.jIzd.'na.jo-.j^
 подъездного         //po-d.jIzd.'no.vo-
 подъездной          //po-d.jIzd.'noj
 подъездном          //po-d.jIzd.'nom
 подъездному         //po-d.jIzd.'no.mu
 подъездную          //po-d.jIzd.'nu.ju
+подъезду            //p^d.'je.zdu
 подъемная           //p^d.'jom.no-.jo-
 подъемной           //p^d.'jom.no-j
 подъемную           //p^d.'jom.nu.ju
@@ -14995,6 +15019,7 @@ Tatneft             //t^t_'n%jeft%j
 светлом             //'svet.lo-m
 светлому            //'svet.lo-.mu
 светлый             //'svet.li0j
+светофоре           //sv%j$.t^.'for%j.$
 свечкиных           //'svet&S%j.k%ji.ni0x
 свиблово            //'sv%jib.lo-.vo-
 свидерского         //sv%ji.'d%je.rsko-.vo-
@@ -15086,6 +15111,7 @@ Tatneft             //t^t_'n%jeft%j
 секиотовском        //s%j$.k%ji.'o.to-f.sko-m
 секиотовскому       //s%j$.k%ji.'o.to-f.sko-.mu
 секиотовскую        //s%j$.k%ji.'o.to-f.sku.ju
+секунду             //s%jI.'kun.du
 селезневская        //s%j$.l%jIz%j.'n%jof.sko-.jo-
 селезневской        //s%j$.l%jIz%j.'n%jof.sko-j
 селезневскую        //s%j$.l%jIz%j.'n%jof.sku.ju
@@ -15881,6 +15907,8 @@ Tatneft             //t^t_'n%jeft%j
 становой            //sto-.n^.'voj
 становом            //sto-.n^.'vom
 становому           //sto-.n^.'vo.mu
+станции             //'stan.t&si0.ij
+станция             //'stan.t&si0*.jo-
 станюковича         //sto-.n%ju.'ko.v%jit&S%j.o-
 старикова           //'sta.r%ji.ko-.vo-
 стариновская        //'sta.r%ji.no-f.sko-.jo-
@@ -16313,6 +16341,7 @@ Tatneft             //t^t_'n%jeft%j
 столинскую          //'sto.l%jin.sku.ju
 столовая-буфет      //st^.'lo.vo-.jo-_bu.'f%jet
 столяры             //sto-.l%jI.'ri0
+стоматология        //sto-.mo-.t^.'lo.g%ji.jI.o-
 сторожки            //st^.'roS.k%jij
 стоялово            //st^.'ja.lo-.vo-
 страконицкий        //str^.'ko.n%jit&s.k%jij
@@ -17422,6 +17451,9 @@ Tatneft             //t^t_'n%jeft%j
 туннеле             //t^n.'nE.l%j$
 туннелем            //t^n.'nE.l%j$m
 туннель             //t^n.'nEl%j
+тупик               //tup%j.'ik
+тупика              //tu.p%ji.'ka
+тупике              //tu.p%ji.'k%je
 тупиковая           //tu.p%ji.'ko.vo-.jo-
 тупикового          //tu.p%ji.'ko.vo-.vo-
 тупиковой           //tu.p%ji.'ko.vo-j
