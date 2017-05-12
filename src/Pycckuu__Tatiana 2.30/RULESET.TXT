@@ -86,8 +86,7 @@ charset = utf-8
 
 # Improve "fractional" and "letter" house numbers pronunciation
 / (\d+)\/(\d+) / --> " $1 дробь $2 "
-/ лит\. *([А-Я])/ --> " литера $1"
-/ лит([А-Я])/ --> " литера $1"
+/ лит\.? ?([А-Я])/ --> " литера $1"
 
 # Split complex building numbers with alphas
 / (\d+)[Кк](\d+) / --> " $1 корпус $2 "
