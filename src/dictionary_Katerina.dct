@@ -914,7 +914,9 @@ LPG                 //'2El_p%jij_'dZi0
 MCHS                //Em.t&S%j$.'Es
 METRO               //m%jIt.'ro.
 Metro               //m%jIt.'ro.
+NESTE               //'nEs.tE
 Neste               //'nEs.tE
+SHELL               //'SEl
 Shell               //'SEl
 Tatneft             //t^t_'n%jeft%j
 В.О.                //v^.'s%jil%j.jIf.sko-.vo-_'ost.ro-.vo-
@@ -970,6 +972,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Автобазовская       //^f.t^.'ba.zo-f.sko-.jo-
 Автово              //'af.to-.vo-
 Автовская           //'af.to-f.sko-.jo-
+Автодок             //^f.t^.'2dok
 Автодор             //^f.t^.'dor
 Автодоровская       //^f.t^.'do.ro-.fsko-.jo-
 Автодорога          //^f.to-.d^.'ro.go-
@@ -8246,6 +8249,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Сянская             //'s%jan.sko-.jo-
 Сяопина             //'2s%ja.^.'p%ji.no-
 Сярги               //'s%jar.g%jij
+Сясьстрой           //'2s%jas_'troj
 Табейкина           //t^.'b%jej.k%ji.no-
 Тав-Даир            //to-.vd^.'ir
 Тавдинская          //'ta.vd%jin.sko-.jo-
