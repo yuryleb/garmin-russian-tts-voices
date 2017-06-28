@@ -15,7 +15,7 @@ charset = utf-8
 /\.([bdfgGjklmnprsStvxzZ])[ao]\.'/ --> ".${1}^.'"
 /\.([bdfgGjklmnprsStvxzZ])[ao]([bdfgGjklmnprsStvxzZ])\.'/ --> ".${1}^${2}.'"
 /\.re([bdfgGjklmnprsStvxzZ])\./ --> ".rE${1}."
-/\.([bdfgGjklmnpsStvxzZ])e([bdfgGjklmnprsStvxzZ])\.'/ --> ".${1}$${2}.'"
+/\.([bdfgGjklmnpsStvxzZ])e([bdfgGjklmnprsStvxzZ])\.'/ --> ".${1}\$${2}.'"
 
 # Cut status name part from German street names to pronounce separately
 /(\S)\-?[Aa]llee / --> "$1 /+^.'l%jej/+ "
@@ -517,7 +517,7 @@ charset = utf-8
 / на светофоре\./ --> " /+n^_sv%j$.t^.'for%j.$*./+"
 
 # Correct time pronunciation in traffic info messages (STR_TXT_TRF_CONGESTION_OPT_ROUTE_MULT_PLURAL_M and others from ru_RU_TRF.glx)
-/(\d) мин\./ --> "$1 минут"
+/(\d)\s+мин\./ --> "$1 минут"
 / 1 минут/ --> " одну минуту"
 / 2 минут/ --> " две минуты"
 / ([34]) минут([\., ])/ --> " $1 минуты$2"
@@ -532,7 +532,7 @@ charset = utf-8
 / ([234]) градусов/ --> " $1  градуса"
 
 # Correct abbreviations in SMS
-/(\d) *м\/с/ --> "$1 метров в секунду"
+/(\d+)\s*м\/с/ --> "$1 метров в секунду"
 / Время в пути до дома \- / --> " Время в пути /+d^_'do.mo-/+ составляет "
 # Extra whitespace could be inserted before/after comma:
 / (\d+)( ?[,\.] ?00)? ?р(уб)?[\. ]/ --> " $1 рублей "
