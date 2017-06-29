@@ -503,8 +503,8 @@ charset = utf-8
 # Correct some Real Directions phrases (it's not enough just to fix them in GRAM.VXM)
 #/[Дд]ержитесь слева/ --> "держитесь левее"
 #/[Дд]ержитесь справа/ --> "держитесь правее"
-#/[Дд]вигайтесь слева/ --> "/+'dv%ji.go-j.t%j$s%j_'sl%je.vo-/+"
-#/[Дд]вигайтесь справа/ --> "/+'dv%ji.go-j.t%j$s%j_'spra.vo-/+"
+#/[Дд]вигайтесь слева/ --> "/+'dv%ji.go-j.t%j\$s%j_'sl%je.vo-/+"
+#/[Дд]вигайтесь справа/ --> "/+'dv%ji.go-j.t%j\$s%j_'spra.vo-/+"
 /Резко / --> "Аккуратно "
 / резко / --> " аккуратно "
 
@@ -513,8 +513,8 @@ charset = utf-8
 /n\^\.'zva\.n%ji\.j\$_m%jI\.'sta/ --> "n^.'zva.n%ji.j$_'m%jes.to-"
 
 # Correct pronunciation of some fragments "traffic jam along your route" (STR_TXT_TRF_LIGHT_TRAFFIC_M and others from ru_RU.glx)
-/ на вашем маршруте / --> " /+n^_'vaS_'2Em_m^rS.'rut%j.$/+ "
-/ на светофоре\./ --> " /+n^_sv%j$.t^.'for%j.$*./+"
+/ на вашем маршруте / --> " /+n^_'vaS_'2Em_m^rS.'rut%j.\$/+ "
+/ на светофоре\./ --> " /+n^_sv%j\$.t^.'for%j.\$*./+"
 
 # Correct time pronunciation in traffic info messages (STR_TXT_TRF_CONGESTION_OPT_ROUTE_MULT_PLURAL_M and others from ru_RU_TRF.glx)
 /(\d)\s+мин\./ --> "$1 минут"
@@ -1936,7 +1936,7 @@ charset = utf-8
 
 
 # Correct pronunciation of particular words combinations
-/ Девичьего [Пп]оля / --> " /+'d%je.v%jit&S%j.j$.vo-_'po.l%jo-/+ "
+/ Девичьего [Пп]оля / --> " /+'d%je.v%jit&S%j.j\$.vo-_'po.l%jo-/+ "
 / Кул[ \-]Гали / --> " /+kul.g^.'l%ji/+ "
 / Куликова [Пп]оля / --> " /+ku.l%ji.'ko.vo-_'po.l%jo-/+ "
 / Марко Вовчок / --> " /+m^r.'ko_v^f.'t&S%jok/+ "
@@ -1944,9 +1944,9 @@ charset = utf-8
 / Поля Лафарга / --> " /+'po.l%jo-_l^.'far.go-/+ "
 / [Сс]ело / --> " /+s%jI.'lo/+ \\pause=0\\ "
 / Ф[её]дора Черника / --> " /+'f%jo.do-.ro-_'t&S%jer.n%ji.ko-/+ "
-/ Феодора Стратилата / --> " /+f%j$.'o.do-.ro-_stro-.t%ji.'la.to-/+ "
+/ Феодора Стратилата / --> " /+f%j\$.'o.do-.ro-_stro-.t%ji.'la.to-/+ "
 / Ямского [Пп]оля / --> " /+jIm.'sko.vo-_'po.l%jo-/+ "
-/ Rocca Al Mare / --> " /+'rok.ko-_'al%j_'ma.r$/+ "
+/ Rocca Al Mare / --> " /+'rok.ko-_'al%j_'ma.r\$/+ "
 
 # Replace dashes between spaces with commas
 #/ [\-—] / --> ", "

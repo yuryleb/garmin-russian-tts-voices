@@ -58,6 +58,10 @@ INPUT : Продолжите движение по \tn=address\ AL-18 \tn=norm
 OUTPUT: Продолжите движение по  \tn=address\ трассе A L 18 \pause=1\ \tn=normal\.
 RULES : #561 #1772 #1805
 
+INPUT : Вы прибыли в пункт назначения, \tn=address\ Rocca Al Mare \tn=normal\.
+OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ /+'rok.ko-_'al%j_'ma.r$/+ \tn=normal\.
+RULES : #8 #569 #1935 #1949 #1958
+
 INPUT : Продолжите движение по \tn=address\ A1 Rīga (Baltezers) — Igaunijas robeža (Ainaži) \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ трассе A  1 \pause=1\ Rīga \pause=1\ Igaunijas robeža \tn=normal\.
 RULES : #85 #561 #1772 #1805 #1953
