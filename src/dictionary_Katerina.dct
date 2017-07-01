@@ -4072,8 +4072,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Китицына            //k%ji.'t%ji.t&si0.no-
 Кичигинская         //k%ji.'t&S%ji.g%jin.sko-.jo-
 Кияновский          //k%ji.'ja.no-f.sk%jij
-Ккойдешлер           //ko-j.d%jI.'Sl%jer
-Ккульткомовский      //kul%jt.'ko.mo-f.sk%jij
 Клавдиевская        //'klav.d%ji.j$f.sko-.jo-
 Клавдии             //'klav.d%jI.Ij
 Клары               //'kla.ri0.
@@ -4179,6 +4177,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Козятинская         //k^.'z%ja.t%jin.sko-.jo-
 Козятинский         //k^.'z%ja.t%jin.sk%jij
 Койвинский          //'koj.v%jin.sk%jij
+Койдешлер           //ko-j.d%jI.'Sl%jer
 Коймино             //'koj.m%ji.no-
 Кокинская           //'ko.k%jin.sko-.jo-
 Коккинаки           //ko-k.k%ji.'na.k%jij
@@ -4648,6 +4647,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Кульнева            //'kul%j.n%j$.vo-
 Кульпарковская      //kul%j.'par.ko-f.sko-.jo-
 Культкомовская      //kul%jt.'ko.mo-f.sko-.jo-
+Культкомовский      //kul%jt.'ko.mo-f.sk%jij
 Культуры            //kul%j.'tu.ri0
 Кумертауская        //ku.m%jIr.'ta.u.sko-.jo-
 Кумженская          //'kum.ZEn.sko-.jo-
