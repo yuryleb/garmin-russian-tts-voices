@@ -5066,6 +5066,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Льдозаводской       //'2l%jdo.zo-v^t.'skoj
 Любанская           //l%ju.'ban.sko-.jo-
 Любанский           //l%ju.'ban.sk%jij
+Любань              //l%ju.'ban%j
 Любвино             //'l%jub.v%ji.no-
 Любенская           //'l%ju.b%j$n.sko-.jo-
 Любимская           //l%ju.'b%ji.msko-.jo-
@@ -5130,6 +5131,9 @@ Representation = EDCT_REPR_SZZ_STRING
 Майминская          //'maj.m%jin.sko-.jo-
 Майоровка           //m^.'jo.ro-f.ko-
 Макаёнка            //mo-.k^.'jon.ko-
+Макариевская        //m^.'ka.r%ji.j$f.sko-.jo-
+Макариевской        //m^.'ka.r%ji.j$f.sko-j
+Макариевскую        //m^.'ka.r%ji.j$f.sku.ju
 Макария             //m^.'ka.r%ji.jo-
 Макарова            //m^.'ka.ro-.vo-
 Макаровичи          //m^.'ka.ro-.v%ji.t&S%jij
@@ -5819,6 +5823,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Нестерова           //'n%jes%j.t%j$.ro-.vo-
 Нестеровская        //'n%je.s%jt%j$.ro-f.sko-.jo-
 Нестеровский        //'n%je.s%jt%j$.ro-f.sk%jij
+Нестеровское        //'n%je.s%jt%j$.ro-f.sko-.j$
 Нестора             //'n%je.sto-.ro-
 Нефтебазовая        //n%j$f.t%jI.'ba.zo-.vo-.jo-
 Нефтебазовская      //n%j$f.t%jI.'ba.zo-f.sko-.jo-
@@ -6573,6 +6578,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Певчий              //'p%jef.t&S%jjij
 Пеевой              //'p%je.j$.vo-j
 Пелина              //'p%je.l%jI.no-
+Пельгора            //'p%jel%j.go-.ro-
 Пельгорское         //p%jIl%j.'gor.sko-.j$
 Пензенская          //'p%jen%j.z%j$n.sko-.jo-
 Пензенский          //'p%jen%j.z%j$n.sk%jij
@@ -7404,6 +7410,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Рябинская           //r%jI.'b%jin.sko-.jo-
 Рябинушка           //r%jI.'b%ji.nuS.ko-
 Рябкина             //'r%jap.k%ji.no-
+Рябово              //'r%ja.bo-.vo-
 Рябухина            //r%jI.'bu.x%ji.no-
 Рябушкина           //'r%ja.buS.k%ji.no-
 Рябцева             //'r%jap.t&sE.vo-
@@ -7570,6 +7577,13 @@ Representation = EDCT_REPR_SZZ_STRING
 Связная             //sv%jIz.'na.jo-
 Связной             //sv%jIz.'noj
 Свято-Духов         //'2sv%ja.t^.'du.xo-f
+Свято-Макариевская  //'2sv%ja.to-.m^.'ka.r%ji.j$f.sko-.jo-
+Свято-Макариевский  //'2sv%ja.to-.m^.'ka.r%ji.j$f.sk%jij
+Свято-Макариевского //'2sv%ja.to-.m^.'ka.r%ji.j$f.sko-.vo-
+Свято-Макариевской  //'2sv%ja.to-.m^.'ka.r%ji.j$f.sko-j
+Свято-Макариевском  //'2sv%ja.to-.m^.'ka.r%ji.j$f.sko-m
+Свято-Макариевскому //'2sv%ja.to-.m^.'ka.r%ji.j$f.sko-.mu
+Свято-Макариевскую  //'2sv%ja.to-.m^.'ka.r%ji.j$f.sku.ju
 Святоозерская       //'2sv%ja.to-.^.'z%jor.sko-.jo-
 Святошино           //sv%jI.'to.Si0.no-
 Святошинская        //sv%jI.'to.Si0n.sko-.jo-
@@ -8416,6 +8430,13 @@ Representation = EDCT_REPR_SZZ_STRING
 Тещин               //'t%jo.S%jin
 Тиверская           //'t%ji.v%j$.rsko-.jo-
 Тивновичи           //'t%jiv%j.no-.v%ji.t&S%jij
+Тигодская           //'t%ji.go-t&s.ko-.jo-
+Тигодский           //'t%ji.go-t&s.k%jij
+Тигодского          //'t%ji.go-t&s.ko-.vo-
+Тигодской           //'t%ji.go-t&s.ko-j
+Тигодском           //'t%ji.go-t&s.ko-m
+Тигодскому          //'t%ji.go-t&s.ko-.mu
+Тигодскую           //'t%ji.go-t&s.ku.ju
 Тидена              //'t%ji.d%j$.no-
 Тикоцкого           //t%ji.'kot&s.ko-.vo-
 Тиктора             //'t%jik.to-.ro-
@@ -8838,6 +8859,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Учхоз               //ut&S%j.'xos
 Учхозная            //ut&S%j.'xoz.no-.jo-
 Учхозовская         //ut&S%j.'xo.zo-f.sko-.jo-
+Ушаки               //u.S^.'k%ji
 Ушакова             //u.S^.'ko.vo-
 Ушацкая             //u.'Sat&s.ko-.jo-
 Ушачская            //u.'Sat&S%j.sko-.jo-
@@ -9559,6 +9581,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Шурова              //'Su.ro-.vo-
 Шухевича            //Su.'x%je.v%jIt&S%j.o-
 Шухова              //'Su.xo-.vo-
+Шушары              //Su.'Sar.i0
 Шушинская           //Su.'Si0n.sko-.jo-
 Шушинский           //Su.'Si0n.sk%jij
 Щавинского          //S%jI.'v%jin.sko-.vo-
@@ -9775,6 +9798,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Ямальская           //jI.'mal%j.sko-.jo-
 Ямальский           //jI.'mal%j.sk%jij
 Ямашева             //jI.'ma.SE.vo-
+Ям-Ижора            //'2jam_i.'Zo.ro-
 Ям-Ижорское         //'2jam_i.'Zor.sko-.j$
 Ямницкая            //'jam.:n%jit&s.ko-.jo-
 Ямницкий            //'jam.:n%jit&s.k%jij
