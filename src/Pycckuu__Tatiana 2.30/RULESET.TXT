@@ -8,6 +8,13 @@ charset = utf-8
 /(\S),/ --> "$1 ,"
 /,(\S)/ --> ", $1"
 
+# Try to restore/fix Russian Map Phonetics
+/\/\+'u\.l%jI\.t&s\$_/ --> "улица /+"
+/\/\+'na\.b%jI\.r%jI\.Zn\$\.E_/ --> "набережная /+"
+/\/\+'plo\.S%jIt%j_/ --> "площадь /+"
+/\/\+pr\^\.'sp%jekt_/ --> "проспект /+"
+/\/\+p%jI\.r%jI\.'u\.l\$k_/ --> "переулок /+"
+
 # Correct known Map Phonetics mistakes
 /'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
 /\/\+'nes\.te\?_'oil_'eks\.'2pres\/\+/ --> "Neste Oil Express"
