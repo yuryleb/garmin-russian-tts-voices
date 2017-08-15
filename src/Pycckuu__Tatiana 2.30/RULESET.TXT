@@ -8,12 +8,25 @@ charset = utf-8
 /(\S),/ --> "$1 ,"
 /,(\S)/ --> ", $1"
 
-# Try to restore/fix Russian Map Phonetics
+# Try to restore/fix status names in Russian Map Phonetics
 /\/\+'u\.l%jI\.t&s\$_/ --> "улица /+"
+/'u\.l%jI\.t&s\$/ --> "'u.l%ji.t&so-"
+/\/\+d\^\.'ro\.g\$_/ --> "дорога /+"
+/d\^\.'ro\.g\$/ --> "d^.'ro.go-"
 /\/\+'na\.b%jI\.r%jI\.Zn\$\.E_/ --> "набережная /+"
+/'na\.b%jI\.r%jI\.Zn\$\.E/ --> "'na.b%j\$.r%j\$Z.no-.jo-"
 /\/\+'plo\.S%jIt%j_/ --> "площадь /+"
+/\/\+'most_/ --> "мост /+"
 /\/\+pr\^\.'sp%jekt_/ --> "проспект /+"
 /\/\+p%jI\.r%jI\.'u\.l\$k_/ --> "переулок /+"
+/p%jI\.r%jI\.'u\.l\$k/ --> "p%j\$.r%jI.'u.lo-k"
+/\/\+pr\^\.'jest_/ --> "проезд /+"
+
+# Fix some endings in Russian Map Phonetics
+/\.([fp])sk\$\.v\$\/\+/ --> "${1}.sko-.vo-/+"
+/\.([nv])\$\/\+/ --> ".${1}o-/+"
+/\.([fp])sk\$\.I_/ --> "${1}.sko-.jo-_"
+/\.([nv])\$\.I_/ --> ".${1}o-.jo-_"
 
 # Correct known Map Phonetics mistakes
 /'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
