@@ -27,6 +27,7 @@ charset = utf-8
 /\.([nv])\$\/\+/ --> ".${1}o-/+"
 /\.([fp])sk\$\.I_/ --> "${1}.sko-.jo-_"
 /\.([nv])\$\.I_/ --> ".${1}o-.jo-_"
+/\.t&S%jn\$\.I_/ --> "t&S%j.no-.jo-_"
 
 # Correct known Map Phonetics mistakes
 /'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
