@@ -3,8 +3,8 @@ gmt v0.8.186.801b  CC BY-SA (C) 2011-2014 AP www.gmaptool.eu
 Input file: Pycckuu__Milena.vpm.
 
 
-File:		Pycckuu__Milena.vpm, length 21757952
-Header:   	31.05.2017 10:11:26, DSKIMG, XOR 00, V 2.19, Ms 0, 006-D4465-00
+File:		Pycckuu__Milena.vpm, length 21771264
+Header:   	18.08.2017 10:51:56, DSKIMG, XOR 00, V 2.19, Ms 0, 006-D4465-00
 Mapset:   	milena
 fat:		1000h - 1200h - 11800h, block 1024
 maps:		48, sub-files 48
@@ -21,14 +21,14 @@ Sub-file         fat     length
  SN22_MIL DAT   2E00h  14462044
  SYNM_F16 DAT   A400h     10408
  TTN_RUR  DAT   A600h    115684
- UDCT_RUR DAT   A800h   1050325
+ UDCT_RUR DAT   A800h   1052323
  US_MIL   DAT   B200h   1880356
  DLLIMG   BIN   C200h   1321924
  GRAM     VXM   CE00h    605504
  VAR      VXM   D400h     32592
  DFLT     DCT   D600h       166
  APDB_TP  DAT   D800h      1564
- RULESET  TXT   DA00h    143423
+ RULESET  TXT   DA00h    155394
  WORDS    TXT   DC00h      4820
  PHRASES  TXT   DE00h     78800
  AU       DCT   E000h     14018
@@ -71,14 +71,14 @@ Map              length s-f  CP    prio  PID   FID  name
  SN22_MIL  ?   14462044  1
  SYNM_F16  ?      10408  1
  TTN_RUR   ?     115684  1
- UDCT_RUR  ?    1050325  1
+ UDCT_RUR  ?    1052323  1
  US_MIL    ?    1880356  1
  DLLIMG    ?    1321924  1
  GRAM      ?     605504  1
  VAR       ?      32592  1
  DFLT      ?        166  1
  APDB_TP   ?       1564  1
- RULESET   ?     143423  1
+ RULESET   ?     155394  1
  WORDS     ?       4820  1
  PHRASES   ?      78800  1
  AU        ?      14018  1
