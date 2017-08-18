@@ -271,7 +271,7 @@ charset = utf-8
 /\\tn=address\\ [Vv]ico / --> "\\tn=address\\ тупик "
 /\\tn=address\\ [Vv]icolo / --> "\\tn=address\\ аллея "
 # Translate some Finnish status street names
-/\\tn=address\\ ([^,\/\\]*\S) [Tt]unneli / --> "\\tn=address\\ $1 тоннель "
+/\\tn=address\\ ([^,\/\\]*\S) [Tt]unneli / --> "\\tn=address\\ тоннель $1 "
 /\\tn=address\\ P\+R / --> "\\tn=address\\ перехватывающая парковка "
 # Translate some Swedish status street names (draft)
 /\\tn=address\\ Riksvägen (\d+) / --> "\\tn=address\\ трасса $1 "
