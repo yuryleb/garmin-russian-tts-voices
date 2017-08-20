@@ -270,6 +270,18 @@ charset = utf-8
 /\\tn=address\\ [Vv]iale / --> "\\tn=address\\ проспект "
 /\\tn=address\\ [Vv]ico / --> "\\tn=address\\ тупик "
 /\\tn=address\\ [Vv]icolo / --> "\\tn=address\\ аллея "
+# Translate Hungarian status street names
+/\\tn=address\\ ([^,\/\\]*\S) [Ff]asor / --> "\\tn=address\\ аллея $1 "
+/\\tn=address\\ ([^,\/\\]*\S) [Hh]íd / --> "\\tn=address\\ мост $1 "
+/\\tn=address\\ ([^,\/\\]*\S) [Kk]örút / --> "\\tn=address\\ бульвар $1 "
+/\\tn=address\\ ([^,\/\\]*\S) [Kk]örönd / --> "\\tn=address\\ кольцо $1 "
+/\\tn=address\\ ([^,\/\\]*\S) [Kk]öz / --> "\\tn=address\\ переулок $1 "
+/\\tn=address\\ ([^,\/\\]*\S) [Rr]akpart / --> "\\tn=address\\ набережная $1 "
+/\\tn=address\\ ([^,\/\\]*\S) [Ss]étány / --> "\\tn=address\\ аллея $1 "
+/\\tn=address\\ ([^,\/\\]*\S) [Ss]or / --> "\\tn=address\\ проезд $1 "
+/\\tn=address\\ ([^,\/\\]*\S) [Tt][eé]re? / --> "\\tn=address\\ площадь $1 "
+/\\tn=address\\ ([^,\/\\]*\S) [Úú]t / --> "\\tn=address\\ дорога $1 "
+/\\tn=address\\ ([^,\/\\]*\S) [Uu]tca / --> "\\tn=address\\ улица $1 "
 # Translate some Finnish status street names
 /\\tn=address\\ ([^,\/\\]*\S) [Tt]unneli / --> "\\tn=address\\ тоннель $1 "
 /\\tn=address\\ P\+R / --> "\\tn=address\\ перехватывающая парковка "
@@ -2058,8 +2070,8 @@ charset = utf-8
 /чого / --> "чьего "
 
 # Change preposition for tunnels and ends (they can't be addressed with "to/on", only "into")
-/ на  \\tn=address\\([^,\/\\]*) [Тт]оннель / --> " в  \\tn=address\\$1 тоннель "
-/ на  \\tn=address\\([^,\/\\]*) [Тт]упик / --> " в  \\tn=address\\$1 тупик "
+/ на  \\tn=address\\([^,\/\\]*) [Тт]оннель / --> " в  \\tn=address\\ $1 тоннель "
+/ на  \\tn=address\\([^,\/\\]*) [Тт]упик / --> " в  \\tn=address\\ $1 тупик "
 # Adapt prepositions depending on next word
 / в  \\tn=address\\ ([ВФвф][бгджзклмнпрстфхцчшщъь])/ --> " во  \\tn=address\\ $1"
 / к  \\tn=address\\ ([ВФвф][бгджзклмнпрстфхцчшщъь])/ --> " ко  \\tn=address\\ $1"
