@@ -2196,8 +2196,7 @@ charset = utf-8
 /\.([fp])sk\$\.v\$([_])/ --> "${1}.sko-.vo-${2}"
 /\$\.[EI]([_])/ --> "o-.jo-${1}"
 /jI([_])/ --> "jIj${1}"
-/([bdfgGklmnprsStvxzZ])\$([fj])([_])/ --> "${1}o-${2}${3}"
-/([bdfgGklmnprsStvxzZ])\$([\._])/ --> "${1}o-${2}"
+/([bdfgGklmnprsStvxzZ])\$/ --> "${1}o-"
 
 # Correct pronunciation of particular words combinations
 / Девичьего [Пп]оля / --> " /+'d%je.v%jit&S%j.j\$.vo-_'po.l%jo-/+ "
