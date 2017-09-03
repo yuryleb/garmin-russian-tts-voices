@@ -687,11 +687,11 @@ OUTPUT: Поверните направо на  \tn=address\/+'p%ja.tu.ju_'l%j
 RULES : #595 #1065 #2210 #2213
 
 INPUT : Продолжите движение по \tn=address\ /+'p%ja.t$.E_'l%ji.n%jI.E_v^.'s%ji.l%jI.fsk$.v$_'o.str$.v$/+ \tn=normal\.
-OUTPUT: Продолжите движение по  \tn=address\/+'p%ja.to-j_'l%ji.n%jI.jIj_v^.'s%ji.l%jIf.sko-.vo-_'o.stro-.vo-/+ \tn=normal\.
+OUTPUT: Продолжите движение по  \tn=address\/+'p%ja.to-j_'l%ji.n%jI.I_v^.'s%ji.l%jIf.sko-.vo-_'o.stro-.vo-/+ \tn=normal\.
 RULES : #592 #1075 #2210 #2213
 
 INPUT : Поверните направо на \tn=address\ /+ft^.'ra.E_'tr%je.t%jE_'l%ji.n%jI.I/+ \tn=normal\.
-OUTPUT: Поверните направо на  \tn=address\/+ft^.'ru.ju_i_'tr%je.t%jI.ju_'l%ji.n%jI.jIj/+ \tn=normal\.
+OUTPUT: Поверните направо на  \tn=address\/+ft^.'ru.ju_i_'tr%je.t%jI.ju_'l%ji.n%jI.I/+ \tn=normal\.
 RULES : #595 #1030
 
 INPUT : Через три километра перестройтесь влево И продолжите движение по \tn=address\ /+pr^.'sp%jekt_^.'bu.x$.fsk$j_^.b^.'ro.ni0/+ \tn=normal\.
