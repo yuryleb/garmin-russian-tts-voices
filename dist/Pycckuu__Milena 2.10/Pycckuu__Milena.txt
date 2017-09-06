@@ -3,8 +3,8 @@ gmt v0.8.186.801b  CC BY-SA (C) 2011-2014 AP www.gmaptool.eu
 Input file: Pycckuu__Milena.vpm.
 
 
-File:		Pycckuu__Milena.vpm, length 21781504
-Header:   	31.08.2017 06:09:16, DSKIMG, XOR 00, V 2.19, Ms 0, 006-D4465-00
+File:		Pycckuu__Milena.vpm, length 21783552
+Header:   	06.09.2017 09:37:04, DSKIMG, XOR 00, V 2.19, Ms 0, 006-D4465-00
 Mapset:   	milena
 fat:		1000h - 1200h - 11800h, block 1024
 maps:		48, sub-files 48
@@ -28,7 +28,7 @@ Sub-file         fat     length
  VAR      VXM   D400h     32592
  DFLT     DCT   D600h       166
  APDB_TP  DAT   D800h      1564
- RULESET  TXT   DA00h    165066
+ RULESET  TXT   DA00h    167229
  WORDS    TXT   DC00h      4820
  PHRASES  TXT   DE00h     78800
  AU       DCT   E000h     14018
@@ -78,7 +78,7 @@ Map              length s-f  CP    prio  PID   FID  name
  VAR       ?      32592  1
  DFLT      ?        166  1
  APDB_TP   ?       1564  1
- RULESET   ?     165066  1
+ RULESET   ?     167229  1
  WORDS     ?       4820  1
  PHRASES   ?      78800  1
  AU        ?      14018  1
