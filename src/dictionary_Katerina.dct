@@ -668,6 +668,8 @@ Abc                 //Ej.I_b%ji_'s%ji
 Ādaži               //'a.do-.Zi0
 Ahtme               //'ax.tm%j$
 Alajõe              //'a.lo-j.i0.E
+Ankur               //'an.kur
+Aseri               //'a.z%j$.r%jij
 Astri               //'as.tr%jIj
 Baltezers           //'bal.tE.z$rs
 Baltkrievijas       //'balt.kr%ji.j$.v%ji.o-s
@@ -684,7 +686,7 @@ Energia             //E.'nEr.g%jI.ja
 Express             //Eks.'prEs
 Gigantti            //g%ji.'gan%j.t%jIj
 Girona              //ZE.'ro.no-
-Gonsiori            //'gon.s%jI.jI.o.r%jIj
+Gonsiori            //'gon.s%jI.o.r%jIj
 Gran                //'gran
 Haapsalu            //'xa.^p.so-.lu
 Harjutie            //'xar%j.ju_t%ji.i.j$.j$
@@ -706,6 +708,7 @@ Joensuuntie         //'jo.^.'En.su.un_t%ji.i.j$.j$
 Jõesuu              //'ji0.E.su
 Jõhvi               //'ji0x.vI.j
 Joutsenontie        //'jo.ut.sE.no-n_t%ji.i.j$.j$
+Juhkentali          //'jux.k%j$n.to-.l%jij
 K-Citymarket        //'2ka_s%ji.t%ji.'ma.rk%j$t
 K-Market            //'2ka_'ma.rk%j$t
 K-Supermarket       //'2ka_su.p%jIr.'ma.rk%j$t
@@ -730,6 +733,7 @@ Kouvola             //'ko.u.vo-.lo-
 Kouvolantie         //'ko.u.vo-.lo-n_t%ji.i.j$.j$
 Krāslava            //'kras.lo-.vo-
 Kreutzwaldi         //'kr%jejt&s.vo-l%j.dij
+Kristiine           //'kr%jis.t%jij.n%j$
 Kunda               //'kun.do-
 Kuremäe             //'ku.r%j$.m%jo-.E
 Kurvilantie         //'kur.v%ji.lo-n_t%ji.i.j$.j$
@@ -770,6 +774,8 @@ Nõmme               //'ni0m.m%j$
 Nuijamaa            //'nuj.I.jo-.mo-
 Nuijamaantie        //'nuj.I.jo-.m^n_t%ji.i.j$.j$
 Oja                 //'o.jo-
+Olerex              //'o.l$.rEks
+Õuna                //'i0.u.no-
 Paldiski            //'pal.d%jis.k%ji
 Panevėžys           //po-.n%jI.'v%je.Zi0s
 Pärnamäe            //'p%jar.no-.m%jo-.E
@@ -817,7 +823,7 @@ Savontie            //'sa.vo-n_t%ji.i.j$.j$
 Schaffhausenstrasse //S^f.'xa.u.s%j$n_'Stra.sE
 Selver              //'s%jel%j.v%j$r
 Sillamäe            //'s%jil.lo-.m%jo-.E
-Sõle                //'si0.le
+Sõle                //'si0l%j.e
 Sõpruse             //'si0p.ru.z$
 Sputniku            //'sput.n%ji.ku
 Stampfenbachstrasse //Sto-mp.f%jIn.'bax_'Stra.sE
@@ -841,7 +847,7 @@ Tina                //'t%ji.no-
 Tiuruniementie      //'ti.u.ru.n%ji.E.j$.m%j$n_t%ji.i.j$.j$
 Tudulinna           //'tu.du.l%jin.no-
 Tuleviku            //'tu.lE.v%ji.ku
-Tulika              //'tu.li.ko-
+Tulika              //'tu.l%ji.ko-
 Tuunaansaarentie    //'tun.n^n.'2sa.rEn_t%ji.i.j$.j$
 Tykkimäki           //'t%jik.k%ji.'2m%ja.k%jij
 Ülikooli            //'ju.l%ji.'ko.o.l%jIj
