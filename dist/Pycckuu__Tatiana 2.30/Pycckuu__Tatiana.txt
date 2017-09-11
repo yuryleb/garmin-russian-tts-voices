@@ -3,8 +3,8 @@ gmt v0.8.186.801b  CC BY-SA (C) 2011-2014 AP www.gmaptool.eu
 Input file: Pycckuu__Tatiana.vpm.
 
 
-File:		Pycckuu__Tatiana.vpm, length 32477184
-Header:   	09.09.2017 20:45:59, DSKIMG, XOR 00, V 2.39, Ms 0, 006-D4896-00
+File:		Pycckuu__Tatiana.vpm, length 32478208
+Header:   	11.09.2017 07:08:57, DSKIMG, XOR 00, V 2.39, Ms 0, 006-D4896-00
 Mapset:   	tatiana
 fat:		1000h - 1200h - 17000h, block 1024
 maps:		50, sub-files 50
@@ -21,7 +21,7 @@ Sub-file         fat     length
  SN22_MIL DAT   2E00h  14462044
  SYNM_F16 DAT   A400h     10408
  TTN_RUR  DAT   A600h    115684
- UDCT_RUR DAT   A800h   1052636
+ UDCT_RUR DAT   A800h   1052966
  US_MIL   DAT   B200h   1880356
  DLLIMG   BIN   C200h   1321924
  GRAM     VXM   CE00h    606327
@@ -73,7 +73,7 @@ Map              length s-f  CP    prio  PID   FID  name
  SN22_MIL  ?   14462044  1
  SYNM_F16  ?      10408  1
  TTN_RUR   ?     115684  1
- UDCT_RUR  ?    1052636  1
+ UDCT_RUR  ?    1052966  1
  US_MIL    ?    1880356  1
  DLLIMG    ?    1321924  1
  GRAM      ?     606327  1

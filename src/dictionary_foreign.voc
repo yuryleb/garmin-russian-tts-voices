@@ -44,8 +44,9 @@ Imatrankosken       //'i.mo-t.r^n.'2kos.kEn
 Interior            //in.'tEr%j.j$r
 Jaama               //'ja.o-.mo-
 Jagala              //'ja.go-.lo-
-jalgtee             //'jalg.tE.E
+jalgtee             //'jalg.tE
 Jarve               //'jar.v%j$
+Jarvevana           //'jar.v%j$.vo-.no-
 Joensuun            //'jo.^.'En.su.un
 Joesuu              //'ji0.E.su
 Johvi               //'ji0x.vI.j
@@ -96,7 +97,8 @@ Liivalaia           //'l%ji.vo-.lo-.jo-
 Lohusuu             //'lo.xu.su.u
 Loviisa             //l^.'v%ji.Ij.so-
 Loviisan            //l^.'v%ji.Ij.so-n
-maantee             //m^.'an.tE.E
+Luise               //'luj.i.z%j$
+maantee             //'ma.an.tE
 Maardu              //'ma.^r.du
 Malmi               //'mal.m%jIj
 Maneezi             //m^.'nE.$.ZIj
@@ -108,6 +110,7 @@ Medininkai          //'m%ja.d%jI.n%jIn.ko-j
 Mere                //'me.r$
 Merivalja           //'m%je.r%ji.v%jo-l%j.jo-
 Miiduranna          //'m%jij.du.r^n.no-
+moisa               //'mi0j.zo-
 Mooni               //mo-.'o.n%jIj
 Mustakivi           //'mus.t^.k%jI.v%jIj
 Mustamae            //'mus.t^.m%jo-.E
@@ -140,7 +143,7 @@ Poska               //'pos.ko-
 Prisma              //'pr%jiz.mo-
 Pronksi             //'pron.ks%jI.j
 Puhtitsa            //'p%jux.t%ji.t&so-
-puiestee            //'puj.j$s.tE.E
+puiestee            //'puj.j$s.tE
 Punkaharju          //'2pun.k^_'xar%j.ju
 Punkaharjun         //'2pun.k^_'xar%j.jun
 Purje               //'pur%j.j$
@@ -151,7 +154,7 @@ Rakvere             //'rak.v%j$.r%j$
 Randvere            //'rand.v%j$.r%jE
 Ranna               //'ran.no-
 Rannametsa          //'ran.n^.'2m%jet.so-
-Rannamoisa          //'ran.no-.mi0j.Ij.zo-
+Rannamoisa          //'ran.no-.mi0j.zo-
 Rannapungerja       //'ran.no-.pun.g%j$r%j.jo-
 ranta               //'ran.to-
 Raua                //'ra.u.a
@@ -179,6 +182,7 @@ Statoil             //st^t.'ojl
 strasse             //'Stra.sE
 Supermarket         //su.p%jIr.'ma.rk%j$t
 Suur-Ameerika       //'su.ur_^.'m%je.r%ji.ko-
+Suur-Sojamae        //'su.ur_'si0.I.'2m%ja.E
 Tainionkosken       //'taj.n%ji.o-n_'kos.kEn
 Tallinna            //'tal.l%jin.no-
 Tammiku             //'tam.m%ji.ku
@@ -186,12 +190,15 @@ Tammsaare           //'tam_'sa.^.r%j$
 Tampere             //'tam.p%j$.rE
 Tartu               //'ta.rtu
 Teboil              //teb.'ojl
-tee                 //'tE.E
+tee                 //'tE
 Tehnika             //'t%jex.n%ji.ko-
+Telliskivi          //'tE.l%jIs.k%jI.v%jI
 Terase              //'t%je.r^.zE
 Tetuan              //t%j$.tu.'an
 Tina                //'t%ji.no-
 Tiuruniemen         //'ti.u.ru.n%ji.E.j$.m%j$n
+Tondi               //'ton.d%jij
+Toompuiestee        //'tom_'puj.j$s.tE
 Tudulinna           //'tu.du.l%jin.no-
 Tuleviku            //'tu.lE.v%ji.ku
 Tulika              //'tu.l%ji.ko-
