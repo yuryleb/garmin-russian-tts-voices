@@ -2207,11 +2207,11 @@ charset = utf-8
 
 
 # Fix endings & vowels in Russian Map Phonetics
-/\.(')?([bdfgGklmnprsStvxzZ])(%j)?([bdfgGjklmnprsStvxzZ])/ --> "${2}${3}.${1}${4}"
+/([aeEiIou0\-\$\^])\.(')?([bdfgGklmnprsStvxzZ])(%j)?([bdfgGjklmnprsStvxzZ])/ --> "${1}${3}${4}.${2}${5}"
 /\$\.j?[EI]([_])/ --> "o-.jo-${1}"
 /jI([_])/ --> "jIj${1}"
 /([bdfgGklmnprsStvxzZ])\$/ --> "${1}o-"
-/'([bdfgGklmnprsStvxzZ])o\-/ --> "'${1}o"
+/'([bdfgGklmnprsStvxzZ])?o\-/ --> "'${1}o"
 
 # Correct pronunciation of particular words combinations
 / Девичьего [Пп]оля / --> " /+'d%je.v%jit&S%j.j\$.vo-_'po.l%jo-/+ "

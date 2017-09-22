@@ -4,7 +4,7 @@ Input file: Pycckuu__Tatiana.vpm.
 
 
 File:		Pycckuu__Tatiana.vpm, length 32478208
-Header:   	11.09.2017 07:08:57, DSKIMG, XOR 00, V 2.39, Ms 0, 006-D4896-00
+Header:   	22.09.2017 06:33:56, DSKIMG, XOR 00, V 2.39, Ms 0, 006-D4896-00
 Mapset:   	tatiana
 fat:		1000h - 1200h - 17000h, block 1024
 maps:		50, sub-files 50
@@ -30,7 +30,7 @@ Sub-file         fat     length
  APDB_TP  DAT   D800h      1564
  APDB     DAT   DA00h    153328
  AMILGA22 DAT   DC00h  10515608
- RULESET  TXT  13200h    167232
+ RULESET  TXT  13200h    167255
  WORDS    TXT  13400h      4848
  PHRASES  TXT  13600h     78870
  AU       DCT  13800h     14018
@@ -82,7 +82,7 @@ Map              length s-f  CP    prio  PID   FID  name
  APDB_TP   ?       1564  1
  APDB      ?     153328  1
  AMILGA22  ?   10515608  1
- RULESET   ?     167232  1
+ RULESET   ?     167255  1
  WORDS     ?       4848  1
  PHRASES   ?      78870  1
  AU        ?      14018  1
