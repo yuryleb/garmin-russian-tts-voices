@@ -25,14 +25,6 @@ charset = utf-8
 /\/\+k\^\.'l%jt&so_/ --> "кольцо /+"
 /\/\+S\^\.'s+E_/ --> "шоссе /+"
 
-# Correct known Map Phonetics mistakes
-/'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
-/\/\+'nes\.te\?_'oil_'eks\.'2pres\/\+/ --> "Neste Oil Express"
-/'pris\.ma/ --> "'pr%jiz.mo-"
-/\.([bdfgGjklmnprsStvxzZ])[ao]([bdfgGjklmnprsStvxzZ])?\.'/ --> ".${1}^${2}.'"
-/\.re([bdfgGjklmnprsStvxzZ])\./ --> ".rE${1}."
-/\.([bdfgGjklmnpsStvxzZ])e([bdfgGjklmnprsStvxzZ])\.'/ --> ".${1}I${2}.'"
-
 # Cut status name part from German street names to pronounce separately
 /(\S)\-?[Aa]llee / --> "$1 /+^.'l%jej/+ "
 /(\S)\-?[Bb]rücke / --> "$1 /+'br%ju.kE/+ "
@@ -2204,6 +2196,14 @@ charset = utf-8
 # Stage 3: remove unprocessed case tags
 /_[A-Z]{3}_ / --> " "
 
+
+# Fix vowels in Finnish Map Phonetics
+/'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
+/\/\+'nes\.te\?_'oil_'eks\.'2pres\/\+/ --> "Neste Oil Express"
+/'pris\.ma/ --> "'pr%jiz.mo-"
+/\.([bdfgGjklmnprsStvxzZ])[ao]([bdfgGjklmnprsStvxzZ])?\.'/ --> ".${1}^${2}.'"
+/\.re([bdfgGjklmnprsStvxzZ])?\./ --> ".rE${1}."
+/\.([bdfgGjklmnpsStvxzZ])e([bdfgGjklmnprsStvxzZ])?\.'/ --> ".${1}I${2}.'"
 
 # Fix endings & vowels in Russian Map Phonetics
 /([aeEiIou0\-\$\^])\.(')?([bdfgGklmnprsStvxzZ])(%j)?([bdfgGjklmnprsStvxzZ])/ --> "${1}${3}${4}.${2}${5}"
