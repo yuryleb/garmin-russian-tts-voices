@@ -29,8 +29,7 @@ charset = utf-8
 /'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
 /\/\+'nes\.te\?_'oil_'eks\.'2pres\/\+/ --> "Neste Oil Express"
 /'pris\.ma/ --> "'pr%jiz.mo-"
-/\.([bdfgGjklmnprsStvxzZ])[ao]\.'/ --> ".${1}^.'"
-/\.([bdfgGjklmnprsStvxzZ])[ao]([bdfgGjklmnprsStvxzZ])\.'/ --> ".${1}^${2}.'"
+/\.([bdfgGjklmnprsStvxzZ])[ao]([bdfgGjklmnprsStvxzZ])?\.'/ --> ".${1}^${2}.'"
 /\.re([bdfgGjklmnprsStvxzZ])\./ --> ".rE${1}."
 /\.([bdfgGjklmnpsStvxzZ])e([bdfgGjklmnprsStvxzZ])\.'/ --> ".${1}I${2}.'"
 
