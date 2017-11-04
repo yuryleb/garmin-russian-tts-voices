@@ -653,7 +653,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Тверской-Ямской     //tv%jIr.'skoj_jIm.'skoj
 "Турухтанные Острова" //tu.rux.'tan.ni0.j$_^s.tr^.'va
 "Турухтанные острова" //tu.rux.'tan.ni0.j$_^s.tr^.'va
-"Феодора Стратилата" //f%j$.'o.do-.ro-_stro-.t%ji.'la.to-
 "Ямского Поля"      //jIm.'sko.vo-_'po.l%jo-
 
 [SubHeader]
@@ -8944,6 +8943,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Федюнинского        //f%jI.'d%ju.n%jIn.sko-.vo-
 Федянина            //f%jI.'d%ja.n%ji.no-
 Фенерли             //f%j$.n%jIr.'l%ji
+Феодора             //f%jI.'o.do-.ro-
 Феодосиевская       //f%j$.^.'dos%j.I.j$f.sko-.jo-
 Феофила             //f%jI.'o.f%ji.lo-
 Феофилова           //f%jI.'o.f%ji.lo-.vo-
