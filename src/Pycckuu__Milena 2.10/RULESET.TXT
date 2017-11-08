@@ -26,30 +26,6 @@ charset = utf-8
 /\/\+k\^\.'l%jt&so_/ --> "кольцо /+"
 /\/\+S\^\.'s+E_/ --> "шоссе /+"
 
-# Cut status name part from German street names to pronounce separately
-/(\S)\-?[Aa]llee / --> "$1 /+^.'l%jej/+ "
-/(\S)\-?[Bb]rücke / --> "$1 /+'br%ju.kE/+ "
-/(\S)\-?[Dd]amm / --> "$1 /+'dam/+ "
-/(\S)\-?[Gg]asse / --> "$1 /+'gas.'2s%jo/+ "
-/(\S)\-?[Pp]latz / --> "$1 /+'plats/+ "
-/(\S)\-?[Qq]uai / --> "$1 /+'kE/+ "
-/(\S)\-?[Rr]ing / --> "$1 /+'r%jing/+ "
-/(\S)\-?[Ss]tra((ss)|ß)e / --> "$1 /+'Stra.sE/+ "
-/(\S)\-?[Uu]fer / --> "$1 /+'u.fo-/+ "
-/(\S)\-?[Ww]eg / --> "$1 /+'v%jEjk/+ "
-# The same for Finnish street names
-/(\S)bulevardi / --> "$1 /+bu.l%jI.'var.d%jij/+ "
-/(\S)järvi / --> "$1 /+'jar.v%jij/+ "
-/(\S)kaari / --> "$1 /+k^.'a.r%jij/+ "
-/(\S)katu / --> "$1 /+'ka.tu/+ "
-/(\S)kuja / --> "$1 /+'kuj.jo-/+ "
-/(\S)laita / --> "$1 /+'laj.to-/+ "
-/(\S)mäki / --> "$1 /+'m%ja.k%jij/+ "
-/(\S)taival / --> "$1 /+'ta:j.vo-l/+ "
-/(\S)tie / --> "$1 /+'tie/+ "
-/(\S)polku / --> "$1 /+'pol.ku/+ "
-/(\S)väylä / --> "$1 /+'v%ja.ju.lo-/+ "
-
 # Correct dates in street names
 / (\d+) [Яя]нваря / --> " ${1}-го января "
 / (\d+) [Фф]евраля / --> " ${1}-го февраля "
@@ -144,7 +120,7 @@ charset = utf-8
 /\\tn=address\\ ([^,\/\\]*\S) (([Mm]aantee)|([Mm]nt)) / --> "\\tn=address\\ $1 шоссе "
 /\\tn=address\\ ([^,\/\\]*\S) [Pp]lats / --> "\\tn=address\\ $1 площадь "
 /\\tn=address\\ ([^,\/\\]*\S) [Pp]õik / --> "\\tn=address\\ $1 переулок "
-/\\tn=address\\ ([^,\/\\]*\S) [Pp]rospekt / --> "\\tn=address\\ $1 проспект "
+/\\tn=address\\ ([^,\/\\]*\S) [Pp]rospekts? / --> "\\tn=address\\ $1 проспект "
 /\\tn=address\\ ([^,\/\\]*\S) (([Pp]uiestee)|([Pp]st)) / --> "\\tn=address\\ $1 бульвар "
 /\\tn=address\\ ([^,\/\\]*)[Rr]ingtee / --> "\\tn=address\\ кольцевая автодорога "
 /\\tn=address\\ ([^,\/\\]*\S) [Ss]ild / --> "\\tn=address\\ $1 мост "
@@ -162,7 +138,6 @@ charset = utf-8
 /\\tn=address\\ ([^,\/\\]*\S) [Kk]rastmala / --> "\\tn=address\\ $1 набережная "
 /\\tn=address\\ ([^,\/\\]*\S) [Ll]aukums / --> "\\tn=address\\ $1 площадь "
 /\\tn=address\\ ([^,\/\\]*\S) [Ll]īnija / --> "\\tn=address\\ $1 линия "
-/\\tn=address\\ ([^,\/\\]*\S) [Pp]rospekts / --> "\\tn=address\\ $1 проспект "
 /\\tn=address\\ ([^,\/\\]*\S) [Šš]oseja / --> "\\tn=address\\ $1 шоссе "
 /\\tn=address\\ ([^,\/\\]*\S) [Tt]ilts / --> "\\tn=address\\ $1 мост "
 # Translate Lithuanian status street names
@@ -279,6 +254,30 @@ charset = utf-8
 /\\tn=address\\ P\+R / --> "\\tn=address\\ перехватывающая парковка "
 # Translate some Swedish status street names (draft)
 /\\tn=address\\ Riksvägen (\d+) / --> "\\tn=address\\ трасса $1 "
+
+# Cut status name part from German street names to pronounce separately
+/(\S)\-?[Aa]llee / --> "$1 /+^.'l%jej/+ "
+/(\S)\-?[Bb]rücke / --> "$1 /+'br%ju.kE/+ "
+/(\S)\-?[Dd]amm / --> "$1 /+'dam/+ "
+/(\S)\-?[Gg]asse / --> "$1 /+'gas.'2s%jo/+ "
+/(\S)\-?[Pp]latz / --> "$1 /+'plats/+ "
+/(\S)\-?[Qq]uai / --> "$1 /+'kE/+ "
+/(\S)\-?[Rr]ing / --> "$1 /+'r%jing/+ "
+/(\S)\-?[Ss]tra((ss)|ß)e / --> "$1 /+'Stra.sE/+ "
+/(\S)\-?[Uu]fer / --> "$1 /+'u.fo-/+ "
+/(\S)\-?[Ww]eg / --> "$1 /+'v%jEjk/+ "
+# The same for Finnish street names
+/(\S)bulevardi / --> "$1 /+bu.l%jI.'var.d%jij/+ "
+/(\S)järvi / --> "$1 /+'jar.v%jij/+ "
+/(\S)kaari / --> "$1 /+k^.'a.r%jij/+ "
+/(\S)katu / --> "$1 /+'ka.tu/+ "
+/(\S)kuja / --> "$1 /+'kuj.jo-/+ "
+/(\S)laita / --> "$1 /+'laj.to-/+ "
+/(\S)mäki / --> "$1 /+'m%ja.k%jij/+ "
+/(\S)taival / --> "$1 /+'ta:j.vo-l/+ "
+/(\S)tie / --> "$1 /+'tie/+ "
+/(\S)polku / --> "$1 /+'pol.ku/+ "
+/(\S)väylä / --> "$1 /+'v%ja.ju.lo-/+ "
 
 # Remove dots after numbers in street names in Estonia and other countries
 /\\tn=address\\ (\d+)\. ([^,\/\\]*)[Лл]иния / --> "\\tn=address\\ ${1}-я линия $2"
