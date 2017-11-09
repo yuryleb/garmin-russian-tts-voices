@@ -45,7 +45,7 @@ namespace RulesetChecker
                         {
                             var ruleApplied = Stopwatch.StartNew();
                             string source = res;
-                            res = Regex.Replace(source, rule.Value.Item1, rule.Value.Item2);
+                            res = rule.Value.Item1.Replace(source, rule.Value.Item2);
                             ruleApplied.Stop();
 
                             if (!source.Equals(res, StringComparison.Ordinal))
@@ -84,7 +84,7 @@ namespace RulesetChecker
                 if (texts > 0)
                     Console.Write("; {0} texts parsed: {1} ms", texts, textsParsed.ElapsedMilliseconds);
                 Console.WriteLine();
-                if (ruleHotNo > 0)
+                if (ruleHotNo > 0 && ruleHotMs > 1)
                 {
                     Console.WriteLine("Hot rule #{0} /{1}/ --> \"{2}\": {3} ms",
                         ruleHotNo, ruleset[ruleHotNo].Item1, ruleset[ruleHotNo].Item2, ruleHotMs);
@@ -121,9 +121,13 @@ namespace RulesetChecker
             }
         }
 
-        static IDictionary<int, Tuple<string, string>> LoadRuleset(string fileName)
+        static readonly Regex RulesetParser = new Regex(
+            "^(?<space1>\\s*)/(?<pattern>.+)/(?<flags>[imsx])?(?<space2>\\s+)\\-\\->(?<space3>\\s+)\"(?<replace>.*)\"(?<space4>\\s*)#?.*(?<space5>\\s*)$",
+            RegexOptions.Compiled);
+
+        static IDictionary<int, Tuple<Regex, string>> LoadRuleset(string fileName)
         {
-            var ruleset = new SortedList<int, Tuple<string, string>>();
+            var ruleset = new SortedList<int, Tuple<Regex, string>>();
 
             using (StreamReader file = new StreamReader(fileName, Encoding.UTF8, true))
             {
@@ -144,7 +148,8 @@ namespace RulesetChecker
                     {
                         // TODO Search starting '/' char?
                         if (!line.StartsWith("language", StringComparison.OrdinalIgnoreCase) &&
-                            !line.StartsWith("charset", StringComparison.OrdinalIgnoreCase))
+                            !line.StartsWith("charset", StringComparison.OrdinalIgnoreCase) &&
+                            !line.StartsWith("type", StringComparison.OrdinalIgnoreCase) )
                         {
                             errors++;
                             Console.Error.WriteLine("ERROR: Incorrect rule at line #{0}: {1}", lineNo, line);
@@ -152,30 +157,55 @@ namespace RulesetChecker
                         continue;
                     }
 
-                    // Separate regular expression and replacement text
-                    int i = line.IndexOf("/ --> \"", StringComparison.Ordinal);
-                    if (i < 1)
+                    // Parse regular expression and replacement text
+                    Match m = RulesetParser.Match(line);
+                    if (!m.Success)
                     {
                         errors++;
                         Console.Error.WriteLine("ERROR: Invalid rule at line #{0}: {1}", lineNo, line);
                         continue;
                     }
-                    int j = line.LastIndexOf('"');
-                    if (j <= (i + 7))
+                    // Check extra whitespaces
+                    if (m.Groups["space1"].Length > 0)
                     {
                         errors++;
-                        Console.Error.WriteLine("ERROR: Non-closed replace rule at line #{0}: {1}", lineNo, line);
-                        continue;
+                        Console.Error.WriteLine("WARN: Extra whitespaces before rule at line #{0}: {1}", lineNo, line);
                     }
-                    else if (j + 1 < line.Length)
+                    if (m.Groups["space2"].Length > 1 || m.Groups["space3"].Length > 1)
                     {
                         errors++;
-                        Console.Error.WriteLine("WARN: Extra chars after replace rule at line #{0}: {1}", lineNo, line);
+                        Console.Error.WriteLine("WARN: Extra whitespaces in rule separator at line #{0}: {1}", lineNo, line);
+                    }
+                    if (m.Groups["space4"].Length > 0 || m.Groups["space5"].Length > 0)
+                    {
+                        errors++;
+                        Console.Error.WriteLine("WARN: Extra whitespaces after rule at line #{0}: {1}", lineNo, line);
                     }
 
-                    string search = line.Substring(1, i - 1);
+                    // Parse flags
+                    RegexOptions flags = RegexOptions.None;
+                    foreach (char f in m.Groups["flags"].Value)
+                    {
+                        switch (f)
+                        {
+                            case 'i':
+                                flags |= RegexOptions.IgnoreCase;
+                                break;
+                            case 'm':
+                                flags |= RegexOptions.Multiline;
+                                break;
+                            case 's':
+                                flags |= RegexOptions.Singleline;
+                                break;
+                            case 'x':
+                                flags |= RegexOptions.IgnorePatternWhitespace;
+                                break;
+                        }
+                    }
+
+                    string search = m.Groups["pattern"].Value;
                     // Replace double '\' chars and '\$' (RULESET.TXT specifics?)
-                    string replace = line.Substring(i + 7, j - i - 7).Replace(@"\$", "$$").Replace(@"\\", @"\");
+                    string replace = m.Groups["replace"].Value.Replace(@"\$", "$$").Replace(@"\\", @"\");
 
                     // Actually this syntax is dotNet-compatible:
                     //// Replace non-PCRE {N} substitutions
@@ -185,9 +215,9 @@ namespace RulesetChecker
                     // Check for valid syntax in both expressions
                     try
                     {
-                        Regex.Replace("", search, replace);
-
-                        ruleset.Add(lineNo, Tuple.Create(search, replace));
+                        Regex re = new Regex(search, flags);
+                        re.Replace("", replace);
+                        ruleset.Add(lineNo, Tuple.Create(re, replace));
                     }
                     catch
                     {
