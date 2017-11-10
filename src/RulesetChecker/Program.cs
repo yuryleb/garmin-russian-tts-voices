@@ -121,6 +121,8 @@ namespace RulesetChecker
             }
         }
 
+        // TODO Actually search/replace delimiters could be not only '/' char but any non-space symbol:
+        // https://www.west.com/wp-content/uploads/2015/10/Nuance-Developer-Guide-for-Vocalizer.pdf
         static readonly Regex RulesetParser = new Regex(
             "^(?<space1>\\s*)/(?<pattern>.+)/(?<flags>[imsx])?(?<space2>\\s+)\\-\\->(?<space3>\\s+)\"(?<replace>.*)\"(?<space4>\\s*)#?.*(?<space5>\\s*)$",
             RegexOptions.Compiled);
@@ -137,25 +139,15 @@ namespace RulesetChecker
                 {
                     lineNo++;
 
-                    // Ignore comments and empty lines
+                    // Ignore comments and header sections
                     if (line.Length == 0 || line[0] == '#' || line[0] == '[')
                         continue;
 
-                    // TODO Actually there are allowed extra whitespaces and a modifier [imsx] inside and
-                    // search/replace delimiters could be not only '/' char but any non-space symbol:
-                    // https://www.west.com/wp-content/uploads/2015/10/Nuance-Developer-Guide-for-Vocalizer.pdf
-                    if (line[0] != '/')
-                    {
-                        // TODO Search starting '/' char?
-                        if (!line.StartsWith("language", StringComparison.OrdinalIgnoreCase) &&
-                            !line.StartsWith("charset", StringComparison.OrdinalIgnoreCase) &&
-                            !line.StartsWith("type", StringComparison.OrdinalIgnoreCase) )
-                        {
-                            errors++;
-                            Console.Error.WriteLine("ERROR: Incorrect rule at line #{0}: {1}", lineNo, line);
-                        }
+                    // Check headers
+                    if (line.StartsWith("language", StringComparison.OrdinalIgnoreCase) ||
+                        line.StartsWith("charset", StringComparison.OrdinalIgnoreCase) ||
+                        line.StartsWith("type", StringComparison.OrdinalIgnoreCase))
                         continue;
-                    }
 
                     // Parse regular expression and replacement text
                     Match m = RulesetParser.Match(line);
