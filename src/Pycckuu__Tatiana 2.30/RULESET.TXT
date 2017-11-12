@@ -29,6 +29,23 @@ charset = utf-8
 # And fix some important accents there
 /_\^\.bv\^\.'dno\.v\$_/ --> "_^b.'vod.no-.vo-_"
 
+# Detect Russian transliteration
+/\\tn=address\\([^,\/\\]*) ulitsa / --> "\\tn=address\\$1 улица "
+/\\tn=address\\([^,\/\\]*) alleya / --> "\\tn=address\\$1 аллея "
+/\\tn=address\\([^,\/\\]*) doroga / --> "\\tn=address\\$1 дорога "
+/\\tn=address\\([^,\/\\]*) liniya / --> "\\tn=address\\$1 линия "
+/\\tn=address\\([^,\/\\]*) naberezhnaya / --> "\\tn=address\\$1 набережная "
+/\\tn=address\\([^,\/\\]*) ploshchad' / --> "\\tn=address\\$1 площадь "
+/\\tn=address\\([^,\/\\]*) bul'var / --> "\\tn=address\\$1 бульвар "
+/\\tn=address\\([^,\/\\]*) most / --> "\\tn=address\\$1 мост "
+/\\tn=address\\([^,\/\\]*) pereulok / --> "\\tn=address\\$1 переулок "
+/\\tn=address\\([^,\/\\]*) proezd / --> "\\tn=address\\$1 проезд "
+/\\tn=address\\([^,\/\\]*) prospekt / --> "\\tn=address\\$1 проспект "
+/\\tn=address\\([^,\/\\]*) trakt / --> "\\tn=address\\$1 тракт "
+/\\tn=address\\([^,\/\\]*) tupik / --> "\\tn=address\\$1 тупик "
+/\\tn=address\\([^,\/\\]*) kol'tso / --> "\\tn=address\\$1 кольцо "
+/\\tn=address\\([^,\/\\]*) shosse / --> "\\tn=address\\$1 шоссе "
+
 # Correct dates in street names
 / (\d+) [Яя]нваря / --> " ${1}-го января "
 / (\d+) [Фф]евраля / --> " ${1}-го февраля "

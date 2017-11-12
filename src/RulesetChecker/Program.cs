@@ -197,7 +197,8 @@ namespace RulesetChecker
 
                     string search = m.Groups["pattern"].Value;
                     // Replace double '\' chars and '\$' (RULESET.TXT specifics?)
-                    string replace = m.Groups["replace"].Value.Replace(@"\$", "$$").Replace(@"\\", @"\");
+                    string replace = m.Groups["replace"].Value;
+                    replace = Regex.Replace(replace, @"([^\\])\\\$", "$1$$$$").Replace(@"\\", @"\");
 
                     // Actually this syntax is dotNet-compatible:
                     //// Replace non-PCRE {N} substitutions
