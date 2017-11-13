@@ -27,7 +27,7 @@ charset = utf-8
 /\/\+S\^\.'s+E_/ --> "шоссе /+"
 
 # And fix some important accents there
-/_\^\.bv\^\.'dno\.v\$_/ --> "_^b.'vod.no-.vo-_"
+/([\+_])\^\.bv\^\.'dno\.v\$_/ --> "${1}^b.'vod.no-.vo-_"
 
 # Detect Russian transliteration
 /\\tn=address\\([^,\/\\]*) ulitsa / --> "\\tn=address\\$1 улица "
