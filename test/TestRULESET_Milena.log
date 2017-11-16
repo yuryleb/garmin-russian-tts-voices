@@ -1,18 +1,18 @@
 INPUT : Поверните направо на \tn=address\ Большой Проспект П.С. \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ Большой проспект П.С. \tn=normal\.
-RULES : #614 #1627
+RULES : #616 #1629
 
 INPUT : Поверните направо на \tn=address\ 850-Летия Москвы Улица \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ улицу восьмиста пятидесятилетия Москвы \tn=normal\.
-RULES : #79 #614 #986
+RULES : #81 #616 #988
 
 INPUT : Поверните направо на \tn=address\ Ямского Поля Улица \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ улицу /+jIm.'sko.vo-_'po.l%jo-/+ \tn=normal\.
-RULES : #614 #986 #2248
+RULES : #616 #988 #2257
 
 INPUT : Продолжите движение по \tn=address\ Пыхов-Церковный Проезд \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ Пыхову-Церковному проезду \tn=normal\.
-RULES : #611 #824
+RULES : #613 #826
 
 INPUT : В данный момент на вашем маршруте затор на светофоре.
 OUTPUT: В данный момент на вашем маршруте затор на светофоре.
@@ -20,627 +20,627 @@ RULES : none
 
 INPUT : Благодаря объезду дорожного затора на \tn=address\ Каменноостровский Проспект \tn=normal\ время в пути сократится на 4 минут.
 OUTPUT: Благодаря объезду дорожного затора на  \tn=address\ Каменноостровском проспекте \tn=normal\ время в пути сократится на 4 минуты.
-RULES : #575 #616 #1647
+RULES : #577 #618 #1649
 
 INPUT : Через один километр сверните на правый съезд, затем держитесь справа.
 OUTPUT: Через один километр сверните /+n^_'pra.vi0j_'sjest/+, затем держитесь правее.
-RULES : #8 #553 #556 #2257
+RULES : #8 #555 #558 #2266
 
 INPUT : Получены данные о строительных работах на \tn=address\ naberezhnaya Makarova \tn=normal\. Вы едете по самому быстрому маршруту.
 OUTPUT: Получены данные о строительных работах на  \tn=address\ набережной Makarova \tn=normal\. Вы едете по самому быстрому маршруту.
-RULES : #37 #616 #1153
+RULES : #38 #618 #1155
 
 INPUT : Получены данные о строительных работах на \tn=address\ naberezhnaya Reki Moyki \tn=normal\.
 OUTPUT: Получены данные о строительных работах на  \tn=address\ набережной Reki Moyki \tn=normal\.
-RULES : #37 #616 #1153
+RULES : #38 #618 #1155
 
 INPUT : Получены данные о строительных работах на \tn=address\ Bol'sheokhtinskiy most \tn=normal\. Вы едете по самому быстрому маршруту.
 OUTPUT: Получены данные о строительных работах на  \tn=address\ мосту Bol'sheokhtinskiy \tn=normal\. Вы едете по самому быстрому маршруту.
-RULES : #40 #616 #1437
+RULES : #42 #618 #1439
 
 INPUT : Получены данные о строительных работах на \tn=address\ ulitsa Chapaeva \tn=normal\.
 OUTPUT: Получены данные о строительных работах на  \tn=address\ улице Chapaeva \tn=normal\.
-RULES : #33 #616 #1016
+RULES : #34 #618 #1018
 
 INPUT : Получены данные о строительных работах на \tn=address\ ulitsa Savushkina \tn=normal\. 
 OUTPUT: Получены данные о строительных работах на  \tn=address\ улице Savushkina \tn=normal\. 
-RULES : #33 #616 #1016
+RULES : #34 #618 #1018
 
 INPUT : Получены данные о строительных работах на \tn=address\ Kronverkskaya ulitsa \tn=normal\. 
 OUTPUT: Получены данные о строительных работах на  \tn=address\ улице Kronverkskaya \tn=normal\. 
-RULES : #33 #616 #1015
+RULES : #34 #618 #1017
 
 INPUT : Получены данные о строительных работах на \tn=address\ Sablinskaya ulitsa \tn=normal\. Вы едете по самому быстрому маршруту.
 OUTPUT: Получены данные о строительных работах на  \tn=address\ улице Sablinskaya \tn=normal\. Вы едете по самому быстрому маршруту.
-RULES : #33 #616 #1015
+RULES : #34 #618 #1017
 
 INPUT : Получены данные о строительных работах на \tn=address\ Grazhdanskiy prospekt \tn=normal\. Вы едете по самому быстрому маршруту.
 OUTPUT: Получены данные о строительных работах на  \tn=address\ проспекте Grazhdanskiy \tn=normal\. Вы едете по самому быстрому маршруту.
-RULES : #43 #616 #1653
+RULES : #45 #618 #1655
 
 INPUT : Резко поверните налево на \tn=address\ Реки Карповки Набережная \tn=normal\.
 OUTPUT: Аккуратно поверните налево на  \tn=address\ набережную Реки Карповки \tn=normal\.
-RULES : #557 #614 #1130
+RULES : #559 #616 #1132
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ улица Ушинского 107 \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ улица Ушинского 100 7 \tn=normal\.
-RULES : #8 #619 #2057 #2221 #2257
+RULES : #8 #621 #2066 #2230 #2266
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ АЗС Сямжа - Шелл 11124 \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ автозаправочная станция Сямжа \pause=1\ Шелл 11 тысяч 100 20 4 \tn=normal\.
-RULES : #8 #619 #2052 #2057 #2058 #2179 #2221 #2252 #2257
+RULES : #8 #621 #2061 #2066 #2067 #2188 #2230 #2261 #2266
 
 INPUT : Поверните направо на \tn=address\ Н-5087 \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ дорогу Н  5 тысяч 80 7 \pause=1\ \tn=normal\.
-RULES : #614 #2045 #2055 #2056 #2060 #2103
+RULES : #616 #2054 #2064 #2065 #2069 #2112
 
 INPUT : Поверните направо на \tn=address\ Н-10087 Каменка - Петровичи - Мартыновка \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ дорогу Н  10 тысяч 80 7 \pause=1\ Каменка \pause=1\ Петровичи \pause=1\ Мартыновка \tn=normal\.
-RULES : #614 #2045 #2052 #2056 #2060 #2103 #2252
+RULES : #616 #2054 #2061 #2065 #2069 #2112 #2261
 
 INPUT : Поверните направо на \tn=address\ Н-10108 Побоковичи - Брожка - Туголица \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ дорогу Н  10 тысяч 100 8 \pause=1\ Побоковичи \pause=1\ Брожка \pause=1\ Туголица \tn=normal\.
-RULES : #614 #2045 #2052 #2057 #2103 #2252
+RULES : #616 #2054 #2061 #2066 #2112 #2261
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ Дубровка (Осиповичский р-н) \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ /+'dub.ro-f.ko-/+ \tn=normal\.
-RULES : #8 #83 #619 #2221 #2257
+RULES : #8 #85 #621 #2230 #2266
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ ДУБРОВКА (ОСИПОВИЧСКИЙ Р-Н) \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ /+'dub.ro-f.ko-/+ \tn=normal\.
-RULES : #8 #83 #619 #2221 #2257
+RULES : #8 #85 #621 #2230 #2266
 
 INPUT : Сверните направо на съезд \tn=address\ 19 \tn=normal\ к \tn=address\ C-32 \tn=normal\.
 OUTPUT: Сверните направо на съезд \tn=address\ 19 \tn=normal\ к  \tn=address\ трассе цэ 30 2 \pause=1\ \tn=normal\.
-RULES : #610 #2041 #2060 #2075
+RULES : #612 #2050 #2069 #2084
 
 INPUT : Продолжите движение по \tn=address\ C-31 \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ трассе цэ 30 1 \pause=1\ \tn=normal\.
-RULES : #611 #2041 #2060 #2075
+RULES : #613 #2050 #2069 #2084
 
 INPUT : Продолжите движение по \tn=address\ C260 \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ дороге це 200 60 \pause=1\ \tn=normal\.
-RULES : #611 #2044 #2058 #2113
+RULES : #613 #2053 #2067 #2122
 
 INPUT : Продолжите движение по \tn=address\ AL-18 \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ трассе A L 18 \pause=1\ \tn=normal\.
-RULES : #611 #2042 #2075
+RULES : #613 #2051 #2084
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ Rocca Al Mare \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ Rocca Al Mare \tn=normal\.
-RULES : #8 #619 #2221 #2257
+RULES : #8 #621 #2230 #2266
 
 INPUT : Продолжите движение по \tn=address\ A1 Rīga (Baltezers) — Igaunijas robeža (Ainaži) \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ трассе A  1 \pause=1\ Rīga \pause=1\ Igaunijas robeža \tn=normal\.
-RULES : #98 #611 #2042 #2075 #2252
+RULES : #100 #613 #2051 #2084 #2261
 
 INPUT : Продолжите движение по \tn=address\ A6-E22-E77 Rīga — Daugavpils — Krāslava — Baltkrievijas robeža (Pāterniek) \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ трассе A  6 \pause=1\ Е 20 2 \pause=1\ Е 70 7 \pause=1\ Rīga \pause=1\ Daugavpils \pause=1\ Krāslava \pause=1\ Baltkrievijas robeža \tn=normal\.
-RULES : #98 #611 #2029 #2042 #2060 #2075 #2252
+RULES : #100 #613 #2038 #2051 #2069 #2084 #2261
 
 INPUT : Продолжите движение по \tn=address\ A5-E77 Rīgas apvedceļš (Salaspils — Babīte) \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ трассе A  5 \pause=1\ Е 70 7 \pause=1\ Рижская объездная автодорога \tn=normal\.
-RULES : #98 #160 #611 #2030 #2042 #2060 #2075
+RULES : #100 #162 #613 #2039 #2051 #2069 #2084
 
 INPUT : Продолжите движение по \tn=address\ A3-E28 Minsko pl. \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ шоссе \pause=0\ A3 Е 20 8 \pause=1\ Минское \tn=normal\.
-RULES : #172 #611 #1975 #2030 #2060
+RULES : #174 #613 #1977 #2039 #2069
 
 INPUT : Продолжите движение по \tn=address\ A90-E75 Northern Cretan Highway \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ трассе A  90 \pause=1\ Е 70 5 \pause=1\ Northern Cretan Highway \tn=normal\.
-RULES : #611 #2030 #2042 #2060 #2075
+RULES : #613 #2039 #2051 #2069 #2084
 
 INPUT : Через полтора километра поверните направо на \tn=address\ 1771 \tn=normal\.
 OUTPUT: Через полтора километра поверните направо на  \tn=address\ дорогу тысяча 700 70 1 \pause=1\ \tn=normal\.
-RULES : #362 #614 #2043 #2057 #2058 #2103
+RULES : #364 #616 #2052 #2066 #2067 #2112
 
 INPUT : Через один километр поверните направо на \tn=address\ 1905 Года Улица \tn=normal\.
 OUTPUT: Через один километр поверните направо на  \tn=address\ улицу тысяча 900 пятого года \tn=normal\.
-RULES : #63 #354 #362 #480 #614 #986
+RULES : #65 #356 #364 #482 #616 #988
 
 INPUT : Поверните направо на \tn=address\ Joutsenonkatu \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ Joutsenon /+'ka.tu/+ \tn=normal\.
-RULES : #301 #614 #2221
+RULES : #303 #616 #2230
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ P+R Mellunmäki \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ перехватывающая парковка Mellun /+'m%ja.k%jij/+ \tn=normal\.
-RULES : #8 #282 #304 #619 #2221 #2257
+RULES : #8 #284 #306 #621 #2230 #2266
 
 INPUT : Поверните направо на \tn=address\ P+R Mellunmäki \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ перехватывающую парковку Mellun /+'m%ja.k%jij/+ \tn=normal\.
-RULES : #282 #304 #614 #2193
+RULES : #284 #306 #616 #2202
 
 INPUT : Продолжайте движение по \tn=address\ Riksvägen 7 \tn=normal\.
 OUTPUT: Продолжайте движение по  \tn=address\ трассе 7 \tn=normal\.
-RULES : #284 #611 #2075
+RULES : #286 #613 #2084
 
 INPUT : Двигайтесь справа по \tn=address\ 12 \tn=normal\, направление \tn=address\ /+'kou.fo.la/+ \tn=normal\.
 OUTPUT: /+'dv%ji.go-j.t%j$s%j_'spra.vo-/+ по  \tn=address\ трассе 12 \pause=1\ \tn=normal\, направление  \tn=address\ /+'ko.u.vo-.lo-/+ \tn=normal\.
-RULES : #8 #555 #611 #620 #2040 #2075 #2221 #2225 #2257
+RULES : #8 #557 #613 #622 #2049 #2084 #2230 #2234 #2266
 
 INPUT : Вы прибыли в пункт назначения , \tn=address\ /+'nes.te?_'oil_'eks.'2pres/+  \tn=normal\. Пункт назначения находится справа.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ Neste Oil Express  \tn=normal\. Пункт назначения находится справа.
-RULES : #619 #2221 #2226 #2257
+RULES : #621 #2230 #2235 #2266
 
 INPUT : Вы прибыли в пункт назначения , \tn=address\ /+'kul.ta.'2kel.lo_'pris.ma_'lap.pen.'2ran.ta/+  \tn=normal\. Пункт назначения находится слева.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ /+'kul.t^.'2kel.lo_'pr%jiz.mo-_'lap.pIn.'2ran.ta/+  \tn=normal\. Пункт назначения находится слева.
-RULES : #619 #2221 #2227 #2228 #2230 #2257
+RULES : #621 #2230 #2236 #2237 #2239 #2266
 
 INPUT : Поверните налево на \tn=address\ /+'lap.pen.'2ran.nan.'2tie/+ \tn=normal\.
 OUTPUT: Поверните налево на  \tn=address\ /+'lap.pIn.'2ran.n^n.'2tie/+ \tn=normal\.
-RULES : #614 #2221 #2228 #2230
+RULES : #616 #2230 #2237 #2239
 
 INPUT : Поверните налево на \tn=address\ /+'tu.nan.'2sa.ren.'2tie/+ \tn=normal\.
 OUTPUT: Поверните налево на  \tn=address\ /+'tu.n^n.'2sa.rEn.'2tie/+ \tn=normal\.
-RULES : #614 #2221 #2228 #2229
+RULES : #616 #2230 #2237 #2238
 
 INPUT : Поверните налево на \tn=address\ /+'nui.ja.'2man.'2tie/+ \tn=normal\, затем держитесь слева.
 OUTPUT: Поверните налево на  \tn=address\ /+'nui.j^.'2man.'2tie/+ \tn=normal\, затем держитесь левее.
-RULES : #8 #552 #614 #2221 #2228 #2257
+RULES : #8 #554 #616 #2230 #2237 #2266
 
 INPUT : Поверните налево на \tn=address\ /+'sa.von.'2lin.nan.'2tie/+ \tn=normal\, затем совершите въезд на кольцевую развязку.
 OUTPUT: Поверните налево на  \tn=address\ /+'sa.v^n.'2lin.n^n.'2tie/+ \tn=normal\, затем совершите въезд на кольцевую развязку.
-RULES : #8 #614 #2221 #2228 #2257
+RULES : #8 #616 #2230 #2237 #2266
 
 INPUT : Через шестьсот метров поверните направо на \tn=address\ /+'tai.ni.on%j.'2kos.ken.'2tie/+ \tn=normal\.
 OUTPUT: Через шестьсот метров поверните направо на  \tn=address\ /+'tai.ni.on%j.'2kos.kIn.'2tie/+ \tn=normal\.
-RULES : #614 #2221 #2230
+RULES : #616 #2230 #2239
 
 INPUT : Через сто метров поверните направо на \tn=address\ Rue de Rivoli \tn=normal\.
 OUTPUT: Через сто метров поверните направо на  \tn=address\ улицу de Rivoli \tn=normal\.
-RULES : #208 #614 #987
+RULES : #210 #616 #989
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ Place du Louvre \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ площадь du Louvre \tn=normal\.
-RULES : #8 #200 #619 #2221 #2257
+RULES : #8 #202 #621 #2230 #2266
 
 INPUT : Поверните направо на \tn=address\ Allée Principale \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ аллею Principale \tn=normal\.
-RULES : #190 #614 #931
+RULES : #192 #616 #933
 
 INPUT : Продолжите движение по \tn=address\ Avenue Victoria \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проспекту Victoria \tn=normal\.
-RULES : #191 #611 #1640
+RULES : #193 #613 #1642
 
 INPUT : Поверните направо на \tn=address\ Cours la Reine \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ площадь la Reine \tn=normal\.
-RULES : #194 #614 #2221
+RULES : #196 #616 #2230
 
 INPUT : Поверните направо на \tn=address\ Petit-Pont Cardinal-Lustinger \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ малый мост Cardinal-Lustinger \tn=normal\.
-RULES : #201 #614 #1405
+RULES : #203 #616 #1407
 
 INPUT : Поверните налево на \tn=address\ Quai de Montebello \tn=normal\.
 OUTPUT: Поверните налево на  \tn=address\ набережную de Montebello \tn=normal\.
-RULES : #204 #614 #1131
+RULES : #206 #616 #1133
 
 INPUT : Поверните направо на \tn=address\ Impasse Maubert \tn=normal\.
 OUTPUT: Поверните направо в  \tn=address\  тупик Maubert \tn=normal\.
-RULES : #196 #614 #2213 #2221
+RULES : #198 #616 #2222 #2230
 
 INPUT : Продолжите движение по \tn=address\ Boulevard Saint-Germain \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ бульвару Saint-Germain \tn=normal\.
-RULES : #192 #611 #1286
+RULES : #194 #613 #1288
 
 INPUT : Продолжите движение по \tn=address\ Sortie Turbigo (Voie S1) \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ съезду Turbigo \tn=normal\.
-RULES : #98 #209 #611 #1733
+RULES : #100 #211 #613 #1735
 
 INPUT : Продолжите движение по \tn=address\ Souterrain Grande Boucle (Voie BCL) \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ тоннелю Grande Boucle \tn=normal\.
-RULES : #98 #210 #611 #1772
+RULES : #100 #212 #613 #1774
 
 INPUT : Продолжите движение по \tn=address\ Entrée Turbigo \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ заезду Turbigo \tn=normal\.
-RULES : #195 #611 #1373
+RULES : #197 #613 #1375
 
 INPUT : Продолжите движение по \tn=address\ Tunnel des Tuileries \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ тоннелю des Tuileries \tn=normal\.
-RULES : #212 #611 #1772
+RULES : #214 #613 #1774
 
 INPUT : Продолжите движение по \tn=address\ Voie Georges Pompidou \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ дороге Georges Pompidou \tn=normal\.
-RULES : #213 #611 #2113
+RULES : #215 #613 #2122
 
 INPUT : Продолжите движение по \tn=address\ Cours la Reine \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ площади la Reine \tn=normal\.
-RULES : #194 #611 #1197
+RULES : #196 #613 #1199
 
 INPUT : Продолжите движение по \tn=address\ Passage James Cane \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проезду James Cane \tn=normal\.
-RULES : #199 #611 #1576
+RULES : #201 #613 #1578
 
 INPUT : Продолжите движение по \tn=address\ Promenade de Florence \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ набережной de Florence \tn=normal\.
-RULES : #203 #611 #1141
+RULES : #205 #613 #1143
 
 INPUT : Продолжите движение по \tn=address\ Rond-Point des Champs-Élysées - Marcel Dassault \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ кольцу des Champs-Élysées \pause=1\ Marcel Dassault \tn=normal\.
-RULES : #205 #611 #1939 #2252
+RULES : #207 #613 #1941 #2261
 
 INPUT : Поверните направо на \tn=address\ Accès Parking Pyramides \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ подъезд Parking Pyramides \tn=normal\.
-RULES : #189 #614 #2221
+RULES : #191 #616 #2230
 
 INPUT : Поверните направо на \tn=address\ Chemin de Trépomy \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ проезд de Trépomy \tn=normal\.
-RULES : #193 #614 #2221
+RULES : #195 #616 #2230
 
 INPUT : Через семьсот метров поверните направо на \tn=address\ Avinguda del Regne de València \tn=normal\.
 OUTPUT: Через семьсот метров поверните направо на  \tn=address\ проспект del Regne de València \tn=normal\.
-RULES : #234 #614 #2221
+RULES : #236 #616 #2230
 
 INPUT : Продолжите движение по \tn=address\ Camí de Sant Jeroni de la Murtra \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ дороге de Sant Jeroni de la Murtra \tn=normal\.
-RULES : #235 #611 #2113
+RULES : #237 #613 #2122
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ Carrer de Bailèn 23 \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ улица de Bailèn 20 3 \tn=normal\.
-RULES : #8 #236 #619 #2060 #2221 #2257
+RULES : #8 #238 #621 #2069 #2230 #2266
 
 INPUT : Продолжите движение по \tn=address\ Gran Via de les Corts Catalanes \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проспекту Gran Vía de les Corts Catalanes \tn=normal\.
-RULES : #225 #611 #1640
+RULES : #227 #613 #1642
 
 INPUT : Поверните направо на \tn=address\ Moll d'Espanya \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ дорогу /+'mol%j/+ d'Espanya \tn=normal\.
-RULES : #237 #614 #2103
+RULES : #239 #616 #2112
 
 INPUT : Поверните налево на \tn=address\ Passatge del Pagès \tn=normal\.
 OUTPUT: Поверните налево на  \tn=address\ проезд del Pagès \tn=normal\.
-RULES : #238 #614 #2221
+RULES : #240 #616 #2230
 
 INPUT : Поверните направо на \tn=address\ Passeig de Sant Joan \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ бульвар de Sant Joan \tn=normal\.
-RULES : #239 #614 #2221
+RULES : #241 #616 #2230
 
 INPUT : Продолжите движение по \tn=address\ Plaça de Tetuan \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ площади de Tetuan \tn=normal\.
-RULES : #240 #611 #1197
+RULES : #242 #613 #1199
 
 INPUT : Продолжите движение по \tn=address\ Pont del Molinet \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ мосту del Molinet \tn=normal\.
-RULES : #202 #611 #1422
+RULES : #204 #613 #1424
 
 INPUT : Продолжите движение по \tn=address\ Rambla de la Muntanya \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ Rambla de la Muntanya \tn=normal\.
-RULES : #611 #2221
+RULES : #613 #2230
 
 INPUT : Продолжите движение по \tn=address\ Travessera de Montigalà \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ переулку de Montigalà \tn=normal\.
-RULES : #242 #611 #1505
+RULES : #244 #613 #1507
 
 INPUT : Продолжите движение по \tn=address\ Via Trajana \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ улице Trajana \tn=normal\.
-RULES : #264 #611 #1000
+RULES : #266 #613 #1002
 
 INPUT : Продолжите движение по \tn=address\ Acceso Dársena de Cartagena \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ подъезду Dársena de Cartagena \tn=normal\.
-RULES : #215 #611 #2168
+RULES : #217 #613 #2177
 
 INPUT : Продолжите движение по \tn=address\ Avenida Navarra \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проспекту Navarra \tn=normal\.
-RULES : #216 #611 #1640
+RULES : #218 #613 #1642
 
 INPUT : Продолжите движение по \tn=address\ Autopista del Maresme \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ магистрали del Maresme \tn=normal\.
-RULES : #217 #611 #2008
+RULES : #219 #613 #2011
 
 INPUT : Продолжите движение по \tn=address\ Autovía del Este \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ автодороге del Este \tn=normal\.
-RULES : #218 #611 #2113
+RULES : #220 #613 #2122
 
 INPUT : Продолжите движение по \tn=address\ Bypass Sur \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ обходу Sur \tn=normal\.
-RULES : #219 #611 #1469
+RULES : #221 #613 #1471
 
 INPUT : Продолжите движение по \tn=address\ Calle del General Palanca \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ улице del General Palanca \tn=normal\.
-RULES : #220 #611 #1000
+RULES : #222 #613 #1002
 
 INPUT : Продолжите движение по \tn=address\ Camino de Hormigueras \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ дороге de Hormigueras \tn=normal\.
-RULES : #221 #611 #2113
+RULES : #223 #613 #2122
 
 INPUT : Продолжите движение по \tn=address\ Carretera del Carmel \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ шоссе del Carmel \tn=normal\.
-RULES : #222 #611 #2221
+RULES : #224 #613 #2230
 
 INPUT : Продолжите движение по \tn=address\ Eje Sureste \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ шоссе Eje Sureste \tn=normal\.
-RULES : #223 #611 #2221
+RULES : #225 #613 #2230
 
 INPUT : Продолжите движение по \tn=address\ Glorieta de Carlos V \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ кольцу de Carlos V \tn=normal\.
-RULES : #224 #611 #1939
+RULES : #226 #613 #1941
 
 INPUT : Продолжите движение по \tn=address\ Gran Vía \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проспекту Gran Vía \tn=normal\.
-RULES : #225 #611 #1640
+RULES : #227 #613 #1642
 
 INPUT : Поверните направо на \tn=address\ Nudo de Manoteras \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ развязку de Manoteras \tn=normal\.
-RULES : #226 #614 #2174
+RULES : #228 #616 #2183
 
 INPUT : Продолжите движение по \tn=address\ Paseo de Santa María de la Cabeza \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проезду de Santa María de la Cabeza \tn=normal\.
-RULES : #227 #611 #1576
+RULES : #229 #613 #1578
 
 INPUT : Продолжите движение по \tn=address\ Plaza de Peñuelas \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ площади de Peñuelas \tn=normal\.
-RULES : #228 #611 #1197
+RULES : #230 #613 #1199
 
 INPUT : Продолжите движение по \tn=address\ Puente de Segovia \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ мосту de Segovia \tn=normal\.
-RULES : #229 #611 #1422
+RULES : #231 #613 #1424
 
 INPUT : Продолжите движение по \tn=address\ Ronda de Atocha \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ кольцу de Atocha \tn=normal\.
-RULES : #230 #611 #1939
+RULES : #232 #613 #1941
 
 INPUT : Продолжите движение по \tn=address\ Travesía de Felipe de Diego \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ переулку de Felipe de Diego \tn=normal\.
-RULES : #231 #611 #1505
+RULES : #233 #613 #1507
 
 INPUT : Продолжите движение по \tn=address\ Túnel de Atocha \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ тоннелю de Atocha \tn=normal\.
-RULES : #232 #611 #1772
+RULES : #234 #613 #1774
 
 INPUT : Продолжите движение по \tn=address\ Autostrada Messina-Catania \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ шоссе Messina-Catania \tn=normal\.
-RULES : #244 #611 #2221
+RULES : #246 #613 #2230
 
 INPUT : Продолжите движение по \tn=address\ Cavalcavia Renato Serra \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ путепроводу Renato Serra \tn=normal\.
-RULES : #245 #611 #1694
+RULES : #247 #613 #1696
 
 INPUT : Продолжите движение по \tn=address\ Circonvallazione Ostiense \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ кольцевой автодороге Ostiense \tn=normal\.
-RULES : #246 #611 #2106
+RULES : #248 #613 #2115
 
 INPUT : Продолжите движение по \tn=address\ Contrada Pallio \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проезду Pallio \tn=normal\.
-RULES : #247 #611 #1576
+RULES : #249 #613 #1578
 
 INPUT : Продолжите движение по \tn=address\ Corso Italia \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проспекту Italia \tn=normal\.
-RULES : #248 #611 #1640
+RULES : #250 #613 #1642
 
 INPUT : Продолжите движение по \tn=address\ Galleria Taormina \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ тоннелю Taormina \tn=normal\.
-RULES : #249 #611 #1772
+RULES : #251 #613 #1774
 
 INPUT : Продолжите движение по \tn=address\ Lungarno Cristoforo Colombo \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ набережной Cristoforo Colombo \tn=normal\.
-RULES : #250 #611 #1141
+RULES : #252 #613 #1143
 
 INPUT : Продолжите движение по \tn=address\ Lungotevere dei Tebaldi \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ набережной dei Tebaldi \tn=normal\.
-RULES : #252 #611 #1141
+RULES : #254 #613 #1143
 
 INPUT : Продолжите движение по \tn=address\ Passeggiata Anita Garibaldi \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ набережной Anita Garibaldi \tn=normal\.
-RULES : #253 #611 #1141
+RULES : #255 #613 #1143
 
 INPUT : Поверните направо на \tn=address\ Piazza Europa \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ площадь Europa \tn=normal\.
-RULES : #254 #614 #2221
+RULES : #256 #616 #2230
 
 INPUT : Поверните направо на \tn=address\ Piazzale Candido Cannavò \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ площадь Candido Cannavò \tn=normal\.
-RULES : #255 #614 #2221
+RULES : #257 #616 #2230
 
 INPUT : Поверните направо на \tn=address\ Piazzetta Oronzo De Donno \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ площадь Oronzo De Donno \tn=normal\.
-RULES : #256 #614 #2221
+RULES : #258 #616 #2230
 
 INPUT : Продолжите движение по \tn=address\ Ponte Principe Amedeo \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ мосту Principe Amedeo \tn=normal\.
-RULES : #202 #611 #1422
+RULES : #204 #613 #1424
 
 INPUT : Продолжите движение по \tn=address\ Riva di Corinto \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ набережной di Corinto \tn=normal\.
-RULES : #257 #611 #1141
+RULES : #259 #613 #1143
 
 INPUT : Продолжите движение по \tn=address\ Riviera di Chiaia \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ набережной di Chiaia \tn=normal\.
-RULES : #258 #611 #1141
+RULES : #260 #613 #1143
 
 INPUT : Продолжите движение по \tn=address\ Rua Toscana \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ улице Toscana \tn=normal\.
-RULES : #208 #611 #1000
+RULES : #210 #613 #1002
 
 INPUT : Продолжите движение по \tn=address\ Salita delle Ginestre \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проезду delle Ginestre \tn=normal\.
-RULES : #259 #611 #1576
+RULES : #261 #613 #1578
 
 INPUT : Продолжите движение по \tn=address\ Sopraelevata Renato Serra \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ эстакаде Renato Serra \tn=normal\.
-RULES : #260 #611 #1249
+RULES : #262 #613 #1251
 
 INPUT : Продолжите движение по \tn=address\ Strada per San Giovanni Galermo \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ дороге per San Giovanni Galermo \tn=normal\.
-RULES : #261 #611 #2113
+RULES : #263 #613 #2122
 
 INPUT : Продолжите движение по \tn=address\ Tangenziale Ovest di Catania \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ объездной автодороге Ovest di Catania \tn=normal\.
-RULES : #262 #611 #2106
+RULES : #264 #613 #2115
 
 INPUT : Продолжите движение по \tn=address\ Traversa degli Orefici \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ переулку degli Orefici \tn=normal\.
-RULES : #263 #611 #1505
+RULES : #265 #613 #1507
 
 INPUT : Поверните направо на \tn=address\ Via delle Camelie \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ улицу delle Camelie \tn=normal\.
-RULES : #264 #614 #987
+RULES : #266 #616 #989
 
 INPUT : Поверните направо на \tn=address\ Viale Tirreno \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ проспект Tirreno \tn=normal\.
-RULES : #265 #614 #2221
+RULES : #267 #616 #2230
 
 INPUT : Поверните направо на \tn=address\ Vico San Geronimo \tn=normal\.
 OUTPUT: Поверните направо в  \tn=address\  тупик San Geronimo \tn=normal\.
-RULES : #266 #614 #2213 #2221
+RULES : #268 #616 #2222 #2230
 
 INPUT : Поверните направо на \tn=address\ Vicolo della Sfera \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ аллею della Sfera \tn=normal\.
-RULES : #267 #614 #931
+RULES : #269 #616 #933
 
 INPUT : Поверните направо на \tn=address\ Szarka utca \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ улицу Szarka \tn=normal\.
-RULES : #279 #614 #986
+RULES : #281 #616 #988
 
 INPUT : Поверните направо на \tn=address\ Olof Palme sétány \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ аллею Olof Palme \tn=normal\.
-RULES : #275 #614 #930
+RULES : #277 #616 #932
 
 INPUT : Поверните направо на \tn=address\ Fővám tér \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ площадь Fővám \tn=normal\.
-RULES : #277 #614 #1186
+RULES : #279 #616 #1188
 
 INPUT : Поверните направо на \tn=address\ Hősök tere \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ площадь Hősök \tn=normal\.
-RULES : #277 #614 #1186
+RULES : #279 #616 #1188
 
 INPUT : Продолжите движение по \tn=address\ Vámház körút \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ бульвару Vámház \tn=normal\.
-RULES : #271 #611 #1285
+RULES : #273 #613 #1287
 
 INPUT : Продолжите движение по \tn=address\ Szabadság híd \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ мосту Szabadság \tn=normal\.
-RULES : #270 #611 #1421
+RULES : #272 #613 #1423
 
 INPUT : Поверните направо на \tn=address\ Pesti alsó rakpart \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ набережную Pesti alsó \tn=normal\.
-RULES : #274 #614 #1130
+RULES : #276 #616 #1132
 
 INPUT : Продолжите движение по \tn=address\ Kelenhegyi út \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ дороге Kelenhegyi \tn=normal\.
-RULES : #278 #611 #2112
+RULES : #280 #613 #2121
 
 INPUT : Продолжите движение по \tn=address\ Kodály körönd \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ кольцу Kodály \tn=normal\.
-RULES : #272 #611 #1938
+RULES : #274 #613 #1940
 
 INPUT : Продолжите движение по \tn=address\ Felső erdősor \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ Felső erdősor \tn=normal\.
-RULES : #611 #2221
+RULES : #613 #2230
 
 INPUT : Поверните направо на \tn=address\ Olof Palme sétány \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ аллею Olof Palme \tn=normal\.
-RULES : #275 #614 #930
+RULES : #277 #616 #932
 
 INPUT : Поверните направо на \tn=address\ Városligeti fasor \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ аллею Városligeti \tn=normal\.
-RULES : #269 #614 #930
+RULES : #271 #616 #932
 
 INPUT : Продолжите движение по \tn=address\ Széchenyi köz \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ переулку Széchenyi \tn=normal\.
-RULES : #273 #611 #1504
+RULES : #275 #613 #1506
 
 INPUT : Продолжите движение по \tn=address\ Fenyves sor \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проезду Fenyves \tn=normal\.
-RULES : #276 #611 #1575
+RULES : #278 #613 #1577
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ Граница Минской и витебской обл. \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ Граница Минской И витебской областей  \tn=normal\.
-RULES : #8 #111 #619 #2221 #2257
+RULES : #8 #113 #621 #2230 #2266
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ Обводного канала Набережная, 14 литЖ \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ набережная Обводного канала, 14 литера Ж \tn=normal\.
-RULES : #8 #102 #619 #1119 #2257
+RULES : #8 #104 #621 #1121 #2266
 
 INPUT : Поверните направо на \tn=address\ Миклухо-Маклая Улица \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ улицу Миклухо-Маклая \tn=normal\.
-RULES : #614 #895 #987
+RULES : #616 #897 #989
 
 INPUT : Через семьсот метров поверните направо на \tn=address\ Кировск-Мга-Гатчина-Большая Ижора \tn=normal\.
 OUTPUT: Через семьсот метров поверните направо на  \tn=address\ дорогу Кировск \pause=1\ Мга \pause=1\ Гатчина \pause=1\ Большая Ижора \tn=normal\.
-RULES : #614 #2036 #2103 #2252
+RULES : #616 #2045 #2112 #2261
 
 INPUT : Через семьсот метров поверните направо на \tn=address\ Р-23 \tn=normal\.
 OUTPUT: Через семьсот метров поверните направо на  \tn=address\ дорогу  эр 20 3 \pause=1\ \tn=normal\.
-RULES : #614 #2032 #2060 #2103
+RULES : #616 #2041 #2069 #2112
 
 INPUT : Поверните направо на \tn=address\ E 85 \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ трассу Е 80 5 \pause=1\ \tn=normal\.
-RULES : #614 #2028 #2060 #2070
+RULES : #616 #2037 #2069 #2079
 
 INPUT : Затор на \tn=address\ 14;6 \tn=normal\.
 OUTPUT: Затор на  \tn=address\ трассе 14 \pause=1\ 6 \tn=normal\.
-RULES : #616 #2040 #2080
+RULES : #618 #2049 #2089
 
 INPUT : Затор до \tn=address\ 41А-180 \tn=normal\.
 OUTPUT: Затор до  \tn=address\ дороги 40 1 А \pause=1\ 100 80 \tn=normal\.
-RULES : #618 #2046 #2058 #2060 #2137
+RULES : #620 #2055 #2067 #2069 #2146
 
 INPUT : \tn=address\ Троицкий мост \tn=normal\ закрыта, переключение на новый маршрут.
 OUTPUT:  Троицкий мост  закрыт, переключение на новый маршрут.
-RULES : #8 #637 #1398 #2257
+RULES : #8 #639 #1400 #2266
 
 INPUT : \tn=address\ Каменноостровский Проспект \tn=normal\ закрыта. Переключение на новый маршрут.
 OUTPUT:  Каменноостровский проспект  закрыт. Переключение на новый маршрут.
-RULES : #640 #1622
+RULES : #642 #1624
 
 INPUT : \tn=address\ Академика Климова Площадь \tn=normal\ закрыта. Переключение на новый маршрут.
 OUTPUT:  площадь Академика Климова  закрыта. Переключение на новый маршрут.
-RULES : #631 #1174
+RULES : #633 #1176
 
 INPUT : \tn=sms\ MCHS - МЧС предупреждает! Штормовое предупреждение! 29 августа с 13-17 часов  по Невской губе Финского залива ожидается усиление юго-восточного, восточного ветра до 12-16м/с. Будьте внимательны и осторожны!  \tn=normal\
 OUTPUT:  МЧС предупреждает! Штормовое предупреждение! 20 девятого августа с 13-17 часов  по Невской губе Финского залива ожидается усиление юго-восточного, восточного ветра до 12-16 метров в секунду. Будьте внимательны и осторожны!  \tn=normal\
-RULES : #8 #57 #92 #353 #484 #587 #2257
+RULES : #8 #59 #94 #355 #486 #589 #2266
 
 INPUT : \tn=sms\ Ваш баланс составляет 252.00р  \tn=normal\
 OUTPUT: \tn=sms\ Ваш баланс составляет 200 50 два рубля  \tn=normal\
-RULES : #588 #594 #2058
+RULES : #590 #596 #2067
 
 INPUT : \tn=sms\ Ваш баланс составляет 13.22р.  \tn=normal\
 OUTPUT: \tn=sms\ Ваш баланс составляет 13 рублей 20 2 копеек   \tn=normal\
-RULES : #589 #2060
+RULES : #591 #2069
 
 INPUT : \tn=sms\ Ваш баланс составляет 24,00 руб.  \tn=normal\
 OUTPUT: \tn=sms\ Ваш баланс составляет 20 4 рубля   \tn=normal\
-RULES : #8 #9 #588 #595
+RULES : #8 #9 #590 #597
 
 INPUT : \tn=sms\ Ваш баланс составляет 21 руб.  \tn=normal\
 OUTPUT: \tn=sms\ Ваш баланс составляет 20 один рубль   \tn=normal\
-RULES : #588 #593
+RULES : #590 #595
 
 INPUT : \tn=sms\ Дорожные работы: Синопская наб. \tn=normal\
 OUTPUT: \tn=sms\ Дорожные работы: Синопская набережная  \tn=normal\
-RULES : #120
+RULES : #122
 
 INPUT : \tn=sms\ Затруднено движение: Заневский просп. \tn=normal\
 OUTPUT: \tn=sms\ Затруднено движение: Заневский проспект  \tn=normal\
-RULES : #125
+RULES : #127
 
 INPUT : \tn=sms\ Пробка на Кантемировская ул.. Вы задержитесь на 15 мин. \tn=normal\
 OUTPUT: Пробка  на  Кантемировской улице . Вы задержитесь на 15 минут \tn=normal\
-RULES : #91 #116 #572 #622 #1008
+RULES : #93 #118 #574 #624 #1010
 
 INPUT : \tn=sms\ Время в пути до дома - 21 мин. (На 1 мин. меньше обычного) через наб. Смольная - 21 мин. (На 1 мин. меньше обычного) через наб. Смольная 14 подсказок \tn=normal\
 OUTPUT: Время в пути /+d^_'do.mo-/+ составляет 20 одну минуту через набережную  Смольная, На одну минуту меньше обычного 
-RULES : #87 #89 #119 #572 #573 #576 #2257
+RULES : #89 #91 #121 #574 #575 #578 #2266
 
 INPUT : \tn=sms\ Время в пути до дома - 18 мин. (На 1 мин. меньше обычного) через пр. Каменноостровский - 18 мин. (На 1 мин. меньше обычного) через пр. Каменноостровский 14 подсказок \tn=normal\
 OUTPUT: Время в пути /+d^_'do.mo-/+ составляет 18 минут через проспект  Каменноостровский, На одну минуту меньше обычного 
-RULES : #87 #89 #125 #572 #573 #2257
+RULES : #89 #91 #127 #574 #575 #2266
 
 INPUT : \tn=sms\ Время в пути до работы - 41 мин. (На 2 мин меньше обычного) через наб. Синопская - 41 мин. (На 2 мин меньше обычного) через наб. Синопская 13 подсказок \tn=normal\
 OUTPUT: Время в пути /+do-_r^.'bo.ti0/+ составляет 40 одну минуту через набережную  Синопская, На 2 мин меньше обычного 
-RULES : #88 #89 #119 #576 #2257
+RULES : #90 #91 #121 #578 #2266
 
 INPUT : \tn=sms\ Дорога перекрыта: Лесной пр. \tn=normal\
 OUTPUT: \tn=sms\ Дорога перекрыта: Лесной проспект  \tn=normal\
-RULES : #125
+RULES : #127
 
 INPUT : Какой номер дома по Каменноостровский Проспект?
 OUTPUT: Какой номер дома  по  Каменноостровскому проспекту ?
-RULES : #621 #1633
+RULES : #623 #1635
 
 INPUT : Температура составляет 24 градусов.
 OUTPUT: Температура составляет 20 4  градуса.
-RULES : #582 #584
+RULES : #584 #586
 
 INPUT : Температура составляет 13 градусов.
 OUTPUT: Температура составляет 13 градусов.
@@ -648,205 +648,205 @@ RULES : none
 
 INPUT : Температура составляет -2 градусов.
 OUTPUT: Температура составляет минус 2  градуса.
-RULES : #581 #584
+RULES : #583 #586
 
 INPUT : Температура составляет 3 градусов.
 OUTPUT: Температура составляет 3  градуса.
-RULES : #584
+RULES : #586
 
 INPUT : Поверните направо на \tn=address\ /+'u.l%jI.t&s$_t&S%jI.'pa.I.v$/+ \tn=normal\, затем поверните направо.
 OUTPUT: Поверните направо на  \tn=address\ улицу /+t&S%jI.'pa.I.vo-/+ \tn=normal\, затем поверните направо.
-RULES : #8 #12 #614 #987 #2236 #2257
+RULES : #8 #12 #616 #989 #2245 #2266
 
 INPUT : Через семьсот метров поверните направо на \tn=address\ /+'u.l%jI.t&s$_'m%ji.r$/+ \tn=normal\.
 OUTPUT: Через семьсот метров поверните направо на  \tn=address\ улицу /+'m%ji.ro-/+ \tn=normal\.
-RULES : #12 #614 #987 #2236
+RULES : #12 #616 #989 #2245
 
 INPUT : Через семьсот метров поверните налево на \tn=address\ /+m%jI.l%jI.'o.n$.I_'u.l%jI.t&s$/+ \tn=normal\.
 OUTPUT: Через семьсот метров поверните налево на  \tn=address\ /+m%jI.l%jI.'o.nu.ju_'u.l%ji.t&su/+ \tn=normal\.
-RULES : #614 #990
+RULES : #616 #992
 
 INPUT : Через шестьсот метров поверните направо на \tn=address\ /+'m%je.l%jn%jI.t&S%jn$.I_'u.l%jI.t&s$/+ \tn=normal\.
 OUTPUT: Через шестьсот метров поверните направо на  \tn=address\ /+'m%jel%j.n%jI.t&S%jnu.ju_'u.l%ji.t&su/+ \tn=normal\.
-RULES : #614 #990 #2233
+RULES : #616 #992 #2242
 
 INPUT : Через пятьсот метров поверните направо на \tn=address\ /+p%jI.tr^.'pa.vl$.fsk$.I_'u.l%jI.t&s$/+ \tn=normal\, затем поверните налево.
 OUTPUT: Через пятьсот метров поверните направо на  \tn=address\ /+p%jIt.r^.'pav.lo-.fsku.ju_'u.l%ji.t&su/+ \tn=normal\, затем поверните налево.
-RULES : #8 #614 #990 #2233 #2236 #2257
+RULES : #8 #616 #992 #2242 #2245 #2266
 
 INPUT : Поверните направо на \tn=address\ /+ft^.'ra.I_s^.'v%je.t&sk$.I_'u.l%jI.t&s$/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ /+ft^.'ru.ju_s^.'v%je.t&sku.ju_'u.l%ji.t&su/+ \tn=normal\.
-RULES : #614 #988
+RULES : #616 #990
 
 INPUT : Через пятьсот метров поверните налево на \tn=address\ /+'u.l%jI.t&s$_m^.'ks%ji.m$_'go.r%jk$.v$_s%jI.str^.'r%jet&sk/+ \tn=normal\, затем держитесь справа.
 OUTPUT: Через пятьсот метров поверните налево на  \tn=address\ улицу /+m^k.'s%ji.mo-_'gor%j.ko-.vo-_s%jIs.tr^.'r%jet&sk/+ \tn=normal\, затем держитесь правее.
-RULES : #8 #12 #553 #614 #987 #2233 #2236 #2257
+RULES : #8 #12 #555 #616 #989 #2242 #2245 #2266
 
 INPUT : Сверните на кольцевой развязке на первый съезд , ведущий к \tn=address\ /+g^.'n%jt&S%ja.rn$.I_'u.l%jI.t&s$/+ \tn=normal\.
 OUTPUT: Сверните на кольцевой развязке на первый съезд, ведущий к  \tn=address\ /+g^n%j.'t&S%jar.no-j_'u.l%ji.t&sE/+ \tn=normal\.
-RULES : #610 #1006 #2233 #2257
+RULES : #612 #1008 #2242 #2266
 
 INPUT : Через сто метров поверните направо на \tn=address\ /+^.'l%je.jE_^.k^.'d%je.m%jI.k$_glu.'Sk$/+ \tn=normal\.
 OUTPUT: Через сто метров поверните направо на  \tn=address\ аллею /+^.k^.'d%je.m%jI.ko-_gluS.'ko/+ \tn=normal\.
-RULES : #13 #614 #931 #2233 #2236 #2237
+RULES : #13 #616 #933 #2242 #2245 #2246
 
 INPUT : Через четыре километра поверните направо на \tn=address\ /+'l%ji.p$.v$.I_^.'l%je.E/+ \tn=normal\.
 OUTPUT: Через четыре километра поверните направо на  \tn=address\ /+'l%ji.po-.vu.ju_^.'l%je.ju/+ \tn=normal\.
-RULES : #614 #933 #2236
+RULES : #616 #935 #2245
 
 INPUT : Через семьсот метров поверните налево на \tn=address\ /+'ku.Si0.l%jI.fsk$.I_d^.'ro.g$/+ \tn=normal\.
 OUTPUT: Через семьсот метров поверните налево на  \tn=address\ /+'ku.Si0.l%jI.fsku.ju_d^.'ro.gu/+ \tn=normal\.
-RULES : #614 #2105
+RULES : #616 #2114
 
 INPUT : Через пятьсот метров поверните направо на \tn=address\ /+t$.rf%jI.'na.I_d^.'ro.g$/+ \tn=normal\, затем поверните направо.
 OUTPUT: Через пятьсот метров поверните направо на  \tn=address\ /+to-r.f%jI.'nu.ju_d^.'ro.gu/+ \tn=normal\, затем поверните направо.
-RULES : #8 #614 #2105 #2233 #2236 #2257
+RULES : #8 #616 #2114 #2242 #2245 #2266
 
 INPUT : Поверните направо на \tn=address\ /+'na.b%jI.r%jI.Zn$.E_r%jI.'k%ji_'ka.rp$.fk%jI/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ набережную /+r%jI.'k%ji_'kar.po-.fk%jIj/+ \tn=normal\.
-RULES : #16 #614 #1131 #2233 #2235 #2236
+RULES : #16 #616 #1133 #2242 #2244 #2245
 
 INPUT : Через шестьсот метров поверните направо на \tn=address\ /+s%jI.'no.psk$.I_'na.b%jI.r%jI.Zn$.E/+ \tn=normal\.
 OUTPUT: Через шестьсот метров поверните направо на  \tn=address\ /+s%jI.'nop.sku.ju_'na.b%j$.r%j$Z.nu.ju/+ \tn=normal\.
-RULES : #614 #1133 #2233
+RULES : #616 #1135 #2242
 
 INPUT : Поверните направо на \tn=address\ /+'na.b%jI.r%jI.Zn$.I_r%jI.'k%ji_f^.'nta.nk%jI/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ набережную /+r%jI.'k%ji_f^n.'tan.k%jIj/+ \tn=normal\.
-RULES : #16 #614 #1131 #2233 #2235
+RULES : #16 #616 #1133 #2242 #2244
 
 INPUT : Поверните направо на \tn=address\ /+'na.b%jI.r%jI.Zn$.E_^.bv^.'dno.v$_k^.'na.l$/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ набережную /+^b.'vod.no-.vo-_k^.'na.lo-/+ \tn=normal\.
-RULES : #16 #30 #614 #1131 #2236
+RULES : #16 #31 #616 #1133 #2245
 
 INPUT : Поверните направо на \tn=address\ /+'plo.S%jIt%j_^.l%jI.'ksa.ndr$_'n%je.fsk$.v$/+ \tn=normal\, затем поверните налево.
 OUTPUT: Поверните направо на  \tn=address\ площадь /+^.l%jIk.'san.dro-_'n%je.fsko-.vo-/+ \tn=normal\, затем поверните налево.
-RULES : #8 #17 #614 #2221 #2233 #2236 #2257
+RULES : #8 #18 #616 #2230 #2242 #2245 #2266
 
 INPUT : Через семьсот метров поверните налево на \tn=address\ /+'tro.I.t&sk$.I_'plo.S%jIt%j/+ \tn=normal\.
 OUTPUT: Через семьсот метров поверните налево на  \tn=address\ /+'tro.I.t&sku.ju_'plo.S%jo-t%j/+ \tn=normal\.
-RULES : #614 #1188
+RULES : #616 #1190
 
 INPUT : Поверните направо на \tn=address\ /+'p%ja.t$.E_l%ji.n%jI.E_v^.'s%ji.l%jI.fsk$.v$_'o.str$.v$/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ /+'p%ja.tu.ju_'l%ji.n%jI.ju_v^.'s%ji.l%jI.fsko-.vo-_'os.tro-.vo-/+ \tn=normal\.
-RULES : #614 #1084 #2233 #2236
+RULES : #616 #1086 #2242 #2245
 
 INPUT : Продолжите движение по \tn=address\ /+'p%ja.t$.E_'l%ji.n%jI.E_v^.'s%ji.l%jI.fsk$.v$_'o.str$.v$/+ \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ /+'p%ja.to-j_'l%ji.n%jI.I_v^.'s%ji.l%jI.fsko-.vo-_'os.tro-.vo-/+ \tn=normal\.
-RULES : #611 #1094 #2233 #2236
+RULES : #613 #1096 #2242 #2245
 
 INPUT : Поверните направо на \tn=address\ /+ft^.'ra.E_'tr%je.t%jE_'l%ji.n%jI.I/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ /+ft^.'ru.ju_i_'tr%je.t%jI.ju_'l%ji.n%jI.I/+ \tn=normal\.
-RULES : #614 #1049
+RULES : #616 #1051
 
 INPUT : Через три километра перестройтесь влево И продолжите движение по \tn=address\ /+pr^.'sp%jekt_^.'bu.x$.fsk$j_^.b^.'ro.ni0/+ \tn=normal\.
 OUTPUT: Через три километра перестройтесь влево И продолжите движение по  \tn=address\ проспекту /+^.'bu.xo-.fsko-j_^.b^.'ro.ni0/+ \tn=normal\.
-RULES : #23 #611 #1640 #2236
+RULES : #24 #613 #1642 #2245
 
 INPUT : Через пятьсот метров перестройтесь влево И продолжите движение по \tn=address\ /+k$.m%jI.n$.^.'stro.fsk%jIj_pr^.'sp%jekt/+ \tn=normal\.
 OUTPUT: Через пятьсот метров перестройтесь влево И продолжите движение по  \tn=address\ /+ko-.m%jI.no-.^s.'tro.fsko-.mu_pr^s.'p%jek.tu/+ \tn=normal\.
-RULES : #611 #1644 #2233 #2236
+RULES : #613 #1646 #2242 #2245
 
 INPUT : Через четыреста метров поверните налево И продолжите движение по \tn=address\ /+b^.'l%jSoj_pr^.'sp%jekt_'pE_'Es/+ \tn=normal\.
 OUTPUT: Через четыреста метров поверните налево И продолжите движение по  \tn=address\ /+b^l%j.'So.mu_pr^s.'p%jek.tu_'pE_'Es/+ \tn=normal\.
-RULES : #611 #1642 #2233
+RULES : #613 #1644 #2242
 
 INPUT : Через пятьсот метров поверните направо на \tn=address\ /+'ma.li0j_pr^.'sp%jekt/+ \tn=normal\.
 OUTPUT: Через пятьсот метров поверните направо на  \tn=address\ /+'ma.li0j_pr^s.'p%jekt/+ \tn=normal\.
-RULES : #614 #2221 #2233
+RULES : #616 #2230 #2242
 
 INPUT : Сверните на кольцевой развязке на первый съезд , ведущий к \tn=address\ /+gr^.'Zda.nsk%jIj_pr^.'sp%jekt/+ \tn=normal\.
 OUTPUT: Сверните на кольцевой развязке на первый съезд, ведущий к  \tn=address\ /+gr^Z.'dan.sko-.mu_pr^s.'p%jek.tu/+ \tn=normal\.
-RULES : #610 #1644 #2233 #2257
+RULES : #612 #1646 #2242 #2266
 
 INPUT : Через шестьсот метров перестройтесь вправо И продолжите движение по \tn=address\ /+'s%je.v%jI.rni0j_pr^.'sp%jekt/+ \tn=normal\.
 OUTPUT: Через шестьсот метров перестройтесь вправо И продолжите движение по  \tn=address\ /+'s%je.v%jIr.no-.mu_pr^s.'p%jek.tu/+ \tn=normal\.
-RULES : #611 #1645 #2233
+RULES : #613 #1647 #2242
 
 INPUT : Поверните направо на \tn=address\ /+'u.tk%jIn_pr^.'sp%jekt/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ /+'ut.k%jIn_pr^s.'p%jekt/+ \tn=normal\.
-RULES : #614 #2221 #2233
+RULES : #616 #2230 #2242
 
 INPUT : Сверните на кольцевой развязке на четвертый съезд , ведущий к \tn=address\ /+ft^.'roj_'mu.r%jI.nsk%jIj_pr^.'sp%jekt/+ \tn=normal\.
 OUTPUT: Сверните на кольцевой развязке на четвертый съезд, ведущий ко \tn=address\ /+ft^.'ro.mu_'mu.r%jIn.sko-.mu_pr^s.'p%jek.tu/+ \tn=normal\.
-RULES : #610 #1641 #2218 #2233 #2257
+RULES : #612 #1643 #2227 #2242 #2266
 
 INPUT : Поверните направо на \tn=address\ /+k^.'za.rm%jI.nni0j_p%jI.r%jI.'u.l$k/+ \tn=normal\, затем поверните направо.
 OUTPUT: Поверните направо на  \tn=address\ /+k^.'zar.m%jIn.ni0j_p%jI.r%jI.'u.lo-k/+ \tn=normal\, затем поверните направо.
-RULES : #8 #614 #2221 #2233 #2236 #2257
+RULES : #8 #616 #2230 #2242 #2245 #2266
 
 INPUT : Через пятьсот метров перестройтесь влево И продолжите движение по \tn=address\ /+k^.'za.rm%jI.nni0j_p%jI.r%jI.'u.l$k/+ \tn=normal\.
 OUTPUT: Через пятьсот метров перестройтесь влево И продолжите движение по  \tn=address\ /+k^.'zar.m%jIn.no-.mu_p%j$.r%jI.'ul.ku/+ \tn=normal\.
-RULES : #611 #1510 #2233
+RULES : #613 #1512 #2242
 
 INPUT : Поверните налево на \tn=address\ /+'s%ji.fk$f_p%jI.r%jI.'u.l$k/+ \tn=normal\.
 OUTPUT: Поверните налево на  \tn=address\ /+'s%ji.fko-f_p%jI.r%jI.'u.lo-k/+ \tn=normal\.
-RULES : #614 #2221 #2236
+RULES : #616 #2230 #2245
 
 INPUT : Через пятьсот метров поверните направо на \tn=address\ /+^.'ga.t$f_p%jI.r%jI.'u.l$k/+ \tn=normal\.
 OUTPUT: Через пятьсот метров поверните направо на  \tn=address\ /+^.'ga.to-f_p%jI.r%jI.'u.lo-k/+ \tn=normal\.
-RULES : #614 #2221 #2236
+RULES : #616 #2230 #2245
 
 INPUT : Через пятьсот метров поверните направо на \tn=address\ /+bu.'l%jvar_'kra.sni0x_'zor%j/+ \tn=normal\.
 OUTPUT: Через пятьсот метров поверните направо на  \tn=address\ бульвар /+'kras.ni0x_'zor%j/+ \tn=normal\.
-RULES : #18 #614 #2221 #2233
+RULES : #19 #616 #2230 #2242
 
 INPUT : Через шестьсот метров перестройтесь вправо И продолжите движение по \tn=address\ /+bu.'l%jvar_'kra.sni0x_'zor%j/+ \tn=normal\.
 OUTPUT: Через шестьсот метров перестройтесь вправо И продолжите движение по  \tn=address\ бульвару /+'kras.ni0x_'zor%j/+ \tn=normal\.
-RULES : #18 #611 #1286 #2233
+RULES : #19 #613 #1288 #2242
 
 INPUT : Через шестьсот метров поверните налево на \tn=address\ /+s^.'mpso.n%jI.I.fsk%jIj_'most/+ \tn=normal\.
 OUTPUT: Через шестьсот метров поверните налево на  \tn=address\ /+s^m.'pso.n%jI.I.fsk%jIj_'most/+ \tn=normal\.
-RULES : #614 #2221 #2233
+RULES : #616 #2230 #2242
 
 INPUT : Через пятьсот метров перестройтесь влево И продолжите движение по \tn=address\ /+s^.'mpso.n%jI.I.fsk%jIj_'most/+ \tn=normal\.
 OUTPUT: Через пятьсот метров перестройтесь влево И продолжите движение по  \tn=address\ /+s^m.'pso.n%jI.I.fsko-.mu_m^s.'tu/+ \tn=normal\.
-RULES : #611 #1426 #2233
+RULES : #613 #1428 #2242
 
 INPUT : Поверните направо на \tn=address\ /+dv^.'rt&so.vi0j_pr^.'jest/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ /+dv^r.'t&so.vi0j_pr^.'jest/+ \tn=normal\.
-RULES : #614 #2221 #2233
+RULES : #616 #2230 #2242
 
 INPUT : Через пятьсот метров перестройтесь влево И продолжите движение по \tn=address\ /+dv^.'rt&so.vi0j_pr^.'jest/+ \tn=normal\.
 OUTPUT: Через пятьсот метров перестройтесь влево И продолжите движение по  \tn=address\ /+dv^r.'t&so.vo-.mu_pr^.'jez.du/+ \tn=normal\.
-RULES : #611 #1581 #2233
+RULES : #613 #1583 #2242
 
 INPUT : Через шестьсот метров вы прибудете в пункт назначения , \tn=address\ /+'pa.vl$.fsk%jIj_'trakt/+ 209 \tn=normal\.
 OUTPUT: Через шестьсот метров вы прибудете в пункт назначения,  \tn=address\ /+'pav.lo-.fsk%jIj_'trakt/+ 200 9 \tn=normal\.
-RULES : #619 #2057 #2221 #2233 #2236 #2257
+RULES : #621 #2066 #2230 #2242 #2245 #2266
 
 INPUT : Через шестьсот метров перестройтесь вправо И продолжите движение по \tn=address\ /+'pa.vl$.fsk%jIj_'trakt/+ \tn=normal\.
 OUTPUT: Через шестьсот метров перестройтесь вправо И продолжите движение по  \tn=address\ /+'pav.lo-.fsko-.mu_'trak.tu/+ \tn=normal\.
-RULES : #611 #1821 #2233 #2236
+RULES : #613 #1823 #2242 #2245
 
 INPUT : Поверните направо на \tn=address\ /+m%ji.tr^.'fa.n%jjI.fsk%jIj_tu.'p%jik/+ \tn=normal\, затем поверните налево.
 OUTPUT: Поверните направо на  \tn=address\ /+m%jit.r^.'fan%j.jI.fsk%jIj_tu.'p%jik/+ \tn=normal\, затем поверните налево.
-RULES : #8 #614 #2221 #2233 #2257
+RULES : #8 #616 #2230 #2242 #2266
 
 INPUT : Через пятьсот метров поверните налево на \tn=address\ /+pr%jI.'mo.rsk$.I_S^.'sE/+ \tn=normal\, затем поверните налево.
 OUTPUT: Через пятьсот метров поверните налево на  \tn=address\ /+pr%jI.'mor.sko-.j$_S^.'sE/+ \tn=normal\, затем поверните налево.
-RULES : #8 #614 #1970 #2233 #2257
+RULES : #8 #616 #1972 #2242 #2266
 
 INPUT : Через пятьсот метров перестройтесь влево И продолжите движение по \tn=address\ /+pr%jI.'mo.rsk$.I_S^.'sE/+ \tn=normal\.
 OUTPUT: Через пятьсот метров перестройтесь влево И продолжите движение по  \tn=address\ /+pr%jI.'mor.sko-.mu_S^.'sE/+ \tn=normal\.
-RULES : #611 #1976 #2233
+RULES : #613 #1978 #2242
 
 INPUT : Сверните на правый съезд, направление \tn=address\ /+m^.'sko.fsk$.I_S^.'sE/+ \tn=normal\, затем держитесь справа.
 OUTPUT: Сверните /+n^_'pra.vi0j_'sjest/+, направление  \tn=address\ /+m^s.'ko.fsko-.j$_S^.'sE/+ \tn=normal\, затем держитесь правее.
-RULES : #8 #553 #556 #620 #1966 #2233 #2257
+RULES : #8 #555 #558 #622 #1968 #2242 #2266
 
 INPUT : Поверните направо на \tn=address\ /+'tr%je.t%jjI_'tra.nsp$.rtn$.I_k^.'l%jt&so/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ /+'tr%jet%j.j$_'tran.spo-r.tno-.j$_k^l%j.'t&so/+ \tn=normal\.
-RULES : #614 #1931 #2233 #2236
+RULES : #616 #1933 #2242 #2245
 
 INPUT : Сверните на правый съезд, ведущий к \tn=address\ /+'tr%je.t%jjI_'tra.nsp$.rtn$.I_k^.'l%jt&so/+ \tn=normal\.
 OUTPUT: Сверните /+n^_'pra.vi0j_'sjest/+, ведущий к  \tn=address\ /+'tr%jet%j.j$.mu_'tran.spo-r.tno-.mu_k^l%j.'t&su/+ \tn=normal\.
-RULES : #8 #556 #610 #1940 #2233 #2236 #2257
+RULES : #8 #558 #612 #1942 #2242 #2245 #2266
 
 INPUT : Через четыреста метров перестройтесь вправо И продолжите движение по \tn=address\ /+'tr%je.t%jjI_k^.'l%jt&so/+ \tn=normal\, направление \tn=address\ /+S^.'ssE_I.ntu.z%jI.'a.st$f/+ \tn=normal\.
 OUTPUT: Через четыреста метров перестройтесь вправо И продолжите движение по  \tn=address\ /+'tr%jet%j.j$.mu_k^l%j.'t&su/+ \tn=normal\, направление  \tn=address\ шоссе /+In.tu.z%jI.'as.to-f/+ \tn=normal\.
-RULES : #8 #27 #611 #620 #1942 #2221 #2233 #2236 #2257
+RULES : #8 #28 #613 #622 #1944 #2230 #2242 #2245 #2266
 
 INPUT : Через шестьсот метров перестройтесь вправо И продолжите движение по \tn=address\ /+'tr%je.t%jjI_'tra.nsp$.rtn$.I_k^.'l%jt&so/+ \tn=normal\.
 OUTPUT: Через шестьсот метров перестройтесь вправо И продолжите движение по  \tn=address\ /+'tr%jet%j.j$.mu_'tran.spo-r.tno-.mu_k^l%j.'t&su/+ \tn=normal\.
-RULES : #611 #1940 #2233 #2236
+RULES : #613 #1942 #2242 #2245
 
