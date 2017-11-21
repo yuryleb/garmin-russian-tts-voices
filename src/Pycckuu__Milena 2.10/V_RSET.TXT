@@ -1,0 +1,11 @@
+﻿
+[header]
+language = RUR
+charset = utf-8
+type = translit
+
+[data]
+# Convert BGN transliteration back to Russian
+
+# Pass address to common RULESET
+/^ / --> "\\tn=name\\ "
