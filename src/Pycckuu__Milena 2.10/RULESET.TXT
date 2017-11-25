@@ -2002,17 +2002,6 @@ charset = utf-8
 /([bdfgGklmnprsStvxzZ])\$/ --> "${1}o-"
 /'([bdfgGklmnprsStvxzZ])?o\-/ --> "'${1}o"
 
-# Correct pronunciation of particular words combinations
-/ Девичьего [Пп]оля / --> " /+'d%je.v%jit&S%j.j\$.vo-_'po.l%jo-/+ "
-/ Кул[ \-]Гали / --> " /+kul.g^.'l%ji/+ "
-/ Куликова [Пп]оля / --> " /+ku.l%ji.'ko.vo-_'po.l%jo-/+ "
-/ Марко Вовчок / --> " /+m^r.'ko_v^f.'t&S%jok/+ "
-/ Перова [Пп]оля / --> " /+p%jI.'ro.vo-_'po.l%jo-/+ "
-/ Поля Лафарга / --> " /+'po.l%jo-_l^.'far.go-/+ "
-/ [Сс]ело / --> " /+s%jI.'lo/+ \\pause=0\\ "
-/ Ф[её]дора Черника / --> " /+'f%jo.do-.ro-_'t&S%jer.n%ji.ko-/+ "
-/ Ямского [Пп]оля / --> " /+jIm.'sko.vo-_'po.l%jo-/+ "
-
 # Replace dashes between spaces with commas
 #/ [\-—] / --> ", "
 / [\-—] / --> " \\pause=1\\ "

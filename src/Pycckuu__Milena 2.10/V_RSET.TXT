@@ -1,11 +1,48 @@
 ﻿
 [header]
 language = RUR
-charset = utf-8
 type = translit
+charset = utf-8
 
 [data]
 # Convert BGN transliteration back to Russian
+/[Ss]hch/ --> "щ"
+/[Cc]h/ --> "ч"
+/[Kk]h/ --> "х"
+/[Ss]h/ --> "ш"
+/[Zz]h/ --> "ж"
+/[Tt]s/ --> "ц"
+/[Yy]a/ --> "я"
+/[Yy]o/ --> "ё"
+/[Yy]e/ --> "е"
+/[Yy]u/ --> "ю"
+/[Aa]/ --> "а"
+/[Bb]/ --> "б"
+/[Vv]/ --> "в"
+/[Gg]/ --> "г"
+/[Dd]/ --> "д"
+# TODO 'э' is also E, find the way to distinct with 'е'
+#/[Ee]/ --> "е"
+#/[Ee]/ --> "э"
+/e/ --> "е"
+/E/ --> "э"
+/[Zz]/ --> "з"
+/[Ii]/ --> "и"
+/[Yy]/ --> "й"
+# TODO 'ы' is also Y, find the way to distinct with 'й'
+/[Kk]/ --> "к"
+/[Ll]/ --> "л"
+/[Mm]/ --> "м"
+/[Nn]/ --> "н"
+/[Oo]/ --> "о"
+/[Pp]/ --> "п"
+/[Rr]/ --> "р"
+/[Ss]/ --> "с"
+/[Tt]/ --> "т"
+/[Uu]/ --> "у"
+/[Ff]/ --> "ф"
+/(\S)'/ --> "$1ь"
+# TODO 'ъ' is also ', find the way to distinct with 'ь'
 
 # Pass address to common RULESET
 /^ / --> "\\tn=name\\ "

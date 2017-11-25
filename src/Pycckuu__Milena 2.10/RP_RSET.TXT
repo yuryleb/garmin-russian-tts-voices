@@ -1,8 +1,8 @@
 ﻿
 [header]
 language = RUR
-charset = utf-8
 type = address
+charset = utf-8
 
 [data]
 # Translate foreign addresses and preprocess Russian
@@ -28,6 +28,17 @@ type = address
 # Catch some Belarus names with special stress
 / Д[Уу][Бб][Рр][Оо][Вв][Кк][Аа] \(О[Сс][Ии][Пп][Оо][Вв][Ии][Чч][Сс][Кк][Ии][Йй] [Рр]\-[Нн]\) / --> " /+'dub.ro-f.ko-/+ "
 / О[Сс][Тт][Рр][Оо][Вв][Кк][Ии] \(О[Сс][Ии][Пп][Оо][Вв][Ии][Чч][Сс][Кк][Ии][Йй] [Рр]\-[Нн]\) / --> " /+^s.'trof.k%jij/+ "
+
+# Correct pronunciation of particular words combinations
+/ Девичьего [Пп]оля / --> " /+'d%je.v%jit&S%j.j\$.vo-_'po.l%jo-/+ "
+/ Кул[ \-]Гали / --> " /+kul.g^.'l%ji/+ "
+/ Куликова [Пп]оля / --> " /+ku.l%ji.'ko.vo-_'po.l%jo-/+ "
+/ Марко Вовчок / --> " /+m^r.'ko_v^f.'t&S%jok/+ "
+/ Перова [Пп]оля / --> " /+p%jI.'ro.vo-_'po.l%jo-/+ "
+/ Поля Лафарга / --> " /+'po.l%jo-_l^.'far.go-/+ "
+/ [Сс]ело / --> " /+s%jI.'lo/+ \\pause=0\\ "
+/ Ф[её]дора Черника / --> " /+'f%jo.do-.ro-_'t&S%jer.n%ji.ko-/+ "
+/ Ямского [Пп]оля / --> " /+jIm.'sko.vo-_'po.l%jo-/+ "
 
 # Cut initials from street names ("Fr. R. Kreutzwaldi", "Я. Свердлова")
 /^ [A-ZА-Я][a-z]?\.( [A-ZА-Я]\.)? / --> " "
