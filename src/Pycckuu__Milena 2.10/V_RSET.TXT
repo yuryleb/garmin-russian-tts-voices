@@ -43,6 +43,3 @@ charset = utf-8
 /[Ff]/ --> "ф"
 /(\S)'/ --> "$1ь"
 # TODO 'ъ' is also ', find the way to distinct with 'ь'
-
-# Pass address to common RULESET
-/^ / --> "\\tn=name\\ "
