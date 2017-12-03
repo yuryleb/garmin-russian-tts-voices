@@ -30,6 +30,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Пр-Т                //pr^s.'p%jekt
 Пр-Кт               //pr^s.'p%jekt
 Просп.              //pr^s.'p%jekt
+просп.              //pr^s.'p%jekt
 Просп-Т             //pr^s.'p%jekt
 раз.                //r^z.'jezd
 Р-Н                 //r^.'jon
@@ -1152,6 +1153,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Анголенко           //^n.'go.l%j$n.ko-
 Андерса             //'an.dEr.so-
 Андерсоновская      //'an.dEr.so-.no-f.sko-.jo-
+Андомский           //'an.do-m.sk%jij
 Андреевка           //^n.'dr%je.j$f.ko-
 Андреево-Забелинская //^n.'2dr%je.j$.vo-_z^.'b%je.l%jin.sko-.jo-
 Андрейченко         //^n.'dr%jej.t&S%j$n.ko-
@@ -1792,6 +1794,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Бродок              //br^.'dok
 Броды               //br^.'di0
 Брожа               //'broZ.o-
+Бронево             //'bro.n%j$.vo-
 Бронная             //'bron.no-.jo-
 Бронницкая          //'bron.n%jit&s.ko-.jo-
 Бронницкий          //'bron.n%jit&s.k%jij
@@ -1987,6 +1990,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Васюринская         //v^.'s%ju.r%jin.sko-.jo-
 Васюринский         //v^.'s%ju.r%jin.sk%jij
 Васякина            //v^.'s%ja.k%ji.no-
+Ватамановская       //vo-.t^.'ma.no-f.sko-.jo-
 Ватин               //'va.t%jin
 Ватланово           //v^t.'la.no-.vo-
 Ватутинки           //v^.'tu.t%jin.k%ji
@@ -2183,6 +2187,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Внутриквартальный   //'2vnut.r%ji.kv^r.'tal%j.ni0j
 Вовчок              //v^f.'t&S%jok
 Вогульский          //v^.'gul%j.sk%jij
+Водлица             //'vod.l%ji.t&so-
 Водонасосная        //vo-.do-.n^.'sos.no-.jo-
 Водонасосный        //vo-.do-.n^.'sos.ni0j
 Водоочистные        //vo-.do-.^.t&S%jist.'ni0.j$
@@ -2572,6 +2577,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Гольмана            //'gol%j.mo-.no-
 Гольшанская         //g^l%j.'San.sko-.jo-
 Гомоновка           //'go.mo-.no-f.ko-
+Гоморовичи          //'go.mo-.ro-.v%ji.t&S%jij
 Гонимова            //g^.'n%ji.mo-.vo-
 Гонолес             //go-.n^.l%j'es
 Гончарова           //go-n%j.t&S%jI.'ro.vo-
@@ -3734,6 +3740,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Исаевская           //i.'sa.j$f.sko-.jo-
 Исаевский           //i.'sa.j$f.sk%jij
 Исакова             //i.'sa.ko-.vo-
+Исаково             //i.'sa.ko-.vo-
 Исаковский          //i.'sa.ko-f.sk%jij
 Исаковского         //i.s^.'kof.sko-.vo-
 Исетская            //i.'s%jet&s.ko-.jo-
@@ -4031,6 +4038,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Кенозерская         //'2k%je.n^.'z%je.rsko-.jo-
 Кенозерский         //'2k%je.n^.'z%je.rsk%jij
 Кенозерского        //'2k%je.n^.'z%je.rsko-.vo-
+Кенского            //'k%jen.sko-.vo-
 Кенховская          //k%jIn.'xof.sko-.jo-
 Керамичная          //k%j$.r^.'m%jit&S%j.no-.jo-
 Кереселидзе         //k%j$.r%j$.s%jI.'l%jid.zE.jI
@@ -4408,7 +4416,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Косминского         //k^s.'m%jin.sko-.vo-
 Космодемьянских     //ko-s.mo-.d%jIm%j.'jan.sk%jix
 Космодемьянской     //ko-s.mo-.d%jIm%j.'jan.sko-j
-Космы               //'ko.smi0
+Космы               //k^sm.'i0
 Косовская           //'ko.so-f.sko-.jo-
 Косовщинская        //'ko.s^f.S%jIn.sko-.jo-
 Косовщинский        //'ko.s^f.S%jIn.sk%jij
@@ -6369,6 +6377,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Олюторский          //^.'l%ju.to-r.sk%jij
 Омельченко          //^.'m%jel%j.t&S%j$n.ko-
 Омельянюка          //^.m%j$l%j.jo-.n%ju.'ka
+Онего               //^.'n%je.go-
 Ониловой            //^.'n%ji.lo-.vo-j
 Онищенковский       //^.'n%ji.S%j$n.ko-f.sk%jij
 Оноре               //^.n^.'rE
@@ -6582,6 +6591,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Паткановская        //p^t.'ka.no-f.sko-.jo-
 Патриарший          //po-t.r%ji.'ar.Si0j
 Патрокл             //p^t.'rokl
+Пахомия             //p^.'xo.m%ji.jI.jo-
 Пахринский          //'pax.rin.sk%jij
 Пацаева             //p^.'t&sa.j$.vo-
 Пашаева             //p^.'Sa.j$.vo-
@@ -6675,6 +6685,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Печатника           //p%jI.'t&S%jat%j.n%ji.ko-
 Печатников          //p%jI.'t&S%jat%j.n%ji.ko-f
 Печенгская          //'p%je.t&S%j$nk.sko-.jo-
+Печниково           //'p%jet&S%j.n%ji.ko-.vo-
 Печорск             //p%jI.'t&S%jorsk
 Пикалево            //p%ji.k^.'l%jo.vo-
 Пикалов             //p%ji.'ka.lo-f
@@ -6727,6 +6738,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Пленкина            //'pl%jon.k%ji.no-
 Плесецк             //pl%jI.'s%jet&sk
 Плесецкая           //pl%jI.'s%jet&s.ko-.jo-
+Плесецкого          //pl%jI.'s%jet&s.ko-.vo-
 Плесовая            //'pl%jo.so-.vo-.jo-
 Плесовый            //'pl%jo.so-.vi0j
 Плетневская         //pl%jIt.'n%jof.sko-.jo-
@@ -7519,6 +7531,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Самарский           //s^.'ma.rsk%jij
 Самборская          //'sam.bo-r.sko-.jo-
 Самборский          //'sam.bo-r.sk%jij
+Саминский           //'sa.m%jin.sk%jij
 Саммера             //'sam.m$.ro-
 Саммеровский        //'sa.m%j$.ro-f.sk%jij
 Самодед             //so-.m^.'d%jet
@@ -7593,6 +7606,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Свидерского         //sv%ji.'d%je.rsko-.vo-
 Свидинского         //sv%ji.'d%jin.sko-.vo-
 Свидницкого         //sv%ji.'dn%jit&s.ko-.vo-
+Свирьстрой          //sv%jir%j.'stroj
 Свислочский         //'sv%jis.lo-t&S%j.sk%jij
 Свиханово           //sv%ji.'xa.no-.vo-
 Свищевая            //sv%ji.'S%jo.vo-.jo-
@@ -8788,6 +8802,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Уманца              //u.m^n.'t&sa
 Умерова             //u.'m%je.ro-.vo-
 Умова               //'u.mo-.vo-
+Ундручей            //'un.dru.'t&S%jej
 Унеченская          //u.'n%je.t&S%j$n.sko-.jo-
 Унеченский          //u.'n%je.t&S%j$n.sk%jij
 Унечская            //u.'n%jet&S%j.sko-.jo-
@@ -8985,6 +9000,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Фольварак           //fo-l%j.'va.ro-k
 Фольварковый        //fo-l%j.'var.ko-.vi0j
 Фолюш               //'fo.l%juS
+Фоминская           //f^.'m%jin.sko-.jo-
 Фоминское           //f^.'m%jin.sko-.j$
 Фонтанки            //f^n.'tan.k%jij
 Фонтанская          //f^n.'tan.sko-.jo-
@@ -9064,6 +9080,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Хацкевича           //x^t&s.'k%je.v%ji.t&S%jo-
 Хацко               //x^t&s.'ko.
 Хачатуряна          //xo-.t&S%jo-.tu.'r%ja.no-
+Хвалинская          //'xva.l%jin.sko-.jo-
 Хвалово             //'xva.lo-.vo-
 Хвалынская          //xv^.'li0n.sko-.jo-
 Хвалынский          //xv^.'li0n.sk%jij
