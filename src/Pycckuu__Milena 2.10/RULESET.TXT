@@ -2493,7 +2493,8 @@ charset = utf-8
 #/ [\-—] / --> ", "
 / [\-—] / --> " \\pause=1\\ "
 # Remove Russian-style quotes
-/[«»]/ --> " "
+/ ?«/ --> " \\pause=1\\ "
+/» ?/ --> " "
 
 # Remove any extra spaces before a comma
 /\s+,/ --> ","
