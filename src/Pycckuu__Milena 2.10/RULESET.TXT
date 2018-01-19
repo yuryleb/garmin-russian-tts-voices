@@ -48,6 +48,7 @@ charset = utf-8
 /\\tn=address\\([\w \.,\-'"]*) kol'tso / --> "\\tn=address\\_TRA_$1 кольцо "
 /\\tn=address\\([\w \.,\-'"]*) shosse / --> "\\tn=address\\_TRA_$1 шоссе "
 # Convert BGN transliteration back to Russian
+/_TRA_ Maliy / --> "_TRA_ Малый "
 /_TRA_([^\/\\]*)Shch/ --> "_TRA_${1}Щ"
 /_TRA_([^\/\\]*)shch/ --> "_TRA_${1}щ"
 /_TRA_([^\/\\]*)Ch/ --> "_TRA_${1}Ч"
