@@ -84,7 +84,7 @@ namespace RulesetChecker
                 if (texts > 0)
                     Console.Write("; {0} texts parsed: {1} ms", texts, textsParsed.ElapsedMilliseconds);
                 Console.WriteLine();
-                if (ruleHotNo > 0 && ruleHotMs > 1)
+                if (ruleHotNo > 0 && ruleHotMs > 10)
                 {
                     Console.WriteLine("Hot rule #{0} /{1}/ --> \"{2}\": {3} ms",
                         ruleHotNo, ruleset[ruleHotNo].Item1, ruleset[ruleHotNo].Item2, ruleHotMs);
