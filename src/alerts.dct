@@ -1,4 +1,12 @@
-﻿антивандальном      //^n%j.t%ji.v^n.'dal%j.no-m
+﻿[Header]
+
+[SubHeader]
+Language = RUR
+Content = EDCT_CONTENT_BROAD_NARROWS
+Representation = EDCT_REPR_SZZ_STRING
+
+[Data]
+антивандальном      //^n%j.t%ji.v^n.'dal%j.no-m
 антивандальный      //^n%j.t%ji.v^n.'dal%j.ni0j
 выделенка           //'vi0.d%j$.l%j$n.ko-
 дети                //'d%je.t%jij
