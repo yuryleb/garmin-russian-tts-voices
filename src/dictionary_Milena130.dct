@@ -932,6 +932,7 @@ BP                  //b%ji.'p%ji
 Bp                  //b%ji.'p%ji
 Carry               //'kE.r%jij
 Eka                 //'je.ka
+Esco                //'Es.ko-
 KFC                 //'kEj.'2Ef.'s%ji
 Kfc                 //'kEj.'2Ef.'s%ji
 LPG                 //'2El_p%jij_'dZi0
@@ -948,6 +949,7 @@ Tatneft             //t^t_'n%jeft%j
 П.С.                //p%jIt.r^.'grat&s.ko-j_sto-.r^.'ni0
 Ст.Слобода          //'sta.ro-.jo-_slo-.b^.'da
 Тнк-Bp              //tE.jEn.'ka_b%ji.'p%ji
+ФСВ                 //Ef.Es.'vE
 
 [SubHeader]
 Language = RUR
@@ -5189,6 +5191,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Максименко          //m^k.'s%ji.m%j$n.ko-
 Максимильяновская   //mo-k.s%ji.m%jil%j.'ja.no-f.sko-.jo-
 Максимовичи         //m^k.'s%ji.mo-.v%ji.t&S%jij
+Максойл             //m^ks.'ojl
 Малаева             //m^.'la.j$.vo-
 Малайчука           //mo-.lo-j.t&S%ju.'ka
 Маланова            //m^.'la.no-.vo-
@@ -5923,6 +5926,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Никитовская         //n%ji.'k%ji.to-f.sko-.jo-
 Никифора            //n%jI.'k%ji.fo-.ro-
 Никифорова          //n%ji.'k%ji.fo-.ro-.vo-
+Никойл              //n%ji.'kojl
 Николаева           //n%ji.k^.'la.j$.vo-
 Николо-Беседная     //n%ji.'ko.lo-_b%jI.'s%jed.no-.jo-
 Николо-Богоявленский //n%ji.'ko.lo-_bo-.go-.j^v.'l%jen.sk%jij
@@ -7406,6 +7410,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Русинова            //ru.'s%ji.no-.vo-
 Русловая            //'rus.lo-.v^.jo-
 Русовых             //'ru.so-.vi0x
+Руспетрол           //rus.p%jIt.'rol
 Русско-Высоцкое     //'rus.sko-_vi0.'sot&s.ko-.j$
 Русско-Полянский    //'2rus.ko-.p^.'l%jan.sk%jij
 Русснефть           //rus%j.n%jeft%j
@@ -7748,6 +7753,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Сечкина             //'s%jet&S%j.k%jI.no-
 Сибай               //s%ji.'baj
 Сибирцева           //s%ji.'b%ji.rt&sE.vo-
+Сибирьнефть         //s%ji.b%jir%j.'n%jef%jt%j
 Сибирякова          //s%ji.b%ji.r%jI.'ko.vo-
 Сибиряков-Гвардейцев //s%ji.b%ji.r%jI.'kof_gv^r.'d%jej.t&sEf
 Сибиряковская       //s%ji.b%ji.r%jI.'kof.sko-.jo-
