@@ -6,6 +6,8 @@ Content = EDCT_CONTENT_BROAD_NARROWS
 Representation = EDCT_REPR_SZZ_STRING
 
 [Data]
+АвтоУраган          //^f.to-.u.r^.'gan
+Автоураган          //^f.to-.u.r^.'gan
 антивандальном      //^n%j.t%ji.v^n.'dal%j.no-m
 антивандальный      //^n%j.t%ji.v^n.'dal%j.ni0j
 выделенка           //'vi0.d%j$.l%j$n.ko-
@@ -20,11 +22,11 @@ Representation = EDCT_REPR_SZZ_STRING
 полосу              //po-.l^.'su
 полосы              //po-.l^.'si0
 разметки            //r^z.'m%jet_k%jIj
+регулируемый        //r%j$.gu.'l%ji.ru.j$.mi0j
 рядности            //'r%jad.no-s%j.t%jij
 светофоре           //sv%j$.t^.'for%j.E
 скорости            //'sko.ro-s%j.t%jij
 сплошная            //spl^S.'na.I.jo-
-ст                  //Es.'tE
-стрелка-ст          //'str%jel.ko-_Es.'tE
+Стрелка-СТ          //'str%jel.ko-_Es.'tE
 тоннеля             //tu.'nEl%j.Io-
 туннеля             //tu.'nEl%j.Io-
