@@ -13928,7 +13928,11 @@ Representation = EDCT_REPR_SZZ_STRING
 пуговишниковом      //'pu.go-.v%jiS.n%jI.ko-.vo-m
 пуговишникову       //'pu.go-.v%jiS.n%jI.ko-.vu
 пудожская           //'pu.do-S.sko-.jo-
+пудожский           //'pu.do-S.sk%jij
+пудожского          //'pu.do-S.sko-.vo-
 пудожской           //'pu.do-S.sko-j
+пудожском           //'pu.do-S.sko-m
+пудожскому          //'pu.do-S.sko-.mu
 пудожскую           //'pu.do-S.sku.ju
 пулихова            //'pu.l%ji.xo-.vo-
 пулковская          //'pu.lko-f.sko-.jo-
@@ -15038,6 +15042,7 @@ Representation = EDCT_REPR_SZZ_STRING
 сассарской          //s^s.'sar.sko-j
 сассарскую          //s^s.'sar.sku.ju
 саумалколь          //so-.u.m^l.'kol%j
+саунино             //s^.'u.n%ji.no-
 сафлык              //s^f.'li0k
 сафонова            //s^.'fo.no-.vo-
 сафоновская         //s^.'fo.no-f.sko-.jo-
