@@ -1,0 +1,7 @@
+﻿
+[header]
+language = RUR
+charset = utf-8
+
+[data]
+/\b80\b/ --> "/+'2vos%j.\$m%j.d%j\$.s%jo-t/+"
