@@ -32,6 +32,10 @@ charset = utf-8
 # And fix some important accents there
 /([\+_])\^\.bv\^\.'dno\.v\$_/ --> "${1}^b.'vod.no-.vo-_"
 
+# Restore some words from Russian Natural Guidance
+/\/\+'2p%je\.'r%jId\/\+/ --> "перед"
+/\/\+'2po\.sl%jI\/\+/ --> "после"
+
 # Detect Russian transliteration
 /\\tn=address\\([\w \.,\-'"]*) ulitsa / --> "\\tn=address\\_TRA_$1 улица "
 /\\tn=address\\([\w \.,\-'"]*) alleya / --> "\\tn=address\\_TRA_$1 аллея "
