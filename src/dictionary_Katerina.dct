@@ -1282,6 +1282,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Афипский            //^.'f%jip.sk%jij
 Ахмедова            //^x.'m%je.do-.vo-
 Ахметшина           //^x.'m%jet.Si0.no-
+Ахриева             //^x.'r%ji.j$.vo-
 Ахсарова            //^x.'sa.ro-.vo-
 Ахтубинская         //^x.'tu.b%jin.sko-.jo-
 Ахтямова            //^x.'t%ja.mo-.vo-
@@ -1336,6 +1337,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Базановой           //b^.'za.no-.vo-j
 Базаровка           //b^.'za.ro-f.ko-
 Базовская           //'ba.zo-f.sko-.jo-
+Базоркина           //b^.'zor.k%ji.no-
 Байат               //b^.'jat
 Байдарская          //b^j.'dar.sko-.jo-
 Байдукова           //b^j.du.'ko.vo-
@@ -2426,6 +2428,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Гарбарская          //g^r.'bar.sko-.jo-
 Гарболово           //'gar.bo-.lo-.vo-
 Гаргаева            //g^r.'ga.j$.vo-
+Гарданова           //g^r.'da.no-.vo-
 Гарднеровский       //'gar.dn%j$.ro-f.sk%jij
 Гарибальди          //go-.r%ji.'bal%j.d%jij
 Гарина              //'ga.r%ji.no-
@@ -3615,6 +3618,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Зябликово           //'z%jab.l%ji.ko-.vo-
 Зябровская          //z%jIb.'rof.sko-.jo-
 Зявкина             //'z%jaf.k%ji.no-
+Зязикова            //'z%ja.z%ji.ko-.vo-
 Ибаррури            //i.'ba.ru.r%jIj
 Иванникова          //i.'van.n%ji.ko-.vo-
 Иванов              //i.'va.no-f
@@ -6443,6 +6447,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Орсичи              //'or.s%ji.t&S%jij
 Орская              //'or.sko-.jo-
 Орталан             //^r.t^.'lan
+Орцханова           //^rt&s.'xa.no-.vo-
 Оршичная            //'or.Si0t&S%j.no-.jo-
 Оршская             //'orS.sko-.jo-
 Осаново             //^.'sa.no-.vo-
