@@ -95,10 +95,10 @@
 * Предобработка фраз: 
   * Предварительная замена слов: [RU.DCT](src/Pycckuu__Milena%202.10/RU.DCT),
     текст в кодировке UTF-8 **без BOM**
+  * Постобработка/замена по умолчанию(?): [DFLT.DCT](src/Pycckuu__Milena%202.10/DFLT.DCT),
+    текст в кодировке UTF-8 **без BOM**
   * Регулярные выражения замен: [RULESET.TXT](src/Pycckuu__Milena%202.10/RULESET.TXT),
     текст в кодировке UTF-8 с BOM, первая пустая строка обязательна
-  * Постобработка(?): [DFLT.DCT](src/Pycckuu__Milena%202.10/DFLT.DCT),
-    текст в кодировке UTF-8 **без BOM**
 
 ***
 
@@ -113,7 +113,7 @@
   * Черновой словарь для иностранных названий: [dictionary_foreign.voc](src/dictionary_foreign.voc),
     текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
     [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
- *  Чистовой словарь для иностранных названий с восстановленными европейскими символами:
+  * Чистовой словарь для иностранных названий с восстановленными европейскими символами:
     [dictionary_foreign.dct](src/dictionary_foreign.dct),
     текстовый формат DCT в кодировке UTF-8 с BOM
 * Компиляция словаря: [build_dictionary.bat](src/build_dictionary.bat),
@@ -136,10 +136,10 @@
 * Предобработка фраз: 
   * Предварительная замена слов: [RU.DCT](src/Pycckuu__Tatiana%202.30/RU.DCT),
     текст в кодировке UTF-8 **без BOM**
+  * Постобработка/замена по умолчанию(?): [DFLT.DCT](src/Pycckuu__Tatiana%202.30/DFLT.DCT),
+    текст в кодировке UTF-8 **без BOM**
   * Регулярные выражения замен: [RULESET.TXT](src/Pycckuu__Tatiana%202.30/RULESET.TXT),
     текст в кодировке UTF-8 с BOM, первая пустая строка обязательна
-  * Постобработка(?): [DFLT.DCT](src/Pycckuu__Tatiana%202.30/DFLT.DCT),
-    текст в кодировке UTF-8 **без BOM**
 
 ***
 
@@ -164,7 +164,9 @@
 
 
 ## Ссылки
+* [Последние версии обновленных голосов](releases)
 * [Форум обсуждения недостатков Милены и других TTS-голосов у Garmin](http://nuvi.ru/forum/forum36/topic15794/)
+* [Обсуждение фонетики названий, встроенной в карты HERE, используемых в Garmin](https://forum.mapcreator.here.com/forums/topic/%d1%84%d0%be%d0%bd%d0%b5%d1%82%d0%b8%d0%ba%d0%b0-%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d1%85-%d0%bd%d0%b0%d0%b7%d0%b2%d0%b0%d0%bd%d0%b8%d0%b9-%d0%b2-%d0%ba%d0%b0%d1%80%d1%82%d0%b5-here/)
 * [Форум использования TTS-голосов в Android на 4pda.ru](https://4pda.ru/forum/index.php?showtopic=200728)
 
 
