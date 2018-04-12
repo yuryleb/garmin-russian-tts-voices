@@ -164,7 +164,7 @@
 
 
 ## Ссылки
-* [Последние версии обновленных голосов](releases)
+* [Последние версии обновленных голосов](https://github.com/yuryleb/garmin-russian-tts-voices/releases)
 * [Форум обсуждения недостатков Милены и других TTS-голосов у Garmin](http://nuvi.ru/forum/forum36/topic15794/)
 * [Обсуждение фонетики названий, встроенной в карты HERE, используемых в Garmin](https://forum.mapcreator.here.com/forums/topic/%d1%84%d0%be%d0%bd%d0%b5%d1%82%d0%b8%d0%ba%d0%b0-%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d1%85-%d0%bd%d0%b0%d0%b7%d0%b2%d0%b0%d0%bd%d0%b8%d0%b9-%d0%b2-%d0%ba%d0%b0%d1%80%d1%82%d0%b5-here/)
 * [Форум использования TTS-голосов в Android на 4pda.ru](https://4pda.ru/forum/index.php?showtopic=200728)
