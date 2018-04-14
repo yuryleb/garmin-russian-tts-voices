@@ -427,7 +427,6 @@ charset = utf-8
 /\\tn=address\\ ([^,\/\\]*\S) (([Aa]plinkkelis)|(aplinkl\.)) / --> "\\tn=address\\ объездная автодорога $1 "
 /\\tn=address\\ ([^,\/\\]*\S) (([Bb]ulvaras)|(b\.)) / --> "\\tn=address\\ $1 бульвар "
 /\\tn=address\\ ([^,\/\\]*\S) (([Gg]atvė)|(g\.)) / --> "\\tn=address\\ $1 улица "
-#/\\tn=address\\ ([^,\/\\]*\S) [Gg]reitkelis / --> "\\tn=address\\ трасса $1 "
 /\\tn=address\\ ([^,\/\\]*\S) (([Kk]elias)|(kel\.)) / --> "\\tn=address\\ $1 дорога "
 /\\tn=address\\ ([^,\/\\]*\S) (([Kk]rantinė)|(krant.)) / --> "\\tn=address\\ $1 набережная "
 /\\tn=address\\ ([^,\/\\]*)[Pp]ėsčiųjų [Tt]akas / --> "\\tn=address\\ пешеходная дорога $1 "
