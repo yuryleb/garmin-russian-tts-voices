@@ -8,6 +8,11 @@ charset = utf-8
 /(\S),/ --> "$1 ,"
 /,(\S)/ --> ", $1"
 
+# Restore prepositions from Russian Natural Guidance
+/\/\+'2p%je\.'r%jId\/\+ \/\+(.+)\/\+ ?,? ?/ --> "перед /+$1/+, "
+/\/\+'2po\.sl%jI\/\+ \/\+(.+)\/\+ ?,? ?/ --> "после /+$1/+, "
+/\/\+n\^\/\+ \/\+(.+)\/\+ ([^,\.\/\\]*\S) ?([,\.])/ --> "$2 на \\tn=address\\ /+$1/+ \\tn=normal\\$3"
+
 # Restore status street names in Russian Map Phonetics
 /\/\+'u\.l%jI\.t&s\$_/ --> "улица /+"
 /\/\+\^\.'l%je\.j?[EI]_/ --> "аллея /+"
@@ -31,11 +36,6 @@ charset = utf-8
 
 # And fix some important accents there
 /([\+_])\^\.bv\^\.'dno\.v\$_/ --> "${1}^b.'vod.no-.vo-_"
-
-# Restore prepositions from Russian Natural Guidance
-/\/\+'2p%je\.'r%jId\/\+ \/\+(.+)\/\+ ?,? ?/ --> "перед /+$1/+, "
-/\/\+'2po\.sl%jI\/\+ \/\+(.+)\/\+ ?,? ?/ --> "после /+$1/+, "
-/\/\+n\^\/\+ \/\+(.+)\/\+ ([^,\.\/\\]*\S) ?([,\.])/ --> "$2 на \\tn=address\\ /+$1/+ \\tn=normal\\$3"
 
 # Detect Russian transliteration
 /\\tn=address\\([\w \.,\-'"]*) ulitsa / --> "\\tn=address\\_TRA_$1 улица "
