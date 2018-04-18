@@ -28,12 +28,13 @@
 * Обработка дат в названиях для произношения их в нужном падеже
   *("25 Октября Проспект" -> "проспект 20 пятого октября")*
 * Перевод иностранных статусных названий дорог *(улица, проспект, шоссе и т.п.)*.
-  На настоящий момент полный перевод сделан для названий из Эстонии, Латвии и Литвы.
+  На настоящий момент полный перевод сделан для названий из Эстонии, Латвии, Литвы, Венгрии, Франции,
+  Испании и Италии.
   Для финских и немецких названий, написанных слитно со статусом *(Schützenstraße, Lappeenrannantie)*,
   такие "окончания" отделяются и произносятся заготовленными фонемами, близкими к нужному
   иностранному произношению.
 
-Правда, такая функциональность доступна только для самого последнего поколения голосов, в
+К сожалению, такая функциональность доступна только для самого последнего поколения голосов `TTS3`, в
 предыдущих можно только заменить словарь.
 
 На сегодня существуют уже 3 "поколения" TTS-голосов, не совместимые между собой -
@@ -44,16 +45,16 @@
 * Первоисточник: RealSpeak/ScanSoft/Nuance Katerina
 * Совместимые навигаторы: nuvi 13xx/14xx, 2455, 3790 ...
 * Голосовая модель: Compact (bet2 16kHz)
-* Встроенный словарь: [есть](src/Pycckuu__Katerina 1.30/DICT.BDC),
+* Встроенный словарь: [есть](src/Pycckuu__Katerina%201.30/DICT.BDC),
   бинарный формат BDC (Binary Native Platform Dictionary),
   максимальное число слов - 10000
-* Компилятор словаря: редактор [RSUDE 2.1](http://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=16267391)
+* Компилятор словаря: редактор [RSUDE 2.1](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=16267391)
 * Предобработка фраз: отсутствует
 
 ***
 
-* Готовый голос: [Pycckuu__Katerina.vpm](dist/Pycckuu__Katerina 1.30/Pycckuu__Katerina.vpm)
-* Исходные файлы голоса: [Pycckuu__Katerina 1.30](src/Pycckuu__Katerina 1.30/)
+* Готовый голос: [Pycckuu__Katerina.vpm](dist/Pycckuu__Katerina%201.30/Pycckuu__Katerina.vpm)
+* Исходные файлы голоса: [Pycckuu__Katerina 1.30](src/Pycckuu__Katerina%201.30/)
 * Исходный словарь: [dictionary_Katerina.dct](src/dictionary_Katerina.dct),
   текстовый формат DCT в кодировке UTF-8 с BOM
 * Компиляция словаря: предварительно установленым редактором RSUDE
@@ -65,16 +66,16 @@
 Новый русский TTS-голос следующего поколения. Официальная поддержка прекращена.
 * Первоисточник: Nuance Vocalizer Milena
 * Совместимые навигаторы: nuvi 30/40/42/50/52
-* Голосовая модель: [Compact (bet2 16kHz)](src/Pycckuu__Milena 1.30/BRKINF16.HDR)
-* Встроенный словарь: [есть](src/Pycckuu__Milena 1.30/UDCT_RUR.DAT),
+* Голосовая модель: [Compact (bet2 16kHz)](src/Pycckuu__Milena%201.30/BRKINF16.HDR)
+* Встроенный словарь: [есть](src/Pycckuu__Milena%201.30/UDCT_RUR.DAT),
   бинарный формат DAT
-* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](http://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
+* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
 * Предобработка фраз: отсутствует
 
 ***
 
-* Готовый голос: [Pycckuu__Milena.vpm](dist/Pycckuu__Milena 1.30/Pycckuu__Milena.vpm)
-* Исходные файлы голоса: [Pycckuu__Milena 1.30](src/Pycckuu__Milena 1.30/)
+* Готовый голос: [Pycckuu__Milena.vpm](dist/Pycckuu__Milena%201.30/Pycckuu__Milena.vpm)
+* Исходные файлы голоса: [Pycckuu__Milena 1.30](src/Pycckuu__Milena%201.30/)
 * Исходный словарь: [dictionary_Milena130.dct](src/dictionary_Milena130.dct),
   текстовый формат DCT в кодировке UTF-8 с BOM
 * Компиляция словаря: [build_dictionary_Milena130.bat](src/build_dictionary_Milena130.bat),
@@ -87,32 +88,32 @@
 Официальная поддержка прекращена.
 * Первоисточник: Nuance Vocalizer Milena
 * Совместимые навигаторы: nuvi 2x97/3x97, ... , nuviCam, вся серия Drive
-* Голосовая модель: [Standard (dri40_155mrf22 22kHz) + Compact (bet2 16kHz)](src/Pycckuu__Milena 2.10/BRKINF22.HDR)
-* Встроенный словарь: [есть](src/Pycckuu__Milena 2.10/UDCT_RUR.DAT),
+* Голосовая модель: [Standard (dri40_155mrf22 22kHz) + Compact (bet2 16kHz)](src/Pycckuu__Milena%202.10/BRKINF22.HDR)
+* Встроенный словарь: [есть](src/Pycckuu__Milena%202.10/UDCT_RUR.DAT),
   бинарный формат DAT
-* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](http://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
+* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
 * Предобработка фраз: 
-  * Предварительная замена слов: [RU.DCT](src/Pycckuu__Milena 2.10/RU.DCT),
+  * Предварительная замена слов: [RU.DCT](src/Pycckuu__Milena%202.10/RU.DCT),
     текст в кодировке UTF-8 **без BOM**
-  * Регулярные выражения замен: [RULESET.TXT](src/Pycckuu__Milena 2.10/RULESET.TXT),
+  * Постобработка/замена по умолчанию(?): [DFLT.DCT](src/Pycckuu__Milena%202.10/DFLT.DCT),
+    текст в кодировке UTF-8 **без BOM**
+  * Регулярные выражения замен: [RULESET.TXT](src/Pycckuu__Milena%202.10/RULESET.TXT),
     текст в кодировке UTF-8 с BOM, первая пустая строка обязательна
-  * Постобработка(?): [DFLT.DCT](src/Pycckuu__Milena 2.10/DFLT.DCT),
-    текст в кодировке UTF-8 **без BOM**
 
 ***
 
-* Готовый голос: [Pycckuu__Milena.vpm](dist/Pycckuu__Milena 2.10/Pycckuu__Milena.vpm)
-* Исходные файлы голоса: [Pycckuu__Milena 2.10](src/Pycckuu__Milena 2.10/)
+* Готовый голос: [Pycckuu__Milena.vpm](dist/Pycckuu__Milena%202.10/Pycckuu__Milena.vpm)
+* Исходные файлы голоса: [Pycckuu__Milena 2.10](src/Pycckuu__Milena%202.10/)
 * Исходный словари:
   * Полный финальный словарь: [dictionary.dct](src/dictionary.dct),
     текстовый формат DCT в кодировке UTF-8 с BOM
   * Черновой словарь для русских названий: [dictionary.voc](src/dictionary.voc),
     текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
-    [Milan](http://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
+    [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
   * Черновой словарь для иностранных названий: [dictionary_foreign.voc](src/dictionary_foreign.voc),
     текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
-    [Milan](http://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
- *  Чистовой словарь для иностранных названий с восстановленными европейскими символами:
+    [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
+  * Чистовой словарь для иностранных названий с восстановленными европейскими символами:
     [dictionary_foreign.dct](src/dictionary_foreign.dct),
     текстовый формат DCT в кодировке UTF-8 с BOM
 * Компиляция словаря: [build_dictionary.bat](src/build_dictionary.bat),
@@ -121,37 +122,38 @@
 
 
 ## Татьяна 2.30 (TTS3)
-Новый TTS-голос, но внутри та же Милена 2.10, только расширенная записанными фрагментами фраз
-для более естественного произношения и некоторыми новыми фразами для подсказок Real Directions.
-Звучит как голос живого диктора, но произношение гораздо медленнее Милены и более эмоциональнее.
+Новый TTS-голос, но внутри та же Милена 2.10, расширенная поддержкой техники генерации речи CLC вместо
+"устаревшей" G2P, благодаря чему основные фрагменты фраз звучат как записанный голос живого диктора,
+с более медленным и даже эмоциональным произношением.
+Также голос допонен несколькими новыми фразами для подсказок Real Directions.
 Официальная поддержка как бы продолжается.
 * Первоисточник: Nuance Vocalizer Milena
 * Совместимые навигаторы: nuvi 2x97/3x97, ... , nuviCam, вся серия Drive
-* Голосовая модель: [Standard (dri40_155mrf22 22kHz) + Compact (bet2 16kHz)](src/Pycckuu__Tatiana 2.30/BRKINF22.HDR)
-* Встроенный словарь: [есть](src/Pycckuu__Tatiana 2.30/UDCT_RUR.DAT),
+* Голосовая модель: [Standard (dri40_155mrf22 22kHz) + Compact (bet2 16kHz)](src/Pycckuu__Tatiana%202.30/BRKINF22.HDR)
+* Встроенный словарь: [есть](src/Pycckuu__Tatiana%202.30/UDCT_RUR.DAT),
   бинарный формат DAT
-* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](http://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
+* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
 * Предобработка фраз: 
-  * Предварительная замена слов: [RU.DCT](src/Pycckuu__Tatiana 2.30/RU.DCT),
+  * Предварительная замена слов: [RU.DCT](src/Pycckuu__Tatiana%202.30/RU.DCT),
     текст в кодировке UTF-8 **без BOM**
-  * Регулярные выражения замен: [RULESET.TXT](src/Pycckuu__Tatiana 2.30/RULESET.TXT),
+  * Постобработка/замена по умолчанию(?): [DFLT.DCT](src/Pycckuu__Tatiana%202.30/DFLT.DCT),
+    текст в кодировке UTF-8 **без BOM**
+  * Регулярные выражения замен: [RULESET.TXT](src/Pycckuu__Tatiana%202.30/RULESET.TXT),
     текст в кодировке UTF-8 с BOM, первая пустая строка обязательна
-  * Постобработка(?): [DFLT.DCT](src/Pycckuu__Tatiana 2.30/DFLT.DCT),
-    текст в кодировке UTF-8 **без BOM**
 
 ***
 
-* Готовый голос: [Pycckuu__Tatiana.vpm](dist/Pycckuu__Tatiana 2.30/Pycckuu__Tatiana.vpm)
-* Исходные файлы голоса: [Pycckuu__Tatiana 2.30](src/Pycckuu__Tatiana 2.30/)
+* Готовый голос: [Pycckuu__Tatiana.vpm](dist/Pycckuu__Tatiana%202.30/Pycckuu__Tatiana.vpm)
+* Исходные файлы голоса: [Pycckuu__Tatiana 2.30](src/Pycckuu__Tatiana%202.30/)
 * Исходный словари:
   * Полный финальный словарь: [dictionary.dct](src/dictionary.dct),
     текстовый формат DCT в кодировке UTF-8 с BOM
   * Черновой словарь для русских названий: [dictionary.voc](src/dictionary.voc),
     текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
-    [Milan](http://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
+    [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
   * Черновой словарь для иностранных названий: [dictionary_foreign.voc](src/dictionary_foreign.voc),
     текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
-    [Milan](http://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
+    [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
   * Чистовой словарь для иностранных названий с восстановленными европейскими символами:
     [dictionary_foreign.dct](src/dictionary_foreign.dct),
     текстовый формат DCT в кодировке UTF-8 с BOM
@@ -162,11 +164,13 @@
 
 
 ## Ссылки
+* [Последние версии обновленных голосов](https://github.com/yuryleb/garmin-russian-tts-voices/releases)
 * [Форум обсуждения недостатков Милены и других TTS-голосов у Garmin](http://nuvi.ru/forum/forum36/topic15794/)
-* [Форум использования TTS-голосов в Android на 4pda.ru](http://4pda.ru/forum/index.php?showtopic=200728)
+* [Обсуждение фонетики названий, встроенной в карты HERE, используемых в Garmin](https://forum.mapcreator.here.com/forums/topic/%d1%84%d0%be%d0%bd%d0%b5%d1%82%d0%b8%d0%ba%d0%b0-%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d1%85-%d0%bd%d0%b0%d0%b7%d0%b2%d0%b0%d0%bd%d0%b8%d0%b9-%d0%b2-%d0%ba%d0%b0%d1%80%d1%82%d0%b5-here/)
+* [Форум использования TTS-голосов в Android на 4pda.ru](https://4pda.ru/forum/index.php?showtopic=200728)
 
 
 ## Примечания
-* Словари, включающие падежные формы названий, и файлы регулярных выражений, одинаковые для
+* Словари, включающие падежные формы названий, и файлы регулярных выражений, одинаковы для
   Милены второго поколения и Татьяны
-* Для просмотра ссылок на форум http://4pda.ru/forum/ нужна предварительная регистрация
+* Для просмотра ссылок на форум https://4pda.ru/forum/ нужна предварительная регистрация

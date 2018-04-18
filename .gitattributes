@@ -2,13 +2,20 @@
 *.DAT binary
 *.DCT text eol=crlf
 *.HDR text eol=crlf
-*.SIG text eol=crlf
+*.SIG binary
 *.TST binary
 *.TXT text eol=crlf
 *.VXM text eol=crlf
 *.bat text eol=crlf
+*.config text eol=crlf
+*.cs  text eol=crlf
+*.csproj text eol=crlf
 *.dct text eol=crlf
+*.exe binary
 *.ini text eol=crlf
+*.log text eol=crlf
+*.sln text eol=crlf
 *.voc text eol=crlf
 *.vpm binary
+dist/Vocalizer Expressive 3 Milena/rex_rur.dat text eol=crlf
 test/TestRULESET.txt binary
