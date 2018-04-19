@@ -2,10 +2,12 @@
 [header]
 language = RUR
 charset = utf-8
+# This file could not be used as typefied ruleset so as type tag gets removed after processing:
 #type = address
 
 [data]
 # Process addresses only
+# This file is processed after RULESET.TXT
 
 # Catch some Belarus names with special stress
 / Б[О]о[Рр][Кк][Ии] \(К[Ии][Рр][Оо][Вв][Сс][Кк][Ии][Йй] [Рр]\-[Нн]\, Д[Оо][Бб][Оо][Сс][Нн][Ее][Нн][Сс][Кк][Ии][Йй] [Сс]\/[Сс]\) / --> " /+b^r.'k%ji/+ "
@@ -41,3 +43,18 @@ charset = utf-8
 / (\d+)[Кк]([А-Я]+) / --> " $1 корпус $2 "
 / (\d+)[Сс](\d+) / --> " $1 строение $2 "
 #/ (\d+)[Сс]([А-Я]+) / --> " $1 строение $2 "
+
+# Correct pronunciation of particular Russian street names
+/ Девичьего [Пп]оля / --> " /+'d%je.v%jit&S%j.j\$.vo-_'po.l%jo-/+ "
+/ Кул[ \-]Гали / --> " /+kul.g^.'l%ji/+ "
+/ Куликова [Пп]оля / --> " /+ku.l%ji.'ko.vo-_'po.l%jo-/+ "
+/ Марко Вовчок / --> " /+m^r.'ko_v^f.'t&S%jok/+ "
+/ Перова [Пп]оля / --> " /+p%jI.'ro.vo-_'po.l%jo-/+ "
+/ Поля Лафарга / --> " /+'po.l%jo-_l^.'far.go-/+ "
+/ [Сс]ело / --> " /+s%jI.'lo/+ \\pause=0\\ "
+/ Ф[её]дора Черника / --> " /+'f%jo.do-.ro-_'t&S%jer.n%ji.ko-/+ "
+/ Ямского [Пп]оля / --> " /+jIm.'sko.vo-_'po.l%jo-/+ "
+
+# Insert pause after the same vowels between words
+/([Уу]) +([Уу])/ --> "$1 \\pause=0\\ $2"
+/([Ээ]) +([Ээ])/ --> "$1 \\pause=0\\ $2"
