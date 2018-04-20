@@ -356,7 +356,6 @@ charset = utf-8
 / ([^,\/\\]*)([ое]му) [Мм]он\./ --> " $1$2 монастырю "
 / [Кк] [Мм]он\./ --> " к монастырю "
 / [Мм]он\./ --> " монастырь "
-/ [Пп]р(осп)?\./ --> " проспект "
 
 # Translate main Estonian status street names and their abbreviations
 / Haapsalu (([Mm]aantee)|([Mm]nt)) / --> " Хаапсальское шоссе "
