@@ -192,12 +192,28 @@ namespace RulesetChecker
                             case 'x':
                                 flags |= RegexOptions.IgnorePatternWhitespace;
                                 break;
+                            default:
+                                errors++;
+                                Console.Error.WriteLine("WARN: rule contains unknown flag '{2}' at line #{0}: {1}", lineNo, line, f);
+                                break;
                         }
                     }
 
                     string search = m.Groups["pattern"].Value;
-                    // Replace double '\' chars and '\$' (RULESET.TXT specifics?)
                     string replace = m.Groups["replace"].Value;
+
+                    // '\' and '$' chars should be escaped in replace string (RULESET.TXT specifics)
+                    if (Regex.IsMatch(replace, @"[^\\]\$[^{\d]"))
+                    {
+                        errors++;
+                        Console.Error.WriteLine("WARN: replace rule contains unescaped '$' char at line #{0}: {1}", lineNo, line);
+                    }
+                    if (Regex.IsMatch(replace, @"[^\\]\\[^\\\$]"))
+                    {
+                        errors++;
+                        Console.Error.WriteLine("WARN: replace rule contains unescaped '\\' char at line #{0}: {1}", lineNo, line);
+                    }
+                    // Replace double '\' chars and '\$'
                     replace = Regex.Replace(replace, @"([^\\])\\\$", "$1$$$$").Replace(@"\\", @"\");
 
                     // Actually this syntax is dotNet-compatible:
