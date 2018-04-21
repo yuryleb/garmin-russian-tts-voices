@@ -56,4 +56,4 @@ charset = utf-8
 
 # Insert pause after the same vowels between words
 /([Уу]) +([Уу])/ --> "$1 \\pause=0\\ $2"
-/([Ээ]) +([Ээ])/ --> "$1 \\pause=0\\ $2"
+/([ЕЭеэ]) +([Ээ])/ --> "$1 \\pause=0\\ $2"
