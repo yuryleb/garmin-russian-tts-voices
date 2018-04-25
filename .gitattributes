@@ -17,6 +17,6 @@
 *.sln text eol=crlf
 *.voc text eol=crlf
 *.vpm binary
-dist/Vocalizer Expressive 3 Milena/rex_rur.dat text eol=crlf
+"dist/Vocalizer Expressive 3 Milena/rex_rur.dat" text eol=crlf
 test/TestRULESET.txt binary
 test/TestRP_RSET.txt binary
