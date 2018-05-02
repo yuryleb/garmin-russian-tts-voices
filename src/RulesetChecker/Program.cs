@@ -23,38 +23,46 @@ namespace RulesetChecker
             {
                 var total = Stopwatch.StartNew();
 
-                var rulesetLoad = Stopwatch.StartNew();
-                var ruleset = LoadRuleset(args[0]);
-                rulesetLoad.Stop();
+                var rulesetsLoad = Stopwatch.StartNew();
+                var rulesets = new Dictionary<string, IDictionary<int, Tuple<Regex,string>>>();
+                rulesets.Add(Path.GetFileName(args[0]), LoadRuleset(args[0]));
+                if (args.Length > 2)
+                    rulesets.Add(Path.GetFileName(args[1]), LoadRuleset(args[1]));
+                rulesetsLoad.Stop();
 
+                string ruleHotSource = null;
                 int ruleHotNo = 0;
                 long ruleHotMs = 0;
 
                 var textsParsed = new Stopwatch();
                 int texts = 0;
-                for (int i = 1; i < args.Length; i++ )
+                for (int i = rulesets.Count; i < args.Length; i++ )
                 {
                     foreach (string text in ReadText(args[i]))
                     {
                         Console.Error.WriteLine("INPUT : {0}", text);
                         string res = text;
-                        List<int> appliedRules = new List<int>();
+                        var appliedRules = new List<Tuple<string, int>>();
                         textsParsed.Start();
 
-                        foreach (var rule in ruleset)
+                        foreach (var ruleset in rulesets)
                         {
-                            var ruleApplied = Stopwatch.StartNew();
-                            string source = res;
-                            res = rule.Value.Item1.Replace(source, rule.Value.Item2);
-                            ruleApplied.Stop();
-
-                            if (!source.Equals(res, StringComparison.Ordinal))
-                                appliedRules.Add(rule.Key);
-
-                            if (ruleApplied.ElapsedMilliseconds > ruleHotMs)
+                            foreach (var rule in ruleset.Value)
                             {
-                                ruleHotNo = rule.Key;
-                                ruleHotMs = ruleApplied.ElapsedMilliseconds;
+                                var ruleApplied = Stopwatch.StartNew();
+                                string source = res;
+                                res = rule.Value.Item1.Replace(source, rule.Value.Item2);
+                                ruleApplied.Stop();
+
+                                if (!source.Equals(res, StringComparison.Ordinal))
+                                    appliedRules.Add(Tuple.Create(ruleset.Key, rule.Key));
+
+                                if (ruleApplied.ElapsedMilliseconds > ruleHotMs)
+                                {
+                                    ruleHotSource = ruleset.Key;
+                                    ruleHotNo = rule.Key;
+                                    ruleHotMs = ruleApplied.ElapsedMilliseconds;
+                                }
                             }
                         }
 
@@ -62,32 +70,46 @@ namespace RulesetChecker
                         texts++;
 
                         Console.Error.WriteLine("OUTPUT: {0}", res);
-                        Console.Error.Write("RULES :");
+                        string appliedRuleset = null;
                         if (appliedRules.Count > 0)
                         {
-                            foreach (int r in appliedRules)
-                                Console.Error.Write(" #{0}", r);
+                            foreach (var r in appliedRules)
+                            {
+                                if (appliedRuleset != r.Item1)
+                                {
+                                    if (appliedRuleset != null)
+                                        Console.Error.WriteLine();
+                                    appliedRuleset = r.Item1;
+                                    Console.Error.Write("{0}:", appliedRuleset);
+                                }
+                                Console.Error.Write(" #{0}", r.Item2);
+                            }
                             Console.Error.WriteLine();
                         }
                         else
                         {
-                            Console.Error.WriteLine(" none");
+                            Console.Error.WriteLine("RULES : none");
                         }
                         Console.Error.WriteLine();
                     }
                 }
 
                 total.Stop();
+                int rulesetsCount = 0;
+                foreach (var ruleset in rulesets)
+                    rulesetsCount += ruleset.Value.Count;
                 Console.Write("Total: {0} ms, {1} errors; {2} rules load: {3} ms",
                     total.ElapsedMilliseconds, errors,
-                    ruleset.Count, rulesetLoad.ElapsedMilliseconds);
+                    rulesetsCount, rulesetsLoad.ElapsedMilliseconds);
                 if (texts > 0)
                     Console.Write("; {0} texts parsed: {1} ms", texts, textsParsed.ElapsedMilliseconds);
                 Console.WriteLine();
                 if (ruleHotNo > 0 && ruleHotMs > 10)
                 {
-                    Console.WriteLine("Hot rule #{0} /{1}/ --> \"{2}\": {3} ms",
-                        ruleHotNo, ruleset[ruleHotNo].Item1, ruleset[ruleHotNo].Item2, ruleHotMs);
+                    Console.WriteLine("Hot rule from {0} #{1} /{2}/ --> \"{3}\": {4} ms",
+                        ruleHotSource, ruleHotNo,
+                        rulesets[ruleHotSource][ruleHotNo].Item1, rulesets[ruleHotSource][ruleHotNo].Item2,
+                        ruleHotMs);
                 }
 
                 return (errors > 0 ? 1 : 0);
