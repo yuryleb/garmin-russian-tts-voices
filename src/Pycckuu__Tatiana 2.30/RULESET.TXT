@@ -8,9 +8,7 @@ charset = utf-8
 /(\S),/ --> "$1 ,"
 /,(\S)/ --> ", $1"
 
-# Restore prepositions from Russian Natural Guidance
-/\/\+'2p%je\.'r%jId\/\+ \/\+(.+)\/\+ ?,? ?/ --> "перед /+$1/+, "
-/\/\+'2po\.sl%jI\/\+ \/\+(.+)\/\+ ?,? ?/ --> "после /+$1/+, "
+# Restore some prepositions from Russian Natural Guidance
 /\/\+n\^\/\+ \/\+(.+)\/\+ ([^,\.\/\\]*\S) ?([,\.])/ --> "$2 на \\tn=address\\ /+$1/+ \\tn=normal\\$3"
 
 # Restore status street names in Russian Map Phonetics
@@ -34,9 +32,6 @@ charset = utf-8
 /\/\+S\^\.'s+E_/ --> "шоссе /+"
 / \/\+z\^\.'vot\/\+ / --> " западный скоростной диаметр "
 / \/\+'s%je\.v%jI\.r\$_v\^\.'sto\.t&S%jn\$\.[EI]_x\^\.'rda\/\+ / --> " Северо-восточная хорда "
-
-# And fix some important accents there
-/([\+_])\^\.bv\^\.'dno\.v\$_/ --> "$1^b.'vod.no-.vo-_"
 
 # Detect Russian transliteration
 /\\tn=address\\([\w \.,\-'"]*) ulitsa / --> "\\tn=address\\_TRA_$1 улица "
@@ -332,12 +327,8 @@ charset = utf-8
 / 900[ \-][Лл]етия / --> " девятисотлетия "
 
 # Correct SMS/Smart notifications
-/\\tn=sms\\ Время в пути до дома \- / --> "Время в пути /+d^_'do.mo-/+ составляет "
-/\\tn=sms\\ Время в пути до работы \- / --> "Время в пути /+do-_r^.'bo.ti0/+ составляет "
 / (\d+) мин. \(([^,\/\\]*\S)\) ([^,\/\\]*\S) \- ([^,\/\\]*\S) \\tn=normal\\/ --> " $1 минут $3 , $2 "
-/ (\d+) подсказок / --> " "
 /\\tn=sms\\ Пробка / --> "Пробка "
-/\\tn=sms\\ MCHS \- / --> " "
 
 # Move alternate drive status name first
 /\\tn=address\\ ([^,\/\\]*\S) +\(?[Дд]убл[её]р\)? / --> "\\tn=address\\ дублёр _GEN_ $1 "
@@ -814,9 +805,6 @@ charset = utf-8
 / ([2-9])([1-4]) градусов/ --> " ${1}0 $2 градусов"
 / 1 градусов/ --> " 1  градус"
 / ([234]) градусов/ --> " $1  градуса"
-
-# Correct abbreviations in SMS
-/(\d+)\s*м\/с/ --> "$1 метров в секунду"
 
 # Make more clear narrow lanes messages (STR_TXT_TRF_NARROW_LANES_DELAY_STR and others from ru_RU_TRF.glx)
 /об узких полосах/ --> "о сужении дороги"
@@ -2455,32 +2443,3 @@ charset = utf-8
 
 # Stage 3: remove unprocessed case tags
 /_[A-Z]{3}_ / --> " "
-
-
-# Fix vowels in Finnish Map Phonetics
-/'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
-/\/\+'nes\.te\?_'oil_'eks\.'2pres\/\+/ --> "Neste Oil Express"
-/'pris\.ma/ --> "'pr%jiz.mo-"
-/\.([bdfgGjklmnprsStvxzZ])[ao]([bdfgGjklmnprsStvxzZ])?\.'/ --> ".$1^$2.'"
-/\.re([bdfgGjklmnprsStvxzZ])?\./ --> ".rE$1."
-/\.([bdfgGjklmnpsStvxzZ])e([bdfgGjklmnprsStvxzZ])?\.'/ --> ".$1I$2.'"
-
-# Fix endings & vowels in Russian Map Phonetics
-/([aeEiIou0\-\$\^])\.(')?([bdgGjklmnprsStvxzZ])(%j)?([bdfgGjklmnprsStvxzZ])/ --> "$1$3$4.$2$5"
-/\$\.j?[EI]([_])/ --> "o-.jo-$1"
-/jI([_])/ --> "jIj$1"
-/([bdfgGklmnprsStvxzZ])\$/ --> "$1o-"
-/'([bdfgGklmnprsStvxzZ])?o\-/ --> "'$1o"
-
-# Replace dashes between spaces with commas
-#/ [\-—] / --> ", "
-/ [\-—] / --> " \\pause=1\\ "
-
-# Remove Russian-style quotes
-/[«»]/ --> ""
-
-# Remove any extra spaces before a comma
-/\s+,/ --> ","
-
-# Remove any unnecessary commas and spaces
-/,\s*\./ --> "."

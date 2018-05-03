@@ -6,8 +6,36 @@ charset = utf-8
 #type = address
 
 [data]
-# Process addresses only
 # This file is processed after RULESET.TXT
+
+# Restore prepositions from Russian Natural Guidance
+/\/\+'2p%je\.'r%jId\/\+ \/\+(.+)\/\+ ?,? ?/ --> "перед /+$1/+, "
+/\/\+'2po\.sl%jI\/\+ \/\+(.+)\/\+ ?,? ?/ --> "после /+$1/+, "
+
+# Restore some important names from Russian Map Phonetics
+/ \/\+gr%jI\.'ba\.l%jI\.v\$j\/\+ / --> " Грибалевой "
+/ \/\+\^\.bv\^\.'dno\.v\$_k\^\.'na\.l\$\/\+ / --> " Обводного канала "
+/ \/\+u\.'ral\/\+ / --> " Урал "
+/ \/\+i0\.ntu\.z%jI\.'a\.st\$f\/\+ / --> " Энтузиастов "
+
+# Fix accents in Russian Map Phonetics
+/ \/\+glu\.x\^\.'o\.z%jI\.rsk/ --> " /+glu.x^.o-.'z%jor.sk"
+
+# Fix vowels in Finnish Map Phonetics
+/'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
+/\/\+'nes\.te\?_'oil_'eks\.'2pres\/\+/ --> "Neste Oil Express"
+/'pris\.ma/ --> "'pr%jiz.mo-"
+/\.([bdfgGjklmnprsStvxzZ])[ao]([bdfgGjklmnprsStvxzZ])?\.'/ --> ".$1^$2.'"
+/\.re([bdfgGjklmnprsStvxzZ])?\./ --> ".rE$1."
+/\.([bdfgGjklmnpsStvxzZ])e([bdfgGjklmnprsStvxzZ])?\.'/ --> ".$1I$2.'"
+
+# Fix endings & vowels in Russian Map Phonetics
+/([aeEiIou0\-\$\^])\.(')?([bdgGjklmnprsStvxzZ])(%j)?([bdfgGjklmnprsStvxzZ])/ --> "$1$3$4.$2$5"
+/\$\.j?[EI]([_])/ --> "o-.jo-$1"
+/jI([_])/ --> "jIj$1"
+/([bdfgGklmnprsStvxzZ])\$/ --> "$1o-"
+/'([bdfgGklmnprsStvxzZ])?o\-/ --> "'$1o"
+/\^([_])/ --> "o-$1"
 
 # Catch some Belarus names with special stress
 / Б[Оо][Рр][Кк][Ии] \(К[Ии][Рр][Оо][Вв][Сс][Кк][Ии][Йй] [Рр]\-[Нн]\, Д[Оо][Бб][Оо][Сс][Нн][Ее][Нн][Сс][Кк][Ии][Йй] [Сс]\/[Сс]\) / --> " /+b^r.'k%ji/+ "
@@ -54,6 +82,26 @@ charset = utf-8
 / Ф[её]дора Черника / --> " /+'f%jo.do-.ro-_'t&S%jer.n%ji.ko-/+ "
 / Ямского [Пп]оля / --> " /+jIm.'sko.vo-_'po.l%jo-/+ "
 
+# Correct SMS/Smart notifications
+/\\tn=sms\\ Время в пути до дома \- / --> "Время в пути /+d^_'do.mo-/+ составляет "
+/\\tn=sms\\ Время в пути до работы \- / --> "Время в пути /+do-_r^.'bo.ti0/+ составляет "
+/\\tn=sms\\ MCHS \- / --> " "
+/ (\d+) подсказок / --> " "
+/(\d+)\s*м\/с/ --> "$1 метров в секунду"
+
+# Remove Russian-style quotes
+/[«»]/ --> ""
+
 # Insert pause after the same vowels between words
 /([Уу]) +([Уу])/ --> "$1 \\pause=0\\ $2"
 /([ЕЭеэ]) +([Ээ])/ --> "$1 \\pause=0\\ $2"
+
+# Replace dashes between spaces with commas
+#/ [\-—] / --> ", "
+/ [\-—] / --> " \\pause=1\\ "
+
+# Remove any extra spaces before a comma
+/\s+,/ --> ","
+
+# Remove any unnecessary commas and spaces
+/,\s*\./ --> "."
