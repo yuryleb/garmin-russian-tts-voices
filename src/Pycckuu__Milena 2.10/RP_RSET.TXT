@@ -11,7 +11,7 @@ charset = utf-8
 /,(\S)/ --> ", $1"
 
 # Restore some prepositions from Russian Natural Guidance
-/\/\+n\^\/\+ \/\+(.+)\/\+ ([^,\.\/\\]*\S) ?([,\.])/ --> "$2 на \\tn=address\\ /+$1/+ \\tn=normal\\$3"
+/\/\+n\^\/\+ \/\+(.+)\/\+ ?,? ([^,\.\/\\]*\S) *([,\.])/ --> "$2 на \\tn=address\\ /+$1/+ \\tn=normal\\$3"
 
 # Restore status street names in Russian Map Phonetics
 /\/\+'u\.l%jI\.t&s\$_/ --> "улица /+"
