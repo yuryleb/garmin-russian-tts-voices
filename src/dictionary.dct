@@ -29,13 +29,6 @@ Tatneft             //t^t_'n%jeft%j
 П.С.                //p%jIt.r^.'grat&s.ko-j_sto-.r^.'ni0
 Ст.Слобода          //'sta.ro-.jo-_slo-.b^.'da
 Тнк-Bp              //tE.jEn.'ka_b%ji.'p%ji
-
-[SubHeader]
-Language = RUR
-Content = EDCT_CONTENT_BROAD_NARROWS
-Representation = EDCT_REPR_SZZ_STRING
-
-[Data]
 абашева             //^.'ba.SE.vo-
 абганеровская       //^b.g^.'n%je.ro-f.sko-.jo-
 абганеровской       //^b.g^.'n%je.ro-f.sko-j
@@ -2037,6 +2030,9 @@ Representation = EDCT_REPR_SZZ_STRING
 булярской           //bu.'l%jar.sko-j
 булярскую           //bu.'l%jar.sku.ju
 бумагина            //bu.'ma.g%ji.no-
+буммашевская        //bum_'ma.SEf.sko-.jo-
+буммашевской        //bum_'ma.SEf.sko-j
+буммашевскую        //bum_'ma.SEf.sku.ju
 буравцева           //bu.'raf.t&sE.vo-
 бураевская          //bu.'ra.j$f.sko-.jo-
 бураевский          //bu.'ra.j$f.sk%jij
@@ -2945,6 +2941,14 @@ Representation = EDCT_REPR_SZZ_STRING
 восьмиста           //vo-s%j.m%jis.'ta
 восьмую             //v^s%j.'mu.ju
 вотинцева           //'vo.t%jin.t&sE.vo-
+воткинская          //'vot.k%jIn.sko-.jo-
+воткинский          //'vot.k%jIn.sk%jij
+воткинского         //'vot.k%jIn.sko-.vo-
+воткинское          //'vot.k%jIn.sko-.j$
+воткинской          //'vot.k%jIn.sko-j
+воткинском          //'vot.k%jIn.sko-m
+воткинскому         //'vot.k%jIn.sko-.mu
+воткинскую          //'vot.k%jIn.sku.ju
 вражек              //'vra.ZEk
 вражский            //'vraS.sk%jij
 вражского           //'vraS.sko-.vo-
@@ -5790,6 +5794,9 @@ Representation = EDCT_REPR_SZZ_STRING
 золотаревскому      //zo-.lo-.t^.'r%jof.sko-.mu
 золотва             //zo-.l^t.'va
 золотина            //z^.'lo.t%ji.no-
+золотов             //'zo.lo-.to-f
+золотова            //'zo.lo-.to-.vo-
+золотовом           //'zo.lo-.to-.vo-m
 золотоворотская     //zo-.lo-.to-.v^.'rot&s.ko-.jo-
 золотоворотский     //zo-.lo-.to-.v^.'rot&s.k%jij
 золотоворотского    //zo-.lo-.to-.v^.'rot&s.ko-.vo-
@@ -5797,6 +5804,7 @@ Representation = EDCT_REPR_SZZ_STRING
 золотоворотском     //zo-.lo-.to-.v^.'rot&s.ko-m
 золотоворотскому    //zo-.lo-.to-.v^.'rot&s.ko-.mu
 золотоворотскую     //zo-.lo-.to-.v^.'rot&s.ku.ju
+золотову            //'zo.lo-.to-.vu
 золотогорский       //zo-.lo-.t^.'gor.sk%jij
 золотогорского      //zo-.lo-.t^.'gor.sko-.vo-
 золотогорском       //zo-.lo-.t^.'gor.sko-m
@@ -6471,6 +6479,9 @@ Representation = EDCT_REPR_SZZ_STRING
 каменщикова         //'ka.m%j$n%j.S%ji.ko-.vo-
 камень-на-оби       //'ka.m%j$n%j_'2na_^.'b%ji
 камерово            //'ka.m%j$.ro-.vo-
+камероновская       //ko-.m%jI.'ro.no-f.sko-.jo-
+камероновской       //ko-.m%jI.'ro.no-f.sko-j
+камероновскую       //ko-.m%jI.'ro.no-f.sku.ju
 камо                //k^.'mo.
 камозина            //k^.'mo.z%ji.no-
 камская             //'kam.sko-.jo-
@@ -7903,6 +7914,9 @@ Representation = EDCT_REPR_SZZ_STRING
 красноворотского    //kro-s.no-.v^.'rot&s.ko-.vo-
 красноворотском     //kro-s.no-.v^.'rot&s.ko-m
 красноворотскому    //kro-s.no-.v^.'rot&s.ko-.mu
+красногеройская     //kro-s.no-.g%jI.'roj.sko-.jo-
+красногеройской     //kro-s.no-.g%jI.'roj.sko-j
+красногеройскую     //kro-s.no-.g%jI.'roj.sku.ju
 красногоровская     //kro-s.n^.'go.ro-f.sko-.jo-
 красногоровской     //kro-s.n^.'go.ro-f.sko-j
 красногоровскую     //kro-s.n^.'go.ro-f.sku.ju
@@ -17374,6 +17388,10 @@ Representation = EDCT_REPR_SZZ_STRING
 толоконниково       //to-.l^.'kon.n%ji.ko-.vo-
 толстикова          //'tol.st%ji.ko-.vo-
 толстого            //t^l.'sto.vo-
+толубеевский        //to-.lu.'b%je.j$f.sk%jij
+толубеевского       //to-.lu.'b%je.j$f.sko-.vo-
+толубеевском        //to-.lu.'b%je.j$f.sko-m
+толубеевскому       //to-.lu.'b%je.j$f.sko-.mu
 тольятти            //t^l%j.'ja.t%jij
 томази              //to-.m^.'z%ji
 томаковская         //t^.'ma.ko-f.sko-.jo-
@@ -18876,6 +18894,9 @@ Representation = EDCT_REPR_SZZ_STRING
 чапчакчи            //t&S%jIp.t&S%j^k.'t&S%ji
 чарнецкого          //t&S%jIr.'n%jet&s.ko-.vo-
 чарушина            //t&S%jI.'ru.Si0.no-
+чарушинская         //t&S%jI.'ru.Si0n.sko-.jo-
+чарушинской         //t&S%jI.'ru.Si0n.sko-j
+чарушинскую         //t&S%jI.'ru.Si0n.sku.ju
 часов-ярская        //'2t&S%ja.so-f_'ja.rsko-.jo-
 часов-ярской        //'2t&S%ja.so-f_'ja.rsko-j
 часов-ярскую        //'2t&S%ja.so-f_'ja.rsku.ju
@@ -20037,7 +20058,11 @@ Representation = EDCT_REPR_SZZ_STRING
 юношеской           //'ju.no-.SE.sko-j
 юношескую           //'ju.no-.SE.sku.ju
 юнтоловская         //'jun.to-.lo-f.sko-.jo-
+юнтоловский         //'jun.to-.lo-f.sk%jij
+юнтоловского        //'jun.to-.lo-f.sko-.vo-
 юнтоловской         //'jun.to-.lo-f.sko-j
+юнтоловском         //'jun.to-.lo-f.sko-m
+юнтоловскому        //'jun.to-.lo-f.sko-.mu
 юнтоловскую         //'jun.to-.lo-f.sku.ju
 юный                //'ju.ni0j
 юных                //'ju.ni0x

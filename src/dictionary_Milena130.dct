@@ -1887,6 +1887,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Буляк               //bu.'l%jak
 Булярская           //bu.'l%jar.sko-.jo-
 Бумагина            //bu.'ma.g%ji.no-
+Буммашевская        //bum_'ma.SEf.sko-.jo-
 Буравцева           //bu.'raf.t&sE.vo-
 Бураевская          //bu.'ra.j$f.sko-.jo-
 Бураевский          //bu.'ra.j$f.sk%jij
@@ -2303,6 +2304,9 @@ Representation = EDCT_REPR_SZZ_STRING
 Восточно-Кругликовская //v^s.'tot&S%j.no-_'krug.l%ji.ko-f.sko-.jo-
 Вострухина          //v^st.'ru.x%ji.no-
 Вотинцева           //'vo.t%jin.t&sE.vo-
+Воткинская          //'vot.k%jIn.sko-.jo-
+Воткинский          //'vot.k%jIn.sk%jij
+Воткинское          //'vot.k%jIn.sko-.j$
 Вражек              //'vra.ZEk
 Вражский            //'vraS.sk%jij
 Вроцлавская         //'vrod&z*.lo-f.sko-.jo-
@@ -3603,6 +3607,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Золотаревский       //zo-.lo-.t^.'r%jof.sk%jij
 Золотва             //zo-.l^t.'va
 Золотина            //z^.'lo.t%ji.no-
+Золотов             //'zo.lo-.to-f
 Золотоворотская     //zo-.lo-.to-.v^.'rot&s.ko-.jo-
 Золотоворотский     //zo-.lo-.to-.v^.'rot&s.k%jij
 Золотогорский       //zo-.lo-.t^.'gor.sk%jij
@@ -3913,6 +3918,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Каменщикова         //'ka.m%j$n%j.S%ji.ko-.vo-
 Камень-на-Оби       //'ka.m%j$n%j_'2na_^.'b%ji
 Камерово            //'ka.m%j$.ro-.vo-
+Камероновская       //ko-.m%jI.'ro.no-f.sko-.jo-
 Камо                //k^.'mo.
 Камозина            //k^.'mo.z%ji.no-
 Камская             //'kam.sko-.jo-
@@ -4568,6 +4574,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Красновичи          //kr^s.'no.v%ji.t&S%jij
 Красноворинская     //kro-s.n^.'vo.r%jin.sko-.jo-
 Красноворотский     //kro-s.no-.v^.'rot&s.k%jij
+Красногеройская     //kro-s.no-.g%jI.'roj.sko-.jo-
 Красногоровская     //kro-s.n^.'go.ro-f.sko-.jo-
 Краснодорожный      //kro-s.no-.d^.'roZ.ni0j
 Краснозаводская     //kro-s.no-.zo-.v^t.'ska.jo-
@@ -8658,6 +8665,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Толоконниково       //to-.l^.'kon.n%ji.ko-.vo-
 Толстикова          //'tol.st%ji.ko-.vo-
 Толстого            //t^l.'sto.vo-
+Толубеевский        //to-.lu.'b%je.j$f.sk%jij
 Тольятти            //t^l%j.'ja.t%jij
 Томази              //to-.m^.'z%ji
 Томаковская         //t^.'ma.ko-f.sko-.jo-
@@ -9360,6 +9368,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Чапчакчи            //t&S%jIp.t&S%j^k.'t&S%ji
 Чарнецкого          //t&S%jIr.'n%jet&s.ko-.vo-
 Чарушина            //t&S%jI.'ru.Si0.no-
+Чарушинская         //t&S%jI.'ru.Si0n.sko-.jo-
 Часов-Ярская        //'2t&S%ja.so-f_'ja.rsko-.jo-
 Часовенская         //t&S%jI.'so.v%j$n.sko-.jo-
 Часовенское         //t&S%jI.'so.v%j$n.sko-.j$
@@ -9900,6 +9909,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Юности              //'ju.no-s%j.t%jIj
 Юношеская           //'ju.no-.SE.sko-.jo-
 Юнтоловская         //'jun.to-.lo-f.sko-.jo-
+Юнтоловский         //'jun.to-.lo-f.sk%jij
 Юный                //'ju.ni0j
 Юных                //'ju.ni0x
 Юпитерная           //ju.'p%ji.t%j$r.no-.jo-
