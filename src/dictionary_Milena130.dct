@@ -1147,6 +1147,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Амет-Хан            //^.'2m%jet_'xan
 Аметьевская         //'2a.'m%jet%j.j$f.sko-.jo-
 Амилкара            //^.'m%jil.ko-.ro-
+Аминева             //'a.m%ji.n%j$.vo-
 Аминовичи           //^.'m%ji.no-.v%ji.t&S%jij
 Аминьевский         //^.'m%jin%j.j$f.sk%jij
 Аминьевское         //^.'m%jin%j.j$f.sko-.j$
@@ -1399,6 +1400,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Баратино            //b^.'ra.t%ji.no-
 Барашева            //b^.'ra.SE.vo-
 Барашевский         //bo-.r^.'Sof.sk%jij
+Барбошина           //b^r.'bo.Si0.no-
 Барвинковская       //b^r.'v%jin.ko-f.sko-.jo-
 Барвинковский       //b^r.'v%jin.ko-f.sk%jij
 Бардыгинская        //b^r.'di0.g%jin.sko-.jo-
@@ -2049,6 +2051,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Венгера             //'ven.g%j$.ro-
 Веневская           //v%jI.'n%jof.sko-.jo-
 Веневское           //v%jI.'n%jof.sko-.j$
+Венцека             //'v%jen.t&sE.ko-
 Вепрева             //'v%jep.r%j$.vo-
 Вербилковский       //v%jIr.'b%jil.ko-f.sk%jij
 Вербилово           //v%jIr.'b%ji.lo-.vo-
@@ -2148,6 +2151,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Вилковщина          //'v%jil.ko-f.S%ji.no-
 Виллинская          //v%ji.'l%jin.sko-.jo-
 Вилонова            //v%ji.'lo.no-.vo-
+Вилоновская         //v%ji.'lo.no-f.sko-.jo-
 Вилория             //v%ji.'lo.r%ji*.jo-
 Вильде              //'v%jil%j*.dE
 Вильнюсская         //'v%jil%j.n%jju.sko-.jo-
@@ -3569,6 +3573,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Зеленхозовская      //z%j$.l%jIn.'xo.zo-f.sko-.jo-
 Зеленхозовский      //z%j$.l%jIn.'xo.zo-f.sk%jij
 Зельев              //'z%jel%j.j$f
+Земеца              //'z%je.m%j$.t&so-
 Землячки            //z%jIm.'l%jat&S%j.k%jij
 Земовская           //'z%jo.mo-f.sko-.jo-
 Земовский           //'z%jo.mo-f.sk%jij
@@ -3639,6 +3644,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Зубковская          //zup.'kof.sko-.jo-
 Зубривская          //'zu.br%jif.sko-.jo-
 Зубрицкого          //zu.'br%jit&s.ko-.vo-
+Зубчаниновское      //zup.t&S%jI.'n%ji.no-f.sko-.j$
 Зугресовская        //zu.'gr%je.so-f.sko-.jo-
 Зуево               //'zu.j$.vo-
 Зуево-Новая         //'zu.j$.vo-._'no.vo-.jo-
@@ -5226,6 +5232,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Магалашвили         //mo-.go-.l^S.'v%ji.l%jij
 Магдалиновская      //mo-g.d^.'l%ji.no-f.sko-.jo-
 Маглыша             //'mag.lISo-
+Магнитогорская      //mo-g.n%ji.t^.'go.rsko-.jo-
+Магнитогорский      //mo-g.n%ji.t^.'go.rsk%jij
 Магро               //m^.'gro*.
 Мадонская           //m^.'don.sko-.jo-
 Маевок              //m^.'jo.vo-k
@@ -7317,6 +7325,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Расторгуевское      //ro-s.t^r.'gu.j$f.sko-.j$
 Ратича              //'ra.t%jit&S%j.o-
 Ратманского         //r^t.'man.sko-.vo-
+Ратнера             //'rat.nE.ro-
 Ратникова           //'rat%j.n%ji.ko-.vo-
 Ратомская           //r^.'tom.sko-.jo-
 Ратуши              //'ra.tu.Si0j
@@ -8143,6 +8152,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Становой            //sto-.n^.'voj
 Станция             //'stan.t&si0*.jo-
 Станюковича         //sto-.n%ju.'ko.v%jit&S%j.o-
+Стара-Загора        //'sta.ro-_z^.'go.ro-
 Старикова           //'sta.r%ji.ko-.vo-
 Стариновская        //'sta.r%ji.no-f.sko-.jo-
 Старицкая           //'sta.r%jit&s.ko-.jo-

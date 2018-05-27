@@ -433,6 +433,7 @@ Tatneft             //t^t_'n%jeft%j
 аметьевской         //'2a.'m%jet%j.j$f.sko-j
 аметьевскую         //'2a.'m%jet%j.j$f.sku.ju
 амилкара            //^.'m%jil.ko-.ro-
+аминева             //'a.m%ji.n%j$.vo-
 аминовичи           //^.'m%ji.no-.v%ji.t&S%jij
 аминьевский         //^.'m%jin%j.j$f.sk%jij
 аминьевского        //^.'m%jin%j.j$f.sko-.vo-
@@ -946,6 +947,7 @@ Tatneft             //t^t_'n%jeft%j
 барашевского        //bo-.r^.'Sof.sko-.vo-
 барашевском         //bo-.r^.'Sof.sko-m
 барашевскому        //bo-.r^.'Sof.sko-.mu
+барбошина           //b^r.'bo.Si0.no-
 барвинковская       //b^r.'v%jin.ko-f.sko-.jo-
 барвинковский       //b^r.'v%jin.ko-f.sk%jij
 барвинковского      //b^r.'v%jin.ko-f.sko-.vo-
@@ -2365,6 +2367,7 @@ Tatneft             //t^t_'n%jeft%j
 веневском           //v%jI.'n%jof.sko-m
 веневскому          //v%jI.'n%jof.sko-.mu
 веневскую           //v%jI.'n%jof.sku.ju
+венцека             //'v%jen.t&sE.ko-
 вепрева             //'v%jep.r%j$.vo-
 вербилковский       //v%jIr.'b%jil.ko-f.sk%jij
 вербилковского      //v%jIr.'b%jil.ko-f.sko-.vo-
@@ -2613,6 +2616,9 @@ Tatneft             //t^t_'n%jeft%j
 виллинской          //v%ji.'l%jin.sko-j
 виллинскую          //v%ji.'l%jin.sku.ju
 вилонова            //v%ji.'lo.no-.vo-
+вилоновская         //v%ji.'lo.no-f.sko-.jo-
+вилоновской         //v%ji.'lo.no-f.sko-j
+вилоновскую         //v%ji.'lo.no-f.sku.ju
 вилория             //v%ji.'lo.r%ji*.jo-
 вильде              //'v%jil%j*.dE
 вильнюсская         //'v%jil%j.n%jju.sko-.jo-
@@ -5707,6 +5713,7 @@ Tatneft             //t^t_'n%jeft%j
 зельева             //'z%jel%j.j$.vo-
 зельевом            //'z%jel%j.j$.vo-m
 зельеву             //'z%jel%j.j$.vu
+земеца              //'z%je.m%j$.t&so-
 землячки            //z%jIm.'l%jat&S%j.k%jij
 земовская           //'z%jo.mo-f.sko-.jo-
 земовский           //'z%jo.mo-f.sk%jij
@@ -5864,6 +5871,10 @@ Tatneft             //t^t_'n%jeft%j
 зубривской          //'zu.br%jif.sko-j
 зубривскую          //'zu.br%jif.sku.ju
 зубрицкого          //zu.'br%jit&s.ko-.vo-
+зубчаниновского     //zup.t&S%jI.'n%ji.no-f.sko-.vo-
+зубчаниновское      //zup.t&S%jI.'n%ji.no-f.sko-.j$
+зубчаниновском      //zup.t&S%jI.'n%ji.no-f.sko-m
+зубчаниновскому     //zup.t&S%jI.'n%ji.no-f.sko-.mu
 зугресовская        //zu.'gr%je.so-f.sko-.jo-
 зугресовской        //zu.'gr%je.so-f.sko-j
 зугресовскую        //zu.'gr%je.so-f.sku.ju
@@ -9368,6 +9379,13 @@ Tatneft             //t^t_'n%jeft%j
 магдалиновскую      //mo-g.d^.'l%ji.no-f.sku.ju
 магистрали          //mo-.g%ji.'stra.l%jij
 маглыша             //'mag.lISo-
+магнитогорская      //mo-g.n%ji.t^.'go.rsko-.jo-
+магнитогорский      //mo-g.n%ji.t^.'go.rsk%jij
+магнитогорского     //mo-g.n%ji.t^.'go.rsko-.vo-
+магнитогорской      //mo-g.n%ji.t^.'go.rsko-j
+магнитогорском      //mo-g.n%ji.t^.'go.rsko-m
+магнитогорскому     //mo-g.n%ji.t^.'go.rsko-.mu
+магнитогорскую      //mo-g.n%ji.t^.'go.rsku.ju
 магро               //m^.'gro*.
 мадонская           //m^.'don.sko-.jo-
 мадонской           //m^.'don.sko-j
@@ -14343,6 +14361,7 @@ Tatneft             //t^t_'n%jeft%j
 расторгуевскому     //ro-s.t^r.'gu.j$f.sko-.mu
 ратича              //'ra.t%jit&S%j.o-
 ратманского         //r^t.'man.sko-.vo-
+ратнера             //'rat.nE.ro-
 ратникова           //'rat%j.n%ji.ko-.vo-
 ратомская           //r^.'tom.sko-.jo-
 ратомской           //r^.'tom.sko-j
@@ -16139,6 +16158,7 @@ Tatneft             //t^t_'n%jeft%j
 станции             //'stan.t&si0.ij
 станция             //'stan.t&si0*.jo-
 станюковича         //sto-.n%ju.'ko.v%jit&S%j.o-
+стара-загора        //'sta.ro-_z^.'go.ro-
 старикова           //'sta.r%ji.ko-.vo-
 стариновская        //'sta.r%ji.no-f.sko-.jo-
 стариновской        //'sta.r%ji.no-f.sko-j
