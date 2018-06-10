@@ -21,6 +21,7 @@ charset = utf-8
 
 # Fix accents in Russian Map Phonetics
 / \/\+glu\.x\^\.'o\.z%jI\.rsk/ --> " /+glu.x^.o-.'z%jor.sk"
+/ \/\+'la\.nsko\-\./ --> " /+l^n.'sko."
 
 # Fix vowels in Finnish Map Phonetics
 /'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
