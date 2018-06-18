@@ -15,13 +15,14 @@ charset = utf-8
 # Restore some important names from Russian Map Phonetics
 / \/\+gr%jI\.'ba\.l%jI\.v\$j\/\+ / --> " Грибалевой "
 / \/\+\^\.bv\^\.'dno\.v\$_k\^\.'na\.l\$\/\+ / --> " Обводного канала "
+/ \/\+'sankt_'p%je\.tr%jI\.burk\/\+ / --> " Санкт-Петербург "
 / \/\+u\.'ral\/\+ / --> " Урал "
 / \/\+i0\.ntu\.z%jI\.'a\.st\$f\/\+ / --> " Энтузиастов "
-/ \/\+'sankt_'p%je\.tr%jI\.burk\/\+ / --> " Санкт-Петербург "
 
 # Fix accents in Russian Map Phonetics
 / \/\+glu\.x\^\.'o\.z%jI\.rsk/ --> " /+glu.x^.o-.'z%jor.sk"
 / \/\+'la\.nsko\-\./ --> " /+l^n.'sko."
+/_'pE_'Es\/\+ / --> "_p%jIt.r^.'grat&s.ko-j_sto-.r^.'ni0/+ "
 
 # Fix vowels in Finnish Map Phonetics
 /'kou\.fo\.la/ --> "'ko.u.vo-.lo-"
