@@ -437,6 +437,7 @@ charset = utf-8
 /\\tn=address\\ [Ss]outerrain / --> "\\tn=address\\ тоннель "
 /\\tn=address\\ [Ss]quare / --> "\\tn=address\\ площадь "
 /\\tn=address\\ [Tt]unnel / --> "\\tn=address\\ тоннель "
+/\\tn=address\\ [Vv]iaduc / --> "\\tn=address\\ путепровод "
 /\\tn=address\\ [Vv]oie / --> "\\tn=address\\ дорога "
 # Translate Spanish/Catalan status street names
 /\\tn=address\\ [Aa]cceso / --> "\\tn=address\\ подъезд "
