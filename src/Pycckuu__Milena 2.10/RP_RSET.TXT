@@ -489,7 +489,7 @@ charset = utf-8
 /\\tn=address\\ [Ss]opraelevata / --> "\\tn=address\\ эстакада "
 /\\tn=address\\ [Ss]trada / --> "\\tn=address\\ дорога "
 /\\tn=address\\ [Tt]angenziale / --> "\\tn=address\\ объездная автодорога "
-/\\tn=address\\ [Tt]raversa / --> "\\tn=address\\ переулок "
+/\\tn=address\\ [Tt]ravers[ae] / --> "\\tn=address\\ переулок "
 /\\tn=address\\ [Vv]ia / --> "\\tn=address\\ улица "
 /\\tn=address\\ [Vv]iale / --> "\\tn=address\\ проспект "
 /\\tn=address\\ [Vv]ico / --> "\\tn=address\\ тупик "
