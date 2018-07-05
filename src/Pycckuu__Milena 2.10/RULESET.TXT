@@ -18,6 +18,7 @@ charset = utf-8
 / \/\+'sankt_'p%je\.tr%jI\.burk\/\+ / --> " Санкт-Петербург "
 / \/\+u\.'ral\/\+ / --> " Урал "
 / \/\+i0\.ntu\.z%jI\.'a\.st\$f\/\+ / --> " Энтузиастов "
+/ \/\+'ka_'pogr_p%jI\.r%jI\.'u\.l\$g_/ --> " к погранпереходу /+"
 
 # Fix accents in Russian Map Phonetics
 / \/\+glu\.x\^\.'o\.z%jI\.rsk/ --> " /+glu.x^.o-.'z%jor.sk"
