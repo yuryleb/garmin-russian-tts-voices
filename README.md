@@ -165,7 +165,7 @@
     текстовый формат DCT в кодировке UTF-8 с BOM
 * Компиляция словаря: [build_dictionary.bat](src/build_dictionary.bat),
   запускающий скопилированный [Python](https://www.python.org/download/releases/2.5.4/)-скрипт `dictcpl.pyc`
-* Сборка голоса: [make_voice_Milena.bat](src/make_voice_Milena.bat)
+* Сборка голоса: [make_voice_Tatiana.bat](src/make_voice_Tatiana.bat)
 
 
 
