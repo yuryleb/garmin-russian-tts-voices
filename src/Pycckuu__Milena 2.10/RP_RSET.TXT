@@ -12,6 +12,7 @@ charset = utf-8
 
 # Restore some prepositions from Russian Natural Guidance
 /\/\+n\^\/\+ \/\+(.+)\/\+ ?,? ([^,\.\/\\]*\S) *([,\.])/ --> "$2 на \\tn=address\\ /+$1/+ \\tn=normal\\$3"
+/Под \/\+(.+)\/\+ ?,? ([^,\.\/\\]*\S) *([,\.])/ --> "$2 под \\tn=address\\ /+$1/+ \\tn=normal\\$3"
 
 # Restore status street names in Russian Map Phonetics
 /\/\+'u\.l%jI\.t&s\$_/ --> "улица /+"
@@ -835,6 +836,7 @@ charset = utf-8
 /во на \\tn=address\\ / --> "во на  \\tn=address\\_ACC_ "
 /, на \\tn=address\\ / --> ", на  \\tn=address\\_ACC_ "
 / на \\tn=address\\ / --> " на  \\tn=address\\_PRE_ "
+/ под \\tn=address\\ / --> " под  \\tn=address\\_ACC_ "
 / от \\tn=address\\ / --> " от  \\tn=address\\_GEN_ "
 / до \\tn=address\\ / --> " до  \\tn=address\\_GEN_ "
 /, \\tn=address\\ / --> ",  \\tn=address\\_NOM_ "
