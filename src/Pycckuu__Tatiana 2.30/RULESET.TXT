@@ -26,6 +26,7 @@ charset = utf-8
 / \/\+glu\.x\^\.'o\.z%jI\.rsk/ --> " /+glu.x^.o-.'z%jor.sk"
 / \/\+'la\.nsko\-\./ --> " /+l^n.'sko."
 /_'pE_'Es\/\+ / --> "_p%jIt.r^.'grat&s.ko-j_sto-.r^.'ni0/+ "
+/_'vE_'o\/\+ / --> "_v^.'s%jil%j.jIf.sko-.vo-_'ost.ro-.vo-/+ "
 
 # Fix vowels in Finnish Map Phonetics
 /'kou\.fo\.la/ --> "'ko.u.vo-.lo-"

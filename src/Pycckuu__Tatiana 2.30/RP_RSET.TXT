@@ -840,6 +840,7 @@ charset = utf-8
 / под \\tn=address\\ / --> " под  \\tn=address\\_ACC_ "
 / от \\tn=address\\ / --> " от  \\tn=address\\_GEN_ "
 / до \\tn=address\\ / --> " до  \\tn=address\\_GEN_ "
+/ у \\tn=address\\ / --> " у  \\tn=address\\_GEN_ "
 /, \\tn=address\\ / --> ",  \\tn=address\\_NOM_ "
 /направление \\tn=address\\ / --> "направление  \\tn=address\\_NOM_ "
 /Какой номер дома по ([^,\/\\]*)\?/ --> "Какой номер дома  по _DAT_ $1 ?"
