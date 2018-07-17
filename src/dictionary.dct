@@ -725,6 +725,7 @@ Viada               //'v%ji.^.do-
 аургазинском        //^.ur.g^.'z%jin.sko-m
 аургазинскому       //^.ur.g^.'z%jin.sko-.mu
 аургазинскую        //^.ur.g^.'z%jin.sku.ju
+аустрина            //^.'us.tr%ji.no-
 ауэзова             //^.u.'E.zo-.vo-
 ауэрбаха            //^.u.Er.'ba.xo-
 афанасовская        //^.f^.'na.so-f.sko-.jo-
@@ -1954,6 +1955,7 @@ Viada               //'v%ji.^.do-
 бударская           //bu.'dar.sko-.jo-
 бударской           //bu.'dar.sko-j
 бударскую           //bu.'dar.sku.ju
+будашкина           //bu.'daS.k%ji.no-
 буденновская        //bu.'d%jo.no-f.sko-.jo-
 буденновского       //bu.'d%jo.no-f.sko-.vo-
 буденновское        //bu.'d%jo.no-f.sko-.j$
@@ -9711,6 +9713,10 @@ Viada               //'v%ji.^.do-
 мариф               //m^.'r%jif
 марковникова        //m^r.'kov.n%ji.ko-.vo-
 марковцева          //'mar.ko-f.t&sE.vo-
+марксовский         //'ma.rkso-f.sk%jij
+марксовского        //'ma.rkso-f.sko-.vo-
+марксовском         //'ma.rkso-f.sko-m
+марксовскому        //'ma.rkso-f.sko-.mu
 марлинская          //m^r.'l%jin.sko-.jo-
 марлинской          //m^r.'l%jin.sko-j
 марлинскую          //m^r.'l%jin.sku.ju
@@ -11997,6 +12003,9 @@ Viada               //'v%ji.^.do-
 новосёловская       //no-.v^.'s%jo.lo-f.sko-.jo-
 новосёловской       //no-.v^.'s%jo.lo-f.sko-j
 новосёловскую       //no-.v^.'s%jo.lo-f.sku.ju
+новотамбовская      //no-.vo-.t^m.'bof.sko-.jo-
+новотамбовской      //no-.vo-.t^m.'bof.sko-j
+новотамбовскую      //no-.vo-.t^m.'bof.sku.ju
 новотатаровская     //no-.vo-.t^.'ta.ro-f.sko-.jo-
 новотатаровской     //no-.vo-.t^.'ta.ro-f.sko-j
 новотатаровскую     //no-.vo-.t^.'ta.ro-f.sku.ju
@@ -13987,6 +13996,9 @@ Viada               //'v%ji.^.do-
 проспектному        //pr^s.'p%jekt.no-.mu
 проспектную         //pr^s.'p%jekt.nu.ju
 проспектный         //pr^s.'p%jekt.ni0j
+просторовская       //pr^s.'to.ro-f.sko-.jo-
+просторовской       //pr^s.'to.ro-f.sko-j
+просторовскую       //pr^s.'to.ro-f.sku.ju
 просянкина          //pr^.'s%jan.k%ji.no-
 просёлочная         //pr^.'s%jo.lo-t&S%j.no-.jo-
 просёлочной         //pr^.'s%jo.lo-t&S%j.no-j
@@ -15334,6 +15346,9 @@ Viada               //'v%ji.^.do-
 северопарковая      //s%j$.v%j$.r^.'par.ko-.vo-.jo-
 северопарковой      //s%j$.v%j$.r^.'par.ko-.vo-j
 северопарковую      //s%j$.v%j$.r^.'par.ko-.vu.ju
+северополянская     //s%j$.v%j$.ro-.p^.'l%jan.sko-.jo-
+северополянской     //s%j$.v%j$.ro-.p^.'l%jan.sko-j
+северополянскую     //s%j$.v%j$.ro-.p^.'l%jan.sku.ju
 севрюгина           //s%jIv.'r%ju.g%ji.no-
 севская             //'s%je.fsko-.jo-
 севский             //'s%je.fsk%jij
@@ -15482,6 +15497,14 @@ Viada               //'v%ji.^.do-
 сергучевской        //s%j$r.gu.'t&S%jof.sko-j
 сергучевскую        //s%j$r.gu.'t&S%jof.sku.ju
 сердаш              //s%jIr.'daS
+сердобск            //s%jIr.'dopsk
+сердобская          //s%jIr.'dop.sko-.jo-
+сердобский          //s%jIr.'dop.sk%jij
+сердобского         //s%jIr.'dop.sko-.vo-
+сердобской          //s%jIr.'dop.sko-j
+сердобском          //s%jIr.'dop.sko-m
+сердобскому         //s%jIr.'dop.sko-.mu
+сердобскую          //s%jIr.'dop.sku.ju
 серебренникова      //s%jI.'r%jeb.r%j$.n%ji.ko-.vo-
 серебренниковская   //s%jI.'r%jeb.r%j$.n%ji.ko-f.sko-.jo-
 серебренниковской   //s%jI.'r%jeb.r%j$.n%ji.ko-f.sko-j
@@ -16235,6 +16258,9 @@ Viada               //'v%ji.^.do-
 старо-петергофского //'2sta.ro-.p%j$.t%jIr.'gof.sko-.vo-
 старо-петергофском  //'2sta.ro-.p%j$.t%jIr.'gof.sko-m
 старо-петергофскому //'2sta.ro-.p%j$.t%jIr.'gof.sko-.mu
+старо-черкасская    //'2sta.ro-.t&S%jI.'rka.sko-.jo-
+старо-черкасской    //'2sta.ro-.t&S%jI.'rka.sko-j
+старо-черкасскую    //'2sta.ro-.t&S%jI.'rka.sku.ju
 старо-чернушенский  //'2sta.ro-.t&S%jIr.'nu.SEn.sk%jij
 старо-чернушенского //'2sta.ro-.t&S%jIr.'nu.SEn.sko-.vo-
 старо-чернушенском  //'2sta.ro-.t&S%jIr.'nu.SEn.sko-m
@@ -16813,6 +16839,7 @@ Viada               //'v%ji.^.do-
 сурскому            //'sur.sko-.mu
 сурскую             //'sur.sku.ju
 сурты               //sur.'ti0
+суры                //su.'ri0
 сусоколовского      //su.so-.k^.'lof.sko-.vo-
 сусоколовское       //su.so-.k^.'lof.sko-.j$
 сусоколовском       //su.so-.k^.'lof.sko-m
@@ -17540,6 +17567,9 @@ Viada               //'v%ji.^.do-
 трахтемировскую     //tro-x.t%jI.'m%ji.ro-f.sku.ju
 трегубенко          //tr%jI.'gu.b%j$n.ko-
 трезини             //tr%jI.'z%ji.n%jIj
+трембицкая          //tr%jIm.'b%jit&s.ko-.jo-
+трембицкой          //tr%jIm.'b%jit&s.ko-j
+трембицкую          //tr%jIm.'b%jit&s.ku.ju
 тренева             //tr%jI.'n%jo.vo-
 трениной            //tr%j$.n%ji.'noj
 третью              //'tr%je.t%jI.ju
