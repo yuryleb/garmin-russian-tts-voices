@@ -3515,6 +3515,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Западинская         //'za.p^.d%jIn.sko-.jo-
 Запарина            //z^.'pa.r%ji.no-
 Заполье             //z^.'pol%j.je
+Запольки            //z^.'pol%j.k%jij
 Запорожсталевская   //z^.po-.ro-S.'sta.l%j$f.sko-.jo-
 Запрудино           //z^.'pru.d%ji.no-
 Запрудная           //z^.'prud.no-.jo-
@@ -4496,6 +4497,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Корчагинская        //k^r.'t&S%ja.g%jIn.sko-.jo-
 Корчагинский        //k^r.'t&S%ja.g%jIn.sk%jij
 Корчагинцев         //k^r.'t&S%ja.g%jIn.t&sEf
+Корчмино            //'ko.rt&S%jm%ji.no-
 Корчовского         //k^r.'t&S%jof.sko-.vo-
 Коршуки             //ko-r.Su.'k%ji
 Корытное            //k^.'ri0t.no-.j$
@@ -4769,6 +4771,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Кузьмы              //kuz%j.'mi0
 Куйбышева           //'kuj.bi0.SE.vo-
 Куйвастское         //'kuj.vo-st.sko-.j$
+Куйвози             //'kuj.vo-.z%jij
 Куккоева            //kuk.:'ko.j$.vo-
 Куккоевой           //kuk.:'ko.j$.vo-j
 Кукуевская          //ku.'ku.j$f.sko-.jo-
@@ -5000,6 +5003,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Леси                //'l%je.s%jij
 Лесика              //'l%je.s%ji.ko-
 Лески               //l%jIs.'k%ji
+Лесколово           //'l%jes.ko-.lo-.vo-
 Лесничная           //l%jIs%j.'n%jit&S%j.no-.jo-
 Лесничный           //l%jIs%j.'n%jit&S%j.ni0j
 Лесновская          //l%jIs.'nof.sko-.jo-
@@ -5958,6 +5962,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Немова              //'ne.mo-.vo-
 Немцевича           //n%j$m.'t&sE.v%ji.t&S%jo-
 Немятовская         //n%jI.'m%ja.to-f.sko-.jo-
+Ненимяки            //n%j$.n%ji.'m%ja.k%jij
 Неплюевский         //n%jIp.'l%ju.j$f.sk%jij
 Непокоренных        //n%j$.po-.k^.'r%jon.ni0x
 Нерис               //'nE.r%jis
@@ -6429,6 +6434,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Овнатаняна          //^v.no-.t^.'n%ja.no-
 Овручская           //'ov.rut&S%j.sko-.jo-
 Овсянникова         //^f.'s%ja.n%ji.ko-.vo-
+Овцино              //'of.t&si0.no-
 Овцинская           //'of.t&si0n.sko-.jo-
 Овчинниковская      //^f.'t&S%jin.n%ji.ko-f.sko-.jo-
 Овчинниковский      //^f.'t&S%jin.n%ji.ko-f.sk%jij
@@ -6705,6 +6711,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Паричи              //'pa.r%ji.t&S%jij
 Парк                //'park
 Парканат            //po-r.k^.'nat
+Парклесхоз          //p^rk.l%jIs.'xos
 Парковская          //'par.ko-f.sko-.jo-
 Парковский          //'par.ko-f.sk%jij
 Парнас              //p^r.'nas
@@ -7531,6 +7538,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Рузовская           //'ru.zo-f.sko-.jo-
 Рузовский           //'ru.zo-f.sk%jij
 Рузская             //'ruz.sko-.jo-
+Румболово           //'rum.bo-.lo-.vo-
 Румболовский        //'rum.bo-.lo-f.sk%jij
 Руновский           //ru.'nof.sk%jij
 Рупасова            //ru.'pa.so-.vo-
@@ -9731,6 +9739,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Шитова              //'Si0.to-.vo-
 Шиховский           //'Si0.xo-f.sk%jij
 Шишимская           //Si0.'Si0m.sko-.jo-
+Шишканя             //Si0S.k^.'n%ja
 Шишкаревская        //Si0S.k^.'r%jof.sko-.jo-
 Шишковская          //Si0S.'kof.sko-.jo-
 Шишковский          //Si0S.'kof.sk%jij
