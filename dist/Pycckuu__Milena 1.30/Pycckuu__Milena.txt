@@ -3,8 +3,8 @@ gmt v0.8.186.801b  CC BY-SA (C) 2011-2014 AP www.gmaptool.eu
 Input file: Pycckuu__Milena.vpm.
 
 
-File:		Pycckuu__Milena.vpm, length 5146624
-Header:   	25.04.2018 09:33:50, DSKIMG, XOR 00, V 1.39, Ms 0, 006-D3363-00
+File:		Pycckuu__Milena.vpm, length 5149696
+Header:   	23.07.2018 05:21:38, DSKIMG, XOR 00, V 1.39, Ms 0, 006-D3363-00
 Mapset:   	milena
 fat:		1000h - 1200h - 5400h, block 1024
 maps:		15, sub-files 15
@@ -21,7 +21,7 @@ Sub-file         fat     length
  SF16_MIL DAT   3000h    613016
  TTN_RUR  DAT   3600h    115440
  SYNM_F16 DAT   3800h     10408
- UDCT_RUR DAT   3A00h    487803
+ UDCT_RUR DAT   3A00h    491087
  DLLIMG   BIN   3E00h   1899720
  DLLIMG   SIG   4E00h        72
  IMGEND   TST   5000h         3
@@ -38,7 +38,7 @@ Map              length s-f  CP    prio  PID   FID  name
  SF16_MIL  ?     613016  1
  TTN_RUR   ?     115440  1
  SYNM_F16  ?      10408  1
- UDCT_RUR  ?     487803  1
+ UDCT_RUR  ?     491087  1
  DLLIMG    ?    1899720  1
  DLLIMG    ?         72  1
  IMGEND    ?          3  1
