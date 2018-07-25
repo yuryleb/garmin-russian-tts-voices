@@ -2406,6 +2406,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Вятский             //'v%jat.sk%jij
 Габаши              //go-.b^.'Si0
 Габдуллы            //go-b.du.'li0
+Габозеро            //'ga.bo-.z%j$.ro-
+Габозерская         //'ga.bo-.z%j$.rsko-.jo-
 Габричевского       //gIb.r%ji.'t&S%jef.sko-.vo-
 Габровская          //'gab.ro-f.sko-.jo-
 Гаванная            //'ga.vo-n.no-.jo-
@@ -2555,6 +2557,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Гиоргоса            //g%ji.'o.rgo-.so-
 Гипермаркет         //g%ji.p%jIr.'mar.k%j$t
 Гипермаркета        //g%ji.p%jIr.'mar.k%j$.to-
+Гирвасская          //'g%ji.rvo-.sko-.jo-
 Гирея               //g%ji.'r%je.jo-
 Гирника             //'g%jir.n%ji.ko-
 Гиршмана            //'g%jirS.m^.no-
@@ -4393,6 +4396,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Кондомская          //'kon.do-m.sko-.jo-
 Кондомский          //'kon.do-m.sk%jij
 Кондомское          //'kon.do-m.sko-.j$
+Кондопога           //'ko.ndo-.po-.go-
 Кондрата            //k^n.'dra.to-
 Кондратия           //k^n.'dra.t%jij.o-
 Кондратьевский      //k^n.'drat%j.j$f.sk%jij
@@ -5486,8 +5490,9 @@ Representation = EDCT_REPR_SZZ_STRING
 Медведовская        //m%jId.'v%je.do-f.sko-.jo-
 Медведовский        //m%jId.'v%je.do-f.sk%jij
 Медвежино           //m%jId.'v%je.Zi0.no-
-Медвежьегорская     //m%j$d.v%j$Z.jI.'gor.sko-.jo-
-Медвежьегорский     //m%j$d.v%j$Z.jI.'gor.sk%jij
+Медвежьегорская     //m%j$d.v%j$Z.jI.'go.rsko-.jo-
+Медвежьегорский     //m%j$d.v%j$Z.jI.'go.rsk%jij
+Медвежьегорское     //m%j$d.v%j$Z.jI.'go.rsko-.j$
 Медвенская          //'m%jed.v%j$n.sko-.jo-
 Медвенский          //'m%jed.v%j$n.sk%jij
 Медвинская          //'m%jed.v%jin.sko-.jo-
@@ -6004,6 +6009,9 @@ Representation = EDCT_REPR_SZZ_STRING
 Нечуй-Левицкого     //n%jI.'t&S%juj_l%jI.'v%jit&s.ko-.vo-
 Нечуя-Левицкого     //n%jI.'t&S%ju.jo-_l%jI.'v%jit&s.ko-.vo-
 Нечью               //n%jIt&S%j.'ju
+Нигозеро            //'n%ji.go-.z%j$.ro-
+Нигозерская         //'n%ji.go-z.rsko-.jo-
+Нигозерский         //'n%ji.go-z.rsk%jij
 Нижне-Логовая       //'2n%jiZ.n%j$.lo-.g^.'va*.jo-
 Нижне-Рославльская  //'2n%jiZ.n%j$_'ro.slo-vl%j.sko-.jo-
 Нижне-Ростинское    //'2n%jiZ.n%j$.'ros%j.t%jin.sko-.j$
