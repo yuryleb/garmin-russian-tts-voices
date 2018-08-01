@@ -44,6 +44,8 @@ charset = utf-8
 # Restore abbreviations in street names in Russian Map Phonetics
 /\/\+'bE_([^_\/\\]+)\.j?[EI]_/ --> "/+b^l%j.'Sa.jE_$1.jE_"
 /\/\+'bE_([^_\/\\]+)j_/ --> "/+b^l%j.'Soj_$1j"
+/\/\+'Em_([^_\/\\]+)\.j?[EI]_/ --> "/+'ma.l\$.jE_$1.jE_"
+/\/\+'Em_([^_\/\\]+)j_/ --> "/+'ma.li0j_$1j"
 
 # Detect Russian transliteration
 /\\tn=address\\([\w \.,\-'"]*) ulitsa / --> "\\tn=address\\_TRA_$1 улица "
