@@ -28,6 +28,7 @@ charset = utf-8
 / \/\+glu\.x\^\.'o\.z%jI\.rsk/ --> " /+glu.x^.o-.'z%jor.sk"
 / \/\+'ko\.m%jI\.ss\$\.r%jI\.\$\.t&sk/ --> " /+ko-.m%ji.so-.r%ji.'at&s.k"
 / \/\+'la\.nsko\-\./ --> " /+l^n.'sko."
+/ \/\+'ru\.t&S%jjI\.fsk/ --> " /+rut&S%j.'jof.sk"
 /_'pE_'Es\/\+ / --> "_p%jIt.r^.'grat&s.ko-j_sto-.r^.'ni0/+ "
 /_'vE_'o\/\+ / --> "_v^.'s%jil%j.jIf.sko-.vo-_'ost.ro-.vo-/+ "
 
