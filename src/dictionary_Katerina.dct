@@ -5750,6 +5750,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Мышкинская          //'mi0S.k%jin.sko-.jo-
 Мышкинский          //'mi0S.k%jin.sk%jij
 Мэрии               //'mE.r%ji.ij
+Мэнуфэкчуринг       //'2mE.nu.'fEk.t&S%ju.rin
 Мюнхаузена          //m%jun.'xa.u.zE.no-
 Мядельская          //'m%ja.d%j$l%j.sko-.jo-
 Мякининская         //m%jI.'k%ji.n%jin.sko-.jo-
@@ -6032,6 +6033,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Никулина            //n%ji.'ku.l%ji.no-
 Никулинская         //n%ji.'ku.l%jin.sko-.jo-
 Никулинский         //n%ji.'ku.l%jin.sk%jij
+Ниссан              //n%ji.'san
 Нищинского          //n%ji.'S%jin.sko-.vo-
 Нлмк                //'2En_'2El_'2Em_ko-
 Нобельский          //'no.b%j$l%j.sk%jij
@@ -7354,6 +7356,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Рейнера             //'r%jej.n%j$.ro-
 Реки                //r%jI.'k%ji
 Рене                //rE.'nE
+Рено                //r%jI.'no
 Рентгена            //r%jIn.'g%je.no-
 Рентгеновская       //r%jIn.'g%je.no-f.sko-.jo-
 Репино              //'r%je.p%ji.no-
@@ -9208,6 +9211,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Хейкконена          //'x%jej.ko-.n%j$.no-
 Хейнова             //'x%jej.no-.vo-
 Хемзовская          //'x%jEm.zo-f.sko-.jo-
+Хендэ               //'x%jon.do
 Херсон              //x%jIr.'son
 Хесина              //'xe.s%ji.no-
 Хехцирский          //x%jIx.'t&si0r.sk%jij
