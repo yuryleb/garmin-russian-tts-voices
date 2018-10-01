@@ -373,7 +373,7 @@ RP_RSET.TXT: #448 #802 #1930
 RULESET.TXT: #140
 
 INPUT : Продолжите движение по \tn=address\ Souterrain Grande Boucle (Voie BCL) \tn=normal\.
-OUTPUT: Продолжите движение по  \tn=address\ туннелю Grande Boucle \tn=normal\.
+OUTPUT: Продолжите движение по  \tn=address\ тоннелю Grande Boucle \tn=normal\.
 RP_RSET.TXT: #449 #802 #1969
 RULESET.TXT: #140
 
@@ -382,7 +382,7 @@ OUTPUT: Продолжите движение по  \tn=address\ заезду T
 RP_RSET.TXT: #433 #802 #1570
 
 INPUT : Продолжите движение по \tn=address\ Tunnel des Tuileries \tn=normal\.
-OUTPUT: Продолжите движение по  \tn=address\ туннелю des Tuileries \tn=normal\.
+OUTPUT: Продолжите движение по  \tn=address\ тоннелю des Tuileries \tn=normal\.
 RP_RSET.TXT: #451 #802 #1969
 
 INPUT : Продолжите движение по \tn=address\ Voie Georges Pompidou \tn=normal\.
@@ -532,7 +532,7 @@ OUTPUT: Продолжите движение по  \tn=address\ переулк
 RP_RSET.TXT: #471 #802 #1702
 
 INPUT : Продолжите движение по \tn=address\ Túnel de Atocha \tn=normal\.
-OUTPUT: Продолжите движение по  \tn=address\ туннелю de Atocha \tn=normal\.
+OUTPUT: Продолжите движение по  \tn=address\ тоннелю de Atocha \tn=normal\.
 RP_RSET.TXT: #472 #802 #1969
 
 INPUT : Продолжите движение по \tn=address\ Autostrada Messina-Catania \tn=normal\.
@@ -556,7 +556,7 @@ OUTPUT: Продолжите движение по  \tn=address\ проспек
 RP_RSET.TXT: #488 #802 #1837
 
 INPUT : Продолжите движение по \tn=address\ Galleria Taormina \tn=normal\.
-OUTPUT: Продолжите движение по  \tn=address\ туннелю Taormina \tn=normal\.
+OUTPUT: Продолжите движение по  \tn=address\ тоннелю Taormina \tn=normal\.
 RP_RSET.TXT: #489 #802 #1969
 
 INPUT : Продолжите движение по \tn=address\ Lungarno Cristoforo Colombo \tn=normal\.

@@ -79,7 +79,7 @@ charset = utf-8
 
 # Change preposition for tunnels and ends (they can't be addressed with "to/on", only "into")
 / на  \\tn=address\\([^,\/\\]*) [Пп]арк / --> " в  \\tn=address\\ $1 парк "
-/ на  \\tn=address\\([^,\/\\]*) [Тт][оу]ннель / --> " в  \\tn=address\\ $1 туннель "
+/ на  \\tn=address\\([^,\/\\]*) [Тт][оу]ннель / --> " в  \\tn=address\\ $1 тоннель "
 / на  \\tn=address\\([^,\/\\]*) [Тт]упик / --> " в  \\tn=address\\ $1 тупик "
 
 # Adapt prepositions depending on next word
