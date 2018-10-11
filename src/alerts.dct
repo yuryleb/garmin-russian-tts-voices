@@ -7,8 +7,8 @@ Representation = EDCT_REPR_SZZ_STRING
 
 [Data]
 Аварийно-опасный    //^.v^.'r%jij.no-_^.'pas.ni0j
-АвтоУраган          //^f.to-.u.r^.'gan
 Автоураган          //^f.to-.u.r^.'gan
+АвтоУраган          //^f.to-.u.r^.'gan
 антивандальном      //^n%j.t%ji.v^n.'dal%j.no-m
 антивандальный      //^n%j.t%ji.v^n.'dal%j.ni0j
 безопасности        //b%j$.z^.'pas.no-s%j.t%jij
@@ -16,13 +16,14 @@ Representation = EDCT_REPR_SZZ_STRING
 выделенка           //'vi0.d%j$.l%j$n.ko-
 грунтовой           //grun.'to.vo-j
 грунтовую           //grun.'to.vu.ju
-Дети                //'d%je.t%jij
 дети                //'d%je.t%jij
+Дети                //'d%je.t%jij
 дороги              //d^.'ro.g%jij
 дпс                 //dE.pi0.'Es
+запрещена           //zo-p.r%j$.S%jIn.'a
 знаком              //'zna.ko-m
-Искусственная       //is.'kust.v%j$.no-.jo-
 искусственная       //is.'kust.v%j$.no-.jo-
+Искусственная       //is.'kust.v%j$.no-.jo-
 линии               //'l%ji.n%ji.jI
 мостах              //m^s.'tax
 муляж               //'mu.'l%jaS
@@ -40,8 +41,8 @@ Representation = EDCT_REPR_SZZ_STRING
 сплошная            //spl^S.'na.I.jo-
 спуски              //'spus.k%jij
 Стрелка-СТ          //'str%jel.ko-_Es.'tE
-тоннеле             //tu.'nE.l%j$
-тоннеля             //tu.'nEl%j.Io-
+тоннеле             //t^.'nE.l%j$
+тоннеля             //t^.'nE.l%jo-
 туннеле             //tu.'nE.l%j$
 туннеля             //tu.'nEl%j.Io-
 ТэТэКа              //tE.tE.'ka
