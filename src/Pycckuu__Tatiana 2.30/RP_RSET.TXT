@@ -426,6 +426,7 @@ charset = utf-8
 /\\tn=address\\ [Aa]venue / --> "\\tn=address\\ проспект "
 /\\tn=address\\ [Bb]arreau / --> "\\tn=address\\ путепровод "
 /\\tn=address\\ [Bb]oulevard / --> "\\tn=address\\ бульвар "
+/\\tn=address\\ [Cc]hauss[ée]e / --> "\\tn=address\\ шоссе "
 /\\tn=address\\ [Cc]hemin / --> "\\tn=address\\ проезд "
 /\\tn=address\\ [Pp]etit[\- ][Cc]hemin / --> "\\tn=address\\ малый проезд "
 /\\tn=address\\ [Cc]ours? / --> "\\tn=address\\ площадь "
