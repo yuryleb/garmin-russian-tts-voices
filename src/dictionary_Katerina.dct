@@ -5799,8 +5799,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Мытнинский          //'mi0t.n%jin.sk%jij
 Мышкинская          //'mi0S.k%jin.sko-.jo-
 Мышкинский          //'mi0S.k%jin.sk%jij
-Мэрии               //'mE.r%ji.ij
 Мэнуфэкчуринг       //'2mE.nu.'fEk.t&S%ju.rin
+Мэрии               //'mE.r%ji.ij
 Мюнхаузена          //m%jun.'xa.u.zE.no-
 Мядельская          //'m%ja.d%j$l%j.sko-.jo-
 Мякининская         //m%jI.'k%ji.n%jin.sko-.jo-
@@ -7817,6 +7817,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Священномучеников   //sv%jo-.S%j$.n^.'mu.t&S%j$.n%ji.ko-f
 Севанская           //s%jI.'van.sko-.jo-
 Севастополя         //s%j$.v^.'sto.po-l%j.o-
+Север-Синтез        //s%j$.v%jIr.'s%jin.tEz
+Севергаз            //s%j$.v%jIr.'gaz
 Северо-Восточная    //'2s%je.v%j$.ro-_v^s.'tot&S%j.no-.jo-
 Северо-Восточный    //'2s%je.v%j$.ro-_v^s.'tot&S%j.ni0j
 Северодвинск        //s%j$.v%j$.r^.'dv%jinsk
@@ -7824,6 +7826,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Североморцев        //s%j$.v%j$.r^.'mor.t&sEf
 Северопарковая      //s%j$.v%j$.r^.'par.ko-.vo-.jo-
 Северополянская     //s%j$.v%j$.ro-.p^.'l%jan.sko-.jo-
+Северсинтез         //s%j$.v%jIr.'s%jin.tEz
 Севрюгина           //s%jIv.'r%ju.g%ji.no-
 Севская             //'s%je.fsko-.jo-
 Севский             //'s%je.fsk%jij
@@ -9934,6 +9937,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Энергорайон         //E.'2nEr.go-.r^j.'on
 Энергостроителей    //E.'2nEr.go-.str^.'i.t%j$.l%j$j
 Энколово            //'En.ko-.lo-.vo-
+Энтиком             //En.t%ji.'kom
+Энтиком-Инвест      //En.t%ji.'kom_in.'v%jest
 Эпроновская         //Ep.'ro.no-f.sko-.jo-
 Эрлеровский         //Er.'l%je.ro-f.sk%jij
 Эскадронный         //Es.k^d.'ron.ni0j
