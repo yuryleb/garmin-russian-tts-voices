@@ -1020,6 +1020,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Авсимовичи          //^f.'s%ji.mo-.v%ji.t&S%jij
 Автобазовая         //^f.to-.'ba.zo-.vo-.jo-
 Автобазовская       //^f.t^.'ba.zo-f.sko-.jo-
+Автобытгаз          //^f.to-.bi0t.'gas
 Автово              //'af.to-.vo-
 Автовская           //'af.to-f.sko-.jo-
 Автодок             //^f.t^.'2dok
@@ -2231,6 +2232,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Владимировки        //vl^.'d%ji.m%ji.ro-f.k%jI.j
 Владимировская      //vl^.'d%ji.m%ji.ro-f.sko-.jo-
 Владимировский      //vl^.'d%ji.m%ji.ro-f.sk%jij
+Владнефтегаз        //'2vlad.n%j$f%j.t%jI.'gas
 Власенко            //'vla.s%j$n.ko-
 Власихинская        //vl^.'s%ji.x%jin.sko-.jo-
 Власихинский        //vl^.'s%ji.x%jin.sk%jij
@@ -3792,6 +3794,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Интернациональная   //in.tEr.no-.t&si0.^.'nal%j.no-.jo-
 Интернациональный   //in.tEr.no-.t&si0.^.'nal%j.ni0j
 Интеройл            //'in.tEr.'2ojl
+Интрансгаз          //in.tr^ns.'gas
 Инюшенская          //i.'n%ju.SEn.sko-.jo-
 Инюшенский          //i.'n%ju.SEn.sk%jij
 Иня                 //'2i.'n%ja
@@ -5311,6 +5314,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Маклакова           //mo-k.l^.'ko.vo-
 Маковичи            //'ma.ko-.v%ji.t&S%jij
 Макошина            //m^.'ko.Si0.no-
+Макпетрол           //mo-k.p%jIt.'rol
 Максидом            //m^k.s%ji.'dom
 Максименко          //m^k.'s%ji.m%j$n.ko-
 Максимильяновская   //mo-k.s%ji.m%jil%j.'ja.no-f.sko-.jo-
@@ -6009,6 +6013,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Нефтепроводный      //n%j$f.t%j$.pr^.'vod.ni0j
 Нефтеснаб           //n%j$.ft%jI.'snab
 Нефтехимовская      //n%j$f.t%jI.'x%ji.mo-f.sko-.jo-
+Нефтика             //'n%jef%j.t%ji.ko-
 Нефтьмагистраль     //n%j$ft%j.mo-.g%ji.'stral%j
 Нефтяная            //n%j$f.t%jI.'na.jI.jo-
 Нехаева             //n%jI.'xa.j$.vo-
@@ -6094,6 +6099,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Нищинского          //n%ji.'S%jin.sko-.vo-
 Нлмк                //'2En_'2El_'2Em_ko-
 Нобельский          //'no.b%j$l%j.sk%jij
+Новатэк             //no-.v^.'tEk
 Новая               //'no.vo-.jo-
 Новгороднефтепродукт //'nov.go-.ro-d_n%j$f.t%j$.pr^.'dukt
 Новикова            //'no.v%ji.ko-.vo-
@@ -6600,6 +6606,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Осиповского         //'o.s%ji.po-f.sko-.vo-
 Осканова            //^s.'ka.no-.vo-
 Оскол               //^s.'kol
+Осколнефтеснаб      //^s.'kol.n%j$f%j.t%jI.'2snap
 Оскольская          //^s.'kol%j.sko-.jo-
 Оскольский          //^s.'kol%j.sk%jij
 Ослябинский         //^s.'l%ja.b%jin.sk%jij
@@ -6836,6 +6843,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Петрозаводская      //p%j$.tro-.z^.'vot&s.ko-.jo-
 Петрозаводский      //p%j$.tro-.z^.'vot&s.k%jij
 Петрозаводское      //p%j$.tro-.z^.'vot&s.ko-.j$
+Петройл             //p%jIt.'rojl
 Петропавловская     //p%j$t.r^.'pav.lo-f.sko-.jo-
 Петропавловский     //p%j$t.r^.'pav.lo-f.sk%jij
 Петруся             //p%j$t.'ru.s%ja
