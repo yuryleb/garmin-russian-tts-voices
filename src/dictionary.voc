@@ -914,6 +914,7 @@ Viada               //'v%ji.^.do-
 балластный          //b^.'last.ni0j
 балмата             //b^l.'ma.to-
 балмочных           //'bal.mo-t&S%j.ni0x
+балонина            //b^.'lo.n%ji.no-
 балтачевская        //b^l.'ta.t&S%j$f.sko-.jo-
 балтачевской        //b^l.'ta.t&S%j$f.sko-j
 балтачевскую        //b^l.'ta.t&S%j$f.sku.ju
@@ -4343,6 +4344,9 @@ Viada               //'v%ji.^.do-
 джанкойском         //d&Z^n.'koj.sko-m
 джанкойскому        //d&Z^n.'koj.sko-.mu
 джанкойскую         //dZ^n.'koj.sku.ju
+джаныбековская      //dZo-.ni0.'b%je.ko-f.sko-.jo-
+джаныбековской      //dZo-.ni0.'b%je.ko-f.sko-j
+джаныбековскую      //dZo-.ni0.'b%je.ko-f.sku.ju
 джаудата            //'2d&Za.u.'da.to-
 джерело             //dZE.r%jI.'lo*.
 джерельная          //d&ZE.'r%jel%j.no-.jo-
@@ -7049,6 +7053,9 @@ Viada               //'v%ji.^.do-
 кирпичнозаводская   //k%jir.p%jit&S%j.no-.zo-.v^t.'ska.jo-
 кирпичнозаводской   //k%jir.p%jit&S%j.no-.zo-.v^t.'skoj
 кирпичнозаводскую   //k%jir.p%jit&S%j.no-.zo-.v^t.'sku.ju
+кирсановская        //k%jir.'sa.no-f.sko-.jo-
+кирсановской        //k%jir.'sa.no-f.sko-j
+кирсановскую        //k%jir.'sa.no-f.sku.ju
 кирчанова           //k%jir.'t&S%ja.no-.vo-
 киселевичская       //k%ji.s%jI.'l%je.v%jit&S%j.sko-.jo-
 киселевичский       //k%ji.s%jI.'l%je.v%jit&S%j.sk%jij
@@ -10298,6 +10305,9 @@ Viada               //'v%ji.^.do-
 мокрянском          //m^k.'r%jan.sko-m
 мокрянскому         //m^k.'r%jan.sko-.mu
 мокрянскую          //m^k.'r%jan.sku.ju
+мокшанская          //m^k.'San.sko-.jo-
+мокшанской          //m^k.'San.sko-j
+мокшанскую          //m^k.'San.sku.ju
 молвинский          //'mol.v%jin.sk%jij
 молвинского         //'mol.v%jin.sko-.vo-
 молвинском          //'mol.v%jin.sko-m
@@ -14286,6 +14296,13 @@ Viada               //'v%ji.^.do-
 работкинской        //r^.'bot.k%jin.sko-j
 работкинскую        //r^.'bot.k%jin.sku.ju
 работы              //r^.'bo.ti0j
+рабоче-крестьянская //r^.'2bo.t&S%j$_kr%jIs%jt%j.'jan.sko-.jo-
+рабоче-крестьянский //r^.'2bo.t&S%j$_kr%jIs%jt%j.'jan.sk%jij
+рабоче-крестьянского //r^.'2bo.t&S%j$_kr%jIs%jt%j.'jan.sko-.vo-
+рабоче-крестьянской //r^.'2bo.t&S%j$_kr%jIs%jt%j.'jan.sko-j
+рабоче-крестьянском //r^.'2bo.t&S%j$_kr%jIs%jt%j.'jan.sko-m
+рабоче-крестьянскому //r^.'2bo.t&S%j$_kr%jIs%jt%j.'jan.sko-.mu
+рабоче-крестьянскую //r^.'2bo.t&S%j$_kr%jIs%jt%j.'jan.sku.ju
 равноапостольного   //ro-v.no-.^.'pos.to-l%j.no-.vo-
 равская             //'raf.sko-.jo-
 равской             //'raf.sko-j
@@ -15339,6 +15356,13 @@ Viada               //'v%ji.^.do-
 свищевая            //sv%ji.'S%jo.vo-.jo-
 свищевой            //sv%ji.'S%jo.vo-j
 свищевую            //sv%ji.'S%jo*.vu.ju
+свияжская           //sv%ji.'jaS.sko-.jo-
+свияжский           //sv%ji.'jaS.sk%jij
+свияжского          //sv%ji.'jaS.sko-.vo-
+свияжской           //sv%ji.'jaS.sko-j
+свияжском           //sv%ji.'jaS.sko-m
+свияжскому          //sv%ji.'jaS.sko-.mu
+свияжскую           //sv%ji.'jaS.sku.ju
 свиязева            //sv%ji.'ja.z%j$.vo-
 свободинская        //sv^.'bo.d%jIn.sko-.jo-
 свободинской        //sv^.'bo.d%jIn.sko-j
@@ -15823,6 +15847,7 @@ Viada               //'v%ji.^.do-
 скосная             //'skos.no-.jo-
 скосной             //'skos.no-j
 скосную             //'skos.nu.ju
+скосырева           //'sko.si0.r%j$.vo-
 скосырева           //'sko.si0.r%j$.vo-
 скочинского         //sk^.'t&S%jin.sko-.vo-
 скочня              //'skot&S%j.n%j.jo-

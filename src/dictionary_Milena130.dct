@@ -1402,6 +1402,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Балластный          //b^.'last.ni0j
 Балмата             //b^l.'ma.to-
 Балмочных           //'bal.mo-t&S%j.ni0x
+Балонина            //b^.'lo.n%ji.no-
 Балтачевская        //b^l.'ta.t&S%j$f.sko-.jo-
 Балтия              //'bal.t%ji.jo-
 Балтовская          //'bal.to-f.sko-.jo-
@@ -2981,6 +2982,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Джанкойского        //d&Z^n.'koj.sko-.vo-
 Джанкойском         //d&Z^n.'koj.sko-m
 Джанкойскому        //d&Z^n.'koj.sko-.mu
+Джаныбековская      //dZo-.ni0.'b%je.ko-f.sko-.jo-
 Джаудата            //'2d&Za.u.'da.to-
 Джерело             //dZE.r%jI.'lo*.
 Джерельная          //d&ZE.'r%jel%j.no-.jo-
@@ -4193,6 +4195,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Кировское           //'k%ji.ro-f.sko-.j$
 Кирочная            //'k%ji.ro-t&S%j.no-.jo-
 Кирпичнозаводская   //k%jir.p%jit&S%j.no-.zo-.v^t.'ska.jo-
+Кирсановская        //k%jir.'sa.no-f.sko-.jo-
 Кирчанова           //k%jir.'t&S%ja.no-.vo-
 Киселевичская       //k%ji.s%jI.'l%je.v%jit&S%j.sko-.jo-
 Киселевичский       //k%ji.s%jI.'l%je.v%jit&S%j.sk%jij
@@ -5679,6 +5682,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Мокрянская          //m^k.'r%jan.sko-.jo-
 Мокрянские          //m^k.'r%jan.sk%ji.j$
 Мокрянский          //m^k.'r%jan.sk%jij
+Мокшанская          //m^k.'San.sko-.jo-
 Молвинский          //'mol.v%jin.sk%jij
 Молжаниновская      //mo-l.Z^.'n%ji.no-f.sko-.jo-
 Молзинская          //'mol.z%jin.sko-.jo-
@@ -7326,6 +7330,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Рабина              //'ra.b%ji.no-
 Рабиндраната        //ro-.b%jin.dr^.'na.to-
 Работкинская        //r^.'bot.k%jin.sko-.jo-
+Рабоче-Крестьянская //r^.'2bo.t&S%j$_kr%jIs%jt%j.'jan.sko-.jo-
+Рабоче-Крестьянский //r^.'2bo.t&S%j$_kr%jIs%jt%j.'jan.sk%jij
 Равноапостольного   //ro-v.no-.^.'pos.to-l%j.no-.vo-
 Равская             //'raf.sko-.jo-
 Радиаторская        //ro-.d%ji.'a.to-r.sko-.jo-
@@ -7806,6 +7812,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Свислочский         //'sv%jis.lo-t&S%j.sk%jij
 Свиханово           //sv%ji.'xa.no-.vo-
 Свищевая            //sv%ji.'S%jo.vo-.jo-
+Свияжская           //sv%ji.'jaS.sko-.jo-
+Свияжский           //sv%ji.'jaS.sk%jij
 Свиязева            //sv%ji.'ja.z%j$.vo-
 Свободинская        //sv^.'bo.d%jIn.sko-.jo-
 Своробина           //sv^.'ro.b%ji.no-
@@ -8030,6 +8038,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Скоробогатько       //sko-.ro-.b^.'gat%j.ko-
 Скорятина           //sk^.'r%ja.t%ji.no-
 Скосная             //'skos.no-.jo-
+Скосырева           //'sko.si0.r%j$.vo-
 Скосырева           //'sko.si0.r%j$.vo-
 Скочинского         //sk^.'t&S%jin.sko-.vo-
 Скочня              //'skot&S%j.n%j.jo-
