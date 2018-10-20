@@ -3506,6 +3506,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Залуцкого           //z^.'lut&s.ko-.vo-
 Залютинская         //z^.'l%ju.t%jIn.sko-.jo-
 Залютинский         //z^.'l%ju.t%jIn.sk%jij
+Заманиловская       //zo-.m^.'n%ji.lo-f.sko-.jo-
 Заматинский         //z^.'ma.t%jin.sk%jij
 Замка               //'zam.ko-
 Замковая            //'zam.ko-.vo-.jo-
@@ -3863,6 +3864,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Йолдызлы            //jo-l.di0z.'li0
 К-Раута             //ko-_'ra.u.to-
 К-Руока             //ko-_ru.'o.ko-
+Кабаловская         //k^.'ba.lo-f.sko-.jo-
 Кабардино-Балкарская //ko-.b^r.'d%ji.no-_b^l.'ka:r.sko-.jo-
 Каберова-Власьевская //k^.'b%je.ro-.vo-_'vlas%j.j$f.sko-.jo-
 Кабушкина           //'ka.buS.k%ji.no-
@@ -8729,6 +8731,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Тихковицы           //'t%jix.ko-.v%ji.t&si0
 Тихомировская       //t%ji.x^.'m%ji.ro-f.sko-.jo-
 Тихона              //'t%ji.xo-.no-
+Тихоокеанская       //'2t%ji.xo-_^.k%jI.'an.sko-.jo-
+Тихоокеанский       //'2t%ji.xo-_^.k%jI.'an.sk%jij
 Тихорецк            //t%ji.x^.'r%jet&sk
 Тихореченская       //t%ji.x^.'r%je.t&S%j$n.sko-.jo-
 Тихослободская      //t%ji.xo-.slo-.b^t&s.'ka.jo-
