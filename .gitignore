@@ -1,6 +1,7 @@
 obj
 src/vocalizer_0.txt
 test/RulesetChecker.pdb
+*.bak
 *.lnk
 *.suo
 *.user
