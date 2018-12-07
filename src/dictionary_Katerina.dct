@@ -2531,6 +2531,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Гацева              //'ga.t&sE.vo-
 Гашека              //'ga.SE.ko-
 Гашкевича           //g^S.'k%je.v%ji.t&S%jo-
+Гвардии             //'gvar.d%jI.jIj
 Гвоздева            //'gvoz%j.d%j$.vo-
 Гвозденский         //'gvoz%j.d%j$n.sk%jij
 Гвоздиковая         //gv^z%j.'d%ji.ko-.vo-.jo-
@@ -2766,6 +2767,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Грибакиных          //gr%ji.'ba.k%ji.ni0x
 Грибалевой          //gr%ji.b^.'l%jo.vo-j
 Грибанино           //gr%ji.'ba.n%ji.no-
+Грибанова           //gr%ji.'ba.no-.vo-
 Грибова             //'gr%ji.bo-.vo-
 Грибовая            //gr%ji.'bo.vo-.jo-
 Грибовец            //gr%ji.b^.'v%jet&s
@@ -3002,6 +3004,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Джанкойском         //d&Z^n.'koj.sko-m
 Джанкойскому        //d&Z^n.'koj.sko-.mu
 Джаныбековская      //dZo-.ni0.'b%je.ko-f.sko-.jo-
+Джапаридзе          //dZo-.p^.'r%jid.zE.I
 Джаудата            //'2d&Za.u.'da.to-
 Джерело             //dZE.r%jI.'lo.
 Джерельная          //d&ZE.'r%jel%j.no-.jo-
@@ -4720,6 +4723,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Кремок              //kr%jI.'mok
 Креницы             //'kr%je.n%ji.t&si0
 Кренкеля            //'kr%jen.k%j$.l%jo-
+Крепильная          //kr%jI.'p%jil%j.no-.jo-
 Крестовки           //kr%jIs.'tof.k%jIj
 Крестовоздвиженская //'2kr%jes.to-.v^z.'dv%ji.ZEn.sko-.jo-
 Крестовоздвиженский //'2kr%jes.to-.v^z.'dv%ji.ZEn.sk%jij
@@ -8158,6 +8162,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Солидарности        //so-.l%ji.'dar.no-s.t%jij
 Солмановский        //'sol.mo-.no-f.sk%jij
 Солмановское        //'sol.mo-.no-f.sko-.j$
+Солнечникова        //'so.ln%j$t&S%j.n%ji.ko-.vo-
 Солнечногорск       //so-l.n%j$t&S%j.n^.'gorsk
 Солнечногорская     //so-l.n%j$t&S%j.n^.'gor.sko-.jo-
 Солнечногорский     //so-l.n%j$t&S%j.n^.'gor.sk%jij
@@ -9534,6 +9539,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Челябэнерго         //t&S%jI.'2l%jab_E.'nEr.go-
 Чемальская          //t&S%jI.'mal%j.sko-.jo-
 Чемальский          //t&S%jI.'mal%j.sk%jij
+Чембарова           //t&S%jIm.'ba.ro-.vo-
 Чемская             //t&S%jIm.'ska.jo-
 Чемской             //t&S%jIm.'skoj
 Ченковская          //t&S%jIn.'kof.sko-.jo-
@@ -10199,6 +10205,7 @@ Representation = EDCT_REPR_SZZ_STRING
 автодорогу          //^f.to-.d^.'ro.gu
 аллея               //^.'l%je.jo-
 бульвар             //bul%j.'var
+гвардии             //'gvar.d%jI.jIj
 дорога              //d^.'ro.go-
 дорогу              //d^.'ro.gu
 линии               //'l%ji.n%jI.jI
