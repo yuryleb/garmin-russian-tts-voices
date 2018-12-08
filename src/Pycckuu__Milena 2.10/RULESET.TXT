@@ -89,10 +89,6 @@ charset = utf-8
 / \/\+i0\.ntu\.z%jI\.'a\.st\$f\/\+ / --> " Энтузиастов "
 / \/\+'ka_'pogr_p%jI\.r%jI\.'u\.l\$g_/ --> " к погранпереходу /+"
 
-# Restore prepositions from Russian Map Phonetics
-/дорога \/\+'vE_/ --> "дорога в /+"
-/дорога \/\+'ka_/ --> "дорога к /+"
-
 # Change preposition for tunnels and ends (they can't be addressed with "to/on", only "into")
 / на  \\tn=address\\([^,\/\\]*) [Пп]арк / --> " в  \\tn=address\\ $1 парк "
 / на  \\tn=address\\([^,\/\\]*) [Тт][оу]ннель / --> " в  \\tn=address\\ $1 тоннель "
