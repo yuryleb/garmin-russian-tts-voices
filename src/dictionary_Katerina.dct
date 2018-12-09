@@ -1171,7 +1171,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Алымов              //^.'li0.mo-f
 Алычевая            //^.li0.'t&S%jo.vo-.jo-
 Алычевый            //^.li0.'t&S%jo.vi0j
-Аль-Фараби          //^l%j_fo-.r^.'b%ji
+Аль-Фараби          //^l%j_fo-.r^.'b%jij
 Альбовский          //'al%j.bo-f.sk%jij
 Альвинского         //^l%j.'v%jin.sko-.vo-
 Альенде             //'2al%j.'jen.dE
@@ -1272,7 +1272,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Аркылы              //^r.ki0.'li0
 Арман               //^r.'man
 Арманд              //^r.'mant
-Армии               //'ar.m%jI.jI
+Армии               //'ar.m%ji.jij
 Армия               //'ar.m%jI.^
 Арнаутовская        //^r.n^.'u.to-f.sko-.jo-
 Арнаутовский        //^r.n^.'u.to-f.sk%jij
@@ -1485,7 +1485,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Батайский           //b^.'taj.sk%jij
 Баталова            //b^.'ta.lo-.vo-
 Батальона           //bo-.to-l%j.'jo.no-
-Батареи             //bo-.t^.'r%je.jij
 Батенчука           //bo-.t%jIn%j.t&S%ju.'ka
 Батецкая            //b^.'t%jet&s.ko-.jo-
 Батецкий            //b^.'t%jet&s.k%jij
@@ -1525,7 +1524,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Башиловская         //b^.'Si0.lo-f.sko-.jo-
 Башлаевский         //b^S.'la.j$f.sk%jij
 Башнефть            //b^S.'n%jeft%j
-Башни               //'baS.n%jij
 Баштанная           //b^S.'tan.no-.jo-
 Бебеля              //'b%je.b%j$.l%jo-
 Бегичева            //'b%je.g%ji.t&S%j$.vo-
@@ -1586,7 +1584,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Белякова            //b%j$.l%jI.'ko.vo-
 Белянского          //b%jI.'l%jan.sko-.vo-
 Беляцкого           //b%jI.'l%jat&s.ko-.vo-
-Бенякони            //b%j$.n%jI.'ko.n%jij
 Беранже             //b%jI.r^nZ.'E
 Бергавинова         //b%jIr.'ga.v%ji.no-.vo-
 Берггольц           //b%jIr.'gol%jt&s
@@ -1617,7 +1614,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Берестовая          //'b%je.r%j$s.to-.vo-.jo-
 Берестовская        //'b%je.r%jIs.to-f.sko-.jo-
 Берестовский        //'b%je.r%jIs.to-f.sk%jij
-Беретти             //bE.'r%jet_t%jij
+Беретти             //b%j$.'rE.t%jij
 Берзарина           //b%jIr.'za.r%ji.no-
 Беринга             //'b%je.r%jin.go-
 Берингов            //'b%je.r%jin.go-f
@@ -2027,7 +2024,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Ванникова           //'va.n%ji.ko-.vo-
 Вантовая            //'van.to-.vo-.jo-
 Вантовый            //'van.to-.vi0j
-Ванцетти            //v^.'nt&sE.t%jij
 Ваньковича          //v^n%j.'ko.v%ji.t&S%jo-
 Варварка            //v^r.'var.ko-
 Варваровка          //v^r.'va.ro-f.ko-
@@ -2036,7 +2032,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Варварская          //v^r.'var.sko-.jo-
 Варварские          //v^r.'var.sk%ji.jI.j$
 Варганова           //v^r.'ga.no-.vo-
-Варги               //'var.g%jij
 Варейкиса           //v^.'r%jej.k%ji.so-
 Варениковская       //v^.'r%je.n%jI.ko-f.sko-.jo-
 Варениковский       //v^.'r%je.n%jI.ko-f.sk%jij
@@ -2393,11 +2388,9 @@ Representation = EDCT_REPR_SZZ_STRING
 Выдубицкая          //'vi0.du.b%jIt&s.ko-.jo-
 Выездная            //vi0j.Iz.'na.jo-
 Выездной            //vi0j.Iz.'noj
-Выемки              //'vi0.j$m%j.k%jij
 Выжары              //vi0.Z^.'ri0
 Выксунская          //'vi0k.sun.sko-.jo-
 Вылетная            //'vi0.l%jIt.no-.jo-
-Вылки               //'vi0l.k%jij
 Выпасовая           //'vi0.p^.so-.vo-.jo-
 Выползов            //'vi0.po-l.zo-f
 Выползова           //'vi0.po-l.zo-.vo-
@@ -2427,7 +2420,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Вязынская           //'v%ja.zi0n.sko-.jo-
 Вязынский           //'v%ja.zi0n.sk%jij
 Вязье               //'v%jaz%j.jI.j$
-Вялки               //'v%jal.k%ji
+Вялки               //'v%jal.k%jij
 Вялковская          //'v%jal.ko-f.sko-.jo-
 Вялковский          //'v%jal.ko-f.sk%jij
 Вяткина             //'v%jat.k%ji.no-
@@ -2492,8 +2485,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Галушкинская        //g^.'luS.k%jIn.sko-.jo-
 Галущака            //go-.lu.S%jI.'ka
 Галыновка           //g^.'li0.no-f.ko-
-Гамалеи             //go-.m^.'l%je.jij
-Гамалии             //go-.m^.'l%ji.Ij
 Гамарника           //g^.'mar.n%ji.ko-
 Гамова              //'ga.mo-.vo-
 Гамовская           //g^.'mof.sko-.jo-
@@ -2531,7 +2522,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Гацева              //'ga.t&sE.vo-
 Гашека              //'ga.SE.ko-
 Гашкевича           //g^S.'k%je.v%ji.t&S%jo-
-Гвардии             //'gvar.d%jI.jIj
 Гвоздева            //'gvoz%j.d%j$.vo-
 Гвозденский         //'gvoz%j.d%j$n.sk%jij
 Гвоздиковая         //gv^z%j.'d%ji.ko-.vo-.jo-
@@ -2605,7 +2595,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Глебычево           //'gl%je.bi0.t&S%j$.vo-
 Гледенская          //'gl%je.d%j$n.sko-.jo-
 Глинищевский        //gl%ji.'n%ji.S%j$f.sk%jij
-Глинки              //'gl%jin.k%jij
 Глинкина            //'gl%jin.k%ji.no-
 Глинянский          //'gl%ji.n%jo-n.sk%jij
 Глиссерная          //'gl%ji.s%j$r.no-.jo-
@@ -2692,7 +2681,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Горевская           //'go.r%j$f.sko-.jo-
 Горевский           //'go.r%j$f.sk%jij
 Горелика            //g^.'r%je.l%ji.ko-
-Горельники          //g^.'r%jel%j.n%ji.k%ji
+Горельники          //g^.'r%jel%j.n%ji.k%jij
 Гореничи            //g^.'r%je.n%ji.t&S%jij
 Горенская           //'go.r%j$n.sko-.jo-
 Горенский           //'go.r%j$n.sk%jij
@@ -2918,7 +2907,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Дворовый            //dv^.'ro.vi0j
 Дворок              //dv^.'rok
 Дворчика            //'dvor.t&S%ji.ko-
-Дворяниновичи       //dvo-.r%jI.'n%ji.no-.v%ji.t&S%ji
+Дворяниновичи       //dvo-.r%jI.'n%ji.no-.v%ji.t&S%jij
 Двуречная           //dvu.'r%jet&S%j.no-.jo-
 Де                  //'dE
 Дебальцевская       //d%jI.'bal%j.t&sEf.sko-.jo-
@@ -2967,7 +2956,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Дергаевская         //d%jIr.'ga.jIf.sko-.jo-
 Дергачевская        //d%j$r.g^.'t&S%jof.sko-.jo-
 Дергачевский        //d%j$r.g^.'t&S%jof.sk%jij
-Деревни             //d%jI.'r%jev.n%jij
 Деревцы             //d%j$.r%jIf.'t&si0
 Деревяницкая        //d%j$.r%j$.v%jI.'n%jit&s.ko-.jo-
 Деревяницкий        //d%j$.r%j$.v%jI.'n%jit&s.k%jij
@@ -3025,7 +3013,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Дибровная           //d%ji.'brov.no-.jo-
 Дибуны              //d%ji.bu.'ni0
 Дивенская           //'d%ji.v%j$n.sko-.j^
-Дивизии             //d%ji.'v%ji.z%ji.jij
+Дивизии             //d%ji.'v%ji.z%jij_Ij
 Дивочкина           //'d%ji.vo-t&S%j.k%ji.no-
 Дивьинская          //'d%ji.v%jj$n.sko-.jo-
 Дидро               //d%jI.'dro.
@@ -3273,8 +3261,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Евскина             //'jef.sk%ji.no-
 Евского             //'jef.sko-.vo-
 Евтеева             //jIf.'t%je.j$.vo-
-Евфросинии          //j$f.r^.'s%ji.n%ji.i
-Евфросиньи          //j$f.r^.'s%jin%j.jIj
+Евфросиньи          //j$f.r^.'s%jin%j.Ij
 Егерсег             //j$.g%jIr.'s%jek
 Егерская            //'jegr%j.sko-.jo-
 Егоровой            //jI.'go.ro-.vo-j
@@ -3311,7 +3298,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Елоховая            //jI.'lo.xo-.vo-.jo-
 Елоховская          //jI.'lo.xo-f.sko-.jo-
 Елоховский          //jI.'lo.xo-f.sk%jij
-Елочки              //'je.lo-.t&S%jk%ji
+Елочки              //'je.lo-.t&S%jk%jij
 Елховская           //jIl.'xof.sko-.jo-
 Елшанская           //jIl.'San.sko-.jo-
 Елшанский           //jIl.'San.sk%jij
@@ -3555,7 +3542,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Западинская         //'za.p^.d%jIn.sko-.jo-
 Запарина            //z^.'pa.r%ji.no-
 Заполье             //z^.'pol%j.je
-Запольки            //z^.'pol%j.k%jij
 Запорожсталевская   //z^.po-.ro-S.'sta.l%j$f.sko-.jo-
 Запрудино           //z^.'pru.d%ji.no-
 Запрудная           //z^.'prud.no-.jo-
@@ -3566,7 +3552,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Заречная            //z^.'r%jet&S%j.no-.jo-
 Заречно-Набережная  //z^.'r%jet&S%j.n^_'na.b%j$.r%j$Z.no-.jo-
 Заречье             //z^.'r%jet&S%j.je
-Зари                //z^.'r%ji
 Заринская           //z^.'r%jin.sko-.jo-
 Зарничная           //z^r.'n%jit&S%j.no-.jo-
 Заройная            //z^.'roj.no-.jo-
@@ -3801,7 +3786,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Ильюшина            //il%j.'ju.Si0.no-
 Ильянская           //il%j.'jan.sko-.jo-
 Иманская            //i.'man.sko-.jo-
-Имени               //'i.m%j$.n%jij
 Иминлек             //i.m%jin.'l%jek
 Имянле              //i.m%jIn.'l%je
 Инан                //i.'nan
@@ -3982,7 +3966,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Каменец             //'ka.m%j$.n%j$t&s
 Каменец-Подольская  //ko-.m%jI.'n%jet&s_p^.'dol%j.sko-.jo-
 Каменец-Подольский  //ko-.m%jI.'n%jet&s_p^.'dol%j.sk%jij
-Каменичи            //'ka.m%j$.n%ji.t&S%jij
+Каменичи            //'ka.m%je.n%ji.t&S%jij
 Каменки             //'ka.m%j$n.k%jij
 Каменнослободский   //ko-.m%j$.no-.sl^.'bot&s.k%jij
 Каменская           //'ka.m%j$n.sko-.jo-
@@ -3990,7 +3974,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Каменско-Днепровская //'ka.m%j$n.sko-_dn%jI.'prof.sko-.jo-
 Каменщики           //'ka.m%j$n%j.S%ji.k%jij
 Каменщикова         //'ka.m%j$n%j.S%ji.ko-.vo-
-Камень-на-Оби       //'ka.m%j$n%j_'2na_^.'b%ji
 Камерово            //'ka.m%j$.ro-.vo-
 Камероновская       //ko-.m%jI.'ro.no-f.sko-.jo-
 Камо                //k^.'mo.
@@ -4239,7 +4222,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Кичигинская         //k%ji.'t&S%ji.g%jin.sko-.jo-
 Кияновский          //k%ji.'ja.no-f.sk%jij
 Клавдиевская        //'klav.d%ji.j$f.sko-.jo-
-Клавдии             //'klav.d%jI.Ij
 Кладбище            //'klad.b%ji.S%jI.e
 Клары               //'kla.ri0.
 Клеманская          //kl%jI.'man.sko-.jo-
@@ -4284,7 +4266,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Книповича           //kn%ji.'po.v%ji.t&S%jo-
 Кнорина             //'kno.r%ji.no-
 Кныши               //kni0S.'i0j
-Княгини             //kn%jI.'g%ji.n%jij
 Княжекозловский     //'2kn%ja.ZE.k^z.'lof.sk%jij
 Кобера              //'ko.b%j$.ro-
 Коберидзе           //ko-.b%jI.'r%jid.zE.I
@@ -4318,7 +4299,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Ковшовская          //k^f.'Sof.sko-.jo-
 Ковылинский         //k^.'vi0.l%jin.sk%jij
 Ковязина            //k^.'v%ja.z%ji.no-
-Кодовильи           //ko-.d^.'v%jil%j.j.ij
 Кожанова            //k^.'Za.no-.vo-
 Кожара              //'ko.Z^.ro-
 Кожевническая       //k^.'ZE.vn%ji.t&S%jE.ska.jo-
@@ -4368,7 +4348,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Колгуевская         //k^l.'gu.j$f.sko-.jo-
 Колейная            //k^.'l%jej.no-.jo-
 Колесниковой        //k^.'l%jes%j.n%ji.ko-.vo-j
-Коли                //'ko.l%jIj
 Колина              //'ko.l%ji.no-
 Колледж             //'ko.l%j$tS
 Коллонтай           //ko-.l^n.'taj
@@ -4458,7 +4437,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Коннолахтинский     //ko-.n^.'lax.t%jin.sk%jij
 Конный              //'kon.ni0j
 Константов          //ko-n.st^n.'tof
-Констанции          //k^n.'stan.t&si0.Ij
 Конча-Заспа         //'2kon%j.t&S%jo-.'zas.po-
 Конча-Озерная       //'2kon%j.t&S%jo-.^.'z%jor.no-.jo-
 Конюхова            //'ko.n%ju.xo-.vo-
@@ -4570,7 +4548,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Костомаровский      //ko-s.t^.'ma.ro-f.sk%jij
 Костонаева          //ko-s.t^.'na.j$.vo-
 Кострикова          //'kos.tr%ji.ko-.vo-
-Костричи            //'kos.tr%jit&S%j.i
+Костричи            //'kos.tr%jit&S%j.ij
 Костричская         //'kos.tr%jit&S%j.sko-.jo-
 Костровой           //ko-s.tr^.'voj
 Костылева           //ko-s.ti0.'l%jo.vo-
@@ -4624,7 +4602,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Краева              //'kra.j$.vo-
 Краевая             //kro-.jI.'va.jo-
 Краевско-Греческая  //'2kra.j$f.sk^.'gr%je.t&S%j$.sko-.jo-
-Краи                //kr^.'i
+Краи                //kr^.'ij
 Крала               //'kra.lo-
 Крамарчука          //kro-.mo-r.t&S%ju.'ka
 Крамского           //kr^m.'sko.vo-
@@ -4913,7 +4891,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Кыштымская          //ki0S.'ti0m.sko-.jo-
 Кыштымский          //ki0S.'ti0m.sk%jij
 Кэчевский           //'kE.t&S%j$f.sk%jij
-Кюи                 //'k%ju.:i
+Кюи                 //'k%juj_ij
 Кюринская           //':k%ju.r%jin.sko-.jo-
 Кямозеро            //'2k%jam_'o.z%j$.ro-
 ЛКСМУ               //El.k^.Es.'mu
@@ -5028,7 +5006,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Лемика              //'l%je.m%ji.ko-
 Лемисова            //'l%je.m%ji.so-.vo-
 Лемковская          //'l%jem.ko-f.sko-.jo-
-Лени                //'l%jo.n%ji
+Лени                //'l%jon%j.ij
 Лениногорская       //l%j$.n%ji.n^.'gor.sko-.jo-
 Лениногорский       //l%j$.n%ji.n^.'gor.sk%jij
 Ленинская           //'l%je.n%jin.sko-.jo-
@@ -5067,7 +5045,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Лессинга            //'l%jes.s%jin.go-
 Лестева             //'l%jes%j.t%j$.vo-
 Лесхозная           //l%j$s.'xoz.no-.jo-
-Лехтуси             //'l%jex.tu.s%jij
 Лечхоз              //l%jIt&S%j.'xos
 Лешко-Попеля        //l%jIS.'ko_'po.p$.l%jo-
 Лештуков            //l%j$S.tu.'kof
@@ -5091,8 +5068,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Лимендское          //'l%ji.m%j$nt.sko-.j$
 Линдовская          //'l%jin.do-f.sko-.jo-
 Линевского          //l%ji.'n%jef.sko-.vo-
-Линии               //'l%ji.n%jI.jI
-Линия               //'l%ji.n%jI.^
+Линия               //'l%ji.n%jI_ja
 Линковского         //l%jin.'kof.sko-.vo-
 Линника             //'l%ji.n%ji.ko-
 Лиозненская         //l%jI.jI.'oz.n%j$n.sko-.jo-
@@ -5201,7 +5177,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Лузановский         //lu.'za.no-f.sk%jij
 Лузгина             //luz.g%ji.'n:a
 Лузина              //'lu.z%ji.no-
-Луиджи              //lu.'i.dZi0j
+Луиджи              //lu.'idZ.i0
 Луизино             //lu.jI.'i.z%ji.no-
 Луизинская          //lu.'i.z%jin.sko-.jo-
 Лука                //lu.'ka
@@ -10205,11 +10181,9 @@ Representation = EDCT_REPR_SZZ_STRING
 автодорогу          //^f.to-.d^.'ro.gu
 аллея               //^.'l%je.jo-
 бульвар             //bul%j.'var
-гвардии             //'gvar.d%jI.jIj
 дорога              //d^.'ro.go-
 дорогу              //d^.'ro.gu
-линии               //'l%ji.n%jI.jI
-линия               //'l%ji.n%jI.^
+линия               //'l%ji.n%jI_ja
 новоколомяжский     //no-.v^.ko-.l^.'m%jaS.sk%jij
 новосаратовская     //no-.vo-.s^.'ra.to-f.sko-.jo-
 переулок            //p%j$.r%jI.'u.lo-k
