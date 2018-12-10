@@ -87,7 +87,6 @@ charset = utf-8
 / \/\+'sankt_'p%je\.tr%jI\.burk\/\+ / --> " Санкт-Петербург "
 / \/\+u\.'ral\/\+ / --> " Урал "
 / \/\+i0\.ntu\.z%jI\.'a\.st\$f\/\+ / --> " Энтузиастов "
-/ \/\+'ka_'pogr_p%jI\.r%jI\.'u\.l\$g_/ --> " к погранпереходу /+"
 
 # Change preposition for tunnels and ends (they can't be addressed with "to/on", only "into")
 / на  \\tn=address\\([^,\/\\]*) [Пп]арк / --> " в  \\tn=address\\ $1 парк "
