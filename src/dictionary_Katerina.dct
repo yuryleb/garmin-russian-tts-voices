@@ -5390,7 +5390,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Мальченко           //'mal%j.t&S%j$n.ko-
 Мальшинская         //'mal%j.Si0n.sko-.jo-
 Малюгиной           //m^.'l%ju.g%ji.no-j
-Малявки             //m^.'l%jaf.k%jI.j
+Малявки             //m^.'l%jaf.k%jIj
 Мамак               //m^.'mak
 Мамеди              //m^.'m%je.d%jij
 Маметовой           //m^.'m%je.to-.vo-j
@@ -5497,7 +5497,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Машековская         //m^.'SE.ko-f.sko-.jo-
 Машенцева           //'ma.SEn.t&sE.vo-
 Машерова            //mo-.'SE.ro-.vo-
-Маши                //'ma.S:i
+Маши                //'ma.S:ij
 Машинистовская      //mo-.Si0.'n%jis.to-f.sko-.jo-
 Машкинское          //'maS.k%jin.sko-.j$
 Мга                 //'mga
@@ -5628,7 +5628,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Митрофановский      //m%jit.r^.'fa.no-f.sk%jij
 Митрофаньевская     //m%jit.r^.'fan%j.j$f.sko-.jo-
 Митрофаньевское     //m%jit.r^.'fan%j.j$f.sko-.j$
-Митьки              //m%ji:t%j.'k%ji
+Митьки              //m%jit%j.'k%jij
 Мифтахетдина        //m%jif.to-.x%jIt.'d%ji.no-
 Мифтахова           //m%jif.'ta.xo-.vo-
 Михайловка          //m%ji.'xaj.lo-f.ko-
@@ -5658,9 +5658,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Мишутинский         //m%ji.'Su.t%jin.sk%jij
 Мишутинское         //m%ji.'Su.t%jin.sko-.j$
 Миякинская          //m%ji.'ja.k%jin.sko-.jo-
-Мкад                //'mkat
-Мкада               //'mka.do-
-Мкаду               //'mka.du
 Млиевская           //'ml%ji.j$f.sko-.jo-
 Млынарная           //mI.li0.'nar.no-.jo-
 Мневники            //'mn%jov.n%ji.k%jij
@@ -5696,10 +5693,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Молитовские         //m^.'l%ji.to-f.sk%ji.j$
 Молитовский         //m^.'l%ji.to-f.sk%jij
 Моллаева            //m^.'la.j$.vo-
-Молодежи            //mo-.l^.'d%jo.Zi0j
 Молодечненская      //mo-.l^.'d%jet&S%j.n%j$n.sko-.jo-
 Молодогвардейская   //mo-.lo-.do-.gv^r.'d%jej.sko-.jo-
-Молодости           //'mo.l^.do-s.t%jij
 Молокова            //'mo.lo-.ko-.vo-
 Молонова            //'mo.lo-.no-.vo-
 Молостовых          //'mo.lo-.sto-.vi0x
@@ -5709,7 +5704,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Молчановский        //m^l.'t&S%ja.no-f.sk%jij
 Монакова            //m^.'na.ko-.vo-
 Монастырек          //mo-.no-s.ti0.'r%jok
-Монастырки          //mo-.n^.'sti0r.k%jij
 Монетчиковский      //m^.'n%jet.t&S%ji.ko-f.sk%jij
 Монрепо             //mo-n.r%jI.'po.
 Монте-Кристо        //mo-n.tE.'kr%jis.to-
@@ -5816,8 +5810,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Мытнинский          //'mi0t.n%jin.sk%jij
 Мышкинская          //'mi0S.k%jin.sko-.jo-
 Мышкинский          //'mi0S.k%jin.sk%jij
-Мэнуфэкчуринг       //'2mE.nu.'fEk.t&S%ju.rin
-Мэрии               //'mE.r%ji.ij
 Мюнхаузена          //m%jun.'xa.u.zE.no-
 Мядельская          //'m%ja.d%j$l%j.sko-.jo-
 Мякининская         //m%jI.'k%ji.n%jin.sko-.jo-
@@ -5848,7 +5840,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Навашинский         //n^.'va.Si0n.sk%jij
 Навашинское         //n^.'va.Si0n.sko-.j$
 Навлинская          //'nav.l%jin.sko-.jo-
-Навои               //no-.vo-.'i
+Навои               //no-.v^.'ji
 Навроцкого          //n^.'vrot&s.ko-.vo-
 Наганова            //n^.'ga.no-.vo-
 Нагатино-Садовники  //n^.'ga.t%ji.no-_s^.'dov.n%ji.k%jij
@@ -5863,7 +5855,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Надежденский        //n^.'d%jeZ.d%j$n.sk%jij
 Надеждинская        //n^.'d%jeZ.d%jin.sko-.jo-
 Надеждинский        //n^.'d%jeZ.d%jin.sk%jij
-Наджми              //n^d&Z.'m%ji
 Надибаидзе          //no-.d%ji.b^.'jid.zE.I
 Наднёманская        //n^d.'n%jo.mo-n.sko-.jo-
 Надречная           //n^d.'r%jet&S%j.no-.jo-
@@ -5924,10 +5915,9 @@ Representation = EDCT_REPR_SZZ_STRING
 Настасьинский       //n^s.'ta.s%jjin.sk%jij
 Наступательная      //no-s.tu.'pa.t%j$l%j.no-.jo-
 Насыри              //no-.si0.'r%ji
-Наталии             //n^.'ta.l%jI.ij
 Натальевская        //n^.'tal%j.j$f.sko-.jo-
 Натальевский        //n^.'tal%j.j$f.sk%jij
-Натальи             //n^.'ta.l%jI.ij
+Натальи             //n^.'ta.l%jIj.ij
 Наташи              //n^.'ta.Si0j
 Наташинская         //n^.'ta.Si0n.sko-.jo-
 Наташинский         //n^.'ta.Si0n.sk%jij
@@ -5954,7 +5944,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Неверовского        //n%j$.v%jI.'rof.sko-.vo-
 Невзоровой          //n%jIv.'zo.ro-.vo-j
 Невзоровых          //n%jIv.'zo.ro-.vi0x
-Невки               //'n%jef.k%jIj
 Неводчикова         //n%jI.'vot.t&S%ji.ko-.vo-
 Неврез              //n%jIv.'r%jes
 Невская             //'n%jef.sko-.jo-
@@ -6065,7 +6054,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Нижнехобзинская     //n%jiZ.n%jI.'xob.z%j$n.sko-.jo-
 Нижние              //'n%jiZ.n%ji.je
 Нижняя              //'n%jiZ.n%ji.jo-
-Низами              //n%ji.z^.'m%ji
+Низами              //n%ji.z^.'m%jij
 Низменная           //'niz%j.m%j$n.no-.jo-
 Низовая             //'n%ji.zo-.vo-.jo-
 Никандровой         //n%ji.'kan.dro-.vo-j
@@ -6098,7 +6087,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Никольско-Ботаническая //n%jI.'kol%j.sko-_bo-.t^.'n%ji.t&S%j$.sko-.jo-
 Никольско-Слободская //n%jI.'kol%j.sko-_slo-.b^t&s.'ka.jo-
 Никольское          //n%ji.'kol%j.sko-.j$
-Никоновичи          //'n%ji.ko-.no-.v%jit&S%j.i
+Никоновичи          //'n%ji.ko-.no-.v%jit&S%j.ij
 Никополь            //'n%ji.ko-.po-l%j
 Никополь-Мариупольская //'n%ji.ko-.po-l%j_mo-.r%ji.'u.po-l%j.sko-.jo-
 Никопольская        //'n%ji.ko-.po-l%j.sko-.jo-
@@ -6108,14 +6097,13 @@ Representation = EDCT_REPR_SZZ_STRING
 Никулинский         //n%ji.'ku.l%jin.sk%jij
 Ниссан              //n%ji.'san
 Нищинского          //n%ji.'S%jin.sko-.vo-
-Нлмк                //'2En_'2El_'2Em_ko-
+Нлмк                //'En_El_Em_ko-
 Нобельский          //'no.b%j$l%j.sk%jij
 Новатэк             //no-.v^.'tEk
 Новая               //'no.vo-.jo-
 Новгороднефтепродукт //'nov.go-.ro-d_n%j$f.t%j$.pr^.'dukt
 Новикова            //'no.v%ji.ko-.vo-
 Новикова-Прибоя     //'no.v%ji.ko-.vo-_pr%ji.'bo.jo-
-Новинки             //n^.'v%jin.k%jij
 Новинковская        //n^.'v%jin.ko-f.sko-.jo-
 Новицкого           //n^.'v%jit&s.ko-.vo-
 Новлянская          //n^v.'l%jan.sko-.jo-
