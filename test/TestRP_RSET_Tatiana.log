@@ -993,6 +993,11 @@ OUTPUT: Продолжите движение по  \tn=address\ /+'p%ja.to-j_
 RP_RSET.TXT: #777 #1266
 RULESET.TXT: #119 #123
 
+INPUT : Через пятьсот метров поверните направо на \tn=address\ /+'s%je.mn$.t&s$.t$.E_'l%ji.n%jI.E_'vE_'o/+ \tn=normal\.
+OUTPUT: Через пятьсот метров поверните направо на  \tn=address\ /+'s%jem.no-.t&so-.tu.ju_'l%ji.n%jI.ju_v^.'s%jil%j.jIf.sko-.vo-_'ost.ro-.vo-/+ \tn=normal\.
+RP_RSET.TXT: #780 #1256
+RULESET.TXT: #108 #119 #123
+
 INPUT : Поверните направо на \tn=address\ /+ft^.'ra.E_'tr%je.t%jE_'l%ji.n%jI.I/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ /+ft^.'ru.ju_i_'tr%je.t%jI.ju_'l%ji.n%jI.I/+ \tn=normal\.
 RP_RSET.TXT: #780 #1221
