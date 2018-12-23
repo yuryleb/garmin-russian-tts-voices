@@ -1048,7 +1048,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Автодор             //^f.t^.'dor
 Автодоровская       //^f.t^.'do.ro-.fsko-.jo-
 Автодорога          //^f.to-.d^.'ro.go-
-Автодорогу          //^f.to-.d^.'ro.gu
+Автодорстрой        //^f.to-.d^r.'stroj
 Автозаводская       //^f.to-.zo-.v^t.'ska.jo-
 Автозаводское       //^f.to-.zo-.v^t.'sko.j$
 Автозаводской       //^f.to-.zo-.v^t.'skoj
@@ -3136,7 +3136,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Дорогобужский       //do-.ro-.g^.'buS.sk%jij
 Дорогожицкая        //do-.r^.'go.Zi0t&s.ko-.jo-
 Дорогомиловская     //do-.ro-.g^.'m%ji.lo-f.sko-.jo-
-Дорогу              //d^.'ro.gu
 Доронинская         //d^.'ro.n%jin.sko-.jo-
 Доронинский         //d^.'ro.n%jin.sk%jij
 Дорохова            //'do.ro-.xo-.vo-
@@ -10212,12 +10211,10 @@ Representation = EDCT_REPR_SZZ_STRING
 Яшинская            //'ja.Si0n.sko-.jo-
 Яшумов              //jI.'Su.mo-f
 автодорога          //^f.to-.d^.'ro.go-
-автодорогу          //^f.to-.d^.'ro.gu
 аллея               //^.'l%je.jo-
 бульвар             //bul%j.'var
 гвардии             //'gvar.d%jI.jIj
 дорога              //d^.'ro.go-
-дорогу              //d^.'ro.gu
 линия               //'l%ji.n%jI_jo-
 новоколомяжский     //no-.v^.ko-.l^.'m%jaS.sk%jij
 новосаратовская     //no-.vo-.s^.'ra.to-f.sko-.jo-
