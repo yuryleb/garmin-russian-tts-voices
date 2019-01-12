@@ -4,4 +4,8 @@ language = RUR
 charset = utf-8
 
 [data]
+# Correct pronouncation of 80 number
 /\b80\b/ --> "/+'2vos%j.\$m%j.d%j\$.s%jo-t/+"
+
+# Correct time pronouncation greater 21 hour
+/\b2([1-4]:\d\d)\b/ --> " 20 0$1 "
