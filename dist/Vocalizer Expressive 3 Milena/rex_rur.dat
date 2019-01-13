@@ -8,4 +8,5 @@ charset = utf-8
 /\b80\b/ --> "/+'2vos%j.\$m%j.d%j\$.s%jo-t/+"
 
 # Correct time pronouncation greater 21 hour
-/\b2([1-4]:\d\d)\b/ --> " 20 0$1 "
+/\b21:(\d\d)\b/ --> " 20 01:$1 "
+/\b2([2-4]:\d\d)\b/ --> " 20 0$1 "
