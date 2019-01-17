@@ -1166,8 +1166,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Алтуфьевское        //^l.'tuf%j.j$f.sko-.j$
 Алупкинская         //^.'lup.k%jIn.sko-.jo-
 Алупкинское         //^.'lup.k%jIn.sko-.j$
-Алуштинская         //^.'luS.:t%jin.sko-.jo-
-Алуштинский         //^.'luS.:t%jin.sk%jij
+Алуштинская         //^.'luSt%jn.sko-.jo-
+Алуштинский         //^.'luSt%jn.sk%jij
 Алчевская           //^l.'t&S%jef.sko-.jo-
 Алчэчэк             //^l.t&S%jE.'t&S%jEk
 Алыкаевская         //^.li0.'ka.j$f.sko-.jo-
@@ -7765,6 +7765,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Салютина            //s^.'l%ju.t%ji.no-
 Салютовская         //s^.'l%ju.to-f.sko-.jo-
 Самаринская         //s^.'ma.r%jin.sko-.jo-
+Самарская           //s^.'ma.rsko-.jo-
 Самарский           //s^.'ma.rsk%jij
 Самборская          //'sam.bo-r.sko-.jo-
 Самборский          //'sam.bo-r.sk%jij
@@ -8112,7 +8113,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Слюдянская          //sl%ju.'d%jan.sko-.jo-
 Смаглия             //'smag.l%ji.jo-
 Смаль-Стоцкого      //'2smal%j.'stot&s.ko-.vo-
-Смарская           //s^.'ma.rsko-.jo-
 Смелянская          //sm%jI.'l%jan.sko-.jo-
 Смелянский          //sm%jI.'l%jan.sk%jij
 Смерековая          //sm%jI.'r%je.ko-.vo-.jo-
@@ -9167,8 +9167,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Утинская            //'u.t%jin.sko-.jo-
 Уткин               //'ut.k%jin
 Уткина              //'ut.k%ji.no-
+Утробина            //u.'tro.b%ji.no-
 Утульная            //u.'tul%j.no-.jo-
-Уутробина            //u.'tro.b%ji.no-
 Уфимская            //u.'f%jim.sko-.jo-
 Ухова               //'u.xo-.vo-
 Ухта                //ux.'ta
