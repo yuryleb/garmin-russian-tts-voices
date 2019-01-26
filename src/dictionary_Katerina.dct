@@ -1964,6 +1964,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Бусловская          //'bu.slo-f.sko-.jo-
 Бусловского         //bu.'slof.sko-.vo-
 Буссе               //bus.'sE
+Бутаева             //bu.'ta.j$.vo-
 Бутиковский         //'bu.t%ji.ko-f.sk%jij
 Бутлерова           //'but.l%j$.ro-.vo-
 Бутовская           //'bu.t^f.sko-.jo-
@@ -2803,6 +2804,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Губкомовская        //gup.'ko.mo-f.sko-.jo-
 Губонина            //gu.'bo.n%ji.no-
 Гугеля              //'gu.g%j$.l%jo-
+Гугкаева            //gu.'ka.j$.vo-
 Гуданова            //gu.'da.no-.vo-
 Гудиловская         //gu.'d%ji.lo-f.sko-.jo-
 Гудованцева         //gu.d^.'van.t&sE.vo-
@@ -3636,6 +3638,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Зилантьева          //z%ji.'lan%jt%j.j$.vo-
 Зилимская           //z%ji.'l%jim.sko-.jo-
 Зилова              //'z%ji.lo-.vo-
+Зильгинская         //z%jil%j.'g%jin.sko-.jo-
 Зимина              //z%ji.m%ji.'na
 Зиминская           //z%ji.'m%jin.sko-.jo-
 Зимноводовская      //z%jim.n^.'vo.do-f.sko-.jo-
@@ -4159,6 +4162,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Керамичная          //k%j$.r^.'m%jit&S%j.no-.jo-
 Кереселидзе         //k%j$.r%j$.s%jI.'l%jid.zE.jI
 Керницкого          //k%jIr.'n%jit&s.ko-.vo-
+Кесаева             //k%jI.'sa.j$.vo-
 Кестане             //'k%je.sto-.n%j$
 Кетинская           //'k%je.t%jin.sko-.jo-
 Кетинский           //'k%je.t%jin.sk%jij
@@ -5908,6 +5912,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Нарофоминский       //n^.ro-.f^.'m%jin.sk%jij
 Нарофоминское       //n^.ro-.f^.'m%jin.sko-.j$
 Нарпитовская        //n^r.'p%ji.to-f.sko-.jo-
+Нартовская          //'nar.ti0f.sko-.jo-
 Наруцкого           //n^.'rut&s.ko-.vo-
 Нарымская           //n^.'ri0m.sko-.jo-
 Нарымский           //n^.'ri0m.sk%jij
@@ -7727,8 +7732,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Салютина            //s^.'l%ju.t%ji.no-
 Салютовская         //s^.'l%ju.to-f.sko-.jo-
 Самаринская         //s^.'ma.r%jin.sko-.jo-
-Самарский           //s^.'ma.rsk%jij
 Самарская           //s^.'ma.rsko-.jo-
+Самарский           //s^.'ma.rsk%jij
 Самборская          //'sam.bo-r.sko-.jo-
 Самборский          //'sam.bo-r.sk%jij
 Саминский           //'sa.m%jin.sk%jij
@@ -8550,6 +8555,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Сясьстрой           //'2s%jas_'troj
 ТРК                 //tE_Er_'ka
 Табейкина           //t^.'b%jej.k%ji.no-
+Таболова            //t^.'bo.lo-.vo-
 Тав-Даир            //to-.vd^.'ir
 Тавдинская          //'ta.vd%jin.sko-.jo-
 Тавдинский          //'ta.vd%jin.sk%jij
