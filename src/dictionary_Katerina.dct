@@ -1150,6 +1150,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Алеши               //^.'l%jo.Si0j
 Алешкинский         //^.'l%joS.k%jin.sk%jij
 Алибегова           //^.l%ji.'be.go-.vo-
+Алика               //'a.l%ji.ko-
 Алиме               //^.l%ji.'mE
 Алимова             //^.'l%ji.mo-.vo-
 Алксниса            //'alks.n%ji.so-
@@ -2449,6 +2450,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Гаврино             //'gav.r%ji.no-
 Гавшинка            //'gaf.Si0n.ko-
 Гагинская           //'ga.g%jin.sko-.jo-
+Гагкаева            //g^.'ka.j$.vo-
 Гаева               //'ga.j$.vo-
 Гаевая              //'ga.j$.vo-.jo-
 Гаевская            //'ga.j$f.sko-.jo-
@@ -2573,6 +2575,9 @@ Representation = EDCT_REPR_SZZ_STRING
 Гидротехников       //'g%jid.r^.'2t%jex.n%ji.ko-f
 Гиевская            //'g%ji.jIf.sko-.jo-
 Гиевский            //'g%ji.jIf.sk%jij
+Гизель              //g%ji.'z%jel%j
+Гизельский          //g%ji.'z%jel%j.sk%jij
+Гизельское          //g%ji.'z%jel%j.sko-.j$
 Гилева              //g%ji.'l%jo.vo-
 Гилельса            //'g%ji.l%jIl%j.so-
 Гилязова            //g%ji.'l%ja.zo-.vo-
@@ -2998,6 +3003,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Джанкойскому        //d&Z^n.'koj.sko-.mu
 Джаныбековская      //dZo-.ni0.'b%je.ko-f.sko-.jo-
 Джапаридзе          //dZo-.p^.'r%jid.zE.I
+Джатиева            //dZ^.'t%ji.j$.vo-
 Джаудата            //'2d&Za.u.'da.to-
 Джерело             //dZE.r%jI.'lo.
 Джерельная          //d&ZE.'r%jel%j.no-.jo-
@@ -3007,6 +3013,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Джигитской          //d&Zi0.'g%jit&s.ko-j
 Джигитскую          //d&Zi0.'g%jit&s.ku.ju
 Джиен-Софу          //d&Zi0.'jen_so.'fu
+Джиоева             //di0.Zi0.'o.j$.vo-
 Джихан              //d&Zi0.'xan
 Джума               //d&Zu.'ma
 Джуниор             //d&Zu.n%ji.'or
@@ -3014,6 +3021,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Дзержинская         //dz%jIr.'Zi0n.sko-.jo-
 Дзержинский         //dz%jIr.'Zi0n.sk%jij
 Дзержинское         //dz%jIr.'Zi0n.sko-.j$
+Дзугаевых           //di0.zu.'ga.j$.vi0x
+Дзусова             //di0.'zu.so-.vo-
 Дзюбанова           //dz%ju.'ba.no-.vo-
 Дибровная           //d%ji.'brov.no-.jo-
 Дибуны              //d%ji.bu.'ni0
@@ -4163,6 +4172,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Кереселидзе         //k%j$.r%j$.s%jI.'l%jid.zE.jI
 Керницкого          //k%jIr.'n%jit&s.ko-.vo-
 Кесаева             //k%jI.'sa.j$.vo-
+Кесаевых            //k%jI.'sa.j$.vi0x
 Кестане             //'k%je.sto-.n%j$
 Кетинская           //'k%je.t%jin.sko-.jo-
 Кетинский           //'k%je.t%jin.sk%jij
@@ -6632,6 +6642,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Осовы               //^.s^.'vi0
 Осоченская          //^.'so.t&S%j$n.sko-.jo-
 Осочная             //^.'sot&S%j.no-.jo-
+Остаева             //^s.'ta.j$.vo-
 Остаповский         //^s.'ta.po-f.sk%jij
 Остафьевская        //^s.'taf%j.j$f.sko-.jo-
 Остафьевское        //^s.'taf%j.j$f.sko-.j$
@@ -7526,7 +7537,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Романовская         //ro-.'ma.no-f.sko-.jo-
 Романовского        //ro-.m^.'nof.sko-.vo-
 Романчука           //ro-.mo-n.t&S%ju.'ka
-Ромашкина           //ro-.'maS.k%ji.no-
+Ромашки             //r^.'maS.k%jij
+Ромашкина           //r^.'maS.k%ji.no-
 Ромена              //r^.'mE.no-
 Роменская           //r^.'m%jen.sko-.jo-
 Росинского          //r^.'s%jin.sko-.vo-
@@ -8060,6 +8072,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Славнефть           //slo-v_'n%jeft%j
 Славянки            //sl^.'v%jan.k%jij
 Славянск            //sl^.'v%jansk
+Сланова             //'sla.no-.vo-
 Следюки             //sl%j$d%j.u.'k%ji
 Слепнева            //slIp.'n%jo.vo-
 Слепушкина          //sl%jI.'puS.k%ji.no-
@@ -8654,6 +8667,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Тверская            //tv%jIr.'ska.jo-
 Тверской            //tv%jIr.'skoj
 Тверьнефтепродукт   //'tv%jer%j_n%j$f.t%j$.pr^.'dukt
+Теблоева            //t%jIb.'lo.j$.vo-
 Тевелева            //'t%je.v%j$.l%j$.vo-
 Тейковичи           //'t%jej.ko-.v%ji.t&S%ji
 Текучева            //t%j$.:ku.'t&S%jo.vo-
@@ -8705,6 +8719,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Тешемье             //'t%je.SEm_je
 Тешково             //'t%jeS.ko-.vo-
 Тещин               //'t%jo.S%jin
+Тибилова            //t%ji.'b%ji.lo-.vo-
 Тиверская           //'t%ji.v%j$.rsko-.jo-
 Тивновичи           //'t%jiv%j.no-.v%ji.t&S%jij
 Тигодская           //'t%ji.go-t&s.ko-.jo-
@@ -9282,6 +9297,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Хаалг               //'xa.^lk
 Хабарова            //x^.'ba.ro-.vo-
 Хавская             //'xaf.sko-.jo-
+Хадарцева           //x^.'da.rt&sE.vo-
 Хаджи               //x^.'d&Zi0
 Хаджибеевская       //xo-.d&Zi0.'b%je.jIf.sko-.jo-
 Хаджибеевский       //xo-.d&Zi0.'b%je.jIf.sk%jij
@@ -9309,6 +9325,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Ханкайскую          //x^n.'kaj.sku.ju
 Хапиловская         //x^.'p%ji.lo-f.sko-.jo-
 Хапиловский         //x^.'p%ji.lo-f.sk%jij
+Харебова            //x^.'r%je.bi0.vo-
 Харинская           //'xa.r%jin.sko-.jo-
 Харинский           //'xa.r%jin.sk%jij
 Харитоньевский      //xo-.r%ji.'ton%j.j$f.sk%jij
@@ -9419,6 +9436,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Хрустицкого         //xrus.'t%jit&s.ko-.vo-
 Хрюкина             //'xr%ju.k%ji.no-
 Хтз                 //x^.tE.'zE
+Хугаева             //xu.'ga.j$.vo-
 Хуторовка           //'xu.to-.ro-f.ko-
 Хутынская           //'xu.ti0n.sko-.jo-
 Хутынский           //'xu.ti0n.sk%jij
@@ -9457,6 +9475,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Цитовская           //'t&si0.to-f.sko-.jo-
 Цитрусовая          //'t&si0tr.so-.vo-.jo-
 Цнянская            //'t&sn%jan.sko-.jo-
+Цховребова          //t&sx^v.'r%je.bi0.vo-
 Цыгаревский         //t&si0.g^.'r%jof.sk%jij
 Цюрупинская         //t&su.'r%ju.p%jIn.sko-.jo-
 Цюрупинский         //t&su.'r%ju.p%jIn.sk%jij
@@ -9584,6 +9603,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Чечерский           //t&S%jI.'t&S%jor.sk%jij
 Чешихинский         //t&S%j$.'Si0.x%jin.sk%jij
 Чешмеджи            //t&S%j$S.m%jId&Z.'i0
+Чибирова            //'t&S%ji.b%ji.ro-.vo-
 Чигирина            //t&S%ji.'g%ji.r%jI.no-
 Чигиринская         //t&S%ji.'g%ji.r%jIn.sko-.jo-
 Чигиринский         //t&S%ji.'g%ji.r%jIn.sk%jij

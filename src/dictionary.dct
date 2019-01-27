@@ -353,6 +353,7 @@ Viada               //'v%ji.^.do-
 алешкинском         //^.'l%joS.k%jin.sko-m
 алешкинскому        //^.'l%joS.k%jin.sko-.mu
 алибегова           //^.l%ji.'be.go-.vo-
+алика               //'a.l%ji.ko-
 алиме               //^.l%ji.'mE
 алимова             //^.'l%ji.mo-.vo-
 алксниса            //'alks.n%ji.so-
@@ -3195,6 +3196,7 @@ Viada               //'v%ji.^.do-
 гагинская           //'ga.g%jin.sko-.jo-
 гагинской           //'ga.g%jin.sko-j
 гагинскую           //'ga.g%jin.sku.ju
+гагкаева            //g^.'ka.j$.vo-
 гаева               //'ga.j$.vo-
 гаевая              //'ga.j$.vo-.jo-
 гаевой              //'ga.j$.vo-j
@@ -3453,6 +3455,12 @@ Viada               //'v%ji.^.do-
 гиевском            //'g%ji.jIf.sko-m
 гиевскому           //'g%ji.jIf.sko-.mu
 гиевскую            //'g%ji.jIf.sku.ju
+гизель              //g%ji.'z%jel%j
+гизельский          //g%ji.'z%jel%j.sk%jij
+гизельского         //g%ji.'z%jel%j.sko-.vo-
+гизельское          //g%ji.'z%jel%j.sko-.j$
+гизельском          //g%ji.'z%jel%j.sko-m
+гизельскому         //g%ji.'z%jel%j.sko-.mu
 гилева              //g%ji.'l%jo.vo-
 гилельса            //'g%ji.l%jIl%j.so-
 гилязова            //g%ji.'l%ja.zo-.vo-
@@ -4373,6 +4381,7 @@ Viada               //'v%ji.^.do-
 джаныбековской      //dZo-.ni0.'b%je.ko-f.sko-j
 джаныбековскую      //dZo-.ni0.'b%je.ko-f.sku.ju
 джапаридзе          //dZo-.p^.'r%jid.zE.I
+джатиева            //dZ^.'t%ji.j$.vo-
 джаудата            //'2d&Za.u.'da.to-
 джерело             //dZE.r%jI.'lo*.
 джерельная          //d&ZE.'r%jel%j.no-.jo-
@@ -4382,6 +4391,7 @@ Viada               //'v%ji.^.do-
 джигитской          //d&Zi0.'g%jit&s.ko-j
 джигитскую          //d&Zi0.'g%jit&s.ku.ju
 джиен-софу          //d&Zi0.'jen_so.'fu
+джиоева             //di0.Zi0.'o.j$.vo-
 джихан              //d&Zi0.'xan
 джума               //d&Zu.'ma
 джуниор             //d&Zu.n%ji.'or
@@ -4394,6 +4404,8 @@ Viada               //'v%ji.^.do-
 дзержинском         //dz%jIr.'Zi0n.sko-m
 дзержинскому        //dz%jIr.'Zi0n.sko-.mu
 дзержинскую         //dz%jIr.'Zi0n.sku.ju
+дзугаевых           //di0.zu.'ga.j$.vi0x
+дзусова             //di0.'zu.so-.vo-
 дзюбанова           //dz%ju.'ba.no-.vo-
 дибровная           //d%ji.'brov.no-.jo-
 дибровной           //d%ji.'brov.no-j
@@ -6979,6 +6991,7 @@ Viada               //'v%ji.^.do-
 кереселидзе         //k%j$.r%j$.s%jI.'l%jid.zE.I
 керницкого          //k%jIr.'n%jit&s.ko-.vo-
 кесаева             //k%jI.'sa.j$.vo-
+кесаевых            //k%jI.'sa.j$.vi0x
 кестане             //'k%je.sto-.n%j$
 кетинская           //'k%je.t%jin.sko-.jo-
 кетинский           //'k%je.t%jin.sk%jij
@@ -12764,6 +12777,7 @@ Viada               //'v%ji.^.do-
 осочная             //^.'sot&S%j.no-.jo-
 осочной             //^.'sot&S%j.no-j
 осочную             //^.'sot&S%j.nu.ju
+остаева             //^s.'ta.j$.vo-
 остаповский         //^s.'ta.po-f.sk%jij
 остаповского        //^s.'ta.po-f.sko-.vo-
 остаповском         //^s.'ta.po-f.sko-m
@@ -14772,7 +14786,8 @@ Viada               //'v%ji.^.do-
 романовскую         //ro-.'ma.no-f.sku.ju
 романову            //r^.'ma.no-.vu
 романчука           //ro-.mo-n.t&S%ju.'ka
-ромашкина           //ro-.'maS.k%ji.no-
+ромашки             //r^.'maS.k%jij
+ромашкина           //r^.'maS.k%ji.no-
 ромена              //r^.'mE.no-
 роменская           //r^.'m%jen.sko-.jo-
 роменской           //r^.'m%jen.sko-j
@@ -15922,6 +15937,7 @@ Viada               //'v%ji.^.do-
 славнефть           //slo-v_'n%jeft%j
 славянки            //sl^.'v%jan.k%jij
 славянск            //sl^.'v%jansk
+сланова             //'sla.no-.vo-
 следюки             //sl%j$d%j.u.'k%ji
 слепнева            //slIp.'n%jo.vo-
 слепушкина          //sl%jI.'puS.k%ji.no-
@@ -17333,6 +17349,7 @@ Viada               //'v%ji.^.do-
 тверскому           //tv%jIr.'sko.mu
 тверскую            //tv%jIr.'sku.ju
 тверьнефтепродукт   //'tv%jer%j_n%j$f.t%j$.pr^.'dukt
+теблоева            //t%jIb.'lo.j$.vo-
 тевелева            //'t%je.v%j$.l%j$.vo-
 тейковичи           //'t%jej.ko-.v%ji.t&S%ji
 текучева            //t%j$.:ku.'t&S%jo.vo-
@@ -17454,6 +17471,7 @@ Viada               //'v%ji.^.do-
 тешемье             //'t%je.SEm_je
 тешково             //'t%jeS.ko-.vo-
 тещин               //'t%jo.S%jin
+тибилова            //t%ji.'b%ji.lo-.vo-
 тиверская           //'t%ji.v%j$.rsko-.jo-
 тиверской           //'t%ji.v%j$.rsko-j
 тиверскую           //'t%ji.v%j$.rsku.ju
@@ -18700,6 +18718,7 @@ Viada               //'v%ji.^.do-
 хавская             //'xaf.sko-.jo-
 хавской             //'xaf.sko-j
 хавскую             //'xaf.sku.ju
+хадарцева           //x^.'da.rt&sE.vo-
 хаджи               //x^.'d&Zi0
 хаджибеевская       //xo-.d&Zi0.'b%je.jIf.sko-.jo-
 хаджибеевский       //xo-.d&Zi0.'b%je.jIf.sk%jij
@@ -18758,6 +18777,7 @@ Viada               //'v%ji.^.do-
 хапиловском         //x^.'p%ji.lo-f.sko-m
 хапиловскому        //x^.'p%ji.lo-f.sko-.mu
 хапиловскую         //x^.'p%ji.lo-f.sku.ju
+харебова            //x^.'r%je.bi0.vo-
 харинская           //'xa.r%jin.sko-.jo-
 харинский           //'xa.r%jin.sk%jij
 харинского          //'xa.r%jin.sko-.vo-
@@ -19001,6 +19021,7 @@ Viada               //'v%ji.^.do-
 хрустицкого         //xrus.'t%jit&s.ko-.vo-
 хрюкина             //'xr%ju.k%ji.no-
 хтз                 //x^.tE.'zE
+хугаева             //xu.'ga.j$.vo-
 хуторовка           //'xu.to-.ro-f.ko-
 хутынская           //'xu.ti0n.sko-.jo-
 хутынский           //'xu.ti0n.sk%jij
@@ -19076,6 +19097,7 @@ Viada               //'v%ji.^.do-
 цнянская            //'t&sn%jan.sko-.jo-
 цнянской            //'t&sn%jan.sko-j
 цнянскую            //'t&sn%jan.sku.ju
+цховребова          //t&sx^v.'r%je.bi0.vo-
 цыгаревский         //t&si0.g^.'r%jof.sk%jij
 цыгаревского        //t&si0.g^.'r%jof.sko-.vo-
 цыгаревском         //t&si0.g^.'r%jof.sko-m
@@ -19364,6 +19386,7 @@ Viada               //'v%ji.^.do-
 чешихинском         //t&S%j$.'Si0.x%jin.sko-m
 чешихинскому        //t&S%j$.'Si0.x%jin.sko-.mu
 чешмеджи            //t&S%j$S.m%jId&Z.'i0
+чибирова            //'t&S%ji.b%ji.ro-.vo-
 чигирина            //t&S%ji.'g%ji.r%jI.no-
 чигиринская         //t&S%ji.'g%ji.r%jIn.sko-.jo-
 чигиринский         //t&S%ji.'g%ji.r%jIn.sk%jij
