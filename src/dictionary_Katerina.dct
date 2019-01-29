@@ -1704,6 +1704,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Бобруйский          //b^.'bruj.sk%jij
 Бобруйское          //b^.'bruj.sko-.j$
 Бобыльская          //b^.'bi0l%j.sko-.jo-
+Бовкуна             //bo-f.ku.'na
 Богайчука           //bo-.go-j.t&S%ju.'ka
 Богаткова           //bo-.g^t.'ko.vo-
 Богатского          //bo-.'gat&s.ko-.vo-
@@ -1979,6 +1980,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Бухвостовская       //bu.'xvo.sto-f.sko-.jo-
 Буцманюка           //bud&z.m^.n%ju.'ka
 Бучанская           //bu.'t&S%jan.sko-.jo-
+Бучкури             //but&S%j.'ku.r%jij
 Буюк-яшлав          //bu.'juk_^.'Slaf
 Буянова             //bu.'ja.no-.vo-
 Быково              //bi0.'ko.vo-
@@ -7470,7 +7472,9 @@ Representation = EDCT_REPR_SZZ_STRING
 Репинский           //'r%je.p%jin.sk%jij
 Репище              //'r%je.p%ji.S%jI.j$
 Репищева            //'r%je.p%ji.S%j$.vo-
+Репненская          //'r%jep.n%j$n.sko-.jo-
 Репникова           //'r%jep.n%ji.ko-.vo-
+Репнинская          //r%jIp.'n%jin.sko-.jo-
 Республики          //r%jIs.'pub.l%ji.k%jij
 Реута               //'r%je.u.to-
 Реушеньгская        //'r%je.u.SEn%jk.sko-.jo-
@@ -8208,6 +8212,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Софрино             //'sof.r%ji.no-
 Софроновская        //s^f.'ro.no-f.sko-.jo-
 Софьи               //'sof%j.jij
+Софьинская          //'sof%j.jin.sko-.jo-
 Соханя              //'so.xo-.n%jo-
 Сохора              //'so.xo-.ro-
 Соцгородок          //'2sot&s.go-.r^.'dok
@@ -8749,6 +8754,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Тисуль              //t%jis.'ul%j
 Титанстрой          //t%ji.'tan_'stroj
 Титаровская         //'t%ji.to-.ro-f.sko-.jo-
+Тиханкина           //t%ji.'xan.k%ji.no-
 Тихковицы           //'t%jix.ko-.v%ji.t&si0
 Тихомировская       //t%ji.x^.'m%ji.ro-f.sko-.jo-
 Тихона              //'t%ji.xo-.no-
@@ -9564,6 +9570,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Черкизовский        //t&S%jIr.'k%ji.zo-f.sk%jij
 Чермянская          //t&S%jIr.'m%jan.sko-.jo-
 Чермянский          //t&S%jIr.'m%jan.sk%jij
+Чернавская          //t&S%jIr.'naf.sko-.jo-
+Чернавский          //t&S%jIr.'naf.sk%jij
 Черневская          //t&S%jIr.'n%jof.sko-.jo-
 Чернеево            //t&S%jIr.'n%je.j$.vo-
 Черницкая           //t&S%jIr.'n%jit&s.ko-.jo-
@@ -9969,6 +9977,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Электроинструментальный //E.l%j$k.tro-.in.stru.m%jIn.'tal%j.ni0j
 Электролесовская    //E.l%j$k.tr^.'l%je.so-f.sko-.jo-
 Электропоселок      //E.l%j$k.tro-.p^.'s%jo.lo-k
+Электросигнальная   //E.l%j$k.tro-.s%jig.'nal%j.no-.jo-
 Элем                //E.'l%jem
 Элиаса              //'E.l%ji.o-.so-
 Эльблонгская        //'El%j.blo-nk.sko-.jo-
@@ -9994,6 +10003,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Энтиком-Инвест      //En.t%ji.'kom_in.'v%jest
 Эпроновская         //Ep.'ro.no-f.sko-.jo-
 Эрлеровский         //Er.'l%je.ro-f.sk%jij
+Эртеля              //'E.rtE.l%jo-
 Эскадронный         //Es.k^d.'ron.ni0j
 Эсперов             //E.$s.'pe.ro-f
 Эсперова            //E.$s.'pe.ro-.vo-
