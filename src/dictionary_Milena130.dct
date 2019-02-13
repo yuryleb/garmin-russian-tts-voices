@@ -2614,6 +2614,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Гладкинская         //'glat.k%jin.sko-.jo-
 Гладышева           //'gla.di0.SE.vo-
 Глазечная           //gl^.'z%jet&S%j.no-.jo-
+Глазковская         //gl^s.'kof.sko-.jo-
+Глазковский         //gl^s.'kof.sk%jij
 Глазынинская        //gl^.'zi0.n%jin.sko-.jo-
 Глебово-Городище    //'gl%je.bo-.vo-_go-.r^.'d%jiS%j.E
 Глебычево           //'gl%je.bi0.t&S%j$.vo-
@@ -2961,6 +2963,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Дементьевская       //d%jI.'m%jen%j.t%j$f.sko-.jo-
 Демидовская         //d%jI.'m%ji.do-f.sko-.jo-
 Демидовский         //d%jI.'m%ji.do-f.sk%jij
+Деминская           //'d%je.m%jin.sko-.jo-
 Деминский           //'d%je.m%jin.sk%jij
 Деминского          //'d%je.m%jin.sko-.vo-
 Демлек              //d%jIm.'l%jek
@@ -3452,6 +3455,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Жореса              //Z^.'rE.so-
 Жорновка            //'Zor.no-f.ko-
 Жудро               //Zud.'ro.
+Жужелинская         //Zu.'ZEl%j.in.sko-.jo-
 Жукова              //'Zu.ko-.vo-
 Жуковича            //Zu.'ko.v%ji.t&S%jo-
 Жуковка             //'Zu.ko-f.ko-
@@ -4132,6 +4136,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Катежно             //'ka.t%j$Z.no-
 Катерная            //'ka.t%j$r.no-.jo-
 Катина              //'ka.t%ji.no-
+Катинская           //'ka.t%jin.sko-.jo-
 Катлинская          //'kat.l%jin.sko-.jo-
 Катлуженка          //k^t.'lu.ZEn.ko-
 Катукова            //k^.tu.'ko.vo-
@@ -4222,6 +4227,9 @@ Representation = EDCT_REPR_SZZ_STRING
 Кингисепп           //k%jin.g%ji.'s%jep
 Кинельская          //k%ji.'n%jel%j.sko-.jo-
 Кинельский          //k%ji.'n%jel%j.sk%jij
+Кинешемская         //'k%ji.n%j$Sm.sko-.jo-
+Кинешемский         //'k%ji.n%j$Sm.sk%jij
+Кинешемское         //'k%ji.n%j$Sm.sko-.j$
 Кинешминская        //'k%ji.n%j$S.m%jIn.sko-.jo-
 Киовские            //k%ji.'of.sk%ji.j$
 Киргетова           //k%jir.'g%je.to-.vo-
@@ -4358,6 +4366,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Козланюка           //ko-z.lo-.n%ju.'ka
 Козленская          //k^z.'l%jon.sko-.jo-
 Козловичи           //k^z.'lo.v%ji.t&S%jij
+Козуева             //k^.'zu.j$.vo-
 Козуличи            //k^.'zu.l%jit&S%j.i
 Козыка              //'ko.zi0.ko-
 Козыревская         //'ko.zi0.r%j$f.sko-.jo-
@@ -8324,6 +8333,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Старо-Черкасская    //'2sta.ro-.t&S%jI.'rka.sko-.jo-
 Старо-Чернушенский  //'2sta.ro-.t&S%jIr.'nu.SEn.sk%jij
 Старо-Ямбургская    //'2sta.r^.'jam.bur.sko-.jo-
+Старо-караваевская  //'2sta.ro-.ko-.r^.'va.j$f.sko-.jo-
 Староалексеевская   //'2sta.r^.'2a.l%jIk.'s%je.j$f.sko-.jo-
 Староандреевская    //'2sta.r^.'2an.'dr%je.j$f.sko-.jo-
 Старобабинический   //'2sta.ro-.b^.'b%ji.ni.t&S%j$.sk%jij
@@ -9924,6 +9934,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Шрадера             //'Sra.dE.ro-
 Штабной             //St^b.'noj
 Штаговый            //'Sta.go-.vi0j
+Штеймана            //'StEj.mo-.no-
 Штеровская          //'StE.ro-f.sko-.jo-
 Штрауса             //'Stra.u.so-
 Штурвальная         //Stu.'rval%j.no-.jo-
