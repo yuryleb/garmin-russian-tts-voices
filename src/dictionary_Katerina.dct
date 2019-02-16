@@ -4703,6 +4703,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Красносулинская     //kro-s.no-.su.'l%jin.sko-.jo-
 Красносулинский     //kro-s.no-.su.'l%jin.sk%jij
 Красноталовая       //kro-s.n^.'ta.lo-.vo-.jo-
+Краснотурьинск      //kro-s.no-.tur%j.'insk
+Краснотурьинская    //kro-s.no-.tur%j.'in.sko-.jo-
 Красноуральская     //kro-s.no-.u.'ral%j.sko-.jo-
 Красноуфимская      //kro-s.no-.u.'f%jim.sko-.jo-
 Красноуфимский      //kro-s.no-.u.'f%jim.sk%jij
@@ -5615,6 +5617,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Мигулинский         //m%ji.'gu.l%jin.sk%jij
 Микешина            //m%ji.'k%je.Si0.no-
 Миклухо-Маклая      //m%ji.'2klu.xo-.m^.'kla.jo-
+Микова              //'m%ji.ko-.vo-
 Миколаевская        //m%ji.k^.'la.j$f.sko-.jo-
 Миколайчука         //m%ji.ko-.lo-j.t&S%ju.'ka
 Микулича            //m%ji.'ku.l%ji.t&S%j^
