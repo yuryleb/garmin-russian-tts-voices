@@ -2991,7 +2991,6 @@ Representation = EDCT_REPR_SZZ_STRING
 Джабаева            //d&Z^.'ba.j$.vo-
 Джавахарлала        //d&Z^.v^.x^r.'la.lo-
 Джакобия            //d&Z^.'ko.b%ji.jo-
-Джалиля             //dZ^.':l%ji.l%jo-
 Джалиля-Духовская   //dZ^.'l%ji.l%jo-_du.x^.'fska.jo-
 Джамбаева           //d&Z^m.'ba.j$.vo-
 Джамбул             //d&Z^m.'bul
@@ -3283,7 +3282,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Егерсег             //j$.g%jIr.'s%jek
 Егерская            //'jegr%j.sko-.jo-
 Егоровой            //jI.'go.ro-.vo-j
-Егоршинский         //jI.'go:r.Si0n.sk%jij
+Егоршинский         //jI.'gor.Si0n.sk%jij
 Еготьевский         //jI.'got%j.j$f.sk%jij
 Ездоцкая            //jIz.'dot&s.ko-.jo-
 Ейская              //'je.jsko-.jo-
@@ -3390,7 +3389,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Жердева             //'ZEr.d%j$.vo-
 Жерновская          //ZEr.'nof.sko-.jo-
 Живарев             //'Zi0.vo-.r%j$f
-Живова              //'Zi0.vo-.:vo-
+Живова              //'Zi0.vo-.vo-
 Живоносновская      //Zi0.v^.'nos.no-f.sko-.jo-
 Животино            //Zi0.'vo.t%ji.no-
 Жигалина            //Zi0.'ga.l%ji.no-
@@ -3875,7 +3874,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Ислаева             //is.'la.j$.vo-
 Ислямова            //is.'l%ja.mo-.vo-
 Иссад               //is.'sad
-Иссарское           //is.'sa:r.sko-.j$
+Иссарское           //is.'sa.rsko-.j$
 Истидат             //is.t%ji.'dat
 Истоминская         //i.'sto.m%jin.sko-.jo-
 Истоминский         //i.'sto.m%jin.sk%jij
@@ -3895,7 +3894,7 @@ Representation = EDCT_REPR_SZZ_STRING
 К-Раута             //ko-_'ra.u.to-
 К-Руока             //ko-_ru.'o.ko-
 Кабаловская         //k^.'ba.lo-f.sko-.jo-
-Кабардино-Балкарская //ko-.b^r.'d%ji.no-_b^l.'ka:r.sko-.jo-
+Кабардино-Балкарская //ko-.b^r.'d%ji.no-_b^l.'ka.rsko-.jo-
 Каберова-Власьевская //k^.'b%je.ro-.vo-_'vlas%j.j$f.sko-.jo-
 Кабушкина           //'ka.buS.k%ji.no-
 Кабяка              //ko-.b%jI.'ka
@@ -4062,8 +4061,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Карбушинская        //'ka.rbu.Si0n.sko-.jo-
 Карбушинский        //'ka.rbu.Si0n.sk%jij
 Карбышева           //'kar.bi0.SE.vo-
-Каргапольская       //ko-r.g^:.'pol%j.sko-.jo-
-Каргашино           //k:o-r.go-.Si0.'no
+Каргапольская       //ko-r.g^.'pol%j.sko-.jo-
+Каргашино           //ko-r.go-.Si0.'no
 Каргина             //ko-r.g%ji.'na
 Каргополь           //'kar.go-.po-l%j
 Каргопольская       //ko-r.go-.'pol%j.sko-.jo-
@@ -4312,7 +4311,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Ковенский           //'ko.v%j$n.sk%jij
 Ковентри            //'ko.v%j$n.tr%jij
 Коверко             //'ko.v%j$r.ko-
-Ковжуна             //'kov.Z:u.no-
+Ковжуна             //'kov.Zu.no-
 Ковзана             //'kov.zo-.no-
 Ковпака             //ko-f.p^.'ka
 Ковригинский        //k^v.'r%ji.g%jin.sk%jij
