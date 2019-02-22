@@ -4765,7 +4765,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Кривичский          //'kr%ji.v%jit&S%j.sk%jij
 Кривоарбатский      //kr%ji.vo-.^r.'bat.sk%jij
 Кривобалковская     //kr%ji.v^.'bal.ko-f.sko-.jo-
-Кривоколенный       //kr%ji.vo-.k^.'l%je:n.ni0j
+Кривоколенный       //kr%ji.vo-.k^.'l%jen.ni0j
 Кривоконевская      //kr%ji.v^.'ko.n%j$f.sko-.jo-
 Кривоконевский      //kr%ji.v^.'ko.n%j$f.sk%jij
 Кривоникольский     //kr%ji.vo-.n%ji.'kol%j.sk%jij
@@ -4852,8 +4852,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Куйбышева           //'kuj.bi0.SE.vo-
 Куйвастское         //'kuj.vo-st.sko-.j$
 Куйвози             //'kuj.vo-.z%jij
-Куккоева            //kuk.:'ko.j$.vo-
-Куккоевой           //kuk.:'ko.j$.vo-j
+Куккоева            //kuk.'ko.j$.vo-
+Куккоевой           //kuk.'ko.j$.vo-j
 Кукуевская          //ku.'ku.j$f.sko-.jo-
 Кулаевская          //ku.'la.j$f.sko-.jo-
 Кулибина            //ku.'l%ji.b%ji.no-
@@ -4921,7 +4921,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Кусковский          //kus.'kof.sk%jij
 Кустарево           //kus.t^.'r%jo.vo-
 Кустодиева          //kus.'to.d%ji_j$.vo-
-Кутаисского         //:ku.t^.'is.sko-.vo-
+Кутаисского         //ku.t^.'is.sko-.vo-
 Кутателадзе         //ku.t^.tE.'lad.zE
 Кутузова            //ku.'tu.zo-.vo-
 Кутумная            //ku.'tum.no-.jo-
@@ -4945,8 +4945,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Кыштымская          //ki0S.'ti0m.sko-.jo-
 Кыштымский          //ki0S.'ti0m.sk%jij
 Кэчевский           //'kE.t&S%j$f.sk%jij
-Кюи                 //'k%ju.:i
-Кюринская           //':k%ju.r%jin.sko-.jo-
+Кюи                 //k%juj.'ij
+Кюринская           //'k%ju.r%jin.sko-.jo-
 Кямозеро            //'2k%jam_'o.z%j$.ro-
 ЛКСМУ               //El.k^.Es.'mu
 Ла-Рошель           //l%jo-_r^.'SEl%j
@@ -5230,7 +5230,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Лужское             //'luS.sko-.j$
 Лузановская         //lu.'za.no-f.sko-.jo-
 Лузановский         //lu.'za.no-f.sk%jij
-Лузгина             //luz.g%ji.'n:a
+Лузгина             //luz.g%ji.'na
 Лузина              //'lu.z%ji.no-
 Луиджи              //lu.'idZ.i0
 Луизино             //lu.jI.'i.z%ji.no-
@@ -5407,8 +5407,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Мало-Фокинский      //'2ma.l^.'fo.k%jin.sk%jij
 Мало-Штабной        //'2ma.lo-_St^b.'noj
 Малоазовский        //'2ma.lo-.^.'zof.sk%jij
-Маловишерская       //mo-.l^.':v%ji.Si0r.sko-.jo-
-Маловишерский       //mo-.l^.':v%ji.Si0r.sk%jij
+Маловишерская       //mo-.l^.'v%ji.Si0r.sko-.jo-
+Маловишерский       //mo-.l^.'v%ji.Si0r.sk%jij
 Маловолховская      //mo-.l^.'vol.xo-f.sko-.jo-
 Маловского          //m^.'lof.sko-.vo-
 Малодетскосельский  //mo-.lo-.d%j$t&s.k^.'s%jel%j.sk%jij
@@ -5538,7 +5538,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Маточкина           //'ma.to-t&S%j.k%ji.no-
 Матросова           //m^t.'ro.so-.vo-
 Матур               //m^.'tur
-Матусовых           //'ma.t:u.so-.vi0x
+Матусовых           //'ma.tu.so-.vi0x
 Матыкина            //m^.'ti0.k%jI.no-
 Матюшенко           //mo-.t%ju.'SE.nko-
 Махалина            //m^.'xa.l%ji.no-
@@ -5552,7 +5552,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Машековская         //m^.'SE.ko-f.sko-.jo-
 Машенцева           //'ma.SEn.t&sE.vo-
 Машерова            //mo-.'SE.ro-.vo-
-Маши                //'ma.S:i
+Маши                //'ma.Si0j
 Машинистовская      //mo-.Si0.'n%jis.to-f.sko-.jo-
 Машкинское          //'maS.k%jin.sko-.j$
 Мга                 //'mga
@@ -5861,7 +5861,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Мушникова           //'muS.n%jI.ko-.vo-
 Муштари             //muS.t^.'r%ji
 Мценская            //'mt&sEn.sko-.jo-
-Мшинская            //'mSi0:n.sko-.jo-
+Мшинская            //'mSi0.nsko-.jo-
 Мызинская           //'mi0.z%jin.sko-.jo-
 Мызинский           //'mi0.z%jin.sk%jij
 Мысленская          //'mi0s.l%j$n.sko-.jo-
@@ -5953,8 +5953,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Намуз               //n^.'mus
 Нансена             //'nan.sE.no-
 Наплотинская        //n^p.'lo.t%jin.sko-.jo-
-Напруговская        //n^p.':ru.go-f.sko-.jo-
-Напруговский        //n^p.':ru.go-f.sk%jij
+Напруговская        //n^p.'ru.go-f.sko-.jo-
+Напруговский        //n^p.'ru.go-f.sk%jij
 Напрудная           //n^p.'rud.no-.jo-
 Напрудный           //n^p.'rud.ni0j
 Наратбаш            //no-.r^t.'baS
@@ -6196,7 +6196,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Ново-Киевская       //no-.v^.'k%ji.j$f.sko-.jo-
 Ново-Киевский       //no-.v^.'k%ji.j$f.sk%jij
 Ново-Кировская      //no-.v^.'k%ji.ro-f.sko-.jo-
-Ново-Ковшинская     //'2no.v^.'ko:f.Si0n.sko-.jo-
+Ново-Ковшинская     //'2no.v^.'kofSn.sko-.jo-
 Ново-Логовая        //'2no.vo-.lo-.g^.'va*.jo-
 Ново-Луговая        //'2no.vo-.lu.g^.'va*.jo-
 Ново-Мопровская     //no-.v^.'mop.ro-f.sko-.jo-
@@ -6220,9 +6220,9 @@ Representation = EDCT_REPR_SZZ_STRING
 Ново-Юдинская       //no-.v^.'ju.d%jin.sko-.jo-
 Ново-Ясенная        //no-.v^.'ja.s%j$n%j.no-.jo-
 Ново-Ясенный        //no-.v^.'ja.s%j$n%j.ni0j
-Новоайдар           //no-.v^.^j.'dar
-Новоайдарская       //no-.v^.^j.'da:r.sko-.jo-
-Новоайдарский       //no-.v^.^j.'da:r.sk%jij
+Новоайдар           //no-.vo-.^j.'dar
+Новоайдарская       //no-.vo-.^j.'da.rsko-.jo-
+Новоайдарский       //no-.vo-.^j.'da.rsk%jij
 Новоалександровская //no-.vo-.^.l%jIk.'sand.ro-f.sko-.jo-
 Новоалександровский //no-.vo-.^.l%jIk.'sand.ro-f.sk%jij
 Новоалексеевская    //no-.vo-.^.l%jIk.'s%je.j$f.sko-.jo-
