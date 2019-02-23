@@ -6502,7 +6502,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Оглоблина           //^g.'lob.l%ji.no-
 Огнева              //^g.'n%jo.vo-
 Огоньки-Толоконниково //^.g^n%j.'k%ji_to-.l^.'ko.n%ji.ko-.vo-
-Огородницкая        //^.g^.'ro:d.n%jIt&s.ko-.jo-
+Огородницкая        //^.g^.'ro.dn%jIt&s.ko-.jo-
 Одельская           //^.'d%jel%j.sko-.jo-
 Одесская            //^.'d%jes.sko-.jo-
 Одоевского          //^.'do.j$f.sko-.vo-
@@ -7128,7 +7128,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Постовского         //p^s.'tof.sko-.vo-
 Постройкомовская    //po-s.tr^j.'ko.mo-f.sko-.jo-
 Постышева           //'po.sti0.SE.vo-
-Потапинский         //p^.':ta.p%jin.sk%jij
+Потапинский         //p^.'ta.p%jin.sk%jij
 Потаповская         //p^.'ta.po-f.sko-.jo-
 Потаповский         //p^.'ta.po-f.sk%jij
 Поташня             //po-.t^S.'n%ja
@@ -7926,8 +7926,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Семеновского        //s%j$.'m%jo.no-f.sko-.vo-
 Семенюка            //s%j$.m%j$.n%ju.'ka
 Семинарийский       //s%j$.m%ji.n^.'r%jij.sk%jij
-Семипалатинская     //s%j$.m%ji.p^.'l:a.t%jIn.sko-.jo-
-Семипалатинский     //s%j$.m%ji.p^.'l:a.t%jIn.sk%jij
+Семипалатинская     //s%j$.m%ji_p^.'la.t%jnsko-.jo-
+Семипалатинский     //s%j$.m%ji_p^.'la.t%jnsk%jij
 Семушкина           //'s%jo.muS.k%ji.no-
 Семьи               //s%jIm%j.'ji
 Семязинская         //s%jI.'m%ja.z%j$n.sko-.jo-
@@ -8040,7 +8040,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Сирко               //s%jIr.'ko.
 Сити                //'s%ji.t%jij
 Сичинского          //s%ji.'t&S%jin.sko-.vo-
-Сия                 //'s%ji.:jo-
+Сия                 //'s%ji.jo-
 Сиянина             //s%ji.'ja.n%ji.no-
 Скадовского         //sk^.'dof.sko-.vo-
 Скалинская          //sk^.'l%jin.sko-.jo-
@@ -8470,7 +8470,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Ступени             //stu.p%jI.'n%ji
 Ступинская          //'stu.p%jin.sko-.jo-
 Ступинский          //'stu.p%jin.sk%jij
-Стурцеля            //'stur.t&sE.:l%ja
+Стурцеля            //'stu.rt&sE.l%jo-
 Стяжкина            //'s%jt%jaS.k%ji.no-
 Суар                //su.'ar
 Суботовская         //'su.bo-.to-f.sko-.jo-
@@ -8527,7 +8527,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Сухлово             //'sux.lo-.vo-
 Суховская           //'su.xo-f.sko-.jo-
 Суховский           //'su.xo-f.sk%jij
-Сухого              //su.':xo.vo-
+Сухого              //su.'xo.vo-
 Сухонская           //'su.xo-n.sko-.jo-
 Сухореченская       //su.x^.'r%je.t&S%j$n.sko-.jo-
 Сухореченский       //su.x^.'r%je.t&S%j$n.sk%jij
