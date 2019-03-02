@@ -1316,6 +1316,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Атласи              //^t.l^.'s%jij
 Атласная            //^t.'las.no-.jo-
 Атласова            //^t.'la.so-.vo-
+Аттоева             //^.'to.j$.vo-
 Аулак               //a.u.'lak
 Аургазинская        //^.ur.g^.'z%jin.sko-.jo-
 Аургазинский        //^.ur.g^.'z%jin.sk%jij
@@ -1413,6 +1414,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Баландина           //b^.'lan%j.d%ji.no-
 Бали                //b^_'l%ji
 Балицкого           //b^.'l%jit&s.ko-.vo-
+Балкарова           //b^l.'ka.ro-.vo-
 Балкарская          //b^l.'ka.rsko-.jo-
 Балковая            //'bal.ko-.vo-.jo-
 Балковская          //'bal.ko-f.sko-.jo-
@@ -1679,6 +1681,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Бисеровское         //'b%ji.s%j$.ro-f.sko-.j$
 Бисертская          //'b%ji.s%j$rt&s.ko-.jo-
 Битакская           //b%ji.'tak.sko-.jo-
+Биттирова           //b%ji.'t%ji.ro-.vo-
 Битумная            //'b%ji.tum.no-.jo-
 Битумный            //'b%ji.tum.ni0j
 Бишек               //bi.'SEk
@@ -1728,6 +1731,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Бодрый              //'bod.ri0j
 Боевская            //'bo.j$f.sko-.jo-
 Боенский            //'bo.j$n.sk%jij
+Бозиева             //b^.'z%ji.j$.vo-
 Боинская            //'bo.jin.sko-.jo-
 Бой-Желенского      //'boj._ZI.'l%jen.sko-.vo-
 Бойко               //'boj.ko-.
@@ -2579,6 +2583,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Гилева              //g%ji.'l%jo.vo-
 Гилельса            //'g%ji.l%jIl%j.so-
 Гилязова            //g%ji.'l%ja.zo-.vo-
+Гиляхова            //g%ji_'l%ja.xo-.vo-
 Гинтовта            //'g%jin.to-f.to-
 Гиоргоса            //g%ji.'o.rgo-.so-
 Гипермаркет         //g%ji.p%jIr.'mar.k%j$t
@@ -3927,6 +3932,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Казачьего           //k^.'zat&S%j.j$.vo-
 Казбекская          //k^z.'b%jek.sko-.jo-
 Казбекский          //k^z.'b%jek.sk%jij
+Казиева             //k^.'z%ji.j$.vo-
 Казимирово          //ko-.z%ji.m%ji.'ro.vo-
 Казимировская       //ko-.z%ji.'m%ji.ro-f.sko-.jo-
 Казинца             //ko-.z%jin.'t&sa
@@ -5601,6 +5607,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Мефодиевский        //m%jI.'fo.d%jI.j$f.sk%jij
 Мехлиса             //'m%jex.l%ji.so-
 Мехренцева          //'me.xr$n.t&sE.vo-
+Мечиева             //m%jI.'t&S%ji.j$.vo-
 Мещерская           //m%jI.'S%jer.sko-.jo-
 Мещерский           //m%jI.'S%jer.sk%jij
 Мзымтинская         //'mzi0m.t%jIn.sko-.jo-
@@ -8529,6 +8536,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Сушкина             //'suS.k%ji.no-
 Сушко               //su.'Sko.
 Сущенская           //'su.S%j$n.sko-.jo-
+Суюнчева            //su.'jun.t&S%j$.vo-
 Суянец              //su.jI.'n%jet&s
 Сходненская         //'sxod.n%j$n.sko-.jo-
 Сходненский         //'sxod.n%j$n.sk%jij
@@ -9058,6 +9066,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Улофа               //'u.lo-.fo-
 Улусовская          //u.'lu.so-f.sko-.jo-
 Улусовский          //u.'lu.so-f.sk%jij
+Ульбашева           //ul%j.'ba.SE.vo-
 Ульриха             //'u.l%jr%ji.xo-
 Ульсена             //'ul%j.sE.no-
 Ульянинское         //u.'l%jja.n%jIn.sko-.j$
@@ -9910,6 +9919,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Шумихинский         //Su.'m%ji.x%jin.sk%jij
 Шумкина             //'Sum.k%ji.no-
 Шумского            //'Sum.sko-.vo-
+Шунгаровой          //Sun.'ga.ro-.vo-j
 Шуранова            //Su.'ra.no-.vo-
 Шурмина             //Sur.m%ji.'na
 Шурова              //'Su.ro-.vo-
