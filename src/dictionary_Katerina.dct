@@ -9744,7 +9744,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Шарова              //S^.'ro.vo-
 Шаровой             //S^.'ro.vo-j
 Шарташская          //S^r.'taS.sko-.jo-
-Шателена            //S:o-.tE.'l%je.no-
+Шателена            //So-.tE.'l%je.no-
 Шатерная            //S^.'t%jor.no-.jo-
 Шатковская          //S^t.'kof.sko-.jo-
 Шатковского         //S^t.'kof.sko-.vo-
@@ -9783,7 +9783,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Шексна              //SEks.'na
 Шекснинская         //SEks.'n%jin.sko-.jo-
 Шекснинский         //SEks.'n%jin.sk%jij
-Шелапутинский       //SE.l^.'pu.:t%jin.sk%jij
+Шелапутинский       //SE.l^.'pu.t%jin.sk%jij
 Шелашский           //'SE.lo-S.sk%jij
 Шелекса             //'SE.l%j$k.so-
 Шелепихи            //SE.l%jI.'p%ji.x%jij
@@ -9956,7 +9956,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Щетинковская        //S%jI.'t%jin.ko-f.sko-.jo-
 Щетинковский        //S%jI.'t%jin.ko-f.sk%jij
 Щетиновский         //S%jI.'t%ji.no-f.sk%jij
-Щетинсковский       //S%jI.'t%jin.:sko-f.sk%jij
+Щетинсковский       //S%jI.'t%jins.ko-f.sk%jij
 Щеткина             //'S%jot.k%ji.no-
 Щетовка             //'S%jo.to-f.ko-
 Щибровская          //S%jib.'rof.sko-.jo-
@@ -10150,8 +10150,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Ямальская           //jI.'mal%j.sko-.jo-
 Ямальский           //jI.'mal%j.sk%jij
 Ямашева             //jI.'ma.SE.vo-
-Ямницкая            //'jam.:n%jit&s.ko-.jo-
-Ямницкий            //'jam.:n%jit&s.k%jij
+Ямницкая            //'ja.mn%jit&s.ko-.jo-
+Ямницкий            //'ja.mn%jit&s.k%jij
 Ямпольская          //jIm.'pol%j.sko-.jo-
 Ямская              //jIm.'ska.jo-
 Ямской              //jIm.'skoj
