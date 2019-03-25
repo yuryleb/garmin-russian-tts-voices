@@ -2956,6 +2956,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Демнянская          //d%jIm.'n%jan.sko-.jo-
 Демская             //'d%jom.sko-.jo-
 Демский             //'d%jom.sk%jij
+Демское             //'d%jom.sko-.j$
 Демуса              //'dE.mu.so-
 Демченко            //'d%jem.t&S%j$n.ko-
 Демянск             //d%jI.'m%jansk
@@ -3115,6 +3116,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Долорес             //d^.'lo.rEs
 Дольная             //'dol%j.no-.jo-
 Домашевичская       //do-.m^.'SE.v%jit&S%j.sko-.jo-
+Домашникова         //d^.'maSn%j.ko-.vo-
 Домбаровская        //d^m.'ba.ro-f.sko-.jo-
 Домбаровский        //d^m.'ba.ro-f.sk%jij
 Доможировская       //do-.m^.'Zi0.ro-f.sko-.jo-
@@ -3514,6 +3516,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Займищенский        //'zaj.m%ji.S%j$n.sk%jij
 Зайни               //z^j.'n%ji
 Зайни-Батыра        //z^j.'n%ji_b^.'ti0.ro-
+Зайнуллы            //zo-j.nu.'li0
 Закаменская         //z^.'ka.m%j$n.sko-.jo-
 Закаменский         //z^.'ka.m%j$n.sk%jij
 Закгейма            //z^k.'g%jej.mo-
@@ -7425,6 +7428,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Расстанный          //r^s.'stan.ni0j
 Расторгуевский      //ro-s.t^r.'gu.j$f.sk%jij
 Расторгуевское      //ro-s.t^r.'gu.j$f.sko-.j$
+Расулева            //r^.'su.l%j$.vo-
 Ратича              //'ra.t%jit&S%j.o-
 Ратманского         //r^t.'man.sko-.vo-
 Ратнера             //'rat.nE.ro-
@@ -9090,6 +9094,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Уныш                //u.'ni0S
 Упа                 //u.'pa
 Урадова             //u.'ra.do-.vo-
+Ураксина            //u.'rak.s%ji.no-
 Уракчи              //u.r^k.'t&S%ji
 Урам                //u.'ram
 Ургальская          //ur.'gal%j.sko-.jo-
