@@ -6466,7 +6466,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Нёманская           //'n%jo.mo-n.sko-.jo-
 Нёманский           //'n%jo.mo-n.sk%jij
 Обдорская           //^b%j.'dor.sko-.jo-
-Обидовичи           //^.'b%ji.do-.v%jit&S%j.i
+Обидовичи           //^.'b%ji.do-.v%jit&S%j.ij
 Области             //'ob.lo-s%j.t%jij
 Областная           //^b.l^s.'na.jo-
 Областной           //^b.l^s.'noj
@@ -6559,7 +6559,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Олонского           //^.'lon.sko-.vo-
 Олсуфьевский        //^l.'suf%j.j$f.sk%jij
 Ольвиопольская      //^l%j.v%jI.'o.po-l%j.sko-.jo-
-Ольги               //'ol%j.g%jij.Ij
+Ольги               //'ol%j.g%jij
 Ольгиевская         //'ol%j.g%jI.j$f.sko-.jo-
 Ольгиевский         //'ol%j.g%jI.j$f.sk%jij
 Ольговская          //'ol%j.go-f.sko-.jo-
@@ -6692,7 +6692,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Офисный             //'o.f%jis.ni0j
 Оханская            //^.'xan.sko-.jo-
 Охмыльцевская       //^x.'mi0l%j.t&sEf.sko-.jo-
-Охотичи             //^.'xo.t%jit&S%j.i
+Охотичи             //^.'xo.t%jit&S%j.Ij
 Охотническая        //^.'xot.n%ji.t&S%j$.sko-.jo-
 Охотничий           //^.'xot%j.n%ji.t&S%jij
 Охотничья           //^.'xot%j.n%jit&S%j.jo-
@@ -6709,7 +6709,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Ошмяны              //^.'Sm%ja.ni0
 Оятский             //^.'jat&s.k%jij
 Оять-Плотично       //^.'jat%j_'plo.t%jit&S%j.no-
-Паведники           //p^.'v%jed%j.n%ji.k%jij
+Паведники           //p^.'v%je.dn%ji.k%jij
 Павленковская       //p^v.'l%jen.ko-f.sko-.jo-
 Павленковский       //p^v.'l%jen.ko-f.sk%jij
 Павлика             //'pav.l%ji.ko-
