@@ -10,3 +10,6 @@ charset = utf-8
 # Correct time pronouncation greater 21 hour
 /\b21:(\d\d)\b/ --> " 20 01:$1 "
 /\b2([2-4]:\d\d)\b/ --> " 20 0$1 "
+
+# Correct accent for some words combinations
+/(ые) полосы/ --> "$1 /+'po.lo-.si0/+"
