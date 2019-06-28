@@ -1886,6 +1886,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Брюсовом            //'br%ju.so-.vo-m
 Брюсову             //'br%ju.so-.vu
 Бсср                //'bE_.'2E.'2sE.'sEr
+Буачидзе            //bu.^.'t&S%jid.zE.I
 Бубнова             //'bub.no-.vo-
 Бугаевская          //bu.g^.'jof.sko-.jo-
 Бугорная            //bu.'gor.no-.jo-
@@ -3577,6 +3578,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Запрудино           //z^.'pru.d%ji.no-
 Запрудная           //z^.'prud.no-.jo-
 Запрудный           //z^.'prud.ni0j
+Зарган              //z^r.'gan
 Заревый             //'za.r%j$.vi0j
 Зарецкая            //z^.'r%jet&s.ko-.jo-
 Заречанский         //z^.'r%je.t&S%jo-n.sk%jij
@@ -3926,6 +3928,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Кадомцева           //'ka.do-m.t&sE.vo-
 Кадомцевых          //'ka.do-m.t&sE.vi0x
 Кадырова            //k^.'di0.ro-.vo-
+Кадыровой           //k^.'di0.ro-.vo-j
 Каенлы              //ko-.'2jen.'li0
 Каенсар             //'2ka.j$n.'sar
 Казакевича          //ko-.z^.'k%je.v%jit&S%j.o-
@@ -4019,6 +4022,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Камышенский         //k^.'mi0.Si0n.sk%jij
 Камышлинская        //k^.'mi0S.l%jIn.sko-.jo-
 Камышлинский        //k^.'mi0S.l%jIn.sk%jij
+Кан-Калика          //k^n.'ka.l%ji.ko-
 Канавки             //k^.'naf.k%jij
 Канальная           //k^.'nal%j.no-.jo-
 Канальный           //k^.'nal%j.ni0j
@@ -5658,6 +5662,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Миратино            //m%ji.'ra.t%ji.no-
 Миргородская        //m%jir.g^.'rot&s.ko-.jo-
 Миргородский        //m%jir.g^.'rot&s.k%jij
+Мирзоева            //m%jir.'zo.j$.vo-
 Мироновка           //m%ji.'ro.no-f.ko-
 Мироновская         //m%ji.'ro.no-f.sko-.jo-
 Мироносицкая        //m%ji.r^.'no.s%jit&s.ko-.jo-
@@ -9530,6 +9535,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Чабаны              //t&S%jI.b^.'ni0
 Чавдар              //t&S%jI.'vdar
 Чавеса              //'t&S%ja.v%j$.so-
+Чадиева             //t&S%jI.'d%ji.j$.vo-
 Чадырлар            //t&S%jI.di0r.'lar
 Чаловской           //t&S%jI.'lof.sko-j
 Чалого              //'t&S%ja.lo-.vo-
@@ -9829,6 +9835,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Шепитько            //SE.'p%jit%j.ko-
 Шептицкого          //SEp.'t%jit&s.ko-.vo-
 Шереметьево-Терминал //SE.r%jI.'2m%jet%j.j$.vo-_t%j$r.m%ji.'nal
+Шерипова            //SE.'r%ji.po-.vo-
 Шеронова            //SE.'ro.no-.vo-
 Шестопарк           //SEs.t^.'park
 Шефнера             //'SEf.n%j$.ro-
