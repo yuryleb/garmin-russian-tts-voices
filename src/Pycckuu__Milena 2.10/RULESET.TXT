@@ -145,8 +145,9 @@ charset = utf-8
 # Быховский и Кировский р-ны:
 / Х[Уу][Тт][Оо][Рр][Аа] \([БК]([А-Яа-я])+ [Рр]\-[Нн]\) / --> " /+xu.t^.'ra/+ "
 
-# Remove insignificant "way" name
-/ на  \\tn=address\\ дорогу \\tn=normal\\/ --> ""
+# Remove/change insignificant "road" name
+/во на  \\tn=address\\ дорогу \\tn=normal\\/ --> "во"
+/ на  \\tn=address\\ дороге \\tn=normal\\/ --> " впереди"
 
 # Remove alternate/locality name in brackets from pronounceable address
 / *\([^\(\)]*\) */ --> " "
