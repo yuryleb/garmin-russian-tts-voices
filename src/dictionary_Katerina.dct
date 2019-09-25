@@ -3597,6 +3597,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Заринская           //z^.'r%jin.sko-.jo-
 Зарничная           //z^r.'n%jit&S%j.no-.jo-
 Заройная            //z^.'roj.no-.jo-
+Зарощенская         //z^.'ro.S%j$n.sko-.jo-
 Зарубинская         //z^.'ru.b%jin.sko-.jo-
 Зарубинский         //z^.'ru.b%jin.sk%jij
 Зарудного           //z^.'rud.no-.vo-
@@ -7296,6 +7297,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Просторовская       //pr^s.'to.ro-f.sko-.jo-
 Просянкина          //pr^.'s%jan.k%ji.no-
 Просёлочная         //pr^.'s%jo.lo-t&S%j.no-.jo-
+Протасовская        //pr^.'ta.so-f.sko-.jo-
+Протасовский        //pr^.'ta.so-f.sk%jij
 Протвино            //pro-.tv%ji.'no.
 Противонаклонный    //pro-.t%ji.vo-.n^k.'lon.ni0j
 Протопоповский      //pro-.t^.'po.po-f.sk%jij
@@ -7493,6 +7496,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Ращупкина           //r^.'S%ju.pk%ji.no-
 Ребета              //'r%je.b%j$.to-
 Ребиндеровский      //'re.b%jin.dE.ro-f.sk%jij
+Рева                //'r%je.vo-
 Ревдинская          //r%jIv.'d%jin.sko-.jo-
 Ревина              //'r%je.v%ji.no-
 Ревинского          //r%jI.'v%jin.sko-.vo-
