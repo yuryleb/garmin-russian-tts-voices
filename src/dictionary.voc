@@ -229,8 +229,10 @@ Viada               //'v%ji.^.do-
 азс                 //^.zE_'Es
 аистова             //'aj.Is.to-.vo-
 аишхо               //a.iS.'xo*.
+айги                //^j.'g%ji
 айдинова            //^j.'d%ji.no-.vo-
 айдын               //^j.'di0n
+айзмана             //'aj.zmo-.no-
 айлантова           //^j.'lan.to-.vo-
 айская              //'aj.sko-.jo-
 айский              //'aj.sk%jij
@@ -745,6 +747,7 @@ Viada               //'v%ji.^.do-
 афипском            //^.'f%jip.sko-m
 афипскому           //^.'f%jip.sko-.mu
 афипскую            //^.'f%jip.sku.ju
+ахлаткина           //^x.'lat.k%ji.no-
 ахмедова            //^x.'m%je.do-.vo-
 ахметшина           //^x.'m%jet.Si0.no-
 ахриева             //^x.'r%ji.j$.vo-
@@ -765,6 +768,7 @@ Viada               //'v%ji.^.do-
 ашинскую            //^.'Si0n.sku.ju
 ашихина             //^.'Si0.x%ji.no-
 ашлы                //^.'Sli0
+ашмарина            //^S.'ma.r%ji.no-
 аэро                //'a.E.ro-
 аэропорт            //^.E.r^.'port
 аэропортная         //^.E.r^.'port.no-.jo-
@@ -3864,6 +3868,7 @@ Viada               //'v%ji.^.do-
 грандичскому        //gr^n.'d%jit&S%j.sko-.mu
 грандичскую         //gr^n.'d%jit&S%j.sku.ju
 граница             //gr^.'n%ji.t&so-
+грасиса             //'gra.s%ji.so-
 графито             //gro-.f%ji.'to*.
 графова             //'gra.fo-.vo-
 графтио             //'gra.ft%jio*.
@@ -6681,7 +6686,11 @@ Viada               //'v%ji.^.do-
 канатчиковском      //k^.'nat_t&S%jI.ko-f.sko-m
 канатчиковскому     //k^.'nat_t&S%jI.ko-f.sko-.mu
 канашская           //k^.'naS.sko-.jo-
+канашского          //k^.'naS.sko-.vo-
+канашское           //k^.'naS.sko-.j$
 канашской           //k^.'naS.sko-j
+канашском           //k^.'naS.sko-m
+канашскому          //k^.'naS.sko-.mu
 канашскую           //k^.'naS.sku.ju
 каневская           //'ka.n%j$f.sko-.jo-
 каневский           //'ka.n%j$f.sk%jij
@@ -8542,6 +8551,9 @@ Viada               //'v%ji.^.do-
 кукуевская          //ku.'ku.j$f.sko-.jo-
 кукуевской          //ku.'ku.j$f.sko-j
 кукуевскую          //ku.'ku.j$f.sku.ju
+кукшумская          //'kuk.Sum.sko-.jo-
+кукшумской          //'kuk.Sum.sko-j
+кукшумскую          //'kuk.Sum.sku.ju
 кулаевская          //ku.'la.j$f.sko-.jo-
 кулаевской          //ku.'la.j$f.sko-j
 кулаевскую          //ku.'la.j$f.sku.ju
@@ -17065,6 +17077,7 @@ Viada               //'v%ji.^.do-
 суглебской          //su.'gl%jep.sko-j
 суглебскую          //su.'gl%jep.sku.ju
 сугорово            //su.'go.ro-.vo-
+сугутки             //su.'gut.k%jij
 судакская           //su.'dak.sko-.jo-
 судакской           //su.'dak.sko-j
 судакскую           //su.'dak.sku.ju
@@ -19028,6 +19041,10 @@ Viada               //'v%ji.^.do-
 хвостова            //xv^s.'to.vo-
 хвостовом           //xv^s.'to.vo-m
 хвостову            //xv^s.'to.vu
+хевешская           //'xe.v%j$S.sko-.jo-
+хевешский           //'xe.v%j$S.sk%jij
+хевешской           //'xe.v%j$S.sko-j
+хевешскую           //'xe.v%j$S.sku.ju
 хейкконена          //'x%jej.ko-.n%j$.no-
 хейнова             //'x%jej.no-.vo-
 хемзовская          //'x%jEm.zo-f.sko-.jo-
@@ -19876,6 +19893,9 @@ Viada               //'v%ji.^.do-
 шахунская           //S^.'xun.sko-.jo-
 шахунской           //S^.'xun.sko-j
 шахунскую           //S^.'xun.sku.ju
+шахчуринская        //S^x.d&Z%ju.r%jin.sko-.jo-
+шахчуринской        //S^x.d&Z%ju.r%jin.sko-j
+шахчуринскую        //S^x.d&Z%ju.r%jin.sku.ju
 шацкая              //'Sat&s.ko-.jo-
 шацкой              //'Sat&s.ko-j
 шацкую              //'Sat&s.ku.ju
@@ -20327,6 +20347,10 @@ Viada               //'v%ji.^.do-
 эвпаторийского      //j$f.po-.t^.'r%jij.sko-.vo-
 эвпаторийском       //j$f.po-.t^.'r%jij.sko-m
 эвпаторийскому      //j$f.po-.t^.'r%jij.sko-.mu
+эгерский            //'E.g$r.sk%jij
+эгерского           //'E.g$r.sko-.vo-
+эгерском            //'E.g$r.sko-m
+эгерскому           //'E.g$r.sko-.mu
 эйхенская           //'Ej.x%j$n.sko-.jo-
 эйхенской           //'Ej.x%j$n.sko-j
 эйхенскую           //'Ej.x%j$n.sku.ju
@@ -20372,6 +20396,7 @@ Viada               //'v%ji.^.do-
 эльдорадовском      //El%j.d^.'ra.do-f.sko-m
 эльдорадовскому     //El%j.d^.'ra.do-f.sko-.mu
 эльмаз              //El%j.'mas
+эльменя             //El%j_'m%je.n%jo-
 эльтонская          //El%j.'ton.sko-.jo-
 эльтонский          //El%j.'ton.sk%jij
 эльтонского         //El%j.'ton.sko-.vo-

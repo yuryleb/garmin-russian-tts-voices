@@ -1105,8 +1105,10 @@ Representation = EDCT_REPR_SZZ_STRING
 Азс                 //^.zE_'Es
 Аистова             //'aj.Is.to-.vo-
 Аишхо               //a.iS.'xo*.
+Айги                //^j.'g%ji
 Айдинова            //^j.'d%ji.no-.vo-
 Айдын               //^j.'di0n
+Айзмана             //'aj.zmo-.no-
 Айлантова           //^j.'lan.to-.vo-
 Айская              //'aj.sko-.jo-
 Айский              //'aj.sk%jij
@@ -1337,6 +1339,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Афанасовская        //^.f^.'na.so-f.sko-.jo-
 Афипская            //^.'f%jip.sko-.jo-
 Афипский            //^.'f%jip.sk%jij
+Ахлаткина           //^x.'lat.k%ji.no-
 Ахмедова            //^x.'m%je.do-.vo-
 Ахметшина           //^x.'m%jet.Si0.no-
 Ахриева             //^x.'r%ji.j$.vo-
@@ -1351,6 +1354,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Ашинская            //^.'Si0n.sko-.jo-
 Ашихина             //^.'Si0.x%ji.no-
 Ашлы                //^.'Sli0
+Ашмарина            //^S.'ma.r%ji.no-
 Аэро                //'a.E.ro-
 Аэропорт            //^.E.r^.'port
 Аэропортная         //^.E.r^.'port.no-.jo-
@@ -2785,6 +2789,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Грандичская         //gr^n.'d%jit&S%j.sko-.jo-
 Грандичский         //gr^n.'d%jit&S%j.sk%jij
 Граница             //gr^.'n%ji.t&so-
+Грасиса             //'gra.s%ji.so-
 Графито             //gro-.f%ji.'to*.
 Графова             //'gra.fo-.vo-
 Графтио             //'gra.ft%jio*.
@@ -4065,6 +4070,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Канатчиков          //k^.'nat_t&S%jI.ko-f
 Канатчиковский      //k^.'nat_t&S%jI.ko-f.sk%jij
 Канашская           //k^.'naS.sko-.jo-
+Канашское           //k^.'naS.sko-.j$
 Каневская           //'ka.n%j$f.sko-.jo-
 Каневский           //'ka.n%j$f.sk%jij
 Канижская           //'ka.n%jiS.sko-.jo-
@@ -4890,6 +4896,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Куккоева            //kuk.'ko.j$.vo-
 Куккоевой           //kuk.'ko.j$.vo-j
 Кукуевская          //ku.'ku.j$f.sko-.jo-
+Кукшумская          //'kuk.Sum.sko-.jo-
 Кулаевская          //ku.'la.j$f.sko-.jo-
 Кулибина            //ku.'l%ji.b%ji.no-
 Кулиша              //ku.l%ji.'Sa
@@ -8571,6 +8578,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Суворова            //su.'vo.ro-.vo-
 Суглебская          //su.'gl%jep.sko-.jo-
 Сугорово            //su.'go.ro-.vo-
+Сугутки             //su.'gut.k%jij
 Судакская           //su.'dak.sko-.jo-
 Судиловского        //su.'d%ji.lo-f.sko-.vo-
 Судмалиса           //'sud.mo-.l%ji.so-
@@ -9474,6 +9482,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Хвесина             //'xv%je.s%ji.no-
 Хворостная          //'xvo.ro-s.no-.jo-
 Хвостов             //xv^s.'tof
+Хевешская           //'xe.v%j$S.sko-.jo-
+Хевешский           //'xe.v%j$S.sk%jij
 Хейкконена          //'x%jej.ko-.n%j$.no-
 Хейнова             //'x%jej.no-.vo-
 Хемзовская          //'x%jEm.zo-f.sko-.jo-
@@ -9871,6 +9881,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Шахтостроевский     //So-x.t^.'stro.j$f.sk%jij
 Шахтострой          //So-x.t^.'stroj
 Шахунская           //S^.'xun.sko-.jo-
+Шахчуринская        //S^x.d&Z%ju.r%jin.sko-.jo-
 Шацкая              //'Sat&s.ko-.jo-
 Шашкевича           //S^S.'k%je.v%jit&S%j.o-
 Швагирева           //'Sva.g%ji.r%j$.vo-
@@ -10082,6 +10093,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Щёлковская          //'S%jol.ko-f.sko-.jo-
 Щёлковский          //'S%jol.ko-f.sk%jij
 Щёлковское          //'S%jol.ko-f.sko-.j$
+Эгерский            //'E.g$r.sk%jij
 Эйхенская           //'Ej.x%j$n.sko-.jo-
 Экваторная          //Ek.'va.to-r.no-.jo-
 Экзюпери            //Ek.z%ju.p%jI.'r%ji
@@ -10103,6 +10115,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Эльблонгская        //'El%j.blo-nk.sko-.jo-
 Эльдорадовский      //El%j.d^.'ra.do-f.sk%jij
 Эльмаз              //El%j.'mas
+Эльменя             //El%j_'m%je.n%jo-
 Эльтонская          //El%j.'ton.sko-.jo-
 Эльтонский          //El%j.'ton.sk%jij
 Эмануиловская       //E.mo-.nu.'i.lo-f.sko-.jo-
