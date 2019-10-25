@@ -1337,6 +1337,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Афанасовская        //^.f^.'na.so-f.sko-.jo-
 Афипская            //^.'f%jip.sko-.jo-
 Афипский            //^.'f%jip.sk%jij
+Ахазова             //^x.'a.zo-.vo-
 Ахлаткина           //^x.'lat.k%ji.no-
 Ахмедова            //^x.'m%je.do-.vo-
 Ахметшина           //^x.'m%jet.Si0.no-
@@ -2853,6 +2854,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Гузеевская          //gu.'z%je.j$f.sko-.jo-
 Гузеевский          //gu.'z%je.j$f.sk%jij
 Гузель              //gu.'z%jel%j
+Гузовского          //gu.'zof.sko-.vo-
 Гуковская           //'gu.ko-f.sko-.jo-
 Гуковский           //'gu.ko-f.sk%jij
 Гулака-Артемовского //gu.l^.'ka_^r.t%jI.'mof.sko-.vo-
@@ -5682,6 +5684,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Миляшле             //m%ji.l%jI.'Sl%je
 Минаевский          //m%ji.'na.j$f.sk%jij
 Минайленко          //m%ji.'naj.l%j$n.ko-
+Миначева            //m%ji.n^.'t&S%jo.vo-
 Мингажева           //m%jin.'ga.ZE.vo-
 Минералводская      //m%ji.n%j$.r^l.'vot&s.ko-.jo-
 Мининская           //'m%ji.n%jin.sko-.jo-
@@ -10197,6 +10200,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Ягринское           //'jag.r%jin.sko-.j$
 Ядова               //'ja.do-.vo-
 Ядринская           //'jad.r%jin.sko-.jo-
+Ядринское           //'jad.r%jin.sko-.j$
 Ядринцевская        //'jad.r%jin.t&sEf.sko-.jo-
 Ядринцевский        //'jad.r%jin.t&sEf.sk%jij
 Язепа               //jI.'zE.po-
