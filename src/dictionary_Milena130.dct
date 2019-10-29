@@ -5235,6 +5235,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Логовой             //lo-.g^.'voj
 Логойск             //l^.'gojsk
 Логойская           //l^.'goj.sko-.jo-
+Логойский           //l^.'goj.sk%jij
 Лодейное            //l^.'d%jej.no-.j$
 Лодейнопольская     //lo-.d%j$j.n^.'pol%j.sko-.jo-
 Лодейнопольский     //lo-.d%j$j.n^.'pol%j.sk%jij
@@ -5298,6 +5299,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Лукойл              //luk_'ojl
 Луконина            //lu.'ko.n%ji.no-
 Лукояновская        //lu.k^.'ja.no-f.sko-.jo-
+Лукьяновича         //lu.k%jjI.'no.v%jit&S%j.o-
 Лукьяновская        //luk%j.'ja.no-f.sko-.jo-
 Лукьяновский        //luk%j.'ja.no-f.sk%jij
 Луневская           //lu.'n%jof.sko-.jo-
@@ -6081,6 +6083,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Неговля             //'n%je.go-vl%j.o-
 Неделина            //n%jI.'d%je.l%ji.no-
 Неедлы              //'n%je.j$d.li0
+Независимости       //n%j$.z^.'v%ji.s%ji.mo-s%j.t%jij
 Незнамово           //n%jIz.'na.mo-.vo-
 Незнанье            //n%jIz.'nan%j.je
 Нейбута             //'nEj.bu.to-
@@ -8772,6 +8775,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Тарасовская         //t^.'ra.so-f.sko-.jo-
 Тарасовский         //t^.'ra.so-f.sk%jij
 Таратенка           //to-.r^.'t%jen.ko-
+Тарашкевича         //to-.r^S.'k%je.v%jit&S%j.o-
 Таращанская         //t^.'ra.S%jIn.sko-.jo-
 Таращанский         //t^.'ra.S%jIn.sk%jij
 Тарвацкого          //t^r.'vat&s.ko-.vo-
@@ -9098,6 +9102,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Турловка            //'tur.lo-f.ko-
 Турова              //'tu.ro-.vo-
 Турово              //'tu.ro-.vo-
+Туровского          //tu.'rof.sko-.vo-
 Турундаевская       //tu.run.'da.j$f.sko-.jo-
 Турундаевский       //tu.run.'da.j$f.sk%jij
 Турчилов            //tur.t&S%ji.'lof
