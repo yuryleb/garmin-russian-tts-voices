@@ -1009,6 +1009,7 @@ Representation = EDCT_REPR_SZZ_STRING
 [Data]
 Ёдковская           //'jot.ko-f.sko-.jo-
 Ёлки-Палки          //'jol.k%ji_'pal.k%jij
+АЗС                 //a.zEj.'Es
 Абашева             //^.'ba.SE.vo-
 Абганеровская       //^b.g^.'n%je.ro-f.sko-.jo-
 Абдулинская         //^.'bdu.l%jIn.sko-.jo-
@@ -1103,7 +1104,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Азизова             //^.'z%ji.zo-.vo-
 Азина               //'a.z%ji.no-
 Азолина             //^.'zo.l%ji.no-
-Азс                 //^.zE_'Es
+Азс                 //a.zEj.'Es
 Аистова             //'aj.Is.to-.vo-
 Аишхо               //a.iS.'xo*.
 Айги                //^j.'g%ji
@@ -8976,8 +8977,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Травистая           //tr^.'v%ji.sto-.jo-
 Травяная            //tro-.v%jI.'na*.jo-
 Траилина            //tr^.'i.l%ji.no-
-Транс-АЗС           //'trans_'2a.zE.'Es
-Транс-Азс           //'trans_'2a.zE.'Es
+Транс-АЗС           //'trans_'2a.zEj.'Es
+Транс-Азс           //'trans_'2a.zEj.'Es
 Трасна              //tr^s.'na
 Трахтемировская     //tro-x.t%jI.'m%ji.ro-f.sko-.jo-
 Трегубенко          //tr%jI.'gu.b%j$n.ko-
