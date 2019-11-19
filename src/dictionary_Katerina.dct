@@ -1375,6 +1375,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Бабаджаняна         //bo-.b^.d&Z^.'n%ja.no-
 Бабай               //b^.'baj
 Бабакина            //b^.'ba.k%ji.no-
+Бабанина            //b^.'ba.n%ji.no-
 Бабеево             //b^.'b%je.j$.vo-
 Бабефа              //b^.'b%jo.fo-
 Бабикова            //'ba.b%ji.ko-.vo-
@@ -5149,6 +5150,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Лимендское          //'l%ji.m%j$nt.sko-.j$
 Линдовская          //'l%jin.do-f.sko-.jo-
 Линевского          //l%ji.'n%jef.sko-.vo-
+Линецкая            //l%ji.'n%jet&s.ko-.jo-
+Линецкий            //l%ji.'n%jet&s.k%jij
 Линковского         //l%jin.'kof.sko-.vo-
 Линника             //'l%ji.n%ji.ko-
 Лиозненская         //l%jI.jI.'oz.n%j$n.sko-.jo-
@@ -5315,6 +5318,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Льговский           //'l%jgof.sk%jij
 Льдозаводская       //'2l%jdo.zo-v^t.'ska.jo-
 Льдозаводской       //'2l%jdo.zo-v^t.'skoj
+Любажская           //l%ju.'baS.sko-.jo-
+Любажский           //l%ju.'baS.sk%jij
 Любанская           //l%ju.'ban.sko-.jo-
 Любанский           //l%ju.'ban.sk%jij
 Любань              //l%ju.'ban%j
