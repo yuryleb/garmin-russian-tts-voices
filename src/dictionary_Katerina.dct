@@ -1706,6 +1706,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Битумная            //'b%ji.tum.no-.jo-
 Битумный            //'b%ji.tum.ni0j
 Бишек               //bi.'SEk
+Благининой          //bl^.'g%ji.n%ji.no-j
 Благоева            //bl^.'go.j$.vo-
 Блажевича           //bl^.'ZE.v%ji.t&S%jo-
 Блажко              //bl^S.'ko.
@@ -2530,6 +2531,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Ганецкого           //g^.'n%jet&s.ko-.vo-
 Ганина              //'ga.n%ji.no-
 Ганусинская         //g^.'nu.s%jin.sko-.jo-
+Гапеева             //g^.'p%je.j$.vo-
 Гапсальская         //g^p.'sal%j.sko-.jo-
 Гарбарская          //g^r.'bar.sko-.jo-
 Гарболово           //'gar.bo-.lo-.vo-
@@ -3992,6 +3994,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Кайнар              //k^j.'nar
 Кайсарова           //k^j.'sa.ro-.vo-
 Каковинский         //k^.'ko.v%jin.sk%jij
+Калакина            //k^.'la.k%ji.no-
 Каландарашвили      //ko-.lo-n.do-.r^.'Sv%ji.l%jij
 Каланчевская        //ko-.l^n%j.'t&S%jof.sko-.jo-
 Каланчевский        //ko-.l^n%j.'t&S%jof.sk%jij
@@ -4429,6 +4432,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Колесниковой        //k^.'l%jes%j.n%ji.ko-.vo-j
 Колина              //'ko.l%ji.no-
 Колледж             //'ko.l%j$tS
+Колледжская         //k^.'l%jetS.sko-.jo-
 Коллонтай           //ko-.l^n.'taj
 Колмовская          //'kol.mo-f.sko-.jo-
 Колмовский          //'kol.mo-f.sk%jij
@@ -5340,6 +5344,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Любовича            //l%ju.'bo.v%ji.t&S%jo-
 Любоничи            //l%ju.'bo.n%ji.t&S%ji
 Люботинский         //l%ju.'bo.t%jin.sk%jij
+Любушкина           //'l%ju.buS.k%ji.no-
 Любченко            //'l%jup.t&S%j$n.ko-
 Людвика             //'l%jud.v%jI.ko-
 Людкевича           //l%jut.'k%je.v%ji.t&S%jo-
@@ -7312,6 +7317,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Прокошкина          //pr^.'koS.k%ji.no-
 Прокудинский        //pr^.'ku.d%jin.sk%jij
 Прокунинская        //pr^.'ku.n%jin.sko-.jo-
+Прокуровская        //pr^.'ku.ro-f.sko-.jo-
+Прокуровский        //pr^.'ku.ro-f.sk%jij
 Прокушева           //'pro.ku.SE.vo-
 Прокшино            //'prok.Si0.no-
 Пролетарская        //pro-.l%jI.'tar.sko-.jo-
@@ -7614,6 +7621,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Рогатица            //r^.'ga.t%ji.t&so-
 Рогнединская        //r^g.'n%je.d%jIn.sko-.jo-
 Рогозовская         //r^.'go.zo-f.sko-.jo-
+Родзевича-Белевича  //r^d.'z%je.v%jit&S%j.o-_b%jI.'l%je.v%jit&S%j.o-
 Родинская           //'ro.d%jin.sko-.jo-
 Родионовская        //ro-.d%ji.'o.no-f.sko-.jo-
 Родителева          //r^.'d%ji.t%j$.l%j$.vo-
@@ -8655,6 +8663,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Сыромятнический     //si0.r^.'m%jat.n%ji.t&S%j$.sk%jij
 Сырская             //'si0r.sko-.jo-
 Сырский             //'si0r.sk%jij
+Сырцева             //'si0r.t&sE.vo-
 Сырчина             //'si0r.t&S%ji.no-
 Сысертский          //si0.'s%jert&s.k%jij
 Сытина              //'si0.t%ji.no-
@@ -9322,6 +9331,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Федина              //'fe.d%ji.no-
 Федино              //'fe.d%ji.no-
 Фединское           //'f%je.d%jIn.sko-.j$
+Федореевская        //f%j$.d^.'r%je.j$f.sko-.jo-
 Федоровка           //'f%jo.do-.ro-f.ko-
 Федоровского        //f%j$.d^.'rof.sko-.vo-
 Федоскинская        //f%j$.'dos.k%jin.sko-.jo-
@@ -10019,6 +10029,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Шукшина             //Suk.Si0.'na
 Шулайкиной          //Su.'laj.k%ji.no-j
 Шулейкина           //Su.'l%jej.k%ji.no-
+Шульгина            //Sul%j.g%ji.'na
 Шулявская           //Su.'l%jaf.sko-.jo-
 Шумейкина           //Su.'m%jej.k%ji.no-
 Шуменская           //'Su.m%j$n.sko-.jo-

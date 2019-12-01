@@ -1532,6 +1532,7 @@ vkusnye             //'fkus.ni0.j$
 битумную            //'b%ji.tum.nu.ju
 битумный            //'b%ji.tum.ni0j
 бишек               //bi.'SEk
+благининой          //bl^.'g%ji.n%ji.no-j
 благоева            //bl^.'go.j$.vo-
 блажевича           //bl^.'ZE.v%ji.t&S%jo-
 блажко              //bl^S.'ko*.
@@ -3345,6 +3346,7 @@ vkusnye             //'fkus.ni0.j$
 ганусинская         //g^.'nu.s%jin.sko-.jo-
 ганусинской         //g^.'nu.s%jin.sko-j
 ганусинскую         //g^.'nu.s%jin.sku.ju
+гапеева             //g^.'p%je.j$.vo-
 гапсальская         //g^p.'sal%j.sko-.jo-
 гапсальской         //g^p.'sal%j.sko-j
 гапсальскую         //g^p.'sal%j.sku.ju
@@ -6554,6 +6556,7 @@ vkusnye             //'fkus.ni0.j$
 каковинского        //k^.'ko.v%jin.sko-.vo-
 каковинском         //k^.'ko.v%jin.sko-m
 каковинскому        //k^.'ko.v%jin.sko-.mu
+калакина            //k^.'la.k%ji.no-
 каландарашвили      //ko-.lo-n.do-.r^.'Sv%ji.l%jij
 каланчевская        //ko-.l^n%j.'t&S%jof.sko-.jo-
 каланчевский        //ko-.l^n%j.'t&S%jof.sk%jij
@@ -7542,6 +7545,9 @@ vkusnye             //'fkus.ni0.j$
 коли                //'ko.l%jIj
 колина              //'ko.l%ji.no-
 колледж             //'ko.l%j$tS
+колледжская         //k^.'l%jetS.sko-.jo-
+колледжской         //k^.'l%jetS.sko-j
+колледжскую         //k^.'l%jetS.sku.ju
 коллонтай           //ko-.l^n.'taj
 колмовская          //'kol.mo-f.sko-.jo-
 колмовский          //'kol.mo-f.sk%jij
@@ -9580,6 +9586,7 @@ vkusnye             //'fkus.ni0.j$
 люботинского        //l%ju.'bo.t%jin.sko-.vo-
 люботинском         //l%ju.'bo.t%jin.sko-m
 люботинскому        //l%ju.'bo.t%jin.sko-.mu
+любушкина           //'l%ju.buS.k%ji.no-
 любченко            //'l%jup.t&S%j$n.ko-
 людвика             //'l%jud.v%jI.ko-
 людкевича           //l%jut.'k%je.v%ji.t&S%jo-
@@ -14278,6 +14285,13 @@ vkusnye             //'fkus.ni0.j$
 прокунинская        //pr^.'ku.n%jin.sko-.jo-
 прокунинской        //pr^.'ku.n%jin.sko-j
 прокунинскую        //pr^.'ku.n%jin.sku.ju
+прокуровская        //pr^.'ku.ro-f.sko-.jo-
+прокуровский        //pr^.'ku.ro-f.sk%jij
+прокуровского       //pr^.'ku.ro-f.sko-.vo-
+прокуровской        //pr^.'ku.ro-f.sko-j
+прокуровском        //pr^.'ku.ro-f.sko-m
+прокуровскому       //pr^.'ku.ro-f.sko-.mu
+прокуровскую        //pr^.'ku.ro-f.sku.ju
 прокушева           //'pro.ku.SE.vo-
 прокшино            //'prok.Si0.no-
 пролетарская        //pro-.l%jI.'tar.sko-.jo-
@@ -14985,6 +14999,7 @@ vkusnye             //'fkus.ni0.j$
 рогозовская         //r^.'go.zo-f.sko-.jo-
 рогозовской         //r^.'go.zo-f.sko-j
 рогозовскую         //r^.'go.zo-f.sku.ju
+родзевича-белевича  //r^d.'z%je.v%jit&S%j.o-_b%jI.'l%je.v%jit&S%j.o-
 родинская           //'ro.d%jin.sko-.jo-
 родинской           //'ro.d%jin.sko-j
 родинскую           //'ro.d%jin.sku.ju
@@ -17350,6 +17365,7 @@ vkusnye             //'fkus.ni0.j$
 сырском             //'si0r.sko-m
 сырскому            //'si0r.sko-.mu
 сырскую             //'si0r.sku.ju
+сырцева             //'si0r.t&sE.vo-
 сырчина             //'si0r.t&S%ji.no-
 сысертский          //si0.'s%jert&s.k%jij
 сысертского         //si0.'s%jert&s.ko-.vo-
@@ -18820,6 +18836,9 @@ vkusnye             //'fkus.ni0.j$
 федина              //'fe.d%ji.no-
 федино              //'fe.d%ji.no-
 фединское           //'f%je.d%jIn.sko-.j$
+федореевская        //f%j$.d^.'r%je.j$f.sko-.jo-
+федореевской        //f%j$.d^.'r%je.j$f.sko-j
+федореевскую        //f%j$.d^.'r%je.j$f.sku.ju
 федоровка           //'f%jo.do-.ro-f.ko-
 федоровского        //f%j$.d^.'rof.sko-.vo-
 федоскинская        //f%j$.'dos.k%jin.sko-.jo-
@@ -20278,6 +20297,7 @@ vkusnye             //'fkus.ni0.j$
 шукшина             //Suk.Si0.'na
 шулайкиной          //Su.'laj.k%ji.no-j
 шулейкина           //Su.'l%jej.k%ji.no-
+шульгина            //Sul%j.g%ji.'na
 шулявская           //Su.'l%jaf.sko-.jo-
 шулявской           //Su.'l%jaf.sko-j
 шулявскую           //Su.'l%jaf.sku.ju
