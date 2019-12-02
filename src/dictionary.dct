@@ -5233,10 +5233,13 @@ vkusnye             //'fkus.ni0.j$
 ермекеевскую        //j$r.m%jI.'k%je.j$f.sku.ju
 ермиловых           //j$r.'m%ji.lo-.vi0x
 ермоленко           //jIr.'mo.l%j$n.ko-
+ермоловская         //jIr.'mo.lo-f.sko-.jo-
 ермоловский         //jIr.'mo.lo-f.sk%jij
 ермоловского        //jIr.'mo.lo-f.sko-.vo-
+ермоловской         //jIr.'mo.lo-f.sko-j
 ермоловском         //jIr.'mo.lo-f.sko-m
 ермоловскому        //jIr.'mo.lo-f.sko-.mu
+ермоловскую         //jIr.'mo.lo-f.sku.ju
 ермощенко           //jIr.'mo.S%jen.ko-
 еропкинский         //j$.'rop.k%jin.sk%jij
 еропкинского        //j$.'rop.k%jin.sko-.vo-
@@ -5277,6 +5280,9 @@ vkusnye             //'fkus.ni0.j$
 жашковской          //'ZaS.ko-f.sko-j
 жашковскую          //'ZaS.ko-f.sku.ju
 жбанкова            //Zb^n.'ko.vo-
+ждамировская        //Zd^.'m%ji.ro-.fsko-.jo-
+ждамировской        //Zd^.'m%ji.ro-.fsko-j
+ждамировскую        //Zd^.'m%ji.ro-.fsku.ju
 жебелева            //Z$.b%jI.'l%jo.vo-
 железнова           //Z$.l%jI.'zno.vo-
 железноводская      //ZE.l%jI.zn^.'vot&s.ko-.jo-
@@ -9858,6 +9864,9 @@ vkusnye             //'fkus.ni0.j$
 малоюросская        //mo-.l^.'ju.ro-s.sko-.jo-
 малоюросской        //mo-.l^.'ju.ro-s.sko-j
 малоюросскую        //mo-.l^.'ju.ro-s.sku.ju
+малоярославецкая    //mo-.lo-.jo-.r^.'sla.v%j$t&s.ko-.jo-
+малоярославецкой    //mo-.lo-.jo-.r^.'sla.v%j$t&s.sko-j
+малоярославецкую    //mo-.lo-.jo-.r^.'sla.v%j$t&s.ku.ju
 малую               //'ma.lu.ju
 малыгинский         //m^.'li0.g%jin.sk%jij
 малыгинского        //m^.'li0.g%jin.sko-.vo-
@@ -11441,6 +11450,9 @@ vkusnye             //'fkus.ni0.j$
 николо-качановского //n%ji.'ko.lo-_k^.'t&S%ja.no-f.sko-.vo-
 николо-качановском  //n%ji.'ko.lo-_k^.'t&S%ja.no-f.sko-m
 николо-качановскому //n%ji.'ko.lo-_k^.'t&S%ja.no-f.sko-.mu
+николо-козинская    //n%ji.'ko.lo-_k^.'z%jin.sko-.jo-
+николо-козинской    //n%ji.'ko.lo-_k^.'z%jin.sko-j
+николо-козинскую    //n%ji.'ko.lo-_k^.'z%jin.sku.ju
 николоваганьковский //n%ji.'ko.lo-_v^.'gan%j.ko-f.sk%jij
 николоваганьковского //n%ji.'ko.lo-_v^.'gan%j.ko-f.sko-.vo-
 николоваганьковском //n%ji.'ko.lo-_v^.'gan%j.ko-f.sko-m
@@ -14511,6 +14523,10 @@ vkusnye             //'fkus.ni0.j$
 пуховичская         //'pu.xo-.v%jit&S%j.sko-.jo-
 пуховичской         //'pu.xo-.v%jit&S%j.sko-j
 пуховичскую         //'pu.xo-.v%jit&S%j.sku.ju
+пучковский          //put&S%j.'kof.sk%jij
+пучковского         //put&S%j.'kof.sko-.vo-
+пучковском          //put&S%j.'kof.sko-m
+пучковскому         //put&S%j.'kof.sko-.mu
 пушанская           //pu.'San.sko-.jo-
 пушанской           //pu.'San.sko-j
 пушанскую           //pu.'San.sku.ju
@@ -17458,6 +17474,10 @@ vkusnye             //'fkus.ni0.j$
 тайнинском          //t^j.'n%jin.sko-m
 тайнинскому         //t^j.'n%jin.sko-.mu
 тайнинскую          //t^j.'n%jin.sku.ju
+тайфуновский        //t^j.'fu.no-f.sk%jij
+тайфуновского       //t^j.'fu.no-f.sko-.vo-
+тайфуновском        //t^j.'fu.no-f.sko-m
+тайфуновскому       //t^j.'fu.no-f.sko-.mu
 тайшетская          //t^j.'SEt&s.ko-.jo-
 тайшетский          //t^j.'SEt&s.k%jij
 тайшетского         //t^j.'SEt&s.ko-.vo-
@@ -19721,6 +19741,7 @@ vkusnye             //'fkus.ni0.j$
 чирвоная            //t&S%jir.'vo.no-.jo-
 чирковицы           //'t&S%jir.ko-.v%ji.t&si0
 чирямле             //t&S%ji.r%jIm.'l%je
+чистовича           //t&S%jis.'to.v%jit&S%j.o-
 чистого             //'t&S%ji.sto-.vo-
 чистоклетовская     //t&S%jis.t^.'kl%je.to-f.sko-.jo-
 чистоклетовской     //t&S%jis.t^.'kl%je.to-f.sko-j
