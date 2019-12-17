@@ -3,8 +3,8 @@ gmt v0.9.73.1232b  CC BY-SA (C) 2011-2018 AP www.gmaptool.eu
 Input file: Pycckuu__Katerina.vpm.
 
 
-File:		Pycckuu__Katerina.vpm, length 15833088
-Header:   	15.04.2019 19:40:30, DSKIMG, XOR 00, V 1.39, Ms 0, 006-D1312-00
+File:		Pycckuu__Katerina.vpm, length 15839232
+Header:   	17.12.2019 09:36:25, DSKIMG, XOR 00, V 1.39, Ms 0, 006-D1312-00
 Mapset:   	katerina
 fat:		1000h - 1200h - 6000h, block 2048
 maps:		7, sub-files 7
@@ -13,7 +13,7 @@ Sub-file         fat     length
  DLLINFO  TXT   1200h      1002
  KTRN_DAT DAT   1400h  10303064
  KTRN_USL DAT   3E00h   1903788
- DICT     BDC   4600h    501964
+ DICT     BDC   4600h    508140
  DLLIMG   BIN   4A00h   3089924
  DLLIMG   SIG   5800h        65
  IMGEND   TST   5A00h         3
@@ -22,7 +22,7 @@ Map              length s-f  CP    prio  PID   FID  name
  DLLINFO   ?       1002  1
  KTRN_DAT  ?   10303064  1
  KTRN_USL  ?    1903788  1
- DICT      ?     501964  1
+ DICT      ?     508140  1
  DLLIMG    ?    3089924  1
  DLLIMG    ?         65  1
  IMGEND    ?          3  1
