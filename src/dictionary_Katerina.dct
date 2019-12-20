@@ -3597,9 +3597,9 @@ Representation = EDCT_REPR_SZZ_STRING
 Заможная            //z^.'moZ.no-.jo-
 Замок               //'za.mo-k
 Заморенова          //z^.m^.'r%jo.no-.vo-
-Замоскворечье       //zo-.mo-s.kv^.'r%jet&S%j.j$
-Замосточье          //zo-.m^s.'tot&S%j.je
-Замошье             //z^.'moS.jI.j$
+Замоскворечье       //zo-.mo-s.kv^.'r%je.t&S%jI_$
+Замосточье          //zo-.m^s.'to.t&S%jI_$
+Замошье             //z^.'moS_e
 Замшина             //'zam.Si0.no-
 Замшиной            //'zam.Si0.no-j
 Замьянская          //z^m%j.'jan.sko-.jo-
@@ -3622,7 +3622,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Заречанский         //z^.'r%je.t&S%jo-n.sk%jij
 Заречная            //z^.'r%jet&S%j.no-.jo-
 Заречно-Набережная  //z^.'r%jet&S%j.n^_'na.b%j$.r%j$Z.no-.jo-
-Заречье             //z^.'r%jet&S%j.je
+Заречье             //z^.'r%je.t&S%jI_$
 Заринская           //z^.'r%jin.sko-.jo-
 Зарничная           //z^r.'n%jit&S%j.no-.jo-
 Заройная            //z^.'roj.no-.jo-
@@ -3632,7 +3632,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Зарудного           //z^.'rud.no-.vo-
 Заручевская         //zo-.ru.t&S%j'ef.sko-.jo-
 Заручевье           //zo-.ru.'t&S%jev.jI.j$
-Заселечье           //zo-.s%jI.'l%jet&S%j.jI.j$
+Заселечье           //zo-.s%jI.'l%je.t&S%jI_$
 Заслонова           //z^s.'lo.no-.vo-
 Застава             //z^s.'ta.vo-
 Заставная           //z^s.'tav.no-.jo-
@@ -5840,6 +5840,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Москвина            //mo-s.kv%ji.'na
 Москворецкая        //mo-s.kv^.'r%jet&s.ko-.jo-
 Москворецкий        //mo-s.kv^.'r%jet&s.k%jij
+Москворечье         //mo-s.kv^.'r%je.t&S%jI_$
 Московкина          //m^s.'kof.k%ji.no-
 Московско-Казанский //m^s.'kof.sko-_k^.'zan.sk%jij
 Московско-Минской   //m^s.'kof.sko-_'m%jin.sko-j
@@ -9824,7 +9825,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Чухукт              //t&S%ju.'xukt
 Чуцкаева            //t&S%jut&s.'ka.j$.vo-
 Чучмана             //'t&S%ju.t&S%jmo-.no-
-Чучье               //'t&S%jut&S%j.jI.j$
+Чучье               //'t&S%ju.t&S%jI_$
 Чэчэк               //t&S%jI.'t&S%jek
 ШОТМАНА             //'Sot.mo-.no-
 Шабадина            //S^.'ba.d%ji.no-

@@ -5656,9 +5656,9 @@ vkusnye             //'fkus.ni0.j$
 заможную            //z^.'moZ.nu.ju
 замок               //'za.mo-k
 заморенова          //z^.m^.'r%jo.no-.vo-
-замоскворечье       //zo-.mo-s.kv^.'r%jet&S%j.j$
-замосточье          //zo-.m^st.'ot&S%j.je
-замошье             //z^.'moS.je
+замоскворечье       //zo-.mo-s.kv^.'r%je.t&S%jI_$
+замосточье          //zo-.m^s.'to.t&S%jI_$
+замошье             //z^.'moS_e
 замшина             //'zam.Si0.no-
 замшиной            //'zam.Si0.no-j
 замшину             //'zam.Si0.nu
@@ -5716,7 +5716,7 @@ vkusnye             //'fkus.ni0.j$
 заречно-набережную  //z^.'r%jet&S%j.n^_'na.b%j$.r%j$Z.nu.ju
 заречной            //z^.'r%jet&S%j.no-j
 заречную            //z^.'r%jet&S%j.nu.ju
-заречье             //z^.'r%jet&S%j.je
+заречье             //z^.'r%je.t&S%jI_$
 зари                //z^.'r%ji
 заринская           //z^.'r%jin.sko-.jo-
 заринской           //z^.'r%jin.sko-j
@@ -5742,7 +5742,7 @@ vkusnye             //'fkus.ni0.j$
 заручевской         //zo-.ru.t&S%j'ef.sko-j
 заручевскую         //zo-.ru.t&S%j'ef.sku.ju
 заручевье           //zo-.ru.'t&S%jev%j.je
-заселечье           //zo-.s%jI.'l%jet&S%j.je
+заселечье           //zo-.s%jI.'l%je.t&S%jI_$
 заслонова           //z^s.'lo.no-.vo-
 застава             //z^s.'ta.vo-
 заставная           //z^s.'tav.no-.jo-
@@ -10670,6 +10670,7 @@ vkusnye             //'fkus.ni0.j$
 москворецком        //m^s.kv^.'r%jet&s.ko-m
 москворецкому       //m^s.kv^.'r%jet&s.ko-.mu
 москворецкую        //m^s.kv^.'r%jet&s.ku.ju
+москворечье         //mo-s.kv^.'r%je.t&S%jI_$
 московкина          //m^s.'kof.k%ji.no-
 московско-казанский //m^s.'kof.sko-_k^.'zan.sk%jij
 московско-казанского //m^s.'kof.sko-_k^.'zan.sko-.vo-
@@ -19894,7 +19895,7 @@ vkusnye             //'fkus.ni0.j$
 чухукт              //t&S%ju.'xukt
 чуцкаева            //t&S%jut&s.'ka.j$.vo-
 чучмана             //'t&S%ju.t&S%jmo-.no-
-чучье               //'t&S%jut&S%j.je
+чучье               //'t&S%ju.t&S%jI_$
 чэчэк               //t&S%jI.'t&S%jek
 шабадина            //S^.'ba.d%ji.no-
 шабаны              //So-.b^.'ni0
