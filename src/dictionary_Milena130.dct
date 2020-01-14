@@ -1150,6 +1150,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Алданская           //^l.'dan.sko-.jo-
 Алданский           //^l.'dan.sk%jij
 Александрина        //^.l%jIk.'san.dr%ji.no-
+Александритовская   //^.l%j$k.s^nd.'r%jit.o-f.sko-.jo-
 Александро-Свирский //^.l%jIk.'2san.dro-_'sv%ji.rsk%jij
 Александрова        //^.l%jIk.'san.dro-.vo-
 Александровича      //^.l%j$k.s^n.'dro.v%ji.t&S%jo-
@@ -5640,6 +5641,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Мглинская           //'mgl%jin.sko-.jo-
 Мглинский           //'mgl%jin.sk%jij
 Меблярская          //m%jIb.'l%jar.sko-.jo-
+Медведицкая         //m%jId.'v%je.d%jit&s.ko-.jo-
+Медведицкий         //m%jId.'v%je.d%jit&s.k%jij
 Медведковская       //m%jId.'v%jet.ko-f.sko-.jo-
 Медведковский       //m%jId.'v%jet.ko-f.sk%jij
 Медведковское       //m%jId.'v%jet.ko-f.sko-.j$
@@ -7715,6 +7718,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Россонская          //r^s.'son.sko-.jo-
 Ростест             //ro-s_'tEst
 Ростинская          //'ros.t%jin.sko-.jo-
+Ростсельмаша        //ro-st.s%jIl%j.'maS.o-
 Ротерта             //'ro.tEr.to-
 Ротмистрова         //'rot.m%jist.ro-.vo-
 Ротная              //'rot.no-.jo-
