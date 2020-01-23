@@ -941,10 +941,8 @@ Skulas              //'sku.lo-s
 Tatneft             //t^t_'n%jeft%j
 Viada               //'v%ji.^.do-
 В.О.                //v^.'s%jil%j.jIf.sko-.vo-_'ost.ro-.vo-
-Лод.Поле            //l^.'d%jej.no-.j$_'po.l%j$
 Несте               //'nEs.tE.o-
 П.С.                //p%jIt.r^.'grat&s.ko-j_sto-.r^.'ni0
-Ст.Слобода          //'sta.ro-.jo-_slo-.b^.'da
 Тнк-Bp              //tE.jEn.'ka_b%ji.'p%ji
 ФСВ                 //Ef.Es.'vE
 
@@ -6137,6 +6135,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Никифорова          //n%ji.'k%ji.fo-.ro-.vo-
 Никойл              //n%ji.'kojl
 Николаева           //n%ji.k^.'la.j$.vo-
+Николо-Берёзовское  //n%ji.'ko.lo-_b%jI.'r%jo.zo-f.sko-.j$
 Николо-Беседная     //n%ji.'ko.lo-_b%jI.'s%jed.no-.jo-
 Николо-Богоявленский //n%ji.'ko.lo-_bo-.go-.j^v.'l%jen.sk%jij
 Николо-Богоявленского //n%ji.'ko.lo-_bo-.go-.j^v.'l%jen.sko-.vo-
@@ -8807,6 +8806,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Тетюшская           //t%jI.'t%juS.sko-.jo-
 Техникумовская      //'t%jex.n%jI.ku.mo-f.sko-.jo-
 Техникумовский      //'t%jex.n%jI.ku.mo-f.sk%jij
+Техснабовская       //t%jIx.'sna.bo-f.sko-.jo-
+Техснабовский       //t%jIx.'sna.bo-f.sk%jij
 Тешемье             //'t%je.SEm_je
 Тешково             //'t%jeS.ko-.vo-
 Тещин               //'t%jo.S%jin
@@ -9249,6 +9250,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Утробина            //u.'tro.b%ji.no-
 Утульная            //u.'tul%j.no-.jo-
 Уфимская            //u.'f%jim.sko-.jo-
+Уфимский            //u.'f%jim.sk%jij
+Уфимское            //u.'f%jim.sko-.j$
 Ухова               //'u.xo-.vo-
 Ухта                //ux.'ta
 Ухтинская           //'ux.t%jin.sko-.jo-
