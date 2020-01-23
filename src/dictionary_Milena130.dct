@@ -735,7 +735,7 @@ Imatrantie          //'i.mo-t.r^n_'tie
 Interior            //in.'tEr%j.j$r
 Jaama               //jI.'a.mo-
 Jägala              //'ja.go-.lo-
-Jalgtee             //'jalg.tE
+jalgtee             //'jalg.tE
 Järve               //'jar.v%j$
 Järvevana           //'jar.v%j$.vo-.no-
 Joensuuntie         //'jo.^.'En.su.un_'tie
@@ -7651,8 +7651,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Решетская           //r%jI.'SEt&s.ko-.jo-
 Ржавецкая           //'rZa.v%j$t&s.ko-.jo-
 Ржегоржа            //'rZE.go-rZ.o-
-Ржищевская          //'rZi0.S%j$f.sko-.jo-
-Ржищевский          //'rZi0.S%j$f.sk%jij
+Ржищевская          //'rZi0_S%j$f.sko-.jo-
+Ржищевский          //'rZi0_S%j$f.sk%jij
 Ривненская          //'r%ji.vn%j$n.sko-.jo-
 Ригачина            //'r%ji.go-.t&S%jI.no-
 Рижская             //'r%jiS.sko-.j^
