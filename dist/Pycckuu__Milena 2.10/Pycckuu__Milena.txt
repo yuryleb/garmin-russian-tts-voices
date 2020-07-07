@@ -3,8 +3,8 @@ gmt v0.9.73.1232b  CC BY-SA (C) 2011-2018 AP www.gmaptool.eu
 Input file: Pycckuu__Milena.vpm.
 
 
-File:		Pycckuu__Milena.vpm, length 21847040
-Header:   	17.12.2019 09:15:26, DSKIMG, XOR 00, V 2.19, Ms 0, 006-D4465-00
+File:		Pycckuu__Milena.vpm, length 21849088
+Header:   	07.07.2020 17:12:24, DSKIMG, XOR 00, V 2.19, Ms 0, 006-D4465-00
 Mapset:   	milena
 fat:		1000h - 1200h - 11C00h, block 1024
 maps:		49, sub-files 49
@@ -21,7 +21,7 @@ Sub-file         fat     length
  SN22_MIL DAT   2E00h  14462044
  SYNM_F16 DAT   A400h     10408
  TTN_RUR  DAT   A600h    115684
- UDCT_RUR DAT   A800h   1097974
+ UDCT_RUR DAT   A800h   1100089
  US_MIL   DAT   B200h   1880356
  DLLIMG   BIN   C200h   1321924
  GRAM     VXM   CE00h    605504
@@ -29,7 +29,7 @@ Sub-file         fat     length
  DFLT     DCT   D600h       166
  APDB_TP  DAT   D800h      1564
  RULESET  TXT   DA00h     12451
- RP_RSET  TXT   DC00h    170563
+ RP_RSET  TXT   DC00h    170567
  WORDS    TXT   DE00h      4820
  PHRASES  TXT   E000h     78800
  AU       DCT   E200h     14018
@@ -72,7 +72,7 @@ Map              length s-f  CP    prio  PID   FID  name
  SN22_MIL  ?   14462044  1
  SYNM_F16  ?      10408  1
  TTN_RUR   ?     115684  1
- UDCT_RUR  ?    1097974  1
+ UDCT_RUR  ?    1100089  1
  US_MIL    ?    1880356  1
  DLLIMG    ?    1321924  1
  GRAM      ?     605504  1
@@ -80,7 +80,7 @@ Map              length s-f  CP    prio  PID   FID  name
  DFLT      ?        166  1
  APDB_TP   ?       1564  1
  RULESET   ?      12451  1
- RP_RSET   ?     170563  1
+ RP_RSET   ?     170567  1
  WORDS     ?       4820  1
  PHRASES   ?      78800  1
  AU        ?      14018  1
