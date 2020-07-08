@@ -1,9 +1,10 @@
 .vs
 obj
+src/DictionaryMerger/bin/Debug
 src/vocalizer_0.txt
-test/RulesetChecker.pdb
 *.bak
 *.lnk
+*.pdb
 *.suo
 *.user
 *.vshost.*

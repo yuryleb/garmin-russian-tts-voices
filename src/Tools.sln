@@ -1,9 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RulesetChecker", "RulesetChecker\RulesetChecker.csproj", "{10A1F6ED-EAEE-481F-A249-7A2377A0BC61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryMerger", "DictionaryMerger\DictionaryMerger.csproj", "{FB4B4873-F286-4D68-94A4-90E61C762653}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{10A1F6ED-EAEE-481F-A249-7A2377A0BC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10A1F6ED-EAEE-481F-A249-7A2377A0BC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10A1F6ED-EAEE-481F-A249-7A2377A0BC61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4B4873-F286-4D68-94A4-90E61C762653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4B4873-F286-4D68-94A4-90E61C762653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4B4873-F286-4D68-94A4-90E61C762653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4B4873-F286-4D68-94A4-90E61C762653}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54ECF041-3656-421E-A2C1-C1C2EC334A74}
 	EndGlobalSection
 EndGlobal
