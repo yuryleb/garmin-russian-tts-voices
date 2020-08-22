@@ -121,6 +121,7 @@ charset = utf-8
 /I\.j?[E\$]([_])/ --> "I.jo-$1"
 /%ji0/ --> "%ji"
 /jI([_])/ --> "jIj$1"
+/\.([bdgGjklmnprsStvxzZ])%ji([_])/ --> ".$1%jij$2"
 /([bdfgGklmnprsStvxzZ])\$/ --> "$1o-"
 /'([bdfgGklmnprsStvxzZ])?o\-/ --> "'$1o"
 /\^([_])/ --> "o-$1"
