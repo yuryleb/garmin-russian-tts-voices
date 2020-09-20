@@ -4,7 +4,7 @@ Input file: Pycckuu__Katerina.vpm.
 
 
 File:		Pycckuu__Katerina.vpm, length 15794176
-Header:   	07.07.2020 17:12:19, DSKIMG, XOR 00, V 1.39, Ms 0, 006-D1312-00
+Header:   	20.09.2020 20:36:02, DSKIMG, XOR 00, V 1.39, Ms 0, 006-D1312-00
 Mapset:   	katerina
 fat:		1000h - 1200h - 6000h, block 2048
 maps:		7, sub-files 7
@@ -13,7 +13,7 @@ Sub-file         fat     length
  DLLINFO  TXT   1200h      1002
  KTRN_DAT DAT   1400h  10303064
  KTRN_USL DAT   3E00h   1903788
- DICT     BDC   4600h    464432
+ DICT     BDC   4600h    464488
  DLLIMG   BIN   4800h   3089924
  DLLIMG   SIG   5600h        65
  IMGEND   TST   5800h         3
@@ -22,7 +22,7 @@ Map              length s-f  CP    prio  PID   FID  name
  DLLINFO   ?       1002  1
  KTRN_DAT  ?   10303064  1
  KTRN_USL  ?    1903788  1
- DICT      ?     464432  1
+ DICT      ?     464488  1
  DLLIMG    ?    3089924  1
  DLLIMG    ?         65  1
  IMGEND    ?          3  1
