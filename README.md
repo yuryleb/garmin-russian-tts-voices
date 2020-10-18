@@ -31,8 +31,7 @@
   На настоящий момент полный перевод сделан для названий из Эстонии, Латвии, Литвы, Венгрии, Франции,
   Испании и Италии.
   Для финских и немецких названий, написанных слитно со статусом *(Schützenstraße, Lappeenrannantie)*,
-  такие "окончания" отделяются и произносятся заготовленными фонемами, близкими к нужному
-  иностранному произношению.
+  такие "окончания" отделяются и произносятся заготовленными фонемами, близкими к нужному произношению.
 
 К сожалению, такая функциональность доступна только для самого последнего поколения голосов `TTS3`, в
 предыдущих можно только заменить словарь.
@@ -112,6 +111,9 @@
   * Черновой словарь для русских названий: [dictionary.voc](src/dictionary.voc),
     текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
     [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
+  * Черновой словарь для названий городов: [cities.voc](src/cities.voc),
+    текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
+    [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
   * Черновой словарь для иностранных названий: [dictionary_foreign.voc](src/dictionary_foreign.voc),
     текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
     [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
@@ -155,6 +157,9 @@
   * Полный финальный словарь: [dictionary.dct](src/dictionary.dct),
     текстовый формат DCT в кодировке UTF-8 с BOM
   * Черновой словарь для русских названий: [dictionary.voc](src/dictionary.voc),
+    текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
+    [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
+  * Черновой словарь для названий городов: [cities.voc](src/cities.voc),
     текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
     [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
   * Черновой словарь для иностранных названий: [dictionary_foreign.voc](src/dictionary_foreign.voc),
