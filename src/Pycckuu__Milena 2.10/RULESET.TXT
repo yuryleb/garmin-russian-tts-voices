@@ -16,6 +16,8 @@ charset = utf-8
 /[Дд]вигайтесь слева/ --> "/+'dv%ji.go-j.t%j\$s%j_'sl%je.vo-/+"
 /[Дд]вигайтесь справа/ --> "/+'dv%ji.go-j.t%j\$s%j_'spra.vo-/+"
 / правый съезд/ --> " /+'prav.i0j_'sjest/+"
+/Резко / --> "Круто "
+/ резко / --> " круто "
 
 # Correct stress in Voice Direction phonemes (PRMT_SPEAK_VOICE_COMMAND "Произнесите", "название места" and others from ru_RU.glx)
 /pro\-\.iz%j\.'n%je\.s%ji\.t%j\$_/ --> "pro-.iz%j.n%jI.'s%ji.t%j\$_"
