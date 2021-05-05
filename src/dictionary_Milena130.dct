@@ -2209,6 +2209,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Аросева             //^.'ro.s%j$.vo-
 Арсенова            //^r.'s%jo.no-.vo-
 Арсентьевская       //^r.'s%jen%jt%jf.sko-.jo-
+Арсланова           //^r.'sla.no-.vo-
 Артековская         //^r.'tE.ko-f.sko-.jo-
 Артековский         //^r.'tE.ko-f.sk%jij
 Артема              //^r.'t%jo.mo-
@@ -6631,8 +6632,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Нечью               //n%jIt&S%j.'ju
 Нигозерская         //'n%ji.go-z.rsko-.jo-
 Нигозерский         //'n%ji.go-z.rsk%jij
-Нижне-Логовая       //'2n%ji.Zn%j$.lo-.g^.'va*.jo-
 Нижне-Каменская     //'2n%ji.Zn%j$_'ka.m%j$n.sko-.jo-
+Нижне-Логовая       //'2n%ji.Zn%j$.lo-.g^.'va*.jo-
 Нижне-Рославльская  //'2n%ji.Zn%j$_'ro.slo-vl%j.sko-.jo-
 Нижне-Ростинское    //'2n%ji.Zn%j$.'ros%j.t%jin.sko-.j$
 Нижнебульварная     //n%ji.Zn%j$.bul%j.'var.no-.jo-
@@ -8154,6 +8155,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Садырина            //s^.'di0.r%ji.no-
 Саета               //'sa.E.to-
 Сажина              //'sa.Zi0.no-
+Сажинова            //'sa.Zi0.no-.vo-
 Сажинская           //'sa.Zi0n.sko-.jo-
 Сазлы               //s^.'zli0
 Саид-Галиева        //'sa.jit_'ga.l%ji.j$.vo-
