@@ -56,6 +56,24 @@ Content = EDCT_CONTENT_BROAD_NARROWS
 Representation = EDCT_REPR_SZZ_STRING
 
 [Data]
+Абабково            //^.'bap.ko-.vo-
+Абагур              //^.b^.'gur
+Абаевский           //^.'ba.j$f.sk%jij
+Абаза-Хабль         //^.'2ba.zo-_'xabl%j
+Абазакт             //^.b^.'zakt
+Абай                //^.'baj
+Абайтикау           //^.bo-j.t%ji.'ka.u
+Абакшино            //^.'bak.Si0.no-
+Абалак              //^.b^.'lak
+Абаносимовка        //^.b^.'no.s%ji.mo-f.ko-
+Абатское            //^.'ba.t&sko-.j$
+Абаул               //^.b^.'ul
+Абашево             //^.'ba.SE.vo-
+Абди                //^b.'d%ji
+Абдряшево           //^bd.'r%ja.SE.vo-
+Абдулино            //^b.'du.l%ji.no-
+Абдулово            //^b.'du.lo-.vo-
+Абелино             //^.'b%je.l%ji.no-
 Абрамовка           //^.'bra.mo-f.ko-
 Авиагородок         //^.v%ji.^.go-.r^.'dok
 Авиарембаза         //^.v%ji.^.r%jem.'ba.zo-
@@ -571,6 +589,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Окраинка            //^.'kra.in.ko-
 Октябрьск           //^k.'t%jabr%jsk
 Ольница             //'ol%j.n%ji.t&so-
+Олюшино             //^.'l%ju.Si0.no-
 Ораниенбаум         //^.'2ra.n%ji.jIn.'ba.um
 Ордышево            //'or.di0.SE.vo-
 Орлино              //'or.l%ji.no-
