@@ -1481,6 +1481,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Беринговый          //'b%je.r%jin.go-.vi0j
 Берковецкая         //'b%jer.ko-.v%j$t&s.ko-.jo-
 Бернадская          //b%jIr.'nat&s.ko-.jo-
+Бернардацци         //b%j$r.n^r.'da.t&si0
 Берников            //'b%jer.n%ji.ko-f
 Берникова           //'b%jer.n%ji.ko-.vo-
 Берниковская        //'b%jer.n%jI.ko-f.sko-.jo-
@@ -1513,6 +1514,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Бешенковичская      //b%j$.SEn.'ko.v%jit&S%j.sko-.jo-
 Бешенковичское      //b%j$.SEn.'ko.v%jit&S%j.sko-.j$
 Бешенковичском      //b%j$.SEn.k'o.v%ji.t&S%jsko-m
+Бештаугорская       //b%j$S.to-.u.'go.rsko-.jo-
+Бештаугорское       //b%j$S.to-.u.'go.rsko-.j$
 Бибиковская         //'b%ji.b%jI.ko-f.sko-.jo-
 Бибиревская         //'b%ji.b%jI.r%j$f.sko-.jo-
 Бийская             //'b%jij.sko-.jo-
@@ -6265,6 +6268,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Пашневая            //'paS.n%j$.vo-.jo-
 Пашутинская         //p^.'Su.t%jIn.sko-.jo-
 Пашутинский         //p^.'Su.t%jIn.sk%jij
+Пащенко             //'pa.S%j$n.ko-
 Певческий           //'p%jef.t&S%j$.sk%jij
 Певчий              //'p%jef.t&S%jjij
 Пеевой              //'p%je.j$.vo-j
@@ -9240,6 +9244,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Юрьевский           //'jur%j.j$f.sk%jij
 Юрьевское           //'jur%j.j$f.sko-.j$
 Юхотная             //ju.'xot.no-.jo-
+Юцкая               //'jut&s.ko-.jo-
 Юшуньская           //ju.'Sun%j.sko-.jo-
 Яблоновская         //'jab.lo-.no-f.sko-.jo-
 Яблоновский         //'jab.lo-.no-f.sk%jij
