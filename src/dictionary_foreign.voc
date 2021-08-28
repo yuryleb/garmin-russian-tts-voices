@@ -4,6 +4,7 @@ Abc                 //Ej.I_b%ji_'s%ji
 Adazi               //'a.do-.Zi0
 Ahtme               //'ax.tm%j$
 Alajoe              //'a.lo-j.i0.E
+Alajogi             //'a.'2laj.i0.g%jij
 allee               //^.'l%jej
 Ankur               //'an.kur
 Aseri               //'a.z%j$.r%jij
@@ -41,6 +42,7 @@ Hanhi               //'xan.x%jij
 harju               //'xar%j.ju
 Helsingin           //'x%jel%j.s%jin.g%jin
 Highway             //x^j.'vEj
+Hiiemetsa           //'x%jij.$.m%j$t.so-
 Hotelli             //x^.'tEl.l%jij
 Iecava              //i.'je.t&so-.vo-
 Igaunijas           //i.'ga.u.n%ji.o-s
@@ -61,6 +63,7 @@ Joensuun            //'jo.^.'En.su.un
 Joesuu              //'ji0.E.su
 Johvi               //'ji0x.vI.j
 Jonavos             //j^.'na.vo-s
+Jouga               //'ji0.u.go-
 Joutsenon           //'jo.ut.sE.no-n
 Juhkentali          //'jux.k%j$n.to-.l%jij
 JYSK                //'jusk
@@ -132,6 +135,7 @@ Medininkai          //'m%ja.d%jI.n%jIn.ko-j
 Mere                //'me.r$
 Merivalja           //'m%je.r%ji.v%jo-l%j.jo-
 Miiduranna          //'m%jij_du.r^n.no-
+Mois                //'mi0.i0js
 moisa               //'mi0j.zo-
 Mooni               //mo-.'o.n%jIj
 Mustakivi           //'mus.t^.k%jI.v%jIj
@@ -153,6 +157,7 @@ Panevezys           //po-.n%jI.'v%je.Zi0s
 Parnamae            //'p%jar.no-_'2m%ja.E
 Parnu               //'p%jar_nu
 Peaalajaama         //'p%je.o-.lo-_jI.'a.mo-
+Peeterristi         //'p%je.j$.t%j$.r%jis.t%jij
 Peetri              //'p%je.Etr%j.ij
 Pelguranna          //'pel%j.gu_'ran.no-
 Peterburi           //'pe.t%j$r.bu.r%jIj
@@ -174,14 +179,15 @@ Purje               //'pur%j.j$
 Puskini             //'puS.k%ji.n%jIj
 Puumalan            //pu.'u.m^.lo-n
 Rahu                //'ra.xu
-Rakvere             //'rak.v%j$.r%jE
-Randvere            //'rand.v%j$.r%jE
+Rakvere             //'rak.v$.rE
+Randvere            //'rand.v$.rE
 Ranna               //'ran.no-
 Rannametsa          //'ran.no-_'2m%jet.so-
 Rannamoisa          //'ran.no-_'2mi0j.zo-
 Rannapungerja       //'ran.no-_'2pun.g%j$r%j.jo-
 ranta               //'ran.to-
 Raua                //'ra.u.a
+Raudi               //'ra.u.d%jij
 Riga                //'r%ji.go-
 Rigas               //'r%ji.go-s
 Rimi                //'r%ji.m%ji
@@ -210,9 +216,11 @@ Suur-Ameerika       //'su.ur_^.'m%je.r%ji.ko-
 Suur-Sojamae        //'su.ur_'si0.I.'2m%ja.E
 Tainionkosken       //'taj.n%ji.o-n_'kos.kEn
 Tallinna            //'tal.l%jin.no-
+Tammetaguse         //'ta.m$.to-.gu.zE
 Tammiku             //'tam.m%ji.ku
 Tammsaare           //'tam_'2sa.o-.re
 Tampere             //'tam.p%j$.rE
+Tarivere            //'t%ja.r%ji.v$.rE
 Tartu               //'ta.rtu
 Teboil              //teb.'ojl
 tee                 //'tE
@@ -225,6 +233,7 @@ Tina                //'t%ji.no-
 Tiuruniemen         //'ti.u.ru.n%ji.E.j$.m%j$n
 Tondi               //'ton.d%jij
 Toompuiestee        //'tom_'puj.j$s.tE
+Torvajoe            //'ti0r.vo-.ji0.j$
 Tudulinna           //'tu.du.l%jin.no-
 Tuleviku            //'tu.lE.v%ji.ku
 Tulika              //'tu.l%ji.ko-
@@ -236,7 +245,8 @@ Uus                 //'u.I.us
 Vaalimaan           //'va.^.l%ji.mo-n
 Vabaduse            //'va.b^.du.zE
 Valla               //'val.lo-
-Vana-Narva          //'va.no-_'nar.vo-
+Vana-Narva          //'2va.no-_'nar.vo-
+Vana-Olgina         //'2va.no-_'o.l%jg%ji.no-
 Vase                //'va.zE
 Vasknarva           //v^sk.'nar.vo-
 Venaja              //r^.'s%ji.jo-
@@ -256,16 +266,19 @@ Zemaiciu            //ZE.'maj.d&Z%ju
 Zurich              //'t&su.r%jix
 Zurich-City         //'t&su.r%jix_'s%ji.t%jij
 Адажи               //'a.do-.Zi0
+Алайыги             //'a.'2laj.i0.g%jij
 Алайыэ              //'a.lo-j.i0.E
 Балтэзерс           //'bal.tE.z$rs
 Бауска              //'ba.us.ko-
 Иецава              //i.'je.t&so-.vo-
 Ийзаку              //'ij.zo-.ku
 Иматра              //'i.mo-t.ro-
+Йыуга               //'ji0.u.go-
 Калласте            //'kal.lo-s.t%j$
 Катазе              //'ka.to-.zE
 Каукси              //'ka.uk.s%jI.j
 Койдула             //'koj.du.lo-
+Лагеди              //'la.ge.d%jij
 Лайусе              //'la.ju.z%j$
 Лаппеэнранта        //'2lap.p%j$n.'ran.to-
 Лохусуу             //'lo.xu.su.u
