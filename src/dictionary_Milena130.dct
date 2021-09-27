@@ -991,6 +991,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Агрогородок         //'2ag.ro-.go-.r^.'dok
 Адажи               //'a.do-.Zi0
 Акинчицы            //^.'k%jin.t&S%ji.t&si0
+Алайыги             //'a.'2laj.i0.g%jij
 Алайыэ              //'a.lo-j.i0.E
 Александрово        //^.l%jIk.'san.dro-.vo-
 Аминовичи           //^.'m%ji.no-.v%ji.t&S%jij
@@ -1003,6 +1004,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Артек               //^r.'tEk
 Артюхино            //^r.'t%ju.x%ji.no-
 Асташково           //^s.'taS.ko-.vo-
+Астрачи             //^st.'ra.t&S%jij
 Аю-Даг              //^.jI.ju.'dak
 Бабеево             //b^.'b%je.j$.vo-
 Бабино              //'ba.b%ji.no-
@@ -1249,6 +1251,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Исаково             //i.'sa.ko-.vo-
 Искань              //isk.'an%j
 Иссад               //is.'sad
+Йыуга               //'ji0.u.go-
 Кавгалово           //'kav.go-.lo-.vo-
 Кавезино            //k^.'v%je.z%ji.no-
 Казимирово          //ko-.z%ji.m%ji.'ro.vo-
@@ -1342,6 +1345,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Куяш                //ku.'jaS
 Кямозеро            //'2k%jam_'o.z%j$.ro-
 Лаврики             //'lav.r%ji.k%jij
+Лагеди              //'la.ge.d%jij
 Лагодовка           //'la.go-.do-f.ko-
 Лагодово            //'la.go-.do-.vo-
 Лазаревичи          //'la.zo-.r%j$.v%ji.t&S%ji
@@ -1486,6 +1490,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Новобутаково        //no-.vo-.bu.t^.'ko.vo-
 Новодвинск          //no-.v^.'dv%jinsk
 Новокосино          //no-.vo-.ko-.s%jI.'no
+Новопятницкое       //no-.v^.'p%jatn%jt&s.ko-.j$
 Новороссийск        //no-.vo-.r^s.'s%jijsk
 Новоселки           //no-.v^.'s%jol.k%jij
 Новочеркасск        //no-.vo-.t&S%jIr.'kask
@@ -1740,6 +1745,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Стасевка            //'sta.s%j$f.ko-
 Стаховщина          //st^.'xo.fS%ji.no-
 Степановка          //st%jI.'pa.no-f.ko-
+Степановщина        //st%jI.'pa.no-f.S%ji.no-
 Стиклево            //'s%jt%jik.l%j$.vo-
 Столяры             //sto-.l%jI.'ri0
 Сторожки            //st^.'roS.k%jij
