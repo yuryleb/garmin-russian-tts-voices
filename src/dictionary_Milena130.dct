@@ -2064,7 +2064,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Агеева              //^.'g%je.j$.vo-
 Агзс                //^.gE.zi0.'Es
 Агиша               //^.'g%jiS.o-
-Агнии               //'ag.n%jI.jIj
+Агнии               //'ag.n%ji.I.j
 Аграрская           //^.'grar.sko-.jo-
 Агролес             //'2ag.ro-.'l%jes
 Агропромэнерго      //^g.r^.'prom_E.'nEr.go-
@@ -4120,7 +4120,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Евскина             //'jef.sk%ji.no-
 Евского             //'jef.sko-.vo-
 Евтеева             //jIf.'t%je.j$.vo-
-Евфросинии          //j$f.r^.'s%ji.n%ji.i
+Евфросинии          //j$f.r^.'s%ji.n%ji.I.j
 Евфросиньи          //j$f.r^.'s%jin%j.jIj
 Егерсег             //j$.g%jIr.'s%jek
 Егерская            //'jegr%j.sko-.jo-
@@ -5534,7 +5534,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Крыпецкий           //'kri0.p%j$t&s.k%jij
 Крюковская          //'kr%ju.ko-f.sko-.jo-
 Крюковский          //'kr%ju.ko-f.sk%jij
-Ксении              //'ks%je.n%ji_ij
+Ксении              //'ks%je.n%ji.I.j
 Ксеньинский         //'ks%jen%j.jin.sk%jij
 Кстовская           //'kstof.sko-.jo-
 Ктаторова           //kt^.'to.ro-.vo-
