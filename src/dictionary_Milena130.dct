@@ -985,8 +985,10 @@ Representation = EDCT_REPR_SZZ_STRING
 Авдейково           //^v.'d%jej.ko-.vo-
 Авдотьинка          //^v.'dot%j.jin.ko-
 Авдотьино           //^v.'dot%j.ji.no-
+Аверкино            //^.'v%jer.k%ji.no-
+Аверково            //^.'v%jer.ko-.vo-
+Авзян               //^v.'z%jan
 Авиагородок         //^.v%ji.^.go-.r^.'dok
-Авиарембаза         //^.v%ji.^.r%jem.'ba.zo-
 Автово              //'af.to-.vo-
 Агрогородок         //'2ag.ro-.go-.r^.'dok
 Адажи               //'a.do-.Zi0
@@ -2034,6 +2036,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Аветисяна           //^.v%j$.t%ji.'s%ja.no-
 Авзянская           //^v.'z%jan.sko-.jo-
 Авиаполка           //^.v%ji.o-.p^l.'ka
+Авиарембаза         //^.v%ji.^.r%jem.'ba.zo-
 Авиатриссы          //^.v%ji.^.'tr%ji.si0
 Авиахимическая      //^.v%ji.^.x%ji.'m%ji.t&S%j$.sko-.jo-
 Авиации             //^.v%ji.'a.t&si0.Ij
