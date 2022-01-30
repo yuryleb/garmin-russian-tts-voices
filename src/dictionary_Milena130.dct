@@ -1275,6 +1275,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Катазе              //'ka.to-.zE
 Катежно             //'ka.t%j$Z.no-
 Каукси              //'ka.uk.s%jI.j
+Кедра               //k%jId.'ra
 Кенозеро            //'k%je.no-.z%j$.ro-
 Киверцы             //'k%ji.v%j$r.t&si0j
 Кингисепп           //k%jin.g%ji.'s%jep
@@ -1429,6 +1430,7 @@ Representation = EDCT_REPR_SZZ_STRING
 Масницкое           //m^s.'n%ji.t&sko-.j$
 Матокса             //'ma.to-k.so-
 Мга                 //'mga
+Мегра               //m%jIg.'ra
 Медвежино           //m%jId.'v%je.Zi0.no-
 Межник              //'meZ.n%jik
 Мезга               //'m%jez.go-
@@ -1538,6 +1540,8 @@ Representation = EDCT_REPR_SZZ_STRING
 Паленьга            //'pa.l%j$n%j.go-
 Палиха              //p^.'l%ji.xo-
 Палово              //'pa.lo-.vo-
+Палозеро            //'pa.lo-.z%j$.ro-
+Палтога             //'pal.to-.go-
 Панкратовичи        //p^n.'kra.to-.v%ji.t&S%jij
 Панюшковичи         //p^.'n%juS.ko-.v%ji.t&S%jij
 Папировка           //'pa.p%ji.ro-f.ko-
