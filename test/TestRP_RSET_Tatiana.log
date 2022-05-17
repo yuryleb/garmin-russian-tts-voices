@@ -13,16 +13,16 @@ RP_RSET.TXT: #783 #998
 
 INPUT : Поверните направо на \tn=address\ Юго-западная окружная дорога \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ Юго-западную окружную дорогу \tn=normal\.
-RP_RSET.TXT: #786 #2287
+RP_RSET.TXT: #786 #2297
 
 INPUT : Поверните направо на \tn=address\ Алексадровский парк \tn=normal\.
 OUTPUT: Поверните направо в  \tn=address\  Алексадровский парк \tn=normal\.
-RP_RSET.TXT: #786 #2397
+RP_RSET.TXT: #786 #2407
 RULESET.TXT: #92
 
 INPUT : Продолжите движение по \tn=address\ шоссе Энтузиастов (дублёр) \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ дублёру  шоссе \pause=0\ Энтузиастов \tn=normal\.
-RP_RSET.TXT: #341 #783 #1522 #2397
+RP_RSET.TXT: #341 #783 #1522 #2407
 RULESET.TXT: #204
 
 INPUT : Поверните направо на \tn=address\ улица 1905 года \tn=normal\.
@@ -45,22 +45,22 @@ RULESET.TXT: #211
 
 INPUT : Через семь километров сверните на правый съезд, направление \tn=address\ /+'2la.p%jI.i0.'nra.nt$/+ \tn=normal\.
 OUTPUT: Через семь километров сверните на правый съезд, направление  \tn=address\ /+'2la.p%jI.i0n.'ran.to-/+ \tn=normal\.
-RP_RSET.TXT: #10 #794 #2397
+RP_RSET.TXT: #10 #794 #2407
 RULESET.TXT: #119 #125 #211
 
 INPUT : Через один километр сверните на правый съезд к \tn=address\ /+'Em_'d%je.s%jIt%j/+ \tn=normal\, затем двигайтесь прямо.
 OUTPUT: Через один километр сверните на правый съезд к  \tn=address\ /+'Em_'d%je.s%jIt%j/+ \tn=normal\, затем двигайтесь прямо.
-RP_RSET.TXT: #10 #782 #2397
+RP_RSET.TXT: #10 #782 #2407
 RULESET.TXT: #211
 
 INPUT : Через полтора километра сверните на правый съезд к \tn=address\ 12 \tn=normal\, направление \tn=address\ /+'kou.fo.la/+ \tn=normal\.
 OUTPUT: Через полтора километра сверните на правый съезд к  \tn=address\ трассе 12 \pause=1\ \tn=normal\, направление  \tn=address\ /+'ko.u.vo-.lo-/+ \tn=normal\.
-RP_RSET.TXT: #10 #782 #794 #2225 #2263 #2397
+RP_RSET.TXT: #10 #782 #794 #2235 #2273 #2407
 RULESET.TXT: #111 #211
 
 INPUT : Через два с половиной километра сверните на правый съезд к \tn=address\ 176 \tn=normal\, направление \tn=address\ /+'la.pin.'2jar.vi/+ \tn=normal\.
 OUTPUT: Через два с половиной километра сверните на правый съезд к  \tn=address\ дороге 100 70 6 \pause=1\ \tn=normal\, направление  \tn=address\ /+'la.pin.'2jar.vi/+ \tn=normal\.
-RP_RSET.TXT: #10 #782 #794 #2228 #2245 #2246 #2301 #2397
+RP_RSET.TXT: #10 #782 #794 #2238 #2255 #2256 #2311 #2407
 RULESET.TXT: #211
 
 INPUT : Получены данные о строительных работах на \tn=address\ naberezhnaya Makarova \tn=normal\. Вы едете по самому быстрому маршруту.
@@ -122,11 +122,11 @@ RP_RSET.TXT: #77 #103 #130 #131 #150 #157 #181 #193 #203 #237 #271 #284 #322 #81
 
 INPUT : \tn=address\ prospekt Ispytateley \tn=normal\ закрыта. Переключение на новый маршрут.
 OUTPUT:  проспект Испытателей  закрыт. Переключение на новый маршрут.
-RP_RSET.TXT: #77 #130 #163 #164 #179 #193 #197 #213 #263 #284 #296 #297 #322 #814 #2397
+RP_RSET.TXT: #77 #130 #163 #164 #179 #193 #197 #213 #263 #284 #296 #297 #322 #814 #2407
 
 INPUT : \tn=address\ prospekt Nepokoryonnykh \tn=normal\ закрыта. Переключение на новый маршрут.
 OUTPUT:  проспект Непокорённых  закрыт. Переключение на новый маршрут.
-RP_RSET.TXT: #77 #97 #114 #163 #197 #203 #235 #237 #238 #249 #250 #263 #271 #322 #814 #2397
+RP_RSET.TXT: #77 #97 #114 #163 #197 #203 #235 #237 #238 #249 #250 #263 #271 #322 #814 #2407
 
 INPUT : Получены данные о строительных работах на \tn=address\ Maliy prospekt P.S. \tn=normal\.
 OUTPUT: Получены данные о строительных работах на  \tn=address\ Малом проспекте П.С. \tn=normal\.
@@ -146,7 +146,7 @@ RP_RSET.TXT: #65 #128 #130 #145 #146 #147 #163 #164 #173 #181 #182 #193 #197 #24
 
 INPUT : Получены данные о строительных работах на \tn=address\ Aleksandrovskiy park \tn=normal\.
 OUTPUT: Получены данные о строительных работах в  \tn=address\  Александровский парк \tn=normal\.
-RP_RSET.TXT: #74 #128 #130 #145 #157 #163 #181 #193 #203 #204 #213 #237 #249 #271 #284 #285 #322 #788 #2397
+RP_RSET.TXT: #74 #128 #130 #145 #157 #163 #181 #193 #203 #204 #213 #237 #249 #271 #284 #285 #322 #788 #2407
 RULESET.TXT: #92
 
 INPUT : Поверните направо на \tn=address\ 1-y Ambulatorniy proezd \tn=normal\.
@@ -187,15 +187,15 @@ RP_RSET.TXT: #65 #106 #109 #110 #128 #130 #131 #132 #133 #203 #213 #224 #237 #27
 
 INPUT : \tn=address\ ulitsa Korablestroiteley \tn=normal\ закрыта. Переключение на новый маршрут.
 OUTPUT:  улица Кораблестроителей  закрыта. Переключение на новый маршрут.
-RP_RSET.TXT: #65 #130 #141 #163 #164 #165 #181 #193 #201 #213 #214 #249 #250 #271 #272 #284 #296 #297 #322 #800 #2397
+RP_RSET.TXT: #65 #130 #141 #163 #164 #165 #181 #193 #201 #213 #214 #249 #250 #271 #272 #284 #296 #297 #322 #800 #2407
 
 INPUT : Получены данные о строительных работах на \tn=address\ Glukhoozyorskoe shosse \tn=normal\.
 OUTPUT: Получены данные о строительных работах на  \tn=address\ Глухоозёрском шоссе \tn=normal\.
-RP_RSET.TXT: #81 #97 #114 #150 #163 #175 #203 #213 #249 #250 #251 #271 #284 #308 #322 #788 #2155
+RP_RSET.TXT: #81 #97 #114 #150 #163 #175 #203 #213 #249 #250 #251 #271 #284 #308 #322 #788 #2165
 
 INPUT : Получены данные о строительных работах на \tn=address\ shosse Entuziastov \tn=normal\.
 OUTPUT: Получены данные о строительных работах на  \tn=address\ шоссе \pause=0\ Энтузиастов \tn=normal\.
-RP_RSET.TXT: #81 #130 #145 #162 #175 #181 #237 #249 #284 #296 #297 #308 #322 #788 #2397
+RP_RSET.TXT: #81 #130 #145 #162 #175 #181 #237 #249 #284 #296 #297 #308 #322 #788 #2407
 RULESET.TXT: #204
 
 INPUT : Получены данные о строительных работах на \tn=address\ Troitskiy most \tn=normal\.
@@ -245,87 +245,87 @@ RP_RSET.TXT: #77 #106 #130 #157 #163 #164 #181 #193 #203 #204 #213 #214 #224 #24
 
 INPUT : Получены данные о строительных работах на \tn=address\ A122 \tn=normal\. Задержка вашего маршрута составляет 15 минут. Вы едете по самому быстрому маршруту.
 OUTPUT: Получены данные о строительных работах на  \tn=address\ дороге A  100 20 2 \pause=1\ \tn=normal\. Задержка вашего маршрута составляет 15 минут. Вы едете по самому быстрому маршруту.
-RP_RSET.TXT: #788 #2230 #2245 #2246 #2313
+RP_RSET.TXT: #788 #2240 #2255 #2256 #2323
 
 INPUT : Получены данные о закрытии полосы на \tn=address\ 6 \tn=normal\.
 OUTPUT: Получены данные о закрытии полосы на  \tn=address\ трассе 6 \pause=1\ \tn=normal\.
-RP_RSET.TXT: #788 #2225 #2268
+RP_RSET.TXT: #788 #2235 #2278
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ улица Ушинского 107 \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ улица Ушинского 100 7 \tn=normal\.
-RP_RSET.TXT: #10 #793 #2245 #2397
+RP_RSET.TXT: #10 #793 #2255 #2407
 RULESET.TXT: #211
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ АЗС Сямжа - Шелл 11124 \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ АЗС Сямжа \pause=1\ Шелл 11 тысяч 100 20 4 \tn=normal\.
-RP_RSET.TXT: #10 #793 #2237 #2245 #2246 #2397
+RP_RSET.TXT: #10 #793 #2247 #2255 #2256 #2407
 RULESET.TXT: #208 #211
 
 INPUT : Поверните направо на \tn=address\ Н-5087 \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ дорогу Н  5 тысяч 80 7 \pause=1\ \tn=normal\.
-RP_RSET.TXT: #786 #2230 #2243 #2244 #2248 #2291
+RP_RSET.TXT: #786 #2240 #2253 #2254 #2258 #2301
 
 INPUT : Поверните направо на \tn=address\ Н-10087 Каменка - Петровичи - Мартыновка \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ дорогу Н  10 тысяч 80 7 \pause=1\ Каменка \pause=1\ Петровичи \pause=1\ Мартыновка \tn=normal\.
-RP_RSET.TXT: #786 #2230 #2237 #2244 #2248 #2291
+RP_RSET.TXT: #786 #2240 #2247 #2254 #2258 #2301
 RULESET.TXT: #208
 
 INPUT : Поверните направо на \tn=address\ Н-10108 Побоковичи - Брожка - Туголица \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ дорогу Н  10 тысяч 100 8 \pause=1\ Побоковичи \pause=1\ Брожка \pause=1\ Туголица \tn=normal\.
-RP_RSET.TXT: #786 #2230 #2237 #2245 #2291
+RP_RSET.TXT: #786 #2240 #2247 #2255 #2301
 RULESET.TXT: #208
 
 INPUT : Сверните направо на съезд \tn=address\ 19 \tn=normal\ к \tn=address\ C-32 \tn=normal\.
 OUTPUT: Сверните направо на съезд \tn=address\ 19 \tn=normal\ к  \tn=address\ трассе цэ 30 2 \pause=1\ \tn=normal\.
-RP_RSET.TXT: #782 #2226 #2248 #2263
+RP_RSET.TXT: #782 #2236 #2258 #2273
 
 INPUT : Продолжите движение по \tn=address\ C-31 \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ трассе цэ 30 1 \pause=1\ \tn=normal\.
-RP_RSET.TXT: #783 #2226 #2248 #2263
+RP_RSET.TXT: #783 #2236 #2258 #2273
 
 INPUT : Продолжите движение по \tn=address\ C260 \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ дороге це 200 60 \pause=1\ \tn=normal\.
-RP_RSET.TXT: #783 #2229 #2246 #2301
+RP_RSET.TXT: #783 #2239 #2256 #2311
 
 INPUT : Продолжите движение по \tn=address\ AL-18 \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ трассе A L 18 \pause=1\ \tn=normal\.
-RP_RSET.TXT: #783 #2227 #2263
+RP_RSET.TXT: #783 #2237 #2273
 
 INPUT : Продолжите движение по \tn=address\ A1 Rīga (Baltezers) — Igaunijas robeža (Ainaži) \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ трассе A  1 \pause=1\ Rīga \pause=1\ Igaunijas robeža \tn=normal\.
-RP_RSET.TXT: #783 #2227 #2263
+RP_RSET.TXT: #783 #2237 #2273
 RULESET.TXT: #154 #208
 
 INPUT : Продолжите движение по \tn=address\ A6-E22-E77 Rīga — Daugavpils — Krāslava — Baltkrievijas robeža (Pāterniek) \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ трассе A  6 \pause=1\ Е 20 2 \pause=1\ Е 70 7 \pause=1\ Rīga \pause=1\ Daugavpils \pause=1\ Krāslava \pause=1\ Baltkrievijas robeža \tn=normal\.
-RP_RSET.TXT: #783 #2214 #2227 #2248 #2263
+RP_RSET.TXT: #783 #2224 #2237 #2258 #2273
 RULESET.TXT: #154 #208
 
 INPUT : Продолжите движение по \tn=address\ A5-E77 Rīgas apvedceļš (Salaspils — Babīte) \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ трассе A  5 \pause=1\ Е 70 7 \pause=1\ Рижская объездная автодорога \tn=normal\.
-RP_RSET.TXT: #374 #783 #2215 #2227 #2248 #2263
+RP_RSET.TXT: #374 #783 #2225 #2237 #2258 #2273
 RULESET.TXT: #154
 
 INPUT : Продолжите движение по \tn=address\ A3-E28 Minsko pl. \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ шоссе A3 Е 20 8 \pause=1\ Минское \tn=normal\.
-RP_RSET.TXT: #386 #783 #2153 #2215 #2248
+RP_RSET.TXT: #386 #783 #2163 #2225 #2258
 
 INPUT : Продолжите движение по \tn=address\ A90-E75 Northern Cretan Highway \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ трассе A  90 \pause=1\ Е 70 5 \pause=1\ Northern Cretan Highway \tn=normal\.
-RP_RSET.TXT: #783 #2215 #2227 #2248 #2263
+RP_RSET.TXT: #783 #2225 #2237 #2258 #2273
 
 INPUT : Через восемьсот метров поверните направо на \tn=address\ E4 S \tn=normal\.
 OUTPUT: Через восемьсот метров поверните направо на  \tn=address\ трассу Е 4 \pause=1\ S \tn=normal\.
-RP_RSET.TXT: #786 #2213 #2258
+RP_RSET.TXT: #786 #2223 #2268
 
 INPUT : Через два километра сверните направо, на съезд \tn=address\ 22 \tn=normal\ к \tn=address\ 1075 \tn=normal\.
 OUTPUT: Через два километра сверните направо, на съезд \tn=address\ 20 2 \tn=normal\ к  \tn=address\ дороге тысяча 70 5 \pause=1\ \tn=normal\.
-RP_RSET.TXT: #10 #583 #782 #2228 #2244 #2248 #2301
+RP_RSET.TXT: #10 #583 #782 #2238 #2254 #2258 #2311
 RULESET.TXT: #211
 
 INPUT : Через полтора километра поверните направо на \tn=address\ 1771 \tn=normal\.
 OUTPUT: Через полтора километра поверните направо на  \tn=address\ дорогу тысяча 700 70 1 \pause=1\ \tn=normal\.
-RP_RSET.TXT: #583 #786 #2228 #2245 #2246 #2291
+RP_RSET.TXT: #583 #786 #2238 #2255 #2256 #2301
 
 INPUT : Через один километр поверните направо на \tn=address\ 1905 Года Улица \tn=normal\.
 OUTPUT: Через один километр поверните направо на  \tn=address\ улицу тысяча 900 пятого года \tn=normal\.
@@ -333,64 +333,64 @@ RP_RSET.TXT: #337 #575 #583 #701 #786 #1164
 
 INPUT : Поверните направо на \tn=address\ Joutsenonkatu \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ Joutsenon /+'ka.tu/+ \tn=normal\.
-RP_RSET.TXT: #522 #786 #2397
+RP_RSET.TXT: #522 #786 #2407
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ P+R Mellunmäki \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ перехватывающая парковка Mellun /+'m%ja.k%jij/+ \tn=normal\.
-RP_RSET.TXT: #10 #503 #525 #793 #2397
+RP_RSET.TXT: #10 #503 #525 #793 #2407
 RULESET.TXT: #211
 
 INPUT : Поверните направо на \tn=address\ P+R Mellunmäki \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ перехватывающую парковку Mellun /+'m%ja.k%jij/+ \tn=normal\.
-RP_RSET.TXT: #503 #525 #786 #2377
+RP_RSET.TXT: #503 #525 #786 #2387
 
 INPUT : Продолжайте движение по \tn=address\ Riksvägen 7 \tn=normal\.
 OUTPUT: Продолжайте движение по  \tn=address\ трассе 7 \tn=normal\.
-RP_RSET.TXT: #505 #783 #2263
+RP_RSET.TXT: #505 #783 #2273
 
 INPUT : Двигайтесь справа по \tn=address\ 12 \tn=normal\, направление \tn=address\ /+'kou.fo.la/+ \tn=normal\.
 OUTPUT: Двигайтесь справа по  \tn=address\ трассе 12 \pause=1\ \tn=normal\, направление  \tn=address\ /+'ko.u.vo-.lo-/+ \tn=normal\.
-RP_RSET.TXT: #10 #783 #794 #2225 #2263 #2397
+RP_RSET.TXT: #10 #783 #794 #2235 #2273 #2407
 RULESET.TXT: #111 #211
 
 INPUT : Вы прибыли в пункт назначения , \tn=address\ /+'nes.te?_'oil_'eks.'2pres/+  \tn=normal\. Пункт назначения находится справа.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ Neste Oil Express  \tn=normal\. Пункт назначения находится справа.
-RP_RSET.TXT: #793 #2397
+RP_RSET.TXT: #793 #2407
 RULESET.TXT: #112 #211
 
 INPUT : Вы прибыли в пункт назначения , \tn=address\ /+'kul.ta.'2kel.lo_'pris.ma_'lap.pen.'2ran.ta/+  \tn=normal\. Пункт назначения находится слева.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ /+'kul.t^.'2kel.lo_'pr%jiz.mo-_'lap.pIn.'2ran.ta/+  \tn=normal\. Пункт назначения находится слева.
-RP_RSET.TXT: #793 #2397
+RP_RSET.TXT: #793 #2407
 RULESET.TXT: #113 #114 #116 #211
 
 INPUT : Поверните налево на \tn=address\ /+'lap.pen.'2ran.nan.'2tie/+ \tn=normal\.
 OUTPUT: Поверните налево на  \tn=address\ /+'lap.pIn.'2ran.n^n.'2tie/+ \tn=normal\.
-RP_RSET.TXT: #786 #2397
+RP_RSET.TXT: #786 #2407
 RULESET.TXT: #114 #116
 
 INPUT : Поверните налево на \tn=address\ /+'tu.nan.'2sa.ren.'2tie/+ \tn=normal\.
 OUTPUT: Поверните налево на  \tn=address\ /+'tu.n^n.'2sa.rEn.'2tie/+ \tn=normal\.
-RP_RSET.TXT: #786 #2397
+RP_RSET.TXT: #786 #2407
 RULESET.TXT: #114 #115
 
 INPUT : Поверните налево на \tn=address\ /+'nui.ja.'2man.'2tie/+ \tn=normal\, затем держитесь слева.
 OUTPUT: Поверните налево на  \tn=address\ /+'nui.j^.'2man.'2tie/+ \tn=normal\, затем держитесь слева.
-RP_RSET.TXT: #10 #786 #2397
+RP_RSET.TXT: #10 #786 #2407
 RULESET.TXT: #114 #211
 
 INPUT : Поверните налево на \tn=address\ /+'sa.von.'2lin.nan.'2tie/+ \tn=normal\, затем совершите въезд на кольцевую развязку.
 OUTPUT: Поверните налево на  \tn=address\ /+'sa.v^n.'2lin.n^n.'2tie/+ \tn=normal\, затем совершите въезд на кольцевую развязку.
-RP_RSET.TXT: #10 #786 #2397
+RP_RSET.TXT: #10 #786 #2407
 RULESET.TXT: #114 #211
 
 INPUT : Через шестьсот метров поверните направо на \tn=address\ /+'tai.ni.on%j.'2kos.ken.'2tie/+ \tn=normal\.
 OUTPUT: Через шестьсот метров поверните направо на  \tn=address\ /+'tai.ni.on%j.'2kos.kIn.'2tie/+ \tn=normal\.
-RP_RSET.TXT: #786 #2397
+RP_RSET.TXT: #786 #2407
 RULESET.TXT: #116
 
 INPUT : Через полтора километра сверните на правый съезд, направление \tn=address\ /+g^.'l%jja.n$.v$/+ \tn=normal\.
 OUTPUT: Через полтора километра сверните на правый съезд, направление  \tn=address\ /+g^l%j.'ja.no-.vo-/+ \tn=normal\.
-RP_RSET.TXT: #10 #794 #2397
+RP_RSET.TXT: #10 #794 #2407
 RULESET.TXT: #119 #125 #211
 
 INPUT : Через сто метров поверните направо на \tn=address\ Rue de Rivoli \tn=normal\.
@@ -399,7 +399,7 @@ RP_RSET.TXT: #427 #786 #1165
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ Place du Louvre \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ площадь du Louvre \tn=normal\.
-RP_RSET.TXT: #10 #418 #793 #2397
+RP_RSET.TXT: #10 #418 #793 #2407
 RULESET.TXT: #211
 
 INPUT : Поверните направо на \tn=address\ Allée Principale \tn=normal\.
@@ -412,11 +412,11 @@ RP_RSET.TXT: #406 #783 #1818
 
 INPUT : Поверните направо на \tn=address\ Chaussée Jules César \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ шоссе Jules César \tn=normal\.
-RP_RSET.TXT: #409 #786 #2397
+RP_RSET.TXT: #409 #786 #2407
 
 INPUT : Поверните направо на \tn=address\ Cours la Reine \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ площадь la Reine \tn=normal\.
-RP_RSET.TXT: #412 #786 #2397
+RP_RSET.TXT: #412 #786 #2407
 
 INPUT : Поверните направо на \tn=address\ Petit-Pont Cardinal-Lustinger \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ малый мост Cardinal-Lustinger \tn=normal\.
@@ -428,7 +428,7 @@ RP_RSET.TXT: #422 #786 #1309
 
 INPUT : Поверните направо на \tn=address\ Impasse Maubert \tn=normal\.
 OUTPUT: Поверните направо в  \tn=address\  тупик Maubert \tn=normal\.
-RP_RSET.TXT: #415 #786 #2397
+RP_RSET.TXT: #415 #786 #2407
 RULESET.TXT: #94
 
 INPUT : Продолжите движение по \tn=address\ Boulevard Saint-Germain \tn=normal\.
@@ -437,12 +437,12 @@ RP_RSET.TXT: #408 #783 #1464
 
 INPUT : Продолжите движение по \tn=address\ Sortie Turbigo (Voie S1) \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ съезду Turbigo \tn=normal\.
-RP_RSET.TXT: #429 #783 #1911
+RP_RSET.TXT: #429 #783 #1921
 RULESET.TXT: #154
 
 INPUT : Продолжите движение по \tn=address\ Souterrain Grande Boucle (Voie BCL) \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ тоннелю Grande Boucle \tn=normal\.
-RP_RSET.TXT: #430 #783 #1950
+RP_RSET.TXT: #430 #783 #1960
 RULESET.TXT: #154
 
 INPUT : Продолжите движение по \tn=address\ Entrée Turbigo \tn=normal\.
@@ -451,11 +451,11 @@ RP_RSET.TXT: #414 #783 #1551
 
 INPUT : Продолжите движение по \tn=address\ Tunnel des Tuileries \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ тоннелю des Tuileries \tn=normal\.
-RP_RSET.TXT: #432 #783 #1950
+RP_RSET.TXT: #432 #783 #1960
 
 INPUT : Продолжите движение по \tn=address\ Voie Georges Pompidou \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ дороге Georges Pompidou \tn=normal\.
-RP_RSET.TXT: #434 #783 #2301
+RP_RSET.TXT: #434 #783 #2311
 
 INPUT : Продолжите движение по \tn=address\ Cours la Reine \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ площади la Reine \tn=normal\.
@@ -471,28 +471,28 @@ RP_RSET.TXT: #421 #783 #1319
 
 INPUT : Продолжите движение по \tn=address\ Rond-Point des Champs-Élysées - Marcel Dassault \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ кольцу des Champs-Élysées \pause=1\ Marcel Dassault \tn=normal\.
-RP_RSET.TXT: #424 #783 #2117
+RP_RSET.TXT: #424 #783 #2127
 RULESET.TXT: #208
 
 INPUT : Поверните направо на \tn=address\ Accès Parking Pyramides \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ подъезд Parking Pyramides \tn=normal\.
-RP_RSET.TXT: #403 #786 #2397
+RP_RSET.TXT: #403 #786 #2407
 
 INPUT : Поверните направо на \tn=address\ Chemin de Trépomy \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ проезд de Trépomy \tn=normal\.
-RP_RSET.TXT: #410 #786 #2397
+RP_RSET.TXT: #410 #786 #2407
 
 INPUT : Через семьсот метров поверните направо на \tn=address\ Avinguda del Regne de València \tn=normal\.
 OUTPUT: Через семьсот метров поверните направо на  \tn=address\ проспект del Regne de València \tn=normal\.
-RP_RSET.TXT: #455 #786 #2397
+RP_RSET.TXT: #455 #786 #2407
 
 INPUT : Продолжите движение по \tn=address\ Camí de Sant Jeroni de la Murtra \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ дороге de Sant Jeroni de la Murtra \tn=normal\.
-RP_RSET.TXT: #456 #783 #2301
+RP_RSET.TXT: #456 #783 #2311
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ Carrer de Bailèn 23 \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ улица de Bailèn 20 3 \tn=normal\.
-RP_RSET.TXT: #10 #457 #793 #2248 #2397
+RP_RSET.TXT: #10 #457 #793 #2258 #2407
 RULESET.TXT: #211
 
 INPUT : Продолжите движение по \tn=address\ Gran Via de les Corts Catalanes \tn=normal\.
@@ -501,15 +501,15 @@ RP_RSET.TXT: #446 #783 #1818
 
 INPUT : Поверните направо на \tn=address\ Moll d'Espanya \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ дорогу /+'mol%j/+ d'Espanya \tn=normal\.
-RP_RSET.TXT: #458 #786 #2291
+RP_RSET.TXT: #458 #786 #2301
 
 INPUT : Поверните налево на \tn=address\ Passatge del Pagès \tn=normal\.
 OUTPUT: Поверните налево на  \tn=address\ проезд del Pagès \tn=normal\.
-RP_RSET.TXT: #459 #786 #2397
+RP_RSET.TXT: #459 #786 #2407
 
 INPUT : Поверните направо на \tn=address\ Passeig de Sant Joan \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ бульвар de Sant Joan \tn=normal\.
-RP_RSET.TXT: #460 #786 #2397
+RP_RSET.TXT: #460 #786 #2407
 
 INPUT : Продолжите движение по \tn=address\ Plaça de Tetuan \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ площади de Tetuan \tn=normal\.
@@ -521,7 +521,7 @@ RP_RSET.TXT: #420 #783 #1600
 
 INPUT : Продолжите движение по \tn=address\ Rambla de la Muntanya \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ Rambla de la Muntanya \tn=normal\.
-RP_RSET.TXT: #783 #2397
+RP_RSET.TXT: #783 #2407
 
 INPUT : Продолжите движение по \tn=address\ Travessera de Montigalà \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ переулку de Montigalà \tn=normal\.
@@ -533,7 +533,7 @@ RP_RSET.TXT: #485 #783 #1178
 
 INPUT : Продолжите движение по \tn=address\ Acceso Dársena de Cartagena \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ подъезду Dársena de Cartagena \tn=normal\.
-RP_RSET.TXT: #436 #783 #2353
+RP_RSET.TXT: #436 #783 #2363
 
 INPUT : Продолжите движение по \tn=address\ Avenida Navarra \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проспекту Navarra \tn=normal\.
@@ -541,11 +541,11 @@ RP_RSET.TXT: #437 #783 #1818
 
 INPUT : Продолжите движение по \tn=address\ Autopista del Maresme \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ магистрали del Maresme \tn=normal\.
-RP_RSET.TXT: #438 #783 #2187
+RP_RSET.TXT: #438 #783 #2197
 
 INPUT : Продолжите движение по \tn=address\ Autovía del Este \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ автодороге del Este \tn=normal\.
-RP_RSET.TXT: #439 #783 #2301
+RP_RSET.TXT: #439 #783 #2311
 
 INPUT : Продолжите движение по \tn=address\ Bypass Sur \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ обходу Sur \tn=normal\.
@@ -557,19 +557,19 @@ RP_RSET.TXT: #441 #783 #1178
 
 INPUT : Продолжите движение по \tn=address\ Camino de Hormigueras \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ дороге de Hormigueras \tn=normal\.
-RP_RSET.TXT: #442 #783 #2301
+RP_RSET.TXT: #442 #783 #2311
 
 INPUT : Продолжите движение по \tn=address\ Carretera del Carmel \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ шоссе del Carmel \tn=normal\.
-RP_RSET.TXT: #443 #783 #2397
+RP_RSET.TXT: #443 #783 #2407
 
 INPUT : Продолжите движение по \tn=address\ Eje Sureste \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ шоссе Eje Sureste \tn=normal\.
-RP_RSET.TXT: #444 #783 #2397
+RP_RSET.TXT: #444 #783 #2407
 
 INPUT : Продолжите движение по \tn=address\ Glorieta de Carlos V \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ кольцу de Carlos V \tn=normal\.
-RP_RSET.TXT: #445 #783 #2117
+RP_RSET.TXT: #445 #783 #2127
 
 INPUT : Продолжите движение по \tn=address\ Gran Vía \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проспекту Gran Vía \tn=normal\.
@@ -577,7 +577,7 @@ RP_RSET.TXT: #446 #783 #1818
 
 INPUT : Поверните направо на \tn=address\ Nudo de Manoteras \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ развязку de Manoteras \tn=normal\.
-RP_RSET.TXT: #447 #786 #2359
+RP_RSET.TXT: #447 #786 #2369
 
 INPUT : Продолжите движение по \tn=address\ Paseo de Santa María de la Cabeza \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проезду de Santa María de la Cabeza \tn=normal\.
@@ -593,7 +593,7 @@ RP_RSET.TXT: #450 #783 #1600
 
 INPUT : Продолжите движение по \tn=address\ Ronda de Atocha \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ кольцу de Atocha \tn=normal\.
-RP_RSET.TXT: #451 #783 #2117
+RP_RSET.TXT: #451 #783 #2127
 
 INPUT : Продолжите движение по \tn=address\ Travesía de Felipe de Diego \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ переулку de Felipe de Diego \tn=normal\.
@@ -601,11 +601,11 @@ RP_RSET.TXT: #452 #783 #1683
 
 INPUT : Продолжите движение по \tn=address\ Túnel de Atocha \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ тоннелю de Atocha \tn=normal\.
-RP_RSET.TXT: #453 #783 #1950
+RP_RSET.TXT: #453 #783 #1960
 
 INPUT : Продолжите движение по \tn=address\ Autostrada Messina-Catania \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ шоссе Messina-Catania \tn=normal\.
-RP_RSET.TXT: #465 #783 #2397
+RP_RSET.TXT: #465 #783 #2407
 
 INPUT : Продолжите движение по \tn=address\ Cavalcavia Renato Serra \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ путепроводу Renato Serra \tn=normal\.
@@ -613,7 +613,7 @@ RP_RSET.TXT: #466 #783 #1872
 
 INPUT : Продолжите движение по \tn=address\ Circonvallazione Ostiense \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ кольцевой автодороге Ostiense \tn=normal\.
-RP_RSET.TXT: #467 #783 #2294
+RP_RSET.TXT: #467 #783 #2304
 
 INPUT : Продолжите движение по \tn=address\ Contrada Pallio \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проезду Pallio \tn=normal\.
@@ -625,7 +625,7 @@ RP_RSET.TXT: #469 #783 #1818
 
 INPUT : Продолжите движение по \tn=address\ Galleria Taormina \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ тоннелю Taormina \tn=normal\.
-RP_RSET.TXT: #470 #783 #1950
+RP_RSET.TXT: #470 #783 #1960
 
 INPUT : Продолжите движение по \tn=address\ Lungarno Cristoforo Colombo \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ набережной Cristoforo Colombo \tn=normal\.
@@ -641,15 +641,15 @@ RP_RSET.TXT: #474 #783 #1319
 
 INPUT : Поверните направо на \tn=address\ Piazza Europa \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ площадь Europa \tn=normal\.
-RP_RSET.TXT: #475 #786 #2397
+RP_RSET.TXT: #475 #786 #2407
 
 INPUT : Поверните направо на \tn=address\ Piazzale Candido Cannavò \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ площадь Candido Cannavò \tn=normal\.
-RP_RSET.TXT: #476 #786 #2397
+RP_RSET.TXT: #476 #786 #2407
 
 INPUT : Поверните направо на \tn=address\ Piazzetta Oronzo De Donno \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ площадь Oronzo De Donno \tn=normal\.
-RP_RSET.TXT: #477 #786 #2397
+RP_RSET.TXT: #477 #786 #2407
 
 INPUT : Продолжите движение по \tn=address\ Ponte Principe Amedeo \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ мосту Principe Amedeo \tn=normal\.
@@ -677,11 +677,11 @@ RP_RSET.TXT: #481 #783 #1427
 
 INPUT : Продолжите движение по \tn=address\ Strada per San Giovanni Galermo \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ дороге per San Giovanni Galermo \tn=normal\.
-RP_RSET.TXT: #482 #783 #2301
+RP_RSET.TXT: #482 #783 #2311
 
 INPUT : Продолжите движение по \tn=address\ Tangenziale Ovest di Catania \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ объездной автодороге Ovest di Catania \tn=normal\.
-RP_RSET.TXT: #483 #783 #2294
+RP_RSET.TXT: #483 #783 #2304
 
 INPUT : Продолжите движение по \tn=address\ Traversa degli Orefici \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ переулку degli Orefici \tn=normal\.
@@ -693,11 +693,11 @@ RP_RSET.TXT: #485 #786 #1165
 
 INPUT : Поверните направо на \tn=address\ Viale Tirreno \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ проспект Tirreno \tn=normal\.
-RP_RSET.TXT: #486 #786 #2397
+RP_RSET.TXT: #486 #786 #2407
 
 INPUT : Поверните направо на \tn=address\ Vico San Geronimo \tn=normal\.
 OUTPUT: Поверните направо в  \tn=address\  тупик San Geronimo \tn=normal\.
-RP_RSET.TXT: #487 #786 #2397
+RP_RSET.TXT: #487 #786 #2407
 RULESET.TXT: #94
 
 INPUT : Поверните направо на \tn=address\ Vicolo della Sfera \tn=normal\.
@@ -734,15 +734,15 @@ RP_RSET.TXT: #495 #786 #1308
 
 INPUT : Продолжите движение по \tn=address\ Kelenhegyi út \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ дороге Kelenhegyi \tn=normal\.
-RP_RSET.TXT: #499 #783 #2300
+RP_RSET.TXT: #499 #783 #2310
 
 INPUT : Продолжите движение по \tn=address\ Kodály körönd \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ кольцу Kodály \tn=normal\.
-RP_RSET.TXT: #493 #783 #2116
+RP_RSET.TXT: #493 #783 #2126
 
 INPUT : Продолжите движение по \tn=address\ Felső erdősor \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ Felső erdősor \tn=normal\.
-RP_RSET.TXT: #783 #2397
+RP_RSET.TXT: #783 #2407
 
 INPUT : Поверните направо на \tn=address\ Olof Palme sétány \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ аллею Olof Palme \tn=normal\.
@@ -778,15 +778,15 @@ RP_RSET.TXT: #77 #130 #131 #152 #163 #164 #201 #213 #237 #284 #296 #322 #783 #18
 
 INPUT : Продолжите движение по \tn=address\ Pikk jalg \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ пешеходной дороге Pikk \tn=normal\.
-RP_RSET.TXT: #360 #783 #2294
+RP_RSET.TXT: #360 #783 #2304
 
 INPUT : Поверните направо на \tn=address\ Järvevana tee \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ дорогу Järvevana \tn=normal\.
-RP_RSET.TXT: #369 #786 #2290
+RP_RSET.TXT: #369 #786 #2300
 
 INPUT : Продолжите движение по \tn=address\ Peterburi tee \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ Петербургскому шоссе \tn=normal\.
-RP_RSET.TXT: #356 #783 #2149
+RP_RSET.TXT: #356 #783 #2159
 
 INPUT : Продолжите движение по \tn=address\ Katariina käik \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проезду Katariina \tn=normal\.
@@ -802,7 +802,7 @@ RP_RSET.TXT: #371 #786 #1164
 
 INPUT : Поверните направо на \tn=address\ Pärnu mnt \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ Пярнуское шоссе \tn=normal\.
-RP_RSET.TXT: #348 #786 #2145
+RP_RSET.TXT: #348 #786 #2155
 
 INPUT : Продолжите движение по \tn=address\ Estonia pst \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ бульвару Estonia \tn=normal\.
@@ -814,7 +814,7 @@ RP_RSET.TXT: #372 #783 #1374
 
 INPUT : Продолжите движение по \tn=address\ Tallinna ringtee \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ кольцевой автодороге \tn=normal\.
-RP_RSET.TXT: #367 #783 #2294
+RP_RSET.TXT: #367 #783 #2304
 
 INPUT : Поверните направо на \tn=address\ Vydūno al. \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ аллею Vydūno \tn=normal\.
@@ -822,11 +822,11 @@ RP_RSET.TXT: #389 #786 #1108
 
 INPUT : Поверните направо на \tn=address\ Vakarinis aplinkl. \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ объездную автодорогу Vakarinis \tn=normal\.
-RP_RSET.TXT: #390 #786 #2284
+RP_RSET.TXT: #390 #786 #2294
 
 INPUT : Поверните направо на \tn=address\ Palangos aplinkkelis \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ объездную автодорогу Palangos \tn=normal\.
-RP_RSET.TXT: #390 #786 #2284
+RP_RSET.TXT: #390 #786 #2294
 
 INPUT : Поверните направо на \tn=address\ Kęstučio g. \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ улицу Kęstučio \tn=normal\.
@@ -834,7 +834,7 @@ RP_RSET.TXT: #392 #786 #1164
 
 INPUT : Поверните направо на \tn=address\ Turžėnų kel. \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ дорогу Turžėnų \tn=normal\.
-RP_RSET.TXT: #393 #786 #2290
+RP_RSET.TXT: #393 #786 #2300
 
 INPUT : Поверните направо на \tn=address\ Neries krantinė \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ набережную Neries \tn=normal\.
@@ -842,11 +842,11 @@ RP_RSET.TXT: #394 #786 #1308
 
 INPUT : Продолжите движение по \tn=address\ Kauno pl. \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ шоссе Kauno \tn=normal\.
-RP_RSET.TXT: #398 #783 #2153
+RP_RSET.TXT: #398 #783 #2163
 
 INPUT : Продолжите движение по \tn=address\ Minsko pl. \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ Минскому шоссе \tn=normal\.
-RP_RSET.TXT: #386 #783 #2149
+RP_RSET.TXT: #386 #783 #2159
 
 INPUT : Продолжите движение по \tn=address\ Šiaurės pr. \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ проспекту Šiaurės \tn=normal\.
@@ -858,7 +858,7 @@ RP_RSET.TXT: #399 #783 #1682
 
 INPUT : Продолжите движение по \tn=address\ Ribiškių tak. \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ дороге Ribiškių \tn=normal\.
-RP_RSET.TXT: #396 #783 #2300
+RP_RSET.TXT: #396 #783 #2310
 
 INPUT : Продолжите движение по \tn=address\ Žirmūnų tiltas \tn=normal\.
 OUTPUT: Продолжите движение по  \tn=address\ мосту Žirmūnų \tn=normal\.
@@ -866,7 +866,7 @@ RP_RSET.TXT: #400 #783 #1599
 
 INPUT : Вы прибыли в пункт назначения, \tn=address\ Граница Минской и витебской обл. \tn=normal\.
 OUTPUT: Вы прибыли в пункт назначения,  \tn=address\ Граница Минской И витебской областей  \tn=normal\.
-RP_RSET.TXT: #10 #793 #2397
+RP_RSET.TXT: #10 #793 #2407
 RULESET.TXT: #37 #211
 
 INPUT : Поверните направо на \tn=address\ Миклухо-Маклая Улица \tn=normal\.
@@ -875,24 +875,24 @@ RP_RSET.TXT: #786 #1069 #1165
 
 INPUT : Через семьсот метров поверните направо на \tn=address\ Кировск-Мга-Гатчина-Большая Ижора \tn=normal\.
 OUTPUT: Через семьсот метров поверните направо на  \tn=address\ дорогу Кировск \pause=1\ Мга \pause=1\ Гатчина \pause=1\ Большая Ижора \tn=normal\.
-RP_RSET.TXT: #786 #2221 #2291
+RP_RSET.TXT: #786 #2231 #2301
 RULESET.TXT: #208
 
 INPUT : Через семьсот метров поверните направо на \tn=address\ Р-23 \tn=normal\.
 OUTPUT: Через семьсот метров поверните направо на  \tn=address\ дорогу  эр 20 3 \pause=1\ \tn=normal\.
-RP_RSET.TXT: #786 #2217 #2248 #2291
+RP_RSET.TXT: #786 #2227 #2258 #2301
 
 INPUT : Поверните направо на \tn=address\ E 85 \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ трассу Е 80 5 \pause=1\ \tn=normal\.
-RP_RSET.TXT: #786 #2213 #2248 #2258
+RP_RSET.TXT: #786 #2223 #2258 #2268
 
 INPUT : Затор на \tn=address\ 14;6 \tn=normal\.
 OUTPUT: Затор на  \tn=address\ трассе 14 \pause=1\ 6 \tn=normal\.
-RP_RSET.TXT: #788 #2225 #2268
+RP_RSET.TXT: #788 #2235 #2278
 
 INPUT : Затор до \tn=address\ 41А-180 \tn=normal\.
 OUTPUT: Затор до  \tn=address\ дороги 40 1 А \pause=1\ 100 80 \tn=normal\.
-RP_RSET.TXT: #791 #2231 #2246 #2248 #2325
+RP_RSET.TXT: #791 #2241 #2256 #2258 #2335
 
 INPUT : \tn=address\ Троицкий мост \tn=normal\ закрыта, переключение на новый маршрут.
 OUTPUT:  Троицкий мост  закрыт, переключение на новый маршрут.
@@ -991,7 +991,7 @@ RULESET.TXT: #119 #125
 
 INPUT : Через шестьсот метров вы прибудете в пункт назначения , \tn=address\ /+'u.l%jI.t&s$_'sa.n%jt%jjI.g$_'d%je_'ku.b$/+  \tn=normal\.
 OUTPUT: Через шестьсот метров вы прибудете в пункт назначения,  \tn=address\ улица /+'san%j.t%jjI.go-_'d%je_'ku.bo-/+  \tn=normal\.
-RP_RSET.TXT: #21 #793 #2397
+RP_RSET.TXT: #21 #793 #2407
 RULESET.TXT: #119 #125 #211
 
 INPUT : Через семьсот метров поверните направо на \tn=address\ /+'u.l%jI.t&s$_'ma.rk$_'ga.ll$.E/+ \tn=normal\, затем поверните направо на следующем повороте.
@@ -1036,16 +1036,16 @@ RULESET.TXT: #119 #125
 
 INPUT : Через семьсот метров поверните налево на \tn=address\ /+'ku.Si0.l%jI.fsk$.I_d^.'ro.g$/+ \tn=normal\.
 OUTPUT: Через семьсот метров поверните налево на  \tn=address\ /+'ku.Si0.l%jI.fsku.ju_d^.'ro.gu/+ \tn=normal\.
-RP_RSET.TXT: #786 #2293
+RP_RSET.TXT: #786 #2303
 
 INPUT : Через пятьсот метров поверните направо на \tn=address\ /+t$.rf%jI.'na.I_d^.'ro.g$/+ \tn=normal\, затем поверните направо.
 OUTPUT: Через пятьсот метров поверните направо на  \tn=address\ /+to-r.f%jI.'nu.ju_d^.'ro.gu/+ \tn=normal\, затем поверните направо.
-RP_RSET.TXT: #10 #786 #2293
+RP_RSET.TXT: #10 #786 #2303
 RULESET.TXT: #119 #125 #211
 
 INPUT : Поверните направо на \tn=address\ /+d^.'ro.g$_'vE_'ka.m%jI.nku/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ дорогу в /+'ka.m%jIn.ku/+ \tn=normal\.
-RP_RSET.TXT: #23 #53 #786 #2291
+RP_RSET.TXT: #23 #53 #786 #2301
 RULESET.TXT: #119
 
 INPUT : Поверните направо на \tn=address\ /+'na.b%jI.r%jI.Zn$.E_r%jI.'k%ji_'ka.rp$.fk%jI/+ \tn=normal\.
@@ -1085,7 +1085,7 @@ RULESET.TXT: #119 #121 #125
 
 INPUT : Поверните направо на \tn=address\ /+'plo.S%jIt%j_^.l%jI.'ksa.ndr$_'n%je.fsk$.v$/+ \tn=normal\, затем поверните налево.
 OUTPUT: Поверните направо на  \tn=address\ площадь /+^.l%jIk.'san.dro-_'n%je.fsko-.vo-/+ \tn=normal\, затем поверните налево.
-RP_RSET.TXT: #10 #28 #786 #2397
+RP_RSET.TXT: #10 #28 #786 #2407
 RULESET.TXT: #119 #125 #211
 
 INPUT : Через семьсот метров поверните налево на \tn=address\ /+'tro.I.t&sk$.I_'plo.S%jIt%j/+ \tn=normal\.
@@ -1128,12 +1128,12 @@ RULESET.TXT: #107 #119
 
 INPUT : Поверните направо на \tn=address\ /+b^.'l%jSoj_pr^.'sp%jekd_'vE_'o/+ \tn=normal\, затем поверните налево на следующем повороте.
 OUTPUT: Поверните направо на  \tn=address\ /+b^l%j.'Soj_pr^s.'p%jekd_v^.'s%jil%j.jIf.sko-.vo-_'ost.ro-.vo-/+ \tn=normal\, затем поверните налево на следующем повороте.
-RP_RSET.TXT: #10 #786 #2397
+RP_RSET.TXT: #10 #786 #2407
 RULESET.TXT: #108 #119 #211
 
 INPUT : Через пятьсот метров поверните направо на \tn=address\ /+'ma.li0j_pr^.'sp%jekt/+ \tn=normal\.
 OUTPUT: Через пятьсот метров поверните направо на  \tn=address\ /+'ma.li0j_pr^s.'p%jekt/+ \tn=normal\.
-RP_RSET.TXT: #786 #2397
+RP_RSET.TXT: #786 #2407
 RULESET.TXT: #119
 
 INPUT : Сверните на кольцевой развязке на первый съезд , ведущий к \tn=address\ /+gr^.'Zda.nsk%jIj_pr^.'sp%jekt/+ \tn=normal\.
@@ -1148,7 +1148,7 @@ RULESET.TXT: #119
 
 INPUT : Поверните направо на \tn=address\ /+'u.tk%jIn_pr^.'sp%jekt/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ /+'ut.k%jIn_pr^s.'p%jekt/+ \tn=normal\.
-RP_RSET.TXT: #786 #2397
+RP_RSET.TXT: #786 #2407
 RULESET.TXT: #119
 
 INPUT : Сверните на кольцевой развязке на четвертый съезд , ведущий к \tn=address\ /+ft^.'roj_'mu.r%jI.nsk%jIj_pr^.'sp%jekt/+ \tn=normal\.
@@ -1158,12 +1158,12 @@ RULESET.TXT: #100 #119 #211
 
 INPUT : Через один километр сверните на правый съезд к \tn=address\ /+Si0.'f%ji.r$.fsk%jIj_pr^.'sp%jekt/+ \tn=normal\, направление \tn=address\ /+'sankt_'p%je.tr%jI.burk/+ \tn=normal\.
 OUTPUT: Через один километр сверните на правый съезд к  \tn=address\ /+Si0.'f%ji.ro-.fsko-.mu_pr^s.'p%jek.tu/+ \tn=normal\, направление  \tn=address\ Санкт-Петербург \tn=normal\.
-RP_RSET.TXT: #10 #782 #794 #1822 #2397
+RP_RSET.TXT: #10 #782 #794 #1822 #2407
 RULESET.TXT: #87 #125 #211
 
 INPUT : Через семьсот метров перестройтесь во вторую полосу справа, затем поверните направо на \tn=address\ /+'pE_'Er_'o.bu.x$.fsk$j_^.b^.'ro.ni0/+ \tn=normal\.
 OUTPUT: Через семьсот метров перестройтесь во вторую полосу справа, затем поверните направо на  \tn=address\ проспект Обуховской Обороны \tn=normal\.
-RP_RSET.TXT: #10 #37 #786 #2397
+RP_RSET.TXT: #10 #37 #786 #2407
 RULESET.TXT: #86 #211
 
 INPUT : Продолжайте движение по \tn=address\ /+k$.m%jI.n$.^.'stro.fsk%jIj_pr^.'sp%jekt/+ \tn=normal\.
@@ -1173,12 +1173,12 @@ RULESET.TXT: #119 #125
 
 INPUT : Через два километра поверните налево на \tn=address\ /+pr^.'sp%jekt_pr$.sv%jI.'S%je.n%jI.E/+ \tn=normal\.
 OUTPUT: Через два километра поверните налево на  \tn=address\ проспект /+pro-s.v%jI.'S%je.n%jI.jo-/+ \tn=normal\.
-RP_RSET.TXT: #36 #786 #2397
+RP_RSET.TXT: #36 #786 #2407
 RULESET.TXT: #119 #121 #125
 
 INPUT : Поверните направо на \tn=address\ /+k^.'za.rm%jI.nni0j_p%jI.r%jI.'u.l$k/+ \tn=normal\, затем поверните направо.
 OUTPUT: Поверните направо на  \tn=address\ /+k^.'zar.m%jIn.ni0j_p%jI.r%jI.'u.lo-k/+ \tn=normal\, затем поверните направо.
-RP_RSET.TXT: #10 #786 #2397
+RP_RSET.TXT: #10 #786 #2407
 RULESET.TXT: #119 #125 #211
 
 INPUT : Через пятьсот метров перестройтесь влево И продолжите движение по \tn=address\ /+k^.'za.rm%jI.nni0j_p%jI.r%jI.'u.l$k/+ \tn=normal\.
@@ -1188,17 +1188,17 @@ RULESET.TXT: #119
 
 INPUT : Поверните налево на \tn=address\ /+'s%ji.fk$f_p%jI.r%jI.'u.l$k/+ \tn=normal\.
 OUTPUT: Поверните налево на  \tn=address\ /+'s%ji.fko-f_p%jI.r%jI.'u.lo-k/+ \tn=normal\.
-RP_RSET.TXT: #786 #2397
+RP_RSET.TXT: #786 #2407
 RULESET.TXT: #125
 
 INPUT : Через пятьсот метров поверните направо на \tn=address\ /+^.'ga.t$f_p%jI.r%jI.'u.l$k/+ \tn=normal\.
 OUTPUT: Через пятьсот метров поверните направо на  \tn=address\ /+^.'ga.to-f_p%jI.r%jI.'u.lo-k/+ \tn=normal\.
-RP_RSET.TXT: #786 #2397
+RP_RSET.TXT: #786 #2407
 RULESET.TXT: #125
 
 INPUT : Через пятьсот метров поверните направо на \tn=address\ /+bu.'l%jvar_'kra.sni0x_'zor%j/+ \tn=normal\.
 OUTPUT: Через пятьсот метров поверните направо на  \tn=address\ бульвар /+'kras.ni0x_'zor%j/+ \tn=normal\.
-RP_RSET.TXT: #29 #786 #2397
+RP_RSET.TXT: #29 #786 #2407
 RULESET.TXT: #119
 
 INPUT : Через шестьсот метров перестройтесь вправо И продолжите движение по \tn=address\ /+bu.'l%jvar_'kra.sni0x_'zor%j/+ \tn=normal\.
@@ -1208,7 +1208,7 @@ RULESET.TXT: #119
 
 INPUT : Через шестьсот метров поверните налево на \tn=address\ /+s^.'mpso.n%jI.I.fsk%jIj_'most/+ \tn=normal\.
 OUTPUT: Через шестьсот метров поверните налево на  \tn=address\ /+s^m.'pso.n%jI.I.fsk%jIj_'most/+ \tn=normal\.
-RP_RSET.TXT: #786 #2397
+RP_RSET.TXT: #786 #2407
 RULESET.TXT: #119
 
 INPUT : Через пятьсот метров перестройтесь влево И продолжите движение по \tn=address\ /+s^.'mpso.n%jI.I.fsk%jIj_'most/+ \tn=normal\.
@@ -1218,7 +1218,7 @@ RULESET.TXT: #119
 
 INPUT : Поверните направо на \tn=address\ /+dv^.'rt&so.vi0j_pr^.'jest/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ /+dv^r.'t&so.vi0j_pr^.'jest/+ \tn=normal\.
-RP_RSET.TXT: #786 #2397
+RP_RSET.TXT: #786 #2407
 RULESET.TXT: #119
 
 INPUT : Через пятьсот метров перестройтесь влево И продолжите движение по \tn=address\ /+dv^.'rt&so.vi0j_pr^.'jest/+ \tn=normal\.
@@ -1228,117 +1228,122 @@ RULESET.TXT: #119
 
 INPUT : Через два с половиной километра поверните налево на \tn=address\ /+t%jI.^.'tra.l%jni0j_pr^.'jest/+ \tn=normal\.
 OUTPUT: Через два с половиной километра поверните налево на  \tn=address\ /+t%jI.^t.'ral%j.ni0j_pr^.'jest/+ \tn=normal\.
-RP_RSET.TXT: #786 #2397
+RP_RSET.TXT: #786 #2407
 RULESET.TXT: #119
 
 INPUT : Через один километр поверните направо на \tn=address\ /+p^.'djest_'ka_'pogr_p%jI.r%jI.'u.l$g_bru.'s%jn%ji.t&S%jn$.I/+ \tn=normal\.
 OUTPUT: Через один километр поверните направо на  \tn=address\ подъезд к погранпереходу /+brus%j.'n%ji.t&S%jno-.jo-/+ \tn=normal\.
-RP_RSET.TXT: #34 #54 #786 #2397
+RP_RSET.TXT: #34 #54 #786 #2407
 RULESET.TXT: #119 #120
 
 INPUT : Продолжайте движение по \tn=address\ /+p^.'djest_'ka_'pogr_p%jI.r%jI.'u.l$g_bru.'s%jn%ji.t&S%jn$.I/+ \tn=normal\.
 OUTPUT: Продолжайте движение по  \tn=address\ подъезду к погранпереходу /+brus%j.'n%ji.t&S%jno-.jo-/+ \tn=normal\.
-RP_RSET.TXT: #34 #54 #783 #2353
+RP_RSET.TXT: #34 #54 #783 #2363
 RULESET.TXT: #119 #120
 
 INPUT : Поверните направо на \tn=address\ /+'pa.rn$.sk%jIj_pu.t%jI.pr^.'vot/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ /+'par.no-s.k%jIj_pu.t%jIp.r^.'vot/+ \tn=normal\.
-RP_RSET.TXT: #786 #2397
+RP_RSET.TXT: #786 #2407
 RULESET.TXT: #119 #125
 
 INPUT : Через четыреста метров вы прибудете в пункт назначения , \tn=address\ /+k$.l^.'m%ja.Ssk%jIj_pu.t%jI.pr^.'vot/+  \tn=normal\.
 OUTPUT: Через четыреста метров вы прибудете в пункт назначения,  \tn=address\ /+ko-.l^.'m%jaS.sk%jIj_pu.t%jIp.r^.'vot/+  \tn=normal\.
-RP_RSET.TXT: #793 #2397
+RP_RSET.TXT: #793 #2407
 RULESET.TXT: #119 #125 #211
 
 INPUT : Через шестьсот метров вы прибудете в пункт назначения , \tn=address\ /+'pa.vl$.fsk%jIj_'trakt/+ 209 \tn=normal\.
 OUTPUT: Через шестьсот метров вы прибудете в пункт назначения,  \tn=address\ /+'pav.lo-.fsk%jIj_'trakt/+ 200 9 \tn=normal\.
-RP_RSET.TXT: #793 #2245 #2397
+RP_RSET.TXT: #793 #2255 #2407
 RULESET.TXT: #119 #125 #211
 
 INPUT : Через шестьсот метров перестройтесь вправо И продолжите движение по \tn=address\ /+'pa.vl$.fsk%jIj_'trakt/+ \tn=normal\.
 OUTPUT: Через шестьсот метров перестройтесь вправо И продолжите движение по  \tn=address\ /+'pav.lo-.fsko-.mu_'trak.tu/+ \tn=normal\.
-RP_RSET.TXT: #783 #1999
+RP_RSET.TXT: #783 #2009
 RULESET.TXT: #119 #125
 
 INPUT : Поверните направо на \tn=address\ /+m%ji.tr^.'fa.n%jjI.fsk%jIj_tu.'p%jik/+ \tn=normal\, затем поверните налево.
 OUTPUT: Поверните направо на  \tn=address\ /+m%jit.r^.'fan%j.jI.fsk%jIj_tu.'p%jik/+ \tn=normal\, затем поверните налево.
-RP_RSET.TXT: #10 #786 #2397
+RP_RSET.TXT: #10 #786 #2407
 RULESET.TXT: #119 #211
 
 INPUT : Через пятьсот метров поверните налево на \tn=address\ /+pr%jI.'mo.rsk$.I_S^.'sE/+ \tn=normal\, затем поверните налево.
 OUTPUT: Через пятьсот метров поверните налево на  \tn=address\ /+pr%jI.'mor.sko-.j$_S^.'sE/+ \tn=normal\, затем поверните налево.
-RP_RSET.TXT: #10 #786 #2148
+RP_RSET.TXT: #10 #786 #2158
 RULESET.TXT: #119 #211
 
 INPUT : Через пятьсот метров перестройтесь влево И продолжите движение по \tn=address\ /+pr%jI.'mo.rsk$.I_S^.'sE/+ \tn=normal\.
 OUTPUT: Через пятьсот метров перестройтесь влево И продолжите движение по  \tn=address\ /+pr%jI.'mor.sko-.mu_S^.'sE/+ \tn=normal\.
-RP_RSET.TXT: #783 #2154
+RP_RSET.TXT: #783 #2164
 RULESET.TXT: #119
 
 INPUT : Сверните на правый съезд, направление \tn=address\ /+m^.'sko.fsk$.I_S^.'sE/+ \tn=normal\, затем держитесь справа.
 OUTPUT: Сверните на правый съезд, направление  \tn=address\ /+m^s.'ko.fsko-.j$_S^.'sE/+ \tn=normal\, затем держитесь справа.
-RP_RSET.TXT: #10 #794 #2144
+RP_RSET.TXT: #10 #794 #2154
 RULESET.TXT: #119 #211
 
 INPUT : Через четыреста метров поверните направо на \tn=address\ /+l%jI.n%jI.'ngra.t&sk$.I_S^.'sE/+ \tn=normal\.
 OUTPUT: Через четыреста метров поверните направо на  \tn=address\ /+l%jI.n%jIn.'gra.t&sko-.j$_S^.'sE/+ \tn=normal\.
-RP_RSET.TXT: #786 #2148
+RP_RSET.TXT: #786 #2158
 RULESET.TXT: #119
 
 INPUT : Через один километр перестройтесь в одну из четырех левых полос, затем перестройтесь влево И сверните на \tn=address\ /+v^.'rSa.fsk$.I_S^.'sE/+ \tn=normal\.
 OUTPUT: Через один километр перестройтесь в одну из четырех левых полос, затем перестройтесь влево И сверните на  \tn=address\ /+v^r.'Sa.fsko-.j$_S^.'sE/+ \tn=normal\.
-RP_RSET.TXT: #10 #785 #2148
+RP_RSET.TXT: #10 #785 #2158
 RULESET.TXT: #119 #211
 
 INPUT : Продолжайте движение по \tn=address\ /+'S%jo.lk$.fsk$.I_S^.'ssE/+ \tn=normal\.
 OUTPUT: Продолжайте движение по  \tn=address\ /+'S%jol.ko-.fsko-.mu_S^.'sE/+ \tn=normal\.
-RP_RSET.TXT: #783 #2154
+RP_RSET.TXT: #783 #2164
 RULESET.TXT: #119 #125
 
 INPUT : Через двести метров поверните направо на \tn=address\ /+S^.'sE_i0.ntu.z%jI.'a.st$f/+ \tn=normal\.
 OUTPUT: Через двести метров поверните направо на  \tn=address\ шоссе \pause=0\ Энтузиастов \tn=normal\.
-RP_RSET.TXT: #41 #786 #2397
+RP_RSET.TXT: #41 #786 #2407
 RULESET.TXT: #89 #204
 
 INPUT : Через семьсот метров поверните направо на \tn=address\ /+glu.x^.'o.z%jI.rsk$.I_S^.'sE/+ \tn=normal\.
 OUTPUT: Через семьсот метров поверните направо на  \tn=address\ /+glu.x^.o-.'z%jor.sko-.j$_S^.'sE/+ \tn=normal\.
-RP_RSET.TXT: #786 #2148
+RP_RSET.TXT: #786 #2158
 RULESET.TXT: #103
 
 INPUT : Через семьсот метров перестройтесь в одну из двух левых полос, затем поверните налево на \tn=address\ /+'vi0.b$.rksk$.I_S^.'sE/+ \tn=normal\.
 OUTPUT: Через семьсот метров перестройтесь в одну из двух левых полос, затем поверните налево на  \tn=address\ /+'vi0.bo-r.sko-.j$_S^.'sE/+ \tn=normal\.
-RP_RSET.TXT: #10 #786 #2148
+RP_RSET.TXT: #10 #786 #2158
 RULESET.TXT: #119 #125 #128 #211
 
 INPUT : Держитесь справа И продолжите движение по \tn=address\ /+'la.nsk$.I_S^.'sE/+ \tn=normal\.
 OUTPUT: Держитесь справа И продолжите движение по  \tn=address\ /+l^n.'sko.mu_S^.'sE/+ \tn=normal\.
-RP_RSET.TXT: #783 #2154
+RP_RSET.TXT: #783 #2164
 RULESET.TXT: #105
 
 INPUT : Поверните направо на \tn=address\ /+'tr%je.t%jjI_'tra.nsp$.rtn$.I_k^.'l%jt&so/+ \tn=normal\.
 OUTPUT: Поверните направо на  \tn=address\ /+'tr%jet%j.j$_'tran.spo-r.tno-.j$_k^l%j.'t&so/+ \tn=normal\.
-RP_RSET.TXT: #786 #2109
+RP_RSET.TXT: #786 #2119
 RULESET.TXT: #119 #125
 
 INPUT : Сверните на правый съезд, ведущий к \tn=address\ /+'tr%je.t%jjI_'tra.nsp$.rtn$.I_k^.'l%jt&so/+ \tn=normal\.
 OUTPUT: Сверните на правый съезд, ведущий к  \tn=address\ /+'tr%jet%j.j$.mu_'tran.spo-r.tno-.mu_k^l%j.'t&su/+ \tn=normal\.
-RP_RSET.TXT: #10 #782 #2118
+RP_RSET.TXT: #10 #782 #2128
 RULESET.TXT: #119 #125 #211
 
 INPUT : Через четыреста метров перестройтесь вправо И продолжите движение по \tn=address\ /+'tr%je.t%jjI_k^.'l%jt&so/+ \tn=normal\, направление \tn=address\ /+S^.'ssE_I.ntu.z%jI.'a.st$f/+ \tn=normal\.
 OUTPUT: Через четыреста метров перестройтесь вправо И продолжите движение по  \tn=address\ /+'tr%jet%j.j$.mu_k^l%j.'t&su/+ \tn=normal\, направление  \tn=address\ шоссе /+In.tu.z%jI.'as.to-f/+ \tn=normal\.
-RP_RSET.TXT: #10 #41 #783 #794 #2120 #2397
+RP_RSET.TXT: #10 #41 #783 #794 #2130 #2407
 RULESET.TXT: #119 #125 #211
 
 INPUT : Через шестьсот метров перестройтесь вправо И продолжите движение по \tn=address\ /+'tr%je.t%jjI_'tra.nsp$.rtn$.I_k^.'l%jt&so/+ \tn=normal\.
 OUTPUT: Через шестьсот метров перестройтесь вправо И продолжите движение по  \tn=address\ /+'tr%jet%j.j$.mu_'tran.spo-r.tno-.mu_k^l%j.'t&su/+ \tn=normal\.
-RP_RSET.TXT: #783 #2118
+RP_RSET.TXT: #783 #2128
 RULESET.TXT: #119 #125
 
 INPUT : Через пятьсот метров перестройтесь вправо И сверните на \tn=address\ /+'s%je.v%jI.r$_v^.'sto.t&S%jn$.E_x^.'rda/+ \tn=normal\.
 OUTPUT: Через пятьсот метров перестройтесь вправо И сверните на  \tn=address\ Северо-восточную хорду \tn=normal\.
 RP_RSET.TXT: #45 #785 #1083
+
+INPUT : Продолжайте движение по \tn=address\ /+k$.l^.'m%ja.Ssk%jIj_pu.t%jI.pr^.'vot/+ \tn=normal\.
+OUTPUT: Продолжайте движение по  \tn=address\ /+ko-.l^.'m%jaS.sko-.mu_pu.t%j$p.r^.'vo.du/+ \tn=normal\.
+RP_RSET.TXT: #783 #1876
+RULESET.TXT: #119 #125
 
 INPUT : Двигайтесь справа по \tn=address\ /+z^.'vot/+ \tn=normal\, направление \tn=address\ /+'dv%ji.nsk$.E_'u.l%jI.t&s$/+ \tn=normal\.
 OUTPUT: Двигайтесь справа по  \tn=address\ западному скоростному диаметру \tn=normal\, направление  \tn=address\ /+'dv%jin.sko-.jo-_'u.l%ji.t&so-/+ \tn=normal\.
@@ -1347,31 +1352,31 @@ RULESET.TXT: #119 #211
 
 INPUT : Поверните налево на \tn=address\ /+'so.r$k_^.'d%jin_'a_'sto_'vo.s%jI.m%jd%jI.s%jIt/+ \tn=normal\.
 OUTPUT: Поверните налево на  \tn=address\ /+'so.ro-k_^.'d%jin_'a_'sto_'vo.s%jIm%j.d%j$.s%jo-t/+ \tn=normal\.
-RP_RSET.TXT: #786 #2397
+RP_RSET.TXT: #786 #2407
 RULESET.TXT: #119 #125 #129
 
 INPUT : Продолжайте движение по \tn=address\ /+sk$.n%jd%jI.'na.v%jI.E/+ \tn=normal\.
 OUTPUT: Продолжайте движение по  \tn=address\ трассе Скандинавия \tn=normal\.
-RP_RSET.TXT: #46 #783 #2263
+RP_RSET.TXT: #46 #783 #2273
 
 INPUT : Через пять с половиной километров перестройтесь вправо И продолжите движение по \tn=address\ /+'a_'sto_v$.s%jI.'mna.t&s$t%j/+ \tn=normal\, направление \tn=address\ Ringway \tn=normal\.
 OUTPUT: Через пять с половиной километров перестройтесь вправо И продолжите движение по  \tn=address\ КАДу \tn=normal\, направление  \tn=address\ Ringway \tn=normal\.
-RP_RSET.TXT: #10 #48 #783 #794 #2091 #2397
+RP_RSET.TXT: #10 #48 #783 #794 #2101 #2407
 RULESET.TXT: #211
 
 INPUT : Двигайтесь справа по \tn=address\ /+'a_'sto_v$.s%jI.'mna.t&s$t%j/+ \tn=normal\, направление \tn=address\ /+'a_'sto_'dva.tt&s$t%j_^.'d%jin/+ \tn=normal\.
 OUTPUT: Двигайтесь справа по  \tn=address\ КАДу \tn=normal\, направление  \tn=address\ трасса Сортавала \tn=normal\.
-RP_RSET.TXT: #10 #48 #49 #783 #794 #2091 #2253
+RP_RSET.TXT: #10 #48 #49 #783 #794 #2101 #2263
 RULESET.TXT: #211
 
 INPUT : Через один километр сверните на правый съезд к \tn=address\ /+'a_'sto_'vo.s%jI.m%jd%jI.s%jIt_^.'d%jin/+ \tn=normal\, затем двигайтесь прямо.
 OUTPUT: Через один километр сверните на правый съезд к  \tn=address\ трассе Скандинавия \tn=normal\, затем двигайтесь прямо.
-RP_RSET.TXT: #10 #47 #782 #2263
+RP_RSET.TXT: #10 #47 #782 #2273
 RULESET.TXT: #211
 
 INPUT : Через пятьсот метров поверните налево на \tn=address\ /+'so.r$k_^.'d%jin_'ka_'nol%j_'SEs%jt%j_t&S%jI.'ti0.r%jI/+ \tn=normal\.
 OUTPUT: Через пятьсот метров поверните налево на  \tn=address\ дорогу Жизни \tn=normal\.
-RP_RSET.TXT: #50 #786 #2291
+RP_RSET.TXT: #50 #786 #2301
 
 INPUT : Через семьсот метров перестройтесь в четвертую полосу слева, затем, /+'2p%je.'r%jId/+ /+g^.'st%ji.ni0.t&si0j_m%ji0.tr^.'pol%j/+, поверните налево.
 OUTPUT: Через семьсот метров перестройтесь в четвертую полосу слева, затем, перед /+g^s.'t%ji.ni0.t&si0j_m%jit.r^.'pol%j/+, поверните налево.
@@ -1400,17 +1405,17 @@ RULESET.TXT: #77 #119 #211
 
 INPUT : Через шестьсот метров, /+n^/+ /+s^.'mpso.n%jI.I.fsk%jIj_'most/+ поверните налево, затем поверните направо на следующем повороте.
 OUTPUT: Через шестьсот метров, поверните налево на  \tn=address\ /+s^m.'pso.n%jI.I.fsk%jIj_'most/+ \tn=normal\, затем поверните направо на следующем повороте.
-RP_RSET.TXT: #10 #14 #786 #2397
+RP_RSET.TXT: #10 #14 #786 #2407
 RULESET.TXT: #119 #211
 
 INPUT : /+n^/+ /+s^.'mpso.n%jI.I.fsk%jIj_'most/+ поверните налево.
 OUTPUT: поверните налево на  \tn=address\ /+s^m.'pso.n%jI.I.fsk%jIj_'most/+ \tn=normal\.
-RP_RSET.TXT: #14 #786 #2397
+RP_RSET.TXT: #14 #786 #2407
 RULESET.TXT: #119
 
 INPUT : Через семьсот метров перестройтесь во вторую полосу справа, затем, /+n^/+ /+dv^.'rt&so.vi0j_'most/+, поверните направо.
 OUTPUT: Через семьсот метров перестройтесь во вторую полосу справа, затем, поверните направо на  \tn=address\ /+dv^r.'t&so.vi0j_'most/+ \tn=normal\.
-RP_RSET.TXT: #10 #14 #786 #2397
+RP_RSET.TXT: #10 #14 #786 #2407
 RULESET.TXT: #119 #211
 
 INPUT : Через пятьсот метров, /+'2po.sl%jI/+ /+u.ni0.v%jI.'rsa.m$_'no.rm^/+, поверните направо.
@@ -1425,7 +1430,7 @@ RULESET.TXT: #77 #125 #211
 
 INPUT : Через шестьсот метров перестройтесь во вторую полосу слева, затем, /+n^/+ /+gr%jI.n^.'d%jo.rsk%jIj_'most/+, поверните налево.
 OUTPUT: Через шестьсот метров перестройтесь во вторую полосу слева, затем, поверните налево на  \tn=address\ /+gr%jI.n^.'d%jor.sk%jIj_'most/+ \tn=normal\.
-RP_RSET.TXT: #10 #14 #786 #2397
+RP_RSET.TXT: #10 #14 #786 #2407
 RULESET.TXT: #119 #211
 
 INPUT : Через шестьсот метров, /+'2p%je.'r%jId/+ /+'Zo.lti0m_'zda.ni0.Im_'s_k^.'lo.nn$.m%ji0/+ поверните налево, затем поверните налево на втором повороте.
@@ -1460,7 +1465,7 @@ RULESET.TXT: #78 #119 #125 #211
 
 INPUT : Через семьсот метров, Под /+Zi0.l%jI.zn$.d^.'ro.Zni0j_'most/+, поверните направо, затем поверните налево на следующем повороте.
 OUTPUT: Через семьсот метров, поверните направо под  \tn=address\ /+Zi0.l%jIz.no-.d^.'roZ.ni0j_'most/+ \tn=normal\, затем поверните налево на следующем повороте.
-RP_RSET.TXT: #10 #17 #789 #2397
+RP_RSET.TXT: #10 #17 #789 #2407
 RULESET.TXT: #119 #125 #211
 
 INPUT : Через шестьсот метров, После /+'zda.ni0.E_'s$_st%jI.'kl%ja.nni0m_f^.'sa.d$m/+ поверните налево, затем держитесь справа.
@@ -1495,16 +1500,16 @@ RULESET.TXT: #80 #104 #119 #125 #211
 
 INPUT : Через шестьсот метров, На /+'most/+ поверните налево.
 OUTPUT: Через шестьсот метров, поверните налево на  \tn=address\ мост \tn=normal\.
-RP_RSET.TXT: #10 #15 #31 #786 #2397
+RP_RSET.TXT: #10 #15 #31 #786 #2407
 RULESET.TXT: #211
 
 INPUT : На /+'most/+ поверните налево.
 OUTPUT: поверните налево на  \tn=address\ мост \tn=normal\.
-RP_RSET.TXT: #15 #31 #786 #2397
+RP_RSET.TXT: #15 #31 #786 #2407
 
 INPUT : Через семьсот метров, На /+'tro.I.t&sk%jIj_'most/+, поверните направо.
 OUTPUT: Через семьсот метров, поверните направо на  \tn=address\ /+'tro.I.t&sk%jIj_'most/+ \tn=normal\.
-RP_RSET.TXT: #10 #15 #786 #2397
+RP_RSET.TXT: #10 #15 #786 #2407
 RULESET.TXT: #211
 
 INPUT : Через семьсот метров, На Троицкий мост поверните налево.
