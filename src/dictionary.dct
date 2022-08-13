@@ -20520,6 +20520,7 @@ Content = EDCT_CONTENT_BROAD_NARROWS
 Representation = EDCT_REPR_SZZ_STRING
 
 [Data]
+Ору                 //'o.ru
 абабково            //^.'bap.ko-.vo-
 абагур              //^.b^.'gur
 абаевский           //^.'ba.j$f.sk%jij
