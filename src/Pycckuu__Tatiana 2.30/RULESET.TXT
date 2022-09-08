@@ -88,6 +88,10 @@ charset = utf-8
 / \/\+u\.'ral\/\+ / --> " Урал "
 / \/\+i0\.ntu\.z%jI\.'a\.st\$f\/\+ / --> " Энтузиастов "
 
+# Correct some mistakes in names from Russian Map Phonetics
+/_'s%je\.r%jI\.n%jI\.vi0j_/ --> "_s%ji.'r%je.n%j\$.vi0j_"
+/_v%ji\.'So\.vi0j_/ --> "_v%jiS.'n%jo.vi0j_"
+
 # Change preposition for tunnels and ends (they can't be addressed with "to/on", only "into")
 / на  \\tn=address\\([^,\/\\]*) [Пп]арк / --> " в  \\tn=address\\ $1 парк "
 / на  \\tn=address\\([^,\/\\]*) [Тт][оу]ннель / --> " в  \\tn=address\\ $1 тоннель "
