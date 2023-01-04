@@ -47,7 +47,7 @@
 * Встроенный словарь: [есть](src/Pycckuu__Katerina%201.30/DICT.BDC),
   бинарный формат BDC (Binary Native Platform Dictionary),
   максимальное число слов - 10000
-* Компилятор словаря: редактор [RSUDE 2.1](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=16267391)
+* Компилятор словаря: редактор [RSUDE 2.1](https://4pda.to/forum/index.php?s=&showtopic=200728&view=findpost&p=16267391)
 * Предобработка фраз: отсутствует
 
 ***
@@ -68,7 +68,7 @@
 * Голосовая модель: [Compact (bet2 16kHz)](src/Pycckuu__Milena%201.30/BRKINF16.HDR)
 * Встроенный словарь: [есть](src/Pycckuu__Milena%201.30/UDCT_RUR.DAT),
   бинарный формат DAT
-* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
+* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](https://4pda.to/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
 * Предобработка фраз: отсутствует
 
 ***
@@ -90,7 +90,7 @@
 * Голосовая модель: [Standard (dri40_155mrf22 22kHz) + Compact (bet2 16kHz)](src/Pycckuu__Milena%202.10/BRKINF22.HDR)
 * Встроенный словарь: [есть](src/Pycckuu__Milena%202.10/UDCT_RUR.DAT),
   бинарный формат DAT
-* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
+* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](https://4pda.to/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
 * Предобработка фраз: 
   * Предварительная замена слов: [RU.DCT](src/Pycckuu__Milena%202.10/RU.DCT),
     текст в кодировке UTF-8 **без BOM**
@@ -110,13 +110,13 @@
     текстовый формат DCT в кодировке UTF-8 с BOM
   * Черновой словарь для русских названий: [dictionary.voc](src/dictionary.voc),
     текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
-    [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
+    [Milan](https://4pda.to/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
   * Черновой словарь для названий городов: [cities.voc](src/cities.voc),
     текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
-    [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
+    [Milan](https://4pda.to/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
   * Черновой словарь для иностранных названий: [dictionary_foreign.voc](src/dictionary_foreign.voc),
     текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
-    [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
+    [Milan](https://4pda.to/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
   * Чистовой словарь для иностранных названий с восстановленными европейскими символами:
     [dictionary_foreign.dct](src/dictionary_foreign.dct),
     текстовый формат DCT в кодировке UTF-8 с BOM
@@ -138,7 +138,7 @@
 * Голосовая модель: [Standard (dri40_155mrf22 22kHz) + Compact (bet2 16kHz)](src/Pycckuu__Tatiana%202.30/BRKINF22.HDR)
 * Встроенный словарь: [есть](src/Pycckuu__Tatiana%202.30/UDCT_RUR.DAT),
   бинарный формат DAT
-* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
+* Компилятор словаря: [Nuance Vocalizer for Automotive 5.3 + VoCon 3200 Embedded Development System 3.3 SDK](https://4pda.to/forum/index.php?s=&showtopic=200728&view=findpost&p=19069591)
 * Предобработка фраз: 
   * Предварительная замена слов: [RU.DCT](src/Pycckuu__Tatiana%202.30/RU.DCT),
     текст в кодировке UTF-8 **без BOM**
@@ -158,13 +158,13 @@
     текстовый формат DCT в кодировке UTF-8 с BOM
   * Черновой словарь для русских названий: [dictionary.voc](src/dictionary.voc),
     текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
-    [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
+    [Milan](https://4pda.to/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
   * Черновой словарь для названий городов: [cities.voc](src/cities.voc),
     текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
-    [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
+    [Milan](https://4pda.to/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
   * Черновой словарь для иностранных названий: [dictionary_foreign.voc](src/dictionary_foreign.voc),
     текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
-    [Milan](https://4pda.ru/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
+    [Milan](https://4pda.to/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
   * Чистовой словарь для иностранных названий с восстановленными европейскими символами:
     [dictionary_foreign.dct](src/dictionary_foreign.dct),
     текстовый формат DCT в кодировке UTF-8 с BOM
@@ -172,16 +172,42 @@
   запускающий скопилированный [Python](https://www.python.org/download/releases/2.5.4/)-скрипт `dictcpl.pyc`
 * Сборка голоса: [make_voice_Tatiana.bat](src/make_voice_Tatiana.bat)
 
+## Словарь городов
+Названия населённых пунктов вынесены в отдельный словарь и включаются в финальные словари Милены обеих версий и Татьяны.
+Также они входят в состав дополнительного словаря для голоса Милена из сборки
+[Nuance Vocalizer Expressive 2 TTS for Android от 4pda.to](https://4pda.to/forum/index.php?showtopic=200728),
+для использования вместе с приложением [MapcamDroid](https://mapcam.info/forum/index.php?topic=1525.0),
+которое может использовать TTS для произношения оповещений и названий населённых пунктов.
 
+* Готовый словарь: [userdct_rur_milena.dat](dist/Vocalizer%20Expressive%203%20Milena/userdct_rur_milena.dat)
+* Вспомогательные регулярные выражения коррекции произношения: [rex_rur.dat](dist/Vocalizer%20Expressive%203%20Milena/rex_rur.dat),
+  текст в кодировке UTF-8 с BOM, первая пустая строка обязательна
+* Исходный словари:
+  * Полный финальный словарь: [alerts.dct](src/alerts.dct),
+    текстовый формат DCT в кодировке UTF-8 с BOM
+  * Черновой словарь для коррекции некоторых оповещений MapcamDroid: [alerts.voc](src/alerts.voc),
+    текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
+    [Milan](https://4pda.to/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
+  * Черновой словарь для названий городов: [cities.voc](src/cities.voc),
+    текстовый формат, похожий на DCT в кодировке UTF-8 с BOM для редактора
+    [Milan](https://4pda.to/forum/index.php?s=&showtopic=200728&view=findpost&p=20937413)
+* Компиляция словаря: [build_dictionary_alerts.bat](src/build_dictionary_alerts.bat),
+  запускающий скопилированный [Python](https://www.python.org/download/releases/2.5.4/)-скрипт `dictcpl.pyc`
+
+[Готовый словарь](dist/Vocalizer%20Expressive%203%20Milena/userdct_rur_milena.dat) и, по желанию,
+[файл регулярных выражений](dist/Vocalizer%20Expressive%203%20Milena/rex_rur.dat) копируются в папку данных голоса на устройстве Android
+с названием VocalizerEx2 согласно [инструкции по установке](https://4pda.to/forum/index.php?act=findpost&pid=95121276&anchor=Spoil-95121276-18).
 
 ## Ссылки
 * [Последние версии обновленных голосов](https://github.com/yuryleb/garmin-russian-tts-voices/releases)
 * [Форум обсуждения недостатков Милены и других TTS-голосов у Garmin](http://nuvi.ru/forum/forum36/topic15794/)
 * [Обсуждение фонетики названий, встроенной в карты HERE, используемых в Garmin](https://forum.mapcreator.here.com/forums/topic/%d1%84%d0%be%d0%bd%d0%b5%d1%82%d0%b8%d0%ba%d0%b0-%d1%80%d1%83%d1%81%d1%81%d0%ba%d0%b8%d1%85-%d0%bd%d0%b0%d0%b7%d0%b2%d0%b0%d0%bd%d0%b8%d0%b9-%d0%b2-%d0%ba%d0%b0%d1%80%d1%82%d0%b5-here/)
-* [Форум использования TTS-голосов в Android на 4pda.ru](https://4pda.ru/forum/index.php?showtopic=200728)
+* [Форум использования TTS-голосов в Android на 4pda.to](https://4pda.to/forum/index.php?showtopic=200728)
 
 
 ## Примечания
 * Словари, включающие падежные формы названий, и файлы регулярных выражений, одинаковы для
   Милены второго поколения и Татьяны
-* Для просмотра ссылок на форум https://4pda.ru/forum/ нужна предварительная регистрация
+* Готовый словарь городов обновляется при каждом изменении исходных словарей и
+  не включается в версии голосов для Garmin
+* Для просмотра ссылок на форум https://4pda.to/forum/ нужна предварительная регистрация
