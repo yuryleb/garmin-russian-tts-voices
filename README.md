@@ -194,9 +194,10 @@
 * Компиляция словаря: [build_dictionary_alerts.bat](src/build_dictionary_alerts.bat),
   запускающий скопилированный [Python](https://www.python.org/download/releases/2.5.4/)-скрипт `dictcpl.pyc`
 
-[Готовый словарь](dist/Vocalizer%20Expressive%203%20Milena/userdct_rur_milena.dat) и, по желанию,
-[файл регулярных выражений](dist/Vocalizer%20Expressive%203%20Milena/rex_rur.dat) копируются в папку данных голоса на устройстве Android
-с названием VocalizerEx2 согласно [инструкции по установке](https://4pda.to/forum/index.php?act=findpost&pid=95121276&anchor=Spoil-95121276-18).
+[Готовый словарь](https://github.com/yuryleb/garmin-russian-tts-voices/raw/master/dist/Vocalizer%20Expressive%203%20Milena/userdct_rur_milena.dat) и, по желанию,
+[файл регулярных выражений](https://github.com/yuryleb/garmin-russian-tts-voices/raw/master/dist/Vocalizer%20Expressive%203%20Milena/rex_rur.dat)
+копируются в папку данных голоса на устройстве Android с названием VocalizerEx2 согласно
+[инструкции по установке](https://4pda.to/forum/index.php?act=findpost&pid=95121276&anchor=Spoil-95121276-18).
 
 ## Ссылки
 * [Последние версии обновленных голосов](https://github.com/yuryleb/garmin-russian-tts-voices/releases)
