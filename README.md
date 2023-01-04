@@ -196,7 +196,7 @@
 
 [Готовый словарь](https://github.com/yuryleb/garmin-russian-tts-voices/raw/master/dist/Vocalizer%20Expressive%203%20Milena/userdct_rur_milena.dat) и, по желанию,
 [файл регулярных выражений](https://github.com/yuryleb/garmin-russian-tts-voices/raw/master/dist/Vocalizer%20Expressive%203%20Milena/rex_rur.dat)
-копируются в папку данных голоса на устройстве Android с названием VocalizerEx2 согласно
+копируются в папку данных голоса на устройстве Android с названием `VocalizerEx2` согласно
 [инструкции по установке](https://4pda.to/forum/index.php?act=findpost&pid=95121276&anchor=Spoil-95121276-18).
 
 ## Ссылки
