@@ -13,3 +13,4 @@ charset = utf-8
 
 # Correct accent for some words combinations
 /([иы]е) полосы/ --> "$1 /+'po.lo-.si0/+"
+/([мт]и) вечера/ --> "$1 /+'v%je.t&S%j$.ro-/+"
