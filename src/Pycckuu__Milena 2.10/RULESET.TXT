@@ -90,6 +90,7 @@ charset = utf-8
 
 # Correct some mistakes in names from Russian Map Phonetics
 /_'s%je\.r%jI\.n%jI\.vi0j_/ --> "_s%ji.'r%je.n%j\$.vi0j_"
+/_s\^\.mpso\.'no\.n%jI\.jI\.fsk%jIj_/ --> "_s^mp.'so.n%ji.jIf.sk%jIj_"
 /_v%ji\.'So\.vi0j_/ --> "_v%jiS.'n%jo.vi0j_"
 
 # Change preposition for tunnels and ends (they can't be addressed with "to/on", only "into")
