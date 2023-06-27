@@ -87,6 +87,7 @@ charset = utf-8
 / \/\+'sankt_'p%je\.tr%jI\.burk\/\+ / --> " Санкт-Петербург "
 / \/\+u\.'ral\/\+ / --> " Урал "
 / \/\+i0\.ntu\.z%jI\.'a\.st\$f\/\+ / --> " Энтузиастов "
+/ \/\+'ju_'ga\.r\$\.g%jI\.n\$\/\+ / --> " Юрия Гагарина "
 
 # Correct some mistakes in names from Russian Map Phonetics
 /_'s%je\.r%jI\.n%jI\.vi0j_/ --> "_s%ji.'r%je.n%j\$.vi0j_"
