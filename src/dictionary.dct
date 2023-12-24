@@ -20548,6 +20548,7 @@ Representation = EDCT_REPR_SZZ_STRING
 
 [Data]
 Ору                 //'o.ru
+Сямжа               //'s%ja.mZa
 абабково            //^.'bap.ko-.vo-
 абагур              //^.b^.'gur
 абаевский           //^.'ba.j$f.sk%jij
@@ -21247,9 +21248,11 @@ Representation = EDCT_REPR_SZZ_STRING
 псебай              //ps%jI.'baj
 птицецех            //pt%ji.t&so-.'t&sEx
 птушичи             //'ptu.Si0.t&S%jij
+пуйское             //'puj.sko-.j$
 пурех               //pu.'r%jex
 пустынь             //'pus.ti0n%j
 пустыньга           //'pu.sti0n%j.go-
+пустыньги           //'pu.sti0n%j.gij
 пустыньгу           //'pu.sti0n%j.gu
 путивль             //pu.'t%jivl%j
 пушкариха           //puS.'ka.r%ji.xo-
@@ -21500,6 +21503,7 @@ Representation = EDCT_REPR_SZZ_STRING
 федоровка           //'f%jo.do-.ro-f.ko-
 федосьино           //f%jI.'dos%j.i.no-
 фили                //f%ji.'l%ji
+филинская           //'f%ji.l%jin.sko-.jo-
 форносово           //f^r.'no.so-.vo-
 фофанцево           //'fo.fo-n.t&sE.vo-
 хамьяново           //x^m%j.'ja.no-.vo-
