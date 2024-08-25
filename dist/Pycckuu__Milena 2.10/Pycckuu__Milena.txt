@@ -3,8 +3,8 @@ gmt v0.9.73.1232b  CC BY-SA (C) 2011-2018 AP www.gmaptool.eu
 Input file: Pycckuu__Milena.vpm.
 
 
-File:		Pycckuu__Milena.vpm, length 21849088
-Header:   	20.09.2020 20:31:03, DSKIMG, XOR 00, V 2.19, Ms 0, 006-D4465-00
+File:		Pycckuu__Milena.vpm, length 21861376
+Header:   	19.08.2024 19:15:10, DSKIMG, XOR 00, V 2.19, Ms 0, 006-D4465-00
 Mapset:   	milena
 fat:		1000h - 1200h - 11C00h, block 1024
 maps:		49, sub-files 49
@@ -21,15 +21,15 @@ Sub-file         fat     length
  SN22_MIL DAT   2E00h  14462044
  SYNM_F16 DAT   A400h     10408
  TTN_RUR  DAT   A600h    115684
- UDCT_RUR DAT   A800h   1100301
+ UDCT_RUR DAT   A800h   1109997
  US_MIL   DAT   B200h   1880356
  DLLIMG   BIN   C200h   1321924
  GRAM     VXM   CE00h    605504
  VAR      VXM   D400h     32592
  DFLT     DCT   D600h       166
  APDB_TP  DAT   D800h      1564
- RULESET  TXT   DA00h     12504
- RP_RSET  TXT   DC00h    170567
+ RULESET  TXT   DA00h     12801
+ RP_RSET  TXT   DC00h    172995
  WORDS    TXT   DE00h      4820
  PHRASES  TXT   E000h     78800
  AU       DCT   E200h     14018
@@ -52,7 +52,7 @@ Sub-file         fat     length
  NO       DCT  10400h        24
  PL       DCT  10600h      1955
  PT       DCT  10800h        24
- RU       DCT  10A00h      7712
+ RU       DCT  10A00h      8278
  SE       DCT  10C00h        24
  SG       DCT  10E00h      7365
  TH       DCT  11000h       784
@@ -72,15 +72,15 @@ Map              length s-f  CP    prio  PID   FID  name
  SN22_MIL  ?   14462044  1
  SYNM_F16  ?      10408  1
  TTN_RUR   ?     115684  1
- UDCT_RUR  ?    1100301  1
+ UDCT_RUR  ?    1109997  1
  US_MIL    ?    1880356  1
  DLLIMG    ?    1321924  1
  GRAM      ?     605504  1
  VAR       ?      32592  1
  DFLT      ?        166  1
  APDB_TP   ?       1564  1
- RULESET   ?      12504  1
- RP_RSET   ?     170567  1
+ RULESET   ?      12801  1
+ RP_RSET   ?     172995  1
  WORDS     ?       4820  1
  PHRASES   ?      78800  1
  AU        ?      14018  1
@@ -103,7 +103,7 @@ Map              length s-f  CP    prio  PID   FID  name
  NO        ?         24  1
  PL        ?       1955  1
  PT        ?         24  1
- RU        ?       7712  1
+ RU        ?       8278  1
  SE        ?         24  1
  SG        ?       7365  1
  TH        ?        784  1
