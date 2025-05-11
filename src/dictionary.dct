@@ -5088,6 +5088,13 @@ vkusnye             //'fkus.ni0.j$
 ершовскую           //jIr.'Sof.sku.ju
 есимова             //'je.s%ji.mo-.vo-
 есина               //'je.s%ji.no-
+ефимовская          //jI.'f%ji.mo-f.sko-.jo-
+ефимовский          //jI.'f%ji.mo-f.sk%jij
+ефимовского         //jI.'f%ji.mo-f.sko-.vo-
+ефимовской          //jI.'f%ji.mo-f.sko-j
+ефимовском          //jI.'f%ji.mo-f.sko-m
+ефимовскому         //jI.'f%ji.mo-f.sko-.mu
+ефимовскую          //jI.'f%ji.mo-f.sku.ju
 ефремковская        //jIf.'r%jem.ko-f.sko-.jo-
 ефремковской        //jIf.'r%jem.ko-f.sko-j
 ефремковскую        //jIf.'r%jem.ko-f.sku.ju
@@ -19823,6 +19830,7 @@ vkusnye             //'fkus.ni0.j$
 эсперовом           //E.$s.'pe.ro-.vo-m
 эсперовому          //E.$s.'pe.ro-.vo-.mu
 эсперову            //E.$s.'pe.ro-.vu
+эстетика            //Es.'tE.t%ji.ko-
 эстетической        //Es.tE.'t%ji.t&S%j$.sko-j
 юбилейная           //I.ju.b%ji.'l%jej.no-.jo-
 юбилейного          //I.ju.b%ji.'l%jej.no-.vo-
@@ -20548,6 +20556,8 @@ Representation = EDCT_REPR_SZZ_STRING
 
 [Data]
 Ору                 //'o.ru
+Суда                //'sud.o-
+Суду                //'su.d_u
 Сямжа               //'s%ja.mZa
 абабково            //^.'bap.ko-.vo-
 абагур              //^.b^.'gur
